@@ -1,0 +1,964 @@
+2025-01-03T15:01:34,843 [main] INFO  main:71 - [Thread-1] Clearing Allure results at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.19\allure-results
+2025-01-03T15:01:34,849 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 0057906a-6634-4610-82ea-cbcbb36318a2-container.json
+2025-01-03T15:01:34,849 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 06a99222-7ae5-4e89-84e1-a3dc5b02515e-attachment.txt
+2025-01-03T15:01:34,850 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 0e915664-01a7-481f-ad25-14a454189bd3-container.json
+2025-01-03T15:01:34,850 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 1024f7b3-2e44-40f3-8a11-a8dbb288178d-container.json
+2025-01-03T15:01:34,851 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 200b0971-78d7-4d3e-9f0d-88b72771fd31-attachment.txt
+2025-01-03T15:01:34,858 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 2022d487-f3c1-4e85-a67b-8ad020984068-container.json
+2025-01-03T15:01:34,859 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 21144191-e08c-4938-af4d-63ada3df6208-container.json
+2025-01-03T15:01:34,860 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 2204e761-2b3b-4278-9a3e-ad42ded56423-attachment.txt
+2025-01-03T15:01:34,860 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 28630fdd-98d1-4dc4-85bf-fb4662eebd3b-container.json
+2025-01-03T15:01:34,861 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 2945d805-ded1-4b0f-80cb-a8d623e9c38d-attachment.txt
+2025-01-03T15:01:34,861 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 2a08bcff-891d-4d8c-9c51-820eabc0e2d5-container.json
+2025-01-03T15:01:34,862 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 2be52a33-9b34-484f-9699-e44617c8c32d-container.json
+2025-01-03T15:01:34,862 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 34c9986e-fedc-4967-9105-2c492cfaed5a-attachment.txt
+2025-01-03T15:01:34,863 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 3779e739-914d-4201-b8b2-51eab8756270-container.json
+2025-01-03T15:01:34,863 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 3a728084-f351-48d9-b447-31fc51ec5521-container.json
+2025-01-03T15:01:34,864 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 419c5edb-d81e-45c1-8023-6978316d766c-result.json
+2025-01-03T15:01:34,865 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 42d32282-65ff-4d3e-96e5-31c1c5084a39-container.json
+2025-01-03T15:01:34,865 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 485fca97-6f8e-4536-b744-32b2ae465c0f-container.json
+2025-01-03T15:01:34,866 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 4870d60a-c9d8-4dcb-a718-78614445128d-container.json
+2025-01-03T15:01:34,866 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 54a98342-053e-4973-bb76-83096d504820-container.json
+2025-01-03T15:01:34,867 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 67a8446d-f643-4c11-8148-6725372163ce-attachment.txt
+2025-01-03T15:01:34,867 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 6cd2b63b-9983-470e-80bd-95341563753c-container.json
+2025-01-03T15:01:34,868 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 734fda9b-e1a2-4606-abb8-3813886158e0-attachment.txt
+2025-01-03T15:01:34,868 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 7b410112-a8c9-430e-b118-054f9270abd0-attachment.txt
+2025-01-03T15:01:34,869 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 8778958c-7800-49bc-aae0-36f2a53ec204-container.json
+2025-01-03T15:01:34,869 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 88ab5cc2-d5b5-49c7-81d6-45d3d81fd497-container.json
+2025-01-03T15:01:34,870 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 8f3a1aa8-4bc8-4564-8396-7532fadabb37-container.json
+2025-01-03T15:01:34,870 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 93087400-8021-4a2c-8d36-1cdca26bb6f5-result.json
+2025-01-03T15:01:34,871 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 94352f28-073f-4e17-bb41-f676bb2008f7-result.json
+2025-01-03T15:01:34,871 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 94de415b-5c72-4a31-bd89-09c58216c8da-container.json
+2025-01-03T15:01:34,872 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 979c07fd-5b3b-474e-b4a9-6dc4ac545792-container.json
+2025-01-03T15:01:34,872 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: b19c0bfa-351d-4b06-bd64-a2fec8d753f3-container.json
+2025-01-03T15:01:34,873 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: b2f6dbec-740d-472f-9161-35430b7ef1bf-container.json
+2025-01-03T15:01:34,873 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: b5695b80-8113-45f1-a590-77601241401c-attachment.txt
+2025-01-03T15:01:34,874 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: b82a0d3b-cce2-46ca-b875-eecf14c65791-container.json
+2025-01-03T15:01:34,874 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: b8e45b34-e219-490e-aa24-724cf1387474-container.json
+2025-01-03T15:01:34,875 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: b9ccbec6-0112-49b3-913a-0dbf8a1aae15-result.json
+2025-01-03T15:01:34,875 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: c1591cd8-5123-427d-ab96-5583c191edc2-container.json
+2025-01-03T15:01:34,876 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: c211b0e6-f5ad-47e9-853a-3356faa87944-container.json
+2025-01-03T15:01:34,876 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: c4ef7ba7-c100-44bf-9f11-3713b591dcff-attachment.txt
+2025-01-03T15:01:34,877 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: cb6bd3c6-00e9-45f8-8ab9-93843510027b-container.json
+2025-01-03T15:01:34,877 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: cc970fef-9d05-4ca9-8b15-548d29d58d72-container.json
+2025-01-03T15:01:34,878 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: cd14ca56-90a2-4623-9359-10de404de03b-container.json
+2025-01-03T15:01:34,878 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: d2d089df-5dba-4f89-9dbb-e2890a18ecd1-container.json
+2025-01-03T15:01:34,879 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: d511cf7d-da7d-4c61-b82f-24f1fc52bb27-container.json
+2025-01-03T15:01:34,879 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: dacc96f6-d320-474a-8604-f109d870ad5b-container.json
+2025-01-03T15:01:34,880 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: dd12bb28-eb33-42b4-8c90-5b0fd6c93573-attachment.txt
+2025-01-03T15:01:34,880 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: e2a7ce74-74a9-48e0-9bfb-11882523a56a-container.json
+2025-01-03T15:01:34,881 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: e75120fc-62f6-4fae-baed-b75d198d0f6c-result.json
+2025-01-03T15:01:34,881 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: e7517df8-a1dd-4940-800b-be0e927958e0-container.json
+2025-01-03T15:01:34,882 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: e7792549-2fa7-4c52-b6b1-40a75c2df3fa-container.json
+2025-01-03T15:01:34,882 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: eccd9d7c-017c-4d1d-8f49-0b107a59fbcd-container.json
+2025-01-03T15:01:34,883 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: ed13d98d-9eb6-437a-bc12-79a7939ed7f7-container.json
+2025-01-03T15:01:34,883 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: ee68b481-0c7e-42a4-9537-834c1ad85d04-container.json
+2025-01-03T15:01:34,884 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: f472cb2c-deb3-461c-a7c2-e1aaa9fc0874-attachment.txt
+2025-01-03T15:01:34,884 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: f94019cd-e9f1-42a2-840a-1256a460a26d-container.json
+2025-01-03T15:01:34,885 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: fa92bfaf-d53b-40f6-bbc9-98c154f572c9-result.json
+2025-01-03T15:01:34,893 [main] INFO  TestListener:73 - Test Context Started: Login Page Tests
+2025-01-03T15:01:34,893 [main] INFO  TestListener:78 - Running tests with Browser: chrome and Environment: dev
+2025-01-03T15:01:36,028 [main] INFO  TestListener:87 - WebDriver initialized: chrome
+2025-01-03T15:01:36,367 [main] INFO  main:71 - [Thread-1] Setting up tests. Browser: chrome, Environment: dev
+2025-01-03T15:01:36,994 [main] INFO  LogUtil:24 - Logger initialized with level: INFO
+2025-01-03T15:01:37,037 [main] INFO  TestListener:25 - Test Started: runScenario
+2025-01-03T15:01:37,068 [main] ERROR TestListener:37 - Test Failed: runScenario
+2025-01-03T15:01:37,179 [main] INFO  ScreenshotUtil:60 - Screenshot saved at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.19\allure-results\screenshots\runScenario_2025-01-03_15-01-37_T1.png
+2025-01-03T15:01:37,180 [main] INFO  ScreenshotUtil:65 - Screenshot attached to Allure report.
+2025-01-03T15:01:37,283 [main] ERROR TestListener:53 - Error occurred during test execution: 
+io.cucumber.core.runner.DuplicateStepDefinitionException: Duplicate step definitions in org.orangehrm.selenium.cucumber.stepdefs.EmptyLoginStepDef.i_click_on_the_login_button() and org.orangehrm.selenium.cucumber.stepdefs.InvalidLoginStepDef.i_click_on_the_login_button()
+	at io.cucumber.core.runner.CachingGlue.lambda$prepareGlue$3(CachingGlue.java:278) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at io.cucumber.core.runner.CachingGlue.prepareGlue(CachingGlue.java:272) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:72) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:135) ~[cucumber-testng-7.20.0.jar:7.20.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:136) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:136) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:132) ~[cucumber-testng-7.20.0.jar:7.20.0]
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35) ~[cucumber-testng-7.20.0.jar:7.20.0]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.10.2.jar:7.10.2]
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308) [surefire-testng-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71) [surefire-testng-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113) [surefire-testng-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385) [surefire-booter-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162) [surefire-booter-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507) [surefire-booter-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495) [surefire-booter-3.5.2.jar:3.5.2]
+2025-01-03T15:01:37,368 [main] INFO  main:71 - [Thread-1] WebDriver instance closed.
+2025-01-03T15:01:37,371 [main] INFO  main:71 - [Thread-1] Setting up tests. Browser: chrome, Environment: dev
+2025-01-03T15:01:37,996 [main] INFO  LogUtil:24 - Logger initialized with level: INFO
+2025-01-03T15:01:37,997 [main] INFO  TestListener:25 - Test Started: runScenario
+2025-01-03T15:01:38,000 [main] ERROR TestListener:37 - Test Failed: runScenario
+2025-01-03T15:01:38,148 [main] INFO  ScreenshotUtil:60 - Screenshot saved at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.19\allure-results\screenshots\runScenario_2025-01-03_15-01-38_T1.png
+2025-01-03T15:01:38,148 [main] INFO  ScreenshotUtil:65 - Screenshot attached to Allure report.
+2025-01-03T15:01:38,240 [main] ERROR TestListener:53 - Error occurred during test execution: 
+io.cucumber.core.runner.DuplicateStepDefinitionException: Duplicate step definitions in org.orangehrm.selenium.cucumber.stepdefs.EmptyLoginStepDef.i_click_on_the_login_button() and org.orangehrm.selenium.cucumber.stepdefs.InvalidLoginStepDef.i_click_on_the_login_button()
+	at io.cucumber.core.runner.CachingGlue.lambda$prepareGlue$3(CachingGlue.java:278) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at io.cucumber.core.runner.CachingGlue.prepareGlue(CachingGlue.java:272) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:72) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:135) ~[cucumber-testng-7.20.0.jar:7.20.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:136) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:136) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:132) ~[cucumber-testng-7.20.0.jar:7.20.0]
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35) ~[cucumber-testng-7.20.0.jar:7.20.0]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.10.2.jar:7.10.2]
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308) [surefire-testng-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71) [surefire-testng-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113) [surefire-testng-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385) [surefire-booter-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162) [surefire-booter-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507) [surefire-booter-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495) [surefire-booter-3.5.2.jar:3.5.2]
+2025-01-03T15:01:38,323 [main] INFO  main:71 - [Thread-1] WebDriver instance closed.
+2025-01-03T15:01:38,324 [main] INFO  main:71 - [Thread-1] Setting up tests. Browser: chrome, Environment: dev
+2025-01-03T15:01:38,944 [main] INFO  LogUtil:24 - Logger initialized with level: INFO
+2025-01-03T15:01:38,946 [main] INFO  TestListener:25 - Test Started: runScenario
+2025-01-03T15:01:38,949 [main] ERROR TestListener:37 - Test Failed: runScenario
+2025-01-03T15:01:39,064 [main] INFO  ScreenshotUtil:60 - Screenshot saved at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.19\allure-results\screenshots\runScenario_2025-01-03_15-01-39_T1.png
+2025-01-03T15:01:39,065 [main] INFO  ScreenshotUtil:65 - Screenshot attached to Allure report.
+2025-01-03T15:01:39,169 [main] ERROR TestListener:53 - Error occurred during test execution: 
+io.cucumber.core.runner.DuplicateStepDefinitionException: Duplicate step definitions in org.orangehrm.selenium.cucumber.stepdefs.EmptyLoginStepDef.i_click_on_the_login_button() and org.orangehrm.selenium.cucumber.stepdefs.InvalidLoginStepDef.i_click_on_the_login_button()
+	at io.cucumber.core.runner.CachingGlue.lambda$prepareGlue$3(CachingGlue.java:278) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at io.cucumber.core.runner.CachingGlue.prepareGlue(CachingGlue.java:272) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:72) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:135) ~[cucumber-testng-7.20.0.jar:7.20.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:136) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:136) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:132) ~[cucumber-testng-7.20.0.jar:7.20.0]
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35) ~[cucumber-testng-7.20.0.jar:7.20.0]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.10.2.jar:7.10.2]
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308) [surefire-testng-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71) [surefire-testng-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113) [surefire-testng-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385) [surefire-booter-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162) [surefire-booter-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507) [surefire-booter-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495) [surefire-booter-3.5.2.jar:3.5.2]
+2025-01-03T15:01:39,256 [main] INFO  main:71 - [Thread-1] WebDriver instance closed.
+2025-01-03T15:01:39,257 [main] INFO  main:71 - [Thread-1] Setting up tests. Browser: chrome, Environment: dev
+2025-01-03T15:01:39,877 [main] INFO  LogUtil:24 - Logger initialized with level: INFO
+2025-01-03T15:01:39,878 [main] INFO  TestListener:25 - Test Started: runScenario
+2025-01-03T15:01:39,881 [main] ERROR TestListener:37 - Test Failed: runScenario
+2025-01-03T15:01:39,999 [main] INFO  ScreenshotUtil:60 - Screenshot saved at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.19\allure-results\screenshots\runScenario_2025-01-03_15-01-39_T1.png
+2025-01-03T15:01:40,000 [main] INFO  ScreenshotUtil:65 - Screenshot attached to Allure report.
+2025-01-03T15:01:40,091 [main] ERROR TestListener:53 - Error occurred during test execution: 
+io.cucumber.core.runner.DuplicateStepDefinitionException: Duplicate step definitions in org.orangehrm.selenium.cucumber.stepdefs.EmptyLoginStepDef.i_click_on_the_login_button() and org.orangehrm.selenium.cucumber.stepdefs.InvalidLoginStepDef.i_click_on_the_login_button()
+	at io.cucumber.core.runner.CachingGlue.lambda$prepareGlue$3(CachingGlue.java:278) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at io.cucumber.core.runner.CachingGlue.prepareGlue(CachingGlue.java:272) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:72) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:135) ~[cucumber-testng-7.20.0.jar:7.20.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:136) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:136) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:132) ~[cucumber-testng-7.20.0.jar:7.20.0]
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35) ~[cucumber-testng-7.20.0.jar:7.20.0]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.10.2.jar:7.10.2]
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308) [surefire-testng-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71) [surefire-testng-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113) [surefire-testng-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385) [surefire-booter-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162) [surefire-booter-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507) [surefire-booter-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495) [surefire-booter-3.5.2.jar:3.5.2]
+2025-01-03T15:01:40,176 [main] INFO  main:71 - [Thread-1] WebDriver instance closed.
+2025-01-03T15:01:40,178 [main] INFO  main:71 - [Thread-1] Setting up tests. Browser: chrome, Environment: dev
+2025-01-03T15:01:40,794 [main] INFO  LogUtil:24 - Logger initialized with level: INFO
+2025-01-03T15:01:40,795 [main] INFO  TestListener:25 - Test Started: runScenario
+2025-01-03T15:01:40,798 [main] ERROR TestListener:37 - Test Failed: runScenario
+2025-01-03T15:01:40,915 [main] INFO  ScreenshotUtil:60 - Screenshot saved at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.19\allure-results\screenshots\runScenario_2025-01-03_15-01-40_T1.png
+2025-01-03T15:01:40,915 [main] INFO  ScreenshotUtil:65 - Screenshot attached to Allure report.
+2025-01-03T15:01:41,007 [main] ERROR TestListener:53 - Error occurred during test execution: 
+io.cucumber.core.runner.DuplicateStepDefinitionException: Duplicate step definitions in org.orangehrm.selenium.cucumber.stepdefs.EmptyLoginStepDef.i_click_on_the_login_button() and org.orangehrm.selenium.cucumber.stepdefs.InvalidLoginStepDef.i_click_on_the_login_button()
+	at io.cucumber.core.runner.CachingGlue.lambda$prepareGlue$3(CachingGlue.java:278) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at io.cucumber.core.runner.CachingGlue.prepareGlue(CachingGlue.java:272) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:72) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:135) ~[cucumber-testng-7.20.0.jar:7.20.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:136) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:136) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:132) ~[cucumber-testng-7.20.0.jar:7.20.0]
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35) ~[cucumber-testng-7.20.0.jar:7.20.0]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.10.2.jar:7.10.2]
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308) [surefire-testng-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71) [surefire-testng-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113) [surefire-testng-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385) [surefire-booter-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162) [surefire-booter-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507) [surefire-booter-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495) [surefire-booter-3.5.2.jar:3.5.2]
+2025-01-03T15:01:41,108 [main] INFO  main:71 - [Thread-1] WebDriver instance closed.
+2025-01-03T15:01:41,110 [main] INFO  main:71 - [Thread-1] Setting up tests. Browser: chrome, Environment: dev
+2025-01-03T15:01:41,728 [main] INFO  LogUtil:24 - Logger initialized with level: INFO
+2025-01-03T15:01:41,729 [main] INFO  TestListener:25 - Test Started: runScenario
+2025-01-03T15:01:41,731 [main] ERROR TestListener:37 - Test Failed: runScenario
+2025-01-03T15:01:41,850 [main] INFO  ScreenshotUtil:60 - Screenshot saved at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.19\allure-results\screenshots\runScenario_2025-01-03_15-01-41_T1.png
+2025-01-03T15:01:41,850 [main] INFO  ScreenshotUtil:65 - Screenshot attached to Allure report.
+2025-01-03T15:01:41,971 [main] ERROR TestListener:53 - Error occurred during test execution: 
+io.cucumber.core.runner.DuplicateStepDefinitionException: Duplicate step definitions in org.orangehrm.selenium.cucumber.stepdefs.EmptyLoginStepDef.i_click_on_the_login_button() and org.orangehrm.selenium.cucumber.stepdefs.InvalidLoginStepDef.i_click_on_the_login_button()
+	at io.cucumber.core.runner.CachingGlue.lambda$prepareGlue$3(CachingGlue.java:278) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at io.cucumber.core.runner.CachingGlue.prepareGlue(CachingGlue.java:272) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:72) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:135) ~[cucumber-testng-7.20.0.jar:7.20.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:136) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:136) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:132) ~[cucumber-testng-7.20.0.jar:7.20.0]
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35) ~[cucumber-testng-7.20.0.jar:7.20.0]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.10.2.jar:7.10.2]
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308) [surefire-testng-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71) [surefire-testng-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113) [surefire-testng-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385) [surefire-booter-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162) [surefire-booter-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507) [surefire-booter-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495) [surefire-booter-3.5.2.jar:3.5.2]
+2025-01-03T15:01:42,056 [main] INFO  main:71 - [Thread-1] WebDriver instance closed.
+2025-01-03T15:01:43,712 [main] INFO  TestListener:94 - Test Context Finished: Login Page Tests
+2025-01-03T15:01:43,712 [main] INFO  TestListener:98 - WebDriver instance quit for thread.
+2025-01-03T15:02:23,576 [main] INFO  main:71 - [Thread-1] Clearing Allure results at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.19\allure-results
+2025-01-03T15:02:23,579 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 149400e8-aa72-4aab-9b4c-426f8ce214e2-container.json
+2025-01-03T15:02:23,581 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 1b1c1db5-b022-4f3c-b2bd-bda2227307af-attachment.png
+2025-01-03T15:02:23,582 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 1d620e16-749c-4406-bd94-ca980b72da1c-container.json
+2025-01-03T15:02:23,583 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 2a07f7b3-18e1-40bf-b56b-fd4a42e27c0e-attachment.png
+2025-01-03T15:02:23,584 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 2a1f962f-e70b-4c81-a04c-de6eff818ab6-container.json
+2025-01-03T15:02:23,584 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 30247471-82ee-4adf-ba0f-33b02b26a567-container.json
+2025-01-03T15:02:23,585 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 32bac04d-251a-4c99-b166-570ed07f36e6-container.json
+2025-01-03T15:02:23,585 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 41b6d344-b88a-45b1-9427-0f1557c9b1ef-container.json
+2025-01-03T15:02:23,587 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 4cd7a211-60f4-436f-8b4d-2f4aa35eedbc-attachment.png
+2025-01-03T15:02:23,588 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 53d2be9c-5a6e-44f5-a452-e6ab7430a649-attachment.png
+2025-01-03T15:02:23,589 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 58da069e-ba24-4abc-b520-fae16f80c9ee-container.json
+2025-01-03T15:02:23,590 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 5c9d6548-e656-407a-8cc0-c126d9932336-attachment.png
+2025-01-03T15:02:23,591 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 6edf95c9-eba8-4c37-ba4e-e9b86a9a06cd-container.json
+2025-01-03T15:02:23,592 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 6f1ef8de-8be2-4de4-be6e-2bc3b47964f4-attachment.png
+2025-01-03T15:02:23,593 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 8b863dd7-3bc0-4a97-aae1-a30b06814867-container.json
+2025-01-03T15:02:23,593 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 8c03923e-ca91-4750-b7a3-793f580147f2-container.json
+2025-01-03T15:02:23,593 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: b604703a-f775-49a8-8ae6-ce871c90c467-container.json
+2025-01-03T15:02:23,594 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: d7c3f05d-c283-4fbd-9923-32dd4ac4a342-container.json
+2025-01-03T15:02:23,594 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: e83a21fb-a7f1-4c74-bd8c-f70027d5cb7c-container.json
+2025-01-03T15:02:23,595 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: ec9ad0bc-c31b-4e8d-bc0f-2dc203d9a2ad-container.json
+2025-01-03T15:02:23,595 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: f2b0be16-3664-4818-8441-755a6fbc7657-container.json
+2025-01-03T15:02:23,604 [main] INFO  TestListener:73 - Test Context Started: Login Page Tests
+2025-01-03T15:02:23,604 [main] INFO  TestListener:78 - Running tests with Browser: chrome and Environment: dev
+2025-01-03T15:02:24,750 [main] INFO  TestListener:87 - WebDriver initialized: chrome
+2025-01-03T15:02:25,091 [main] INFO  main:71 - [Thread-1] Setting up tests. Browser: chrome, Environment: dev
+2025-01-03T15:02:25,710 [main] INFO  LogUtil:24 - Logger initialized with level: INFO
+2025-01-03T15:02:25,753 [main] INFO  TestListener:25 - Test Started: runScenario
+2025-01-03T15:02:25,785 [main] ERROR TestListener:37 - Test Failed: runScenario
+2025-01-03T15:02:25,915 [main] INFO  ScreenshotUtil:60 - Screenshot saved at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.19\allure-results\screenshots\runScenario_2025-01-03_15-02-25_T1.png
+2025-01-03T15:02:25,916 [main] INFO  ScreenshotUtil:65 - Screenshot attached to Allure report.
+2025-01-03T15:02:26,020 [main] ERROR TestListener:53 - Error occurred during test execution: 
+io.cucumber.core.runner.DuplicateStepDefinitionException: Duplicate step definitions in org.orangehrm.selenium.cucumber.stepdefs.EmptyLoginStepDef.i_click_on_the_login_button() and org.orangehrm.selenium.cucumber.stepdefs.InvalidLoginStepDef.i_click_on_the_login_button()
+	at io.cucumber.core.runner.CachingGlue.lambda$prepareGlue$3(CachingGlue.java:278) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at io.cucumber.core.runner.CachingGlue.prepareGlue(CachingGlue.java:272) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:72) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:135) ~[cucumber-testng-7.20.0.jar:7.20.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:136) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:136) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:132) ~[cucumber-testng-7.20.0.jar:7.20.0]
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35) ~[cucumber-testng-7.20.0.jar:7.20.0]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.10.2.jar:7.10.2]
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308) [surefire-testng-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71) [surefire-testng-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113) [surefire-testng-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385) [surefire-booter-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162) [surefire-booter-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507) [surefire-booter-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495) [surefire-booter-3.5.2.jar:3.5.2]
+2025-01-03T15:02:26,122 [main] INFO  main:71 - [Thread-1] WebDriver instance closed.
+2025-01-03T15:02:27,615 [main] INFO  TestListener:94 - Test Context Finished: Login Page Tests
+2025-01-03T15:02:27,615 [main] INFO  TestListener:98 - WebDriver instance quit for thread.
+2025-01-03T15:20:27,927 [main] INFO  main:71 - [Thread-1] Clearing Allure results at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.19\allure-results
+2025-01-03T15:20:27,930 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 35aa13e1-6167-46b4-8f49-e611b7ba4542-container.json
+2025-01-03T15:20:27,930 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: a6a5d710-338e-4d3f-a676-49645f15b5fb-container.json
+2025-01-03T15:20:27,931 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: c0662177-ce60-4bac-8105-8c0391d41fa3-container.json
+2025-01-03T15:20:27,931 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: e7eebccf-d69a-44ba-81a4-99092af899af-container.json
+2025-01-03T15:20:27,933 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: eaa26616-0653-404f-845d-b8e950fa9bff-attachment.png
+2025-01-03T15:20:27,933 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: fb491236-efca-43a3-b323-46cc9bd7cca6-container.json
+2025-01-03T15:20:27,943 [main] INFO  TestListener:73 - Test Context Started: Login Page Tests
+2025-01-03T15:20:27,943 [main] INFO  TestListener:78 - Running tests with Browser: chrome and Environment: dev
+2025-01-03T15:20:29,093 [main] INFO  TestListener:87 - WebDriver initialized: chrome
+2025-01-03T15:20:29,439 [main] INFO  main:71 - [Thread-1] Setting up tests. Browser: chrome, Environment: dev
+2025-01-03T15:20:30,073 [main] INFO  LogUtil:24 - Logger initialized with level: INFO
+2025-01-03T15:20:30,115 [main] INFO  TestListener:25 - Test Started: runScenario
+2025-01-03T15:20:30,147 [main] ERROR TestListener:37 - Test Failed: runScenario
+2025-01-03T15:20:30,257 [main] INFO  ScreenshotUtil:60 - Screenshot saved at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.19\allure-results\screenshots\runScenario_2025-01-03_15-20-30_T1.png
+2025-01-03T15:20:30,258 [main] INFO  ScreenshotUtil:65 - Screenshot attached to Allure report.
+2025-01-03T15:20:30,361 [main] ERROR TestListener:53 - Error occurred during test execution: 
+io.cucumber.core.runner.DuplicateStepDefinitionException: Duplicate step definitions in org.orangehrm.selenium.cucumber.stepdefs.base.BaseTest.i_click_on_the_login_button() and org.orangehrm.selenium.cucumber.stepdefs.EmptyLoginStepDef.i_click_on_the_login_button()
+	at io.cucumber.core.runner.CachingGlue.lambda$prepareGlue$3(CachingGlue.java:278) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at io.cucumber.core.runner.CachingGlue.prepareGlue(CachingGlue.java:272) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:72) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:135) ~[cucumber-testng-7.20.0.jar:7.20.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:136) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:136) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:132) ~[cucumber-testng-7.20.0.jar:7.20.0]
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35) ~[cucumber-testng-7.20.0.jar:7.20.0]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.10.2.jar:7.10.2]
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308) [surefire-testng-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71) [surefire-testng-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113) [surefire-testng-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385) [surefire-booter-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162) [surefire-booter-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507) [surefire-booter-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495) [surefire-booter-3.5.2.jar:3.5.2]
+2025-01-03T15:20:30,465 [main] INFO  main:71 - [Thread-1] WebDriver instance closed.
+2025-01-03T15:20:31,880 [main] INFO  TestListener:94 - Test Context Finished: Login Page Tests
+2025-01-03T15:20:31,880 [main] INFO  TestListener:98 - WebDriver instance quit for thread.
+2025-01-03T15:22:46,532 [main] INFO  main:71 - [Thread-1] Clearing Allure results at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.19\allure-results
+2025-01-03T15:22:46,536 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 0ccba786-fa4d-4e32-b45c-811e682a4195-attachment.png
+2025-01-03T15:22:46,537 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 5e7fd2eb-2552-4506-a9a6-17263acbbb1a-container.json
+2025-01-03T15:22:46,537 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 8630747d-0668-432d-8ade-598f22695798-container.json
+2025-01-03T15:22:46,538 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: ab653b3b-5970-4305-9d27-645686821fae-container.json
+2025-01-03T15:22:46,539 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: c22873ea-fda3-4226-98d0-5191c4e3fe4b-container.json
+2025-01-03T15:22:46,539 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: c9c36c8b-8b1a-4738-a4bb-c12182ed0645-container.json
+2025-01-03T15:22:46,549 [main] INFO  TestListener:73 - Test Context Started: Login Page Tests
+2025-01-03T15:22:46,549 [main] INFO  TestListener:78 - Running tests with Browser: chrome and Environment: dev
+2025-01-03T15:22:47,663 [main] INFO  TestListener:87 - WebDriver initialized: chrome
+2025-01-03T15:22:48,009 [main] INFO  main:71 - [Thread-1] Setting up tests. Browser: chrome, Environment: dev
+2025-01-03T15:22:48,599 [main] INFO  LogUtil:24 - Logger initialized with level: INFO
+2025-01-03T15:22:48,645 [main] INFO  TestListener:25 - Test Started: runScenario
+2025-01-03T15:22:48,679 [main] ERROR TestListener:37 - Test Failed: runScenario
+2025-01-03T15:22:48,798 [main] INFO  ScreenshotUtil:60 - Screenshot saved at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.19\allure-results\screenshots\runScenario_2025-01-03_15-22-48_T1.png
+2025-01-03T15:22:48,800 [main] INFO  ScreenshotUtil:65 - Screenshot attached to Allure report.
+2025-01-03T15:22:48,888 [main] ERROR TestListener:53 - Error occurred during test execution: 
+io.cucumber.core.runner.DuplicateStepDefinitionException: Duplicate step definitions in org.orangehrm.selenium.cucumber.stepdefs.base.BaseTest.i_click_on_the_login_button() and org.orangehrm.selenium.cucumber.stepdefs.EmptyLoginStepDef.i_click_on_the_login_button()
+	at io.cucumber.core.runner.CachingGlue.lambda$prepareGlue$3(CachingGlue.java:278) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at io.cucumber.core.runner.CachingGlue.prepareGlue(CachingGlue.java:272) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:72) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:135) ~[cucumber-testng-7.20.0.jar:7.20.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:136) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:136) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:132) ~[cucumber-testng-7.20.0.jar:7.20.0]
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35) ~[cucumber-testng-7.20.0.jar:7.20.0]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.10.2.jar:7.10.2]
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308) [surefire-testng-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71) [surefire-testng-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113) [surefire-testng-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385) [surefire-booter-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162) [surefire-booter-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507) [surefire-booter-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495) [surefire-booter-3.5.2.jar:3.5.2]
+2025-01-03T15:22:48,988 [main] INFO  main:71 - [Thread-1] WebDriver instance closed.
+2025-01-03T15:22:50,410 [main] INFO  TestListener:94 - Test Context Finished: Login Page Tests
+2025-01-03T15:22:50,410 [main] INFO  TestListener:98 - WebDriver instance quit for thread.
+2025-01-03T15:24:35,447 [main] INFO  main:71 - [Thread-1] Clearing Allure results at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.19\allure-results
+2025-01-03T15:24:35,450 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 04209851-719c-40ae-9590-6dfddafc047f-container.json
+2025-01-03T15:24:35,451 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 74e6a3ec-dadf-4060-97bd-2505203afaeb-container.json
+2025-01-03T15:24:35,452 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 811c2617-ebdb-41e1-902f-8e3a7043e9e5-container.json
+2025-01-03T15:24:35,453 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 8840d87e-50a0-4db6-b0a7-a9b66771b7b2-container.json
+2025-01-03T15:24:35,453 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: eb6fa39f-377f-49d8-aa86-324c729f5e40-container.json
+2025-01-03T15:24:35,455 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: ef8e17dc-5455-47ce-86d5-70e93fd0d958-attachment.png
+2025-01-03T15:24:35,464 [main] INFO  TestListener:73 - Test Context Started: Login Page Tests
+2025-01-03T15:24:35,464 [main] INFO  TestListener:78 - Running tests with Browser: chrome and Environment: dev
+2025-01-03T15:24:36,526 [main] INFO  TestListener:87 - WebDriver initialized: chrome
+2025-01-03T15:24:36,875 [main] INFO  main:71 - [Thread-1] Setting up tests. Browser: chrome, Environment: dev
+2025-01-03T15:24:37,570 [main] INFO  LogUtil:24 - Logger initialized with level: INFO
+2025-01-03T15:24:37,610 [main] INFO  TestListener:25 - Test Started: runScenario
+2025-01-03T15:24:37,646 [main] ERROR TestListener:37 - Test Failed: runScenario
+2025-01-03T15:24:37,757 [main] INFO  ScreenshotUtil:60 - Screenshot saved at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.19\allure-results\screenshots\runScenario_2025-01-03_15-24-37_T1.png
+2025-01-03T15:24:37,758 [main] INFO  ScreenshotUtil:65 - Screenshot attached to Allure report.
+2025-01-03T15:24:37,860 [main] ERROR TestListener:53 - Error occurred during test execution: 
+io.cucumber.core.runner.DuplicateStepDefinitionException: Duplicate step definitions in org.orangehrm.selenium.cucumber.stepdefs.base.BaseTest.i_click_on_the_login_button() and org.orangehrm.selenium.cucumber.stepdefs.InvalidLoginStepDef.i_click_on_the_login_button()
+	at io.cucumber.core.runner.CachingGlue.lambda$prepareGlue$3(CachingGlue.java:278) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at io.cucumber.core.runner.CachingGlue.prepareGlue(CachingGlue.java:272) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:72) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:135) ~[cucumber-testng-7.20.0.jar:7.20.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:136) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:136) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:132) ~[cucumber-testng-7.20.0.jar:7.20.0]
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35) ~[cucumber-testng-7.20.0.jar:7.20.0]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.10.2.jar:7.10.2]
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308) [surefire-testng-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71) [surefire-testng-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113) [surefire-testng-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385) [surefire-booter-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162) [surefire-booter-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507) [surefire-booter-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495) [surefire-booter-3.5.2.jar:3.5.2]
+2025-01-03T15:24:37,959 [main] INFO  main:71 - [Thread-1] WebDriver instance closed.
+2025-01-03T15:24:39,400 [main] INFO  TestListener:94 - Test Context Finished: Login Page Tests
+2025-01-03T15:24:39,400 [main] INFO  TestListener:98 - WebDriver instance quit for thread.
+2025-01-03T15:26:25,756 [main] INFO  main:71 - [Thread-1] Clearing Allure results at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.19\allure-results
+2025-01-03T15:26:25,759 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 549447c4-b133-41ed-9d11-8175d245f131-container.json
+2025-01-03T15:26:25,759 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 7933a153-6dca-4392-afea-3780a3ebb174-container.json
+2025-01-03T15:26:25,760 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 9ded3870-6bd1-4d7a-9f25-d1beb4172b13-container.json
+2025-01-03T15:26:25,762 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: caec04ae-4a01-4f32-bd0b-b13b98a41f16-attachment.png
+2025-01-03T15:26:25,762 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: cd2f9924-d817-4318-bfba-b3eec2b63bcb-container.json
+2025-01-03T15:26:25,763 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: e82f07a4-3948-4c81-a7c1-c91e2ef0fed5-container.json
+2025-01-03T15:26:25,771 [main] INFO  TestListener:73 - Test Context Started: Login Page Tests
+2025-01-03T15:26:25,772 [main] INFO  TestListener:78 - Running tests with Browser: chrome and Environment: dev
+2025-01-03T15:26:26,889 [main] INFO  TestListener:87 - WebDriver initialized: chrome
+2025-01-03T15:26:27,246 [main] INFO  main:71 - [Thread-1] Setting up tests. Browser: chrome, Environment: dev
+2025-01-03T15:26:27,888 [main] INFO  LogUtil:24 - Logger initialized with level: INFO
+2025-01-03T15:26:27,931 [main] INFO  TestListener:25 - Test Started: runScenario
+2025-01-03T15:26:27,967 [main] ERROR TestListener:37 - Test Failed: runScenario
+2025-01-03T15:26:28,074 [main] INFO  ScreenshotUtil:60 - Screenshot saved at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.19\allure-results\screenshots\runScenario_2025-01-03_15-26-28_T1.png
+2025-01-03T15:26:28,076 [main] INFO  ScreenshotUtil:65 - Screenshot attached to Allure report.
+2025-01-03T15:26:28,177 [main] ERROR TestListener:53 - Error occurred during test execution: 
+io.cucumber.core.runner.DuplicateStepDefinitionException: Duplicate step definitions in org.orangehrm.selenium.cucumber.stepdefs.base.BaseTest.i_click_on_the_link(java.lang.String) and org.orangehrm.selenium.cucumber.stepdefs.PasswordResetStepDef.i_click_on_the_link(java.lang.String)
+	at io.cucumber.core.runner.CachingGlue.lambda$prepareGlue$3(CachingGlue.java:278) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at io.cucumber.core.runner.CachingGlue.prepareGlue(CachingGlue.java:272) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:72) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:135) ~[cucumber-testng-7.20.0.jar:7.20.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:136) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:136) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:132) ~[cucumber-testng-7.20.0.jar:7.20.0]
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35) ~[cucumber-testng-7.20.0.jar:7.20.0]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.10.2.jar:7.10.2]
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308) [surefire-testng-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71) [surefire-testng-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113) [surefire-testng-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385) [surefire-booter-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162) [surefire-booter-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507) [surefire-booter-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495) [surefire-booter-3.5.2.jar:3.5.2]
+2025-01-03T15:26:28,277 [main] INFO  main:71 - [Thread-1] WebDriver instance closed.
+2025-01-03T15:26:29,708 [main] INFO  TestListener:94 - Test Context Finished: Login Page Tests
+2025-01-03T15:26:29,708 [main] INFO  TestListener:98 - WebDriver instance quit for thread.
+2025-01-03T15:27:24,781 [main] INFO  main:71 - [Thread-1] Clearing Allure results at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.19\allure-results
+2025-01-03T15:27:24,784 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 3917fa45-2df8-4ddd-b1ad-564689945474-container.json
+2025-01-03T15:27:24,786 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 4d82bf54-0d1f-4fec-9f80-d7675767e58d-attachment.png
+2025-01-03T15:27:24,786 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 502423e7-5f20-474f-ab8e-01ef25e1159d-container.json
+2025-01-03T15:27:24,787 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 5ba8fda5-2d06-48f5-9935-1a8bccc3522a-container.json
+2025-01-03T15:27:24,787 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: b139196e-caba-46e3-b24d-4c731261f9d8-container.json
+2025-01-03T15:27:24,788 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: fb81a1e1-ec0b-4389-8ed1-e0a572eae5f4-container.json
+2025-01-03T15:27:24,796 [main] INFO  TestListener:73 - Test Context Started: Login Page Tests
+2025-01-03T15:27:24,797 [main] INFO  TestListener:78 - Running tests with Browser: chrome and Environment: dev
+2025-01-03T15:27:25,944 [main] INFO  TestListener:87 - WebDriver initialized: chrome
+2025-01-03T15:27:26,290 [main] INFO  main:71 - [Thread-1] Setting up tests. Browser: chrome, Environment: dev
+2025-01-03T15:27:26,909 [main] INFO  LogUtil:24 - Logger initialized with level: INFO
+2025-01-03T15:27:26,953 [main] INFO  TestListener:25 - Test Started: runScenario
+2025-01-03T15:27:26,986 [main] ERROR TestListener:37 - Test Failed: runScenario
+2025-01-03T15:27:27,094 [main] INFO  ScreenshotUtil:60 - Screenshot saved at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.19\allure-results\screenshots\runScenario_2025-01-03_15-27-27_T1.png
+2025-01-03T15:27:27,096 [main] INFO  ScreenshotUtil:65 - Screenshot attached to Allure report.
+2025-01-03T15:27:27,200 [main] ERROR TestListener:53 - Error occurred during test execution: 
+io.cucumber.core.runner.DuplicateStepDefinitionException: Duplicate step definitions in org.orangehrm.selenium.cucumber.stepdefs.base.BaseTest.i_should_see_a_message(java.lang.String) and org.orangehrm.selenium.cucumber.stepdefs.PasswordResetStepDef.i_should_see_a_message(java.lang.String)
+	at io.cucumber.core.runner.CachingGlue.lambda$prepareGlue$3(CachingGlue.java:278) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at io.cucumber.core.runner.CachingGlue.prepareGlue(CachingGlue.java:272) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:72) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:135) ~[cucumber-testng-7.20.0.jar:7.20.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:136) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:136) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:132) ~[cucumber-testng-7.20.0.jar:7.20.0]
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35) ~[cucumber-testng-7.20.0.jar:7.20.0]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.10.2.jar:7.10.2]
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308) [surefire-testng-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71) [surefire-testng-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113) [surefire-testng-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385) [surefire-booter-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162) [surefire-booter-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507) [surefire-booter-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495) [surefire-booter-3.5.2.jar:3.5.2]
+2025-01-03T15:27:27,300 [main] INFO  main:71 - [Thread-1] WebDriver instance closed.
+2025-01-03T15:27:28,742 [main] INFO  TestListener:94 - Test Context Finished: Login Page Tests
+2025-01-03T15:27:28,742 [main] INFO  TestListener:98 - WebDriver instance quit for thread.
+2025-01-03T15:29:31,740 [main] INFO  main:71 - [Thread-1] Clearing Allure results at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.19\allure-results
+2025-01-03T15:29:31,743 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 48ef23ff-eefa-4f4b-bc46-02e657a81328-container.json
+2025-01-03T15:29:31,744 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 8c811daf-8f76-4e9a-b3fc-3239843139a9-attachment.png
+2025-01-03T15:29:31,745 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 9a925964-f535-4af2-8ead-1f037463906d-container.json
+2025-01-03T15:29:31,746 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: aba0d12e-0914-4064-8ad8-a4f73d24958b-container.json
+2025-01-03T15:29:31,746 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: d217ca9e-6cd3-4711-9c85-67bc614477b4-container.json
+2025-01-03T15:29:31,747 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: e1c0b897-f2ea-412c-9b45-6a84e949fa8f-container.json
+2025-01-03T15:29:31,755 [main] INFO  TestListener:73 - Test Context Started: Login Page Tests
+2025-01-03T15:29:31,756 [main] INFO  TestListener:78 - Running tests with Browser: chrome and Environment: dev
+2025-01-03T15:29:32,884 [main] INFO  TestListener:87 - WebDriver initialized: chrome
+2025-01-03T15:29:33,225 [main] INFO  main:71 - [Thread-1] Setting up tests. Browser: chrome, Environment: dev
+2025-01-03T15:29:33,848 [main] INFO  LogUtil:24 - Logger initialized with level: INFO
+2025-01-03T15:29:33,893 [main] INFO  TestListener:25 - Test Started: runScenario
+2025-01-03T15:29:33,931 [main] ERROR TestListener:37 - Test Failed: runScenario
+2025-01-03T15:29:34,051 [main] INFO  ScreenshotUtil:60 - Screenshot saved at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.19\allure-results\screenshots\runScenario_2025-01-03_15-29-34_T1.png
+2025-01-03T15:29:34,053 [main] INFO  ScreenshotUtil:65 - Screenshot attached to Allure report.
+2025-01-03T15:29:34,156 [main] ERROR TestListener:53 - Error occurred during test execution: 
+io.cucumber.core.runner.DuplicateStepDefinitionException: Duplicate step definitions in org.orangehrm.selenium.cucumber.stepdefs.base.BaseTest.i_am_on_the_login_page() and org.orangehrm.selenium.cucumber.stepdefs.ValidLoginStepDef.i_am_on_the_login_page()
+	at io.cucumber.core.runner.CachingGlue.lambda$prepareGlue$3(CachingGlue.java:278) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at io.cucumber.core.runner.CachingGlue.prepareGlue(CachingGlue.java:272) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:72) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:135) ~[cucumber-testng-7.20.0.jar:7.20.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:136) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:136) ~[cucumber-core-7.20.0.jar:7.20.0]
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:132) ~[cucumber-testng-7.20.0.jar:7.20.0]
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35) ~[cucumber-testng-7.20.0.jar:7.20.0]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.10.2.jar:7.10.2]
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308) [surefire-testng-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71) [surefire-testng-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113) [surefire-testng-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385) [surefire-booter-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162) [surefire-booter-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507) [surefire-booter-3.5.2.jar:3.5.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495) [surefire-booter-3.5.2.jar:3.5.2]
+2025-01-03T15:29:34,258 [main] INFO  main:71 - [Thread-1] WebDriver instance closed.
+2025-01-03T15:29:35,825 [main] INFO  TestListener:94 - Test Context Finished: Login Page Tests
+2025-01-03T15:29:35,825 [main] INFO  TestListener:98 - WebDriver instance quit for thread.
+2025-01-03T15:31:02,093 [main] INFO  main:71 - [Thread-1] Clearing Allure results at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.19\allure-results
+2025-01-03T15:31:02,096 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 0d65d8b9-a957-4005-9f7c-82707aedb9bc-container.json
+2025-01-03T15:31:02,096 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 2c7797c2-c676-4271-9c3d-37027106ee53-container.json
+2025-01-03T15:31:02,097 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 370ee00c-9fa6-47fb-a18a-0800d676fd76-container.json
+2025-01-03T15:31:02,099 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 730e04f2-32c0-4932-b8d0-84b7f72e1f65-attachment.png
+2025-01-03T15:31:02,099 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 77c547e8-976b-4bac-acf4-227aa571f752-container.json
+2025-01-03T15:31:02,099 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: f0910e01-46fc-4780-ae58-29ab55842d60-container.json
+2025-01-03T15:31:02,109 [main] INFO  TestListener:73 - Test Context Started: Login Page Tests
+2025-01-03T15:31:02,110 [main] INFO  TestListener:78 - Running tests with Browser: chrome and Environment: dev
+2025-01-03T15:31:03,247 [main] INFO  TestListener:87 - WebDriver initialized: chrome
+2025-01-03T15:31:03,588 [main] INFO  main:71 - [Thread-1] Setting up tests. Browser: chrome, Environment: dev
+2025-01-03T15:31:04,213 [main] INFO  LogUtil:24 - Logger initialized with level: INFO
+2025-01-03T15:31:04,257 [main] INFO  TestListener:25 - Test Started: runScenario
+2025-01-03T15:31:04,313 [main] INFO  ConfigManager:60 - Loaded configuration file: src/test/resources/config/config-dev.properties
+2025-01-03T15:31:06,940 [main] INFO  WebDriverHooks:48 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-01-03T15:31:08,743 [main] INFO  WebDriverHooks:61 - Browser closed.
+2025-01-03T15:31:08,754 [main] ERROR TestListener:37 - Test Failed: runScenario
+2025-01-03T15:31:08,758 [main] ERROR TestListener:37 - Test Failed: runScenario
+2025-01-03T15:31:10,264 [main] INFO  TestListener:94 - Test Context Finished: Login Page Tests
+2025-01-03T15:31:10,264 [main] INFO  TestListener:98 - WebDriver instance quit for thread.
+2025-01-03T15:32:59,488 [main] INFO  main:71 - [Thread-1] Clearing Allure results at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.19\allure-results
+2025-01-03T15:32:59,491 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 26d14bab-e440-4073-82a2-851e89412137-attachment.txt
+2025-01-03T15:32:59,492 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 3b30766a-cbc7-43fe-9b41-a6d977927ad6-container.json
+2025-01-03T15:32:59,492 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 619a13a3-1455-4ad9-bdec-cc68684a451b-result.json
+2025-01-03T15:32:59,493 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 7744bca9-c245-4f94-81cd-28290667e592-container.json
+2025-01-03T15:32:59,494 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: a9738068-cfbc-4e6f-98c4-f3e904c9510a-container.json
+2025-01-03T15:32:59,494 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: e82815aa-8919-41f7-9e51-bdbbc54d2781-container.json
+2025-01-03T15:32:59,495 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: eb5c9a39-c743-4a69-83c0-3b98daf2cf7e-attachment.txt
+2025-01-03T15:32:59,496 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: ef03aff6-b077-4ca4-974a-c600eb1824d3-container.json
+2025-01-03T15:32:59,496 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: fb5ee52e-67d8-4e5b-b6c6-fe90d3032518-container.json
+2025-01-03T15:32:59,505 [main] INFO  TestListener:73 - Test Context Started: Login Page Tests
+2025-01-03T15:32:59,505 [main] INFO  TestListener:78 - Running tests with Browser: chrome and Environment: dev
+2025-01-03T15:33:00,617 [main] INFO  TestListener:87 - WebDriver initialized: chrome
+2025-01-03T15:33:00,980 [main] INFO  main:71 - [Thread-1] Setting up tests. Browser: chrome, Environment: dev
+2025-01-03T15:33:01,616 [main] INFO  LogUtil:24 - Logger initialized with level: INFO
+2025-01-03T15:33:01,659 [main] INFO  TestListener:25 - Test Started: runScenario
+2025-01-03T15:33:01,727 [main] INFO  ConfigManager:60 - Loaded configuration file: src/test/resources/config/config-dev.properties
+2025-01-03T15:33:05,212 [main] INFO  WebDriverHooks:48 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-01-03T15:33:05,734 [main] INFO  WebDriverHooks:61 - Browser closed.
+2025-01-03T15:33:05,744 [main] ERROR TestListener:37 - Test Failed: runScenario
+2025-01-03T15:33:05,748 [main] ERROR TestListener:37 - Test Failed: runScenario
+2025-01-03T15:33:07,176 [main] INFO  TestListener:94 - Test Context Finished: Login Page Tests
+2025-01-03T15:33:07,177 [main] INFO  TestListener:98 - WebDriver instance quit for thread.
+2025-01-03T15:40:57,150 [main] INFO  main:71 - [Thread-1] Clearing Allure results at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.19\allure-results
+2025-01-03T15:40:57,153 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 0aefa47b-4c9e-4960-a8c7-100be82d1ef9-container.json
+2025-01-03T15:40:57,154 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 116a8e1e-3452-4aa6-9985-b55ac429f1f4-container.json
+2025-01-03T15:40:57,154 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 1b5d6f40-2540-470a-b974-77dd98e7d0ce-result.json
+2025-01-03T15:40:57,155 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 1c6640f6-e244-4934-9a0d-a2024591f636-container.json
+2025-01-03T15:40:57,155 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 5e663ec9-1952-42d5-b8b2-d6d405fb83eb-container.json
+2025-01-03T15:40:57,156 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 669a9955-f8ce-416a-9edc-af1e8b814cf5-container.json
+2025-01-03T15:40:57,156 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 72cb6d1e-b7ad-4f18-b2cb-4e26d73b4335-container.json
+2025-01-03T15:40:57,157 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 8db834ae-ba56-43e6-bb3b-f68a9aad9ea7-attachment.txt
+2025-01-03T15:40:57,157 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: b89ad032-07ad-4cd0-bba0-81fe633ca838-attachment.txt
+2025-01-03T15:40:57,158 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: c468c66e-e6af-4a57-b89f-5eb93e7aee6e-container.json
+2025-01-03T15:40:57,167 [main] INFO  TestListener:73 - Test Context Started: Login Page Tests
+2025-01-03T15:40:57,167 [main] INFO  TestListener:78 - Running tests with Browser: chrome and Environment: dev
+2025-01-03T15:40:58,275 [main] INFO  TestListener:87 - WebDriver initialized: chrome
+2025-01-03T15:40:58,625 [main] INFO  main:71 - [Thread-1] Setting up tests. Browser: chrome, Environment: dev
+2025-01-03T15:40:59,254 [main] INFO  LogUtil:24 - Logger initialized with level: INFO
+2025-01-03T15:40:59,299 [main] INFO  TestListener:25 - Test Started: runScenario
+2025-01-03T15:40:59,401 [main] INFO  ConfigManager:60 - Loaded configuration file: src/test/resources/config/config-dev.properties
+2025-01-03T15:41:02,733 [main] INFO  WebDriverHooks:48 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-01-03T15:41:04,653 [main] ERROR TestListener:37 - Test Failed: runScenario
+2025-01-03T15:41:04,657 [main] ERROR TestListener:37 - Test Failed: runScenario
+2025-01-03T15:41:06,165 [main] INFO  TestListener:94 - Test Context Finished: Login Page Tests
+2025-01-03T15:41:06,165 [main] INFO  TestListener:98 - WebDriver instance quit for thread.
+2025-01-03T15:46:18,711 [main] INFO  main:71 - [Thread-1] Clearing Allure results at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.19\allure-results
+2025-01-03T15:46:18,715 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 25502bb9-350e-46e4-8d77-abf6b1faf067-container.json
+2025-01-03T15:46:18,716 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 36903dea-b2aa-4dd0-8335-a5e063702382-attachment.txt
+2025-01-03T15:46:18,716 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 77eb8faf-cedf-4de2-b5e8-40a492721020-attachment.txt
+2025-01-03T15:46:18,717 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 79684fe5-47fd-41a9-b941-9c85d9284ac7-container.json
+2025-01-03T15:46:18,717 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 804f65f8-564b-4cdb-992e-98f6cb92da16-result.json
+2025-01-03T15:46:18,718 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 9ba2b116-f793-48ea-a327-162de6a42d75-container.json
+2025-01-03T15:46:18,718 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: b563e568-a26a-4e18-8d01-27d825a82725-container.json
+2025-01-03T15:46:18,719 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: bf3d37c6-85af-4d27-87e4-521885161a66-container.json
+2025-01-03T15:46:18,719 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: cfda3516-9885-49c3-95db-928106fef42b-container.json
+2025-01-03T15:46:18,720 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: db30bbc6-9ec4-48fd-8e97-cd28fd7272f3-container.json
+2025-01-03T15:46:18,721 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: fc78978d-5e1e-4526-82db-3f2dd4eba600-container.json
+2025-01-03T15:46:18,729 [main] INFO  TestListener:73 - Test Context Started: Login Page Tests
+2025-01-03T15:46:18,730 [main] INFO  TestListener:78 - Running tests with Browser: chrome and Environment: dev
+2025-01-03T15:46:19,861 [main] INFO  TestListener:87 - WebDriver initialized: chrome
+2025-01-03T15:46:20,212 [main] INFO  main:71 - [Thread-1] Setting up tests. Browser: chrome, Environment: dev
+2025-01-03T15:46:20,835 [main] INFO  LogUtil:24 - Logger initialized with level: INFO
+2025-01-03T15:46:20,879 [main] INFO  TestListener:25 - Test Started: runScenario
+2025-01-03T15:46:20,982 [main] INFO  ConfigManager:60 - Loaded configuration file: src/test/resources/config/config-dev.properties
+2025-01-03T15:46:28,161 [main] INFO  WebDriverHooks:48 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-01-03T15:46:36,990 [main] INFO  main:31 - [Thread-1] Entered username: 
+2025-01-03T15:46:37,037 [main] INFO  main:31 - [Thread-1] Entered password: 
+2025-01-03T15:46:37,102 [main] INFO  main:31 - [Thread-1] Clicked login button
+2025-01-03T15:46:37,369 [main] INFO  TestListener:31 - Test Passed: runScenario
+2025-01-03T15:46:37,370 [main] INFO  main:71 - [Thread-1] WebDriver instance closed.
+2025-01-03T15:46:38,856 [main] INFO  TestListener:94 - Test Context Finished: Login Page Tests
+2025-01-03T15:46:38,856 [main] INFO  TestListener:98 - WebDriver instance quit for thread.
+2025-01-03T15:49:11,335 [main] INFO  main:71 - [Thread-1] Clearing Allure results at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.19\allure-results
+2025-01-03T15:49:11,339 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 20554946-01c8-443b-8103-6863c1d37292-container.json
+2025-01-03T15:49:11,339 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 228996bf-c0b9-49a9-bafd-c4e761e675b5-attachment.txt
+2025-01-03T15:49:11,340 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 47e49afd-e5b2-4e1c-adde-51882942cb2d-container.json
+2025-01-03T15:49:11,340 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 5f42c4cc-9149-4098-a0ea-af58a4279204-container.json
+2025-01-03T15:49:11,341 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 72b25b73-bd21-40ee-9c0b-41bdf7585478-container.json
+2025-01-03T15:49:11,341 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 7531476f-693c-4fa0-8ebd-0a8d9e16d0ca-container.json
+2025-01-03T15:49:11,342 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 847af954-74ef-4c8a-a3e5-cb23a3a7c154-result.json
+2025-01-03T15:49:11,342 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: cbf08791-0dfc-41ce-92e9-956b47f2f466-attachment.txt
+2025-01-03T15:49:11,343 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: cf095715-9dfa-46b8-9612-3f112a24d387-container.json
+2025-01-03T15:49:11,343 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: da012928-e69b-420f-b464-3d7e488dc050-container.json
+2025-01-03T15:49:11,344 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: dcdbc1ff-5513-4385-83df-82327a113abf-container.json
+2025-01-03T15:49:11,344 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: e11331de-670a-417d-ae33-d3723e7b5628-container.json
+2025-01-03T15:49:11,354 [main] INFO  TestListener:73 - Test Context Started: Login Page Tests
+2025-01-03T15:49:11,354 [main] INFO  TestListener:78 - Running tests with Browser: chrome and Environment: dev
+2025-01-03T15:49:12,459 [main] INFO  TestListener:87 - WebDriver initialized: chrome
+2025-01-03T15:49:12,805 [main] INFO  main:71 - [Thread-1] Setting up tests. Browser: chrome, Environment: dev
+2025-01-03T15:49:13,427 [main] INFO  LogUtil:24 - Logger initialized with level: INFO
+2025-01-03T15:49:13,474 [main] INFO  TestListener:25 - Test Started: runScenario
+2025-01-03T15:49:13,576 [main] INFO  ConfigManager:60 - Loaded configuration file: src/test/resources/config/config-dev.properties
+2025-01-03T15:49:16,759 [main] INFO  WebDriverHooks:48 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-01-03T15:49:18,604 [main] INFO  main:31 - [Thread-1] Entered username: Admin
+2025-01-03T15:49:18,658 [main] INFO  main:31 - [Thread-1] Entered password: admin
+2025-01-03T15:49:18,719 [main] INFO  main:31 - [Thread-1] Clicked login button
+2025-01-03T15:49:20,430 [main] INFO  TestListener:31 - Test Passed: runScenario
+2025-01-03T15:49:20,432 [main] INFO  main:71 - [Thread-1] WebDriver instance closed.
+2025-01-03T15:49:20,434 [main] INFO  main:71 - [Thread-1] Setting up tests. Browser: chrome, Environment: dev
+2025-01-03T15:49:21,066 [main] INFO  LogUtil:24 - Logger initialized with level: INFO
+2025-01-03T15:49:21,068 [main] INFO  TestListener:25 - Test Started: runScenario
+2025-01-03T15:49:24,313 [main] INFO  WebDriverHooks:48 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-01-03T15:49:25,885 [main] INFO  main:31 - [Thread-1] Entered username: Adminn
+2025-01-03T15:49:25,938 [main] INFO  main:31 - [Thread-1] Entered password: admin123
+2025-01-03T15:49:25,999 [main] INFO  main:31 - [Thread-1] Clicked login button
+2025-01-03T15:49:27,750 [main] INFO  TestListener:31 - Test Passed: runScenario
+2025-01-03T15:49:27,751 [main] INFO  main:71 - [Thread-1] WebDriver instance closed.
+2025-01-03T15:49:27,752 [main] INFO  main:71 - [Thread-1] Setting up tests. Browser: chrome, Environment: dev
+2025-01-03T15:49:28,379 [main] INFO  LogUtil:24 - Logger initialized with level: INFO
+2025-01-03T15:49:28,380 [main] INFO  TestListener:25 - Test Started: runScenario
+2025-01-03T15:49:31,364 [main] INFO  WebDriverHooks:48 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-01-03T15:49:32,965 [main] INFO  main:31 - [Thread-1] Entered username: Adminn
+2025-01-03T15:49:33,014 [main] INFO  main:31 - [Thread-1] Entered password: admin
+2025-01-03T15:49:33,069 [main] INFO  main:31 - [Thread-1] Clicked login button
+2025-01-03T15:49:34,406 [main] INFO  TestListener:31 - Test Passed: runScenario
+2025-01-03T15:49:34,407 [main] INFO  main:71 - [Thread-1] WebDriver instance closed.
+2025-01-03T15:49:36,097 [main] INFO  TestListener:94 - Test Context Finished: Login Page Tests
+2025-01-03T15:49:36,097 [main] INFO  TestListener:98 - WebDriver instance quit for thread.

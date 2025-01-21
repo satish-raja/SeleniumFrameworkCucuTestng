@@ -1,0 +1,24 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 2, Errors: 0, Skipped: 4, Time elapsed: 51.93 s <<< FAILURE! -- in TestSuite
+com.orangehrm.selenium.cucumber.runner.TestRunner.runScenario["Login with Empty Credentials Should Display Error Messages", "Login with Empty Credentials"](7) -- Time elapsed: 4.841 s <<< FAILURE!
+java.lang.AssertionError: Error message for Username field does not match! expected [Require] but found [Required]
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1578)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:150)
+	at org.testng.Assert.assertEquals(Assert.java:132)
+	at org.testng.Assert.assertEquals(Assert.java:656)
+	at com.orangehrm.selenium.cucumber.stepdefs.EmptyLoginStepDef.i_should_see_error_messages(EmptyLoginStepDef.java:68)
+	at ✽.I should see error messages for blank username and password fields(file:///D:/WorkSpace_Selenium/CucuTestngFramework9/src/test/resources/features/LoginWithEmptyCredentials.feature:15)
+
+com.orangehrm.selenium.cucumber.runner.TestRunner.runScenario["Login with Invalid Credentials Should Display Error Message", "Login with Invalid Credentials"](10) -- Time elapsed: 16.47 s <<< FAILURE!
+java.lang.AssertionError: Error message not displayed as expected! expected [Invalid credentials] but found []
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1578)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:150)
+	at org.testng.Assert.assertEquals(Assert.java:132)
+	at org.testng.Assert.assertEquals(Assert.java:656)
+	at com.orangehrm.selenium.cucumber.stepdefs.InvalidLoginStepDef.i_should_see_error_message(InvalidLoginStepDef.java:65)
+	at ✽.I should see an error message "Invalid credentials" on the Login page(file:///D:/WorkSpace_Selenium/CucuTestngFramework9/src/test/resources/features/LoginWithInvalidCredentials.feature:15)
+

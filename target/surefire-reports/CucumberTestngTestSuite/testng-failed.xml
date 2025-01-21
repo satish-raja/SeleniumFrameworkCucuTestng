@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="4" parallel="tests" name="Failed suite [CucumberTestngTestSuite]" guice-stage="DEVELOPMENT" verbose="0">
+  <listeners>
+    <listener class-name="com.orangehrm.selenium.cucumber.retry.RetryListener"/>
+  </listeners>
+  <test thread-count="4" parallel="tests" name="LoginPageTest(failed)" verbose="0">
+    <parameter name="headless" value="false"/>
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.orangehrm.selenium.cucumber.runner.TestRunner">
+        <methods>
+          <include name="setUpClass"/>
+          <include name="cleareAllureResults"/>
+          <include name="tearDownClass"/>
+          <include name="runScenario" invocation-numbers="0 2"/>
+        </methods>
+      </class> <!-- com.orangehrm.selenium.cucumber.runner.TestRunner -->
+    </classes>
+  </test> <!-- LoginPageTest(failed) -->
+</suite> <!-- Failed suite [CucumberTestngTestSuite] -->

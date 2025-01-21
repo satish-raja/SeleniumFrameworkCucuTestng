@@ -1,0 +1,95 @@
+2025-01-07T19:06:14,155 [main] INFO  LogUtil:60 - Clearing Allure results at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.24\allure-results
+2025-01-07T19:06:14,163 [main] INFO  LogUtil:60 - Deleted Allure result file: 0f4e44bc-776e-431a-8e82-8c1a30db7655-attachment.txt
+2025-01-07T19:06:14,164 [main] INFO  LogUtil:60 - Deleted Allure result file: 1443705a-8c54-4f76-9c65-10e7d3b48f3a-attachment.txt
+2025-01-07T19:06:14,165 [main] INFO  LogUtil:60 - Deleted Allure result file: 1edd4b4c-c548-4615-b6db-c8ac0ae2cfb8-attachment.txt
+2025-01-07T19:06:14,166 [main] INFO  LogUtil:60 - Deleted Allure result file: 2aed1ab4-d532-4c98-88fa-5754f8695230-attachment.txt
+2025-01-07T19:06:14,167 [main] INFO  LogUtil:60 - Deleted Allure result file: 2d01a588-00a3-495b-92f7-b36281f17520-attachment.txt
+2025-01-07T19:06:14,174 [main] INFO  LogUtil:60 - Deleted Allure result file: 468ef6a2-9ac7-4a3b-afc8-88a5c91f7807-container.json
+2025-01-07T19:06:14,175 [main] INFO  LogUtil:60 - Deleted Allure result file: 4d95a750-fd0f-4963-86c6-3d42b6ed2d00-attachment
+2025-01-07T19:06:14,176 [main] INFO  LogUtil:60 - Deleted Allure result file: 5bdaecaa-9afd-4a65-b306-b232b8edb2a4-attachment.txt
+2025-01-07T19:06:14,177 [main] INFO  LogUtil:60 - Deleted Allure result file: 5c4d23eb-66f8-4abf-8b39-8197b99dfb07-attachment.txt
+2025-01-07T19:06:14,178 [main] INFO  LogUtil:60 - Deleted Allure result file: 66b8af09-6c8d-4bfb-9299-210b9098ef90-container.json
+2025-01-07T19:06:14,179 [main] INFO  LogUtil:60 - Deleted Allure result file: 7ba03ee7-c1e0-4166-b017-ecada5d5847b-result.json
+2025-01-07T19:06:14,180 [main] INFO  LogUtil:60 - Deleted Allure result file: 7c303b91-c6f0-4364-8966-f3bb41e46a91-attachment.txt
+2025-01-07T19:06:14,181 [main] INFO  LogUtil:60 - Deleted Allure result file: 8c71c815-74a3-406e-8ae8-c1f3eacd4063-container.json
+2025-01-07T19:06:14,182 [main] INFO  LogUtil:60 - Deleted Allure result file: 9b17c1fc-9912-465c-a602-f1997b2e9c13-attachment.txt
+2025-01-07T19:06:14,183 [main] INFO  LogUtil:60 - Deleted Allure result file: b4deb02f-78b5-47ad-bd11-3817e707872a-container.json
+2025-01-07T19:06:14,184 [main] INFO  LogUtil:60 - Deleted Allure result file: dd321c32-0402-4357-9250-54d39a0328e0-container.json
+2025-01-07T19:06:14,184 [main] INFO  LogUtil:60 - Deleted Allure result file: dd88411b-e761-4773-940a-1a654d9b710e-attachment.txt
+2025-01-07T19:06:14,643 [TestNG-tests-1] INFO  LogUtil:60 - Driver Instance : null at WebDriverHooks : setUp
+2025-01-07T19:06:14,693 [TestNG-tests-1] INFO  LogUtil:60 - Driver Instance : null at WebDriverHooks : failedStep
+2025-01-07T19:06:14,705 [TestNG-tests-1] ERROR LogUtil:66 - Test Failed: runScenario
+2025-01-07T19:06:14,707 [TestNG-tests-1] ERROR LogUtil:66 - Test Failed: runScenario
+2025-01-07T19:27:12,541 [main] INFO  LogUtil:60 - Clearing Allure results at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.24\allure-results
+2025-01-07T19:27:12,547 [main] INFO  LogUtil:60 - Deleted Allure result file: 008e00db-56cb-4653-a081-81416ba3dc68-attachment.txt
+2025-01-07T19:27:12,548 [main] INFO  LogUtil:60 - Deleted Allure result file: 03b0c1de-43ea-4ff2-8111-24ac48e5fd05-attachment.txt
+2025-01-07T19:27:12,548 [main] INFO  LogUtil:60 - Deleted Allure result file: 0bd71742-2103-4f38-bf01-a0448cb29cd9-attachment.txt
+2025-01-07T19:27:12,549 [main] INFO  LogUtil:60 - Deleted Allure result file: 24685a3b-d61d-4192-acfe-870ee144ba40-attachment.txt
+2025-01-07T19:27:12,550 [main] INFO  LogUtil:60 - Deleted Allure result file: 2b48d7e7-8ab8-462e-83ad-3cff99ba3ba6-attachment.txt
+2025-01-07T19:27:12,551 [main] INFO  LogUtil:60 - Deleted Allure result file: 303189ea-7a12-4aad-ad55-cc9345440969-container.json
+2025-01-07T19:27:12,552 [main] INFO  LogUtil:60 - Deleted Allure result file: 364f8659-46b3-46c5-98d8-d46532f413ff-attachment.txt
+2025-01-07T19:27:12,553 [main] INFO  LogUtil:60 - Deleted Allure result file: 3ff49bb9-3e57-4c88-9a0d-22b5add9bccf-attachment.txt
+2025-01-07T19:27:12,554 [main] INFO  LogUtil:60 - Deleted Allure result file: 55b9a673-4940-4625-870d-d75d2410f1ad-attachment.txt
+2025-01-07T19:27:12,555 [main] INFO  LogUtil:60 - Deleted Allure result file: 6530829d-c654-4b0e-ba74-3e2638e3bbf0-attachment.txt
+2025-01-07T19:27:12,556 [main] INFO  LogUtil:60 - Deleted Allure result file: 66c2a6f0-40dc-4733-9817-6cd1440c7ee9-attachment.txt
+2025-01-07T19:27:12,557 [main] INFO  LogUtil:60 - Deleted Allure result file: 7a105dc4-e290-4b4c-a959-d0098970ccc1-container.json
+2025-01-07T19:27:12,558 [main] INFO  LogUtil:60 - Deleted Allure result file: 7ade4e3d-1771-46b7-947b-117acb14f898-result.json
+2025-01-07T19:27:12,558 [main] INFO  LogUtil:60 - Deleted Allure result file: 88d00fc3-8189-456d-8f07-444b116816ef-attachment.txt
+2025-01-07T19:27:12,560 [main] INFO  LogUtil:60 - Deleted Allure result file: 96a6aed0-af66-4510-bd06-f536cc8af5d4-attachment.txt
+2025-01-07T19:27:12,561 [main] INFO  LogUtil:60 - Deleted Allure result file: a5edb914-affe-4cf1-8d6b-cb6166b5c647-attachment.txt
+2025-01-07T19:27:12,562 [main] INFO  LogUtil:60 - Deleted Allure result file: a9683a62-0231-45ab-a67a-e05605a39a0f-attachment.txt
+2025-01-07T19:27:12,563 [main] INFO  LogUtil:60 - Deleted Allure result file: b2520574-2ec0-48b5-a271-a6fddb0ad95b-attachment.txt
+2025-01-07T19:27:12,564 [main] INFO  LogUtil:60 - Deleted Allure result file: bc1f638e-995e-4ed3-af35-85ca87bc8b3c-container.json
+2025-01-07T19:27:12,565 [main] INFO  LogUtil:60 - Deleted Allure result file: d14f7c8f-0610-41fd-88a0-83df7ac798c0-attachment.txt
+2025-01-07T19:27:12,566 [main] INFO  LogUtil:60 - Deleted Allure result file: ddc91d86-663b-4f1b-b84d-56655cc910c7-attachment.txt
+2025-01-07T19:27:12,567 [main] INFO  LogUtil:60 - Deleted Allure result file: e18eebf5-dfcf-47f9-8bed-ef0e331b2a57-attachment.txt
+2025-01-07T19:27:12,568 [main] INFO  LogUtil:60 - Deleted Allure result file: fa1b023b-6add-4eb8-aa50-ec3b31cdb892-container.json
+2025-01-07T19:27:12,569 [main] INFO  LogUtil:60 - Deleted Allure result file: fbd3783e-9566-454f-8354-2c9fe9bccfa0-container.json
+2025-01-07T19:28:56,028 [main] INFO  LogUtil:60 - Clearing Allure results at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.24\allure-results
+2025-01-07T19:28:56,033 [main] INFO  LogUtil:60 - Deleted Allure result file: 005ac310-a3aa-4696-91ce-268465d4be45-attachment.txt
+2025-01-07T19:28:56,034 [main] INFO  LogUtil:60 - Deleted Allure result file: 05d88b64-131e-445a-9a52-8b952e031e81-container.json
+2025-01-07T19:28:56,035 [main] INFO  LogUtil:60 - Deleted Allure result file: 0ea73cab-5db0-4532-a7d7-39154a01a922-attachment.txt
+2025-01-07T19:28:56,036 [main] INFO  LogUtil:60 - Deleted Allure result file: 131dac4e-26cd-42f0-bfb3-0bcd50212fa1-attachment.txt
+2025-01-07T19:28:56,037 [main] INFO  LogUtil:60 - Deleted Allure result file: 1ffdae8b-b43c-43f3-a18d-f8e274690c2b-attachment.txt
+2025-01-07T19:28:56,038 [main] INFO  LogUtil:60 - Deleted Allure result file: 4cd7b8a4-4178-4f06-a177-e2f02a04b741-attachment.txt
+2025-01-07T19:28:56,039 [main] INFO  LogUtil:60 - Deleted Allure result file: 59274686-bd61-4d9c-8a91-3cee4a8596e4-attachment.txt
+2025-01-07T19:28:56,040 [main] INFO  LogUtil:60 - Deleted Allure result file: 5d9343d1-82bf-4a4e-b930-ddedd156e246-attachment.txt
+2025-01-07T19:28:56,041 [main] INFO  LogUtil:60 - Deleted Allure result file: 5e8e3bc6-aeb6-4292-820f-4ffdf4834a2b-attachment.txt
+2025-01-07T19:28:56,042 [main] INFO  LogUtil:60 - Deleted Allure result file: 69cf62de-0cd1-4251-9088-3835db236197-attachment.txt
+2025-01-07T19:28:56,043 [main] INFO  LogUtil:60 - Deleted Allure result file: 6f7359a8-a520-4923-ac7b-1429d189d12e-container.json
+2025-01-07T19:28:56,044 [main] INFO  LogUtil:60 - Deleted Allure result file: 8251dd1b-38de-43f1-b841-ba069a092ebe-attachment.txt
+2025-01-07T19:28:56,045 [main] INFO  LogUtil:60 - Deleted Allure result file: 833b4cbc-4e68-4421-8ffb-6d2b3c946e4e-attachment.txt
+2025-01-07T19:28:56,046 [main] INFO  LogUtil:60 - Deleted Allure result file: 8af1b0fb-bf24-4dc6-98ac-a7e084e6ff4f-attachment.txt
+2025-01-07T19:28:56,047 [main] INFO  LogUtil:60 - Deleted Allure result file: 8cbac6dd-fedd-46ef-bdff-e10b31dfbd75-attachment.txt
+2025-01-07T19:28:56,048 [main] INFO  LogUtil:60 - Deleted Allure result file: 90515d10-1978-43bc-b5e9-9f37fef424ed-attachment.txt
+2025-01-07T19:28:56,049 [main] INFO  LogUtil:60 - Deleted Allure result file: 9566c54b-0db6-47fa-9219-b1321892b060-attachment.txt
+2025-01-07T19:28:56,050 [main] INFO  LogUtil:60 - Deleted Allure result file: 95bd860b-5b43-4d13-a8d9-c3359c873aee-attachment.txt
+2025-01-07T19:28:56,050 [main] INFO  LogUtil:60 - Deleted Allure result file: 98dc6dad-9a7c-49aa-bbfd-3416ff3dc534-container.json
+2025-01-07T19:28:56,052 [main] INFO  LogUtil:60 - Deleted Allure result file: a7387eb2-ef42-496e-8e55-8e8fe3723ae9-attachment.txt
+2025-01-07T19:28:56,052 [main] INFO  LogUtil:60 - Deleted Allure result file: b386d4b2-e9fd-4ad2-98e6-230375c148d1-attachment.txt
+2025-01-07T19:28:56,053 [main] INFO  LogUtil:60 - Deleted Allure result file: d13c0f58-ec2f-452e-93b5-655091538326-attachment.txt
+2025-01-07T19:28:56,054 [main] INFO  LogUtil:60 - Deleted Allure result file: d2a077aa-8bcc-43a1-81e1-7a3c9d164229-attachment.txt
+2025-01-07T19:28:56,055 [main] INFO  LogUtil:60 - Deleted Allure result file: e33f0573-e4fb-4278-b002-4944b58531d8-attachment.txt
+2025-01-07T19:28:56,056 [main] INFO  LogUtil:60 - Deleted Allure result file: e5868fb6-2cec-49de-b0d6-edbbdcf045cf-result.json
+2025-01-07T19:28:56,057 [main] INFO  LogUtil:60 - Deleted Allure result file: e9c5c79c-4536-4cc3-810b-09dcb2836ff7-attachment.txt
+2025-01-07T19:28:56,057 [main] INFO  LogUtil:60 - Deleted Allure result file: ef12985c-f278-4522-9f5b-30cb2ab1210d-attachment.txt
+2025-01-07T19:28:56,058 [main] INFO  LogUtil:60 - Deleted Allure result file: f0a03398-c007-4d55-a4bc-b49dc8530bce-attachment.txt
+2025-01-07T19:28:56,059 [main] INFO  LogUtil:60 - Deleted Allure result file: ff3ea466-ba9e-4e04-9dfb-d3b4ec05a2eb-attachment.txt
+2025-01-07T19:28:56,509 [TestNG-tests-1] INFO  LogUtil:60 - Driver Instance : null at WebDriverHooks : setUp
+2025-01-07T19:28:56,559 [TestNG-tests-1] INFO  LogUtil:60 - Driver Instance : null at WebDriverHooks : failedStep
+2025-01-07T19:28:56,571 [TestNG-tests-1] ERROR LogUtil:66 - Test Failed: runScenario
+2025-01-07T19:28:56,589 [TestNG-tests-1] INFO  LogUtil:60 - Driver Instance : null at WebDriverHooks : setUp
+2025-01-07T19:28:56,595 [TestNG-tests-1] INFO  LogUtil:60 - Driver Instance : null at WebDriverHooks : failedStep
+2025-01-07T19:28:56,600 [TestNG-tests-1] ERROR LogUtil:66 - Test Failed: runScenario
+2025-01-07T19:28:56,606 [TestNG-tests-1] INFO  LogUtil:60 - Driver Instance : null at WebDriverHooks : setUp
+2025-01-07T19:28:56,611 [TestNG-tests-1] INFO  LogUtil:60 - Driver Instance : null at WebDriverHooks : failedStep
+2025-01-07T19:28:56,615 [TestNG-tests-1] ERROR LogUtil:66 - Test Failed: runScenario
+2025-01-07T19:28:56,627 [TestNG-tests-1] INFO  LogUtil:60 - Driver Instance : null at WebDriverHooks : setUp
+2025-01-07T19:28:56,631 [TestNG-tests-1] INFO  LogUtil:60 - Driver Instance : null at WebDriverHooks : failedStep
+2025-01-07T19:28:56,634 [TestNG-tests-1] ERROR LogUtil:66 - Test Failed: runScenario
+2025-01-07T19:28:56,641 [TestNG-tests-1] INFO  LogUtil:60 - Driver Instance : null at WebDriverHooks : setUp
+2025-01-07T19:28:56,646 [TestNG-tests-1] INFO  LogUtil:60 - Driver Instance : null at WebDriverHooks : failedStep
+2025-01-07T19:28:56,648 [TestNG-tests-1] ERROR LogUtil:66 - Test Failed: runScenario
+2025-01-07T19:28:56,654 [TestNG-tests-1] INFO  LogUtil:60 - Driver Instance : null at WebDriverHooks : setUp
+2025-01-07T19:28:56,657 [TestNG-tests-1] INFO  LogUtil:60 - Driver Instance : null at WebDriverHooks : failedStep
+2025-01-07T19:28:56,659 [TestNG-tests-1] ERROR LogUtil:66 - Test Failed: runScenario

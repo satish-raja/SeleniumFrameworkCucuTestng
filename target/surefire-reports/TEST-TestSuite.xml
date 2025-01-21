@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.2" name="TestSuite" time="51.929" tests="10" errors="0" skipped="4" failures="2">
+  <properties>
+    <property name="java.specification.version" value="17"/>
+    <property name="webdriver.chrome.driver" value="C:\Users\satis\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="D:\WorkSpace_Selenium\CucuTestngFramework9\target\test-classes;D:\WorkSpace_Selenium\CucuTestngFramework9\target\classes;C:\Users\satis\.m2\repository\org\seleniumhq\selenium\selenium-java\4.27.0\selenium-java-4.27.0.jar;C:\Users\satis\.m2\repository\org\seleniumhq\selenium\selenium-api\4.27.0\selenium-api-4.27.0.jar;C:\Users\satis\.m2\repository\org\jspecify\jspecify\1.0.0\jspecify-1.0.0.jar;C:\Users\satis\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\4.27.0\selenium-chrome-driver-4.27.0.jar;C:\Users\satis\.m2\repository\com\google\auto\service\auto-service-annotations\1.1.1\auto-service-annotations-1.1.1.jar;C:\Users\satis\.m2\repository\org\seleniumhq\selenium\selenium-chromium-driver\4.27.0\selenium-chromium-driver-4.27.0.jar;C:\Users\satis\.m2\repository\org\seleniumhq\selenium\selenium-json\4.27.0\selenium-json-4.27.0.jar;C:\Users\satis\.m2\repository\org\seleniumhq\selenium\selenium-manager\4.27.0\selenium-manager-4.27.0.jar;C:\Users\satis\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v129\4.27.0\selenium-devtools-v129-4.27.0.jar;C:\Users\satis\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v130\4.27.0\selenium-devtools-v130-4.27.0.jar;C:\Users\satis\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v131\4.27.0\selenium-devtools-v131-4.27.0.jar;C:\Users\satis\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v85\4.27.0\selenium-devtools-v85-4.27.0.jar;C:\Users\satis\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\4.27.0\selenium-edge-driver-4.27.0.jar;C:\Users\satis\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\4.27.0\selenium-firefox-driver-4.27.0.jar;C:\Users\satis\.m2\repository\org\seleniumhq\selenium\selenium-http\4.27.0\selenium-http-4.27.0.jar;C:\Users\satis\.m2\repository\dev\failsafe\failsafe\3.3.2\failsafe-3.3.2.jar;C:\Users\satis\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\4.27.0\selenium-ie-driver-4.27.0.jar;C:\Users\satis\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\4.27.0\selenium-remote-driver-4.27.0.jar;C:\Users\satis\.m2\repository\com\google\guava\guava\33.3.1-jre\guava-33.3.1-jre.jar;C:\Users\satis\.m2\repository\com\google\guava\failureaccess\1.0.2\failureaccess-1.0.2.jar;C:\Users\satis\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\satis\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\satis\.m2\repository\org\checkerframework\checker-qual\3.43.0\checker-qual-3.43.0.jar;C:\Users\satis\.m2\repository\com\google\j2objc\j2objc-annotations\3.0.0\j2objc-annotations-3.0.0.jar;C:\Users\satis\.m2\repository\io\opentelemetry\semconv\opentelemetry-semconv\1.25.0-alpha\opentelemetry-semconv-1.25.0-alpha.jar;C:\Users\satis\.m2\repository\io\opentelemetry\opentelemetry-api\1.44.1\opentelemetry-api-1.44.1.jar;C:\Users\satis\.m2\repository\io\opentelemetry\opentelemetry-context\1.44.1\opentelemetry-context-1.44.1.jar;C:\Users\satis\.m2\repository\io\opentelemetry\opentelemetry-exporter-logging\1.44.1\opentelemetry-exporter-logging-1.44.1.jar;C:\Users\satis\.m2\repository\io\opentelemetry\opentelemetry-sdk-common\1.44.1\opentelemetry-sdk-common-1.44.1.jar;C:\Users\satis\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure-spi\1.44.1\opentelemetry-sdk-extension-autoconfigure-spi-1.44.1.jar;C:\Users\satis\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure\1.44.1\opentelemetry-sdk-extension-autoconfigure-1.44.1.jar;C:\Users\satis\.m2\repository\io\opentelemetry\opentelemetry-api-incubator\1.44.1-alpha\opentelemetry-api-incubator-1.44.1-alpha.jar;C:\Users\satis\.m2\repository\io\opentelemetry\opentelemetry-sdk-trace\1.44.1\opentelemetry-sdk-trace-1.44.1.jar;C:\Users\satis\.m2\repository\io\opentelemetry\opentelemetry-sdk\1.44.1\opentelemetry-sdk-1.44.1.jar;C:\Users\satis\.m2\repository\io\opentelemetry\opentelemetry-sdk-metrics\1.44.1\opentelemetry-sdk-metrics-1.44.1.jar;C:\Users\satis\.m2\repository\io\opentelemetry\opentelemetry-sdk-logs\1.44.1\opentelemetry-sdk-logs-1.44.1.jar;C:\Users\satis\.m2\repository\net\bytebuddy\byte-buddy\1.15.10\byte-buddy-1.15.10.jar;C:\Users\satis\.m2\repository\org\seleniumhq\selenium\selenium-os\4.27.0\selenium-os-4.27.0.jar;C:\Users\satis\.m2\repository\org\apache\commons\commons-exec\1.4.0\commons-exec-1.4.0.jar;C:\Users\satis\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\4.27.0\selenium-safari-driver-4.27.0.jar;C:\Users\satis\.m2\repository\org\seleniumhq\selenium\selenium-support\4.27.0\selenium-support-4.27.0.jar;C:\Users\satis\.m2\repository\io\cucumber\cucumber-java\7.20.1\cucumber-java-7.20.1.jar;C:\Users\satis\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\satis\.m2\repository\io\cucumber\cucumber-testng\7.20.1\cucumber-testng-7.20.1.jar;C:\Users\satis\.m2\repository\io\cucumber\cucumber-core\7.20.1\cucumber-core-7.20.1.jar;C:\Users\satis\.m2\repository\io\cucumber\cucumber-gherkin\7.20.1\cucumber-gherkin-7.20.1.jar;C:\Users\satis\.m2\repository\io\cucumber\cucumber-gherkin-messages\7.20.1\cucumber-gherkin-messages-7.20.1.jar;C:\Users\satis\.m2\repository\io\cucumber\gherkin\28.0.0\gherkin-28.0.0.jar;C:\Users\satis\.m2\repository\io\cucumber\messages\24.1.0\messages-24.1.0.jar;C:\Users\satis\.m2\repository\io\cucumber\testng-xml-formatter\0.2.0\testng-xml-formatter-0.2.0.jar;C:\Users\satis\.m2\repository\io\cucumber\query\12.2.0\query-12.2.0.jar;C:\Users\satis\.m2\repository\io\cucumber\tag-expressions\6.1.0\tag-expressions-6.1.0.jar;C:\Users\satis\.m2\repository\io\cucumber\cucumber-expressions\17.1.0\cucumber-expressions-17.1.0.jar;C:\Users\satis\.m2\repository\io\cucumber\datatable\7.20.1\datatable-7.20.1.jar;C:\Users\satis\.m2\repository\io\cucumber\cucumber-plugin\7.20.1\cucumber-plugin-7.20.1.jar;C:\Users\satis\.m2\repository\io\cucumber\docstring\7.20.1\docstring-7.20.1.jar;C:\Users\satis\.m2\repository\io\cucumber\html-formatter\21.7.0\html-formatter-21.7.0.jar;C:\Users\satis\.m2\repository\io\cucumber\junit-xml-formatter\0.5.0\junit-xml-formatter-0.5.0.jar;C:\Users\satis\.m2\repository\io\cucumber\ci-environment\10.0.1\ci-environment-10.0.1.jar;C:\Users\satis\.m2\repository\io\qameta\allure\allure-cucumber7-jvm\2.29.1\allure-cucumber7-jvm-2.29.1.jar;C:\Users\satis\.m2\repository\io\qameta\allure\allure-testng\2.29.1\allure-testng-2.29.1.jar;C:\Users\satis\.m2\repository\io\qameta\allure\allure-test-filter\2.29.1\allure-test-filter-2.29.1.jar;C:\Users\satis\.m2\repository\io\qameta\allure\allure-java-commons\2.29.1\allure-java-commons-2.29.1.jar;C:\Users\satis\.m2\repository\org\slf4j\slf4j-api\2.0.13\slf4j-api-2.0.13.jar;C:\Users\satis\.m2\repository\io\qameta\allure\allure-model\2.29.1\allure-model-2.29.1.jar;C:\Users\satis\.m2\repository\org\testng\testng\7.10.2\testng-7.10.2.jar;C:\Users\satis\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar;C:\Users\satis\.m2\repository\org\webjars\jquery\3.7.1\jquery-3.7.1.jar;C:\Users\satis\.m2\repository\org\apache\logging\log4j\log4j-core\2.17.0\log4j-core-2.17.0.jar;C:\Users\satis\.m2\repository\org\apache\logging\log4j\log4j-api\2.17.0\log4j-api-2.17.0.jar;C:\Users\satis\.m2\repository\io\github\bonigarcia\webdrivermanager\5.9.2\webdrivermanager-5.9.2.jar;C:\Users\satis\.m2\repository\com\google\code\gson\gson\2.11.0\gson-2.11.0.jar;C:\Users\satis\.m2\repository\com\google\errorprone\error_prone_annotations\2.27.0\error_prone_annotations-2.27.0.jar;C:\Users\satis\.m2\repository\com\github\docker-java\docker-java\3.4.0\docker-java-3.4.0.jar;C:\Users\satis\.m2\repository\com\github\docker-java\docker-java-core\3.4.0\docker-java-core-3.4.0.jar;C:\Users\satis\.m2\repository\com\github\docker-java\docker-java-api\3.4.0\docker-java-api-3.4.0.jar;C:\Users\satis\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.10.3\jackson-annotations-2.10.3.jar;C:\Users\satis\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.10.3\jackson-databind-2.10.3.jar;C:\Users\satis\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.10.3\jackson-core-2.10.3.jar;C:\Users\satis\.m2\repository\org\slf4j\jcl-over-slf4j\1.7.30\jcl-over-slf4j-1.7.30.jar;C:\Users\satis\.m2\repository\com\github\docker-java\docker-java-transport-httpclient5\3.4.0\docker-java-transport-httpclient5-3.4.0.jar;C:\Users\satis\.m2\repository\com\github\docker-java\docker-java-transport\3.4.0\docker-java-transport-3.4.0.jar;C:\Users\satis\.m2\repository\net\java\dev\jna\jna\5.13.0\jna-5.13.0.jar;C:\Users\satis\.m2\repository\org\brotli\dec\0.1.2\dec-0.1.2.jar;C:\Users\satis\.m2\repository\org\apache\commons\commons-lang3\3.15.0\commons-lang3-3.15.0.jar;C:\Users\satis\.m2\repository\org\apache\commons\commons-compress\1.26.2\commons-compress-1.26.2.jar;C:\Users\satis\.m2\repository\org\apache\httpcomponents\client5\httpclient5\5.2.1\httpclient5-5.2.1.jar;C:\Users\satis\.m2\repository\org\apache\httpcomponents\core5\httpcore5\5.2\httpcore5-5.2.jar;C:\Users\satis\.m2\repository\org\apache\httpcomponents\core5\httpcore5-h2\5.2\httpcore5-h2-5.2.jar;C:\Users\satis\.m2\repository\org\slf4j\slf4j-simple\2.0.16\slf4j-simple-2.0.16.jar;C:\Users\satis\.m2\repository\org\apache\poi\poi\5.2.3\poi-5.2.3.jar;C:\Users\satis\.m2\repository\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;C:\Users\satis\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar;C:\Users\satis\.m2\repository\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar;C:\Users\satis\.m2\repository\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;C:\Users\satis\.m2\repository\com\zaxxer\SparseBitSet\1.2\SparseBitSet-1.2.jar;C:\Users\satis\.m2\repository\org\apache\poi\poi-ooxml\5.2.3\poi-ooxml-5.2.3.jar;C:\Users\satis\.m2\repository\org\apache\poi\poi-ooxml-lite\5.2.3\poi-ooxml-lite-5.2.3.jar;C:\Users\satis\.m2\repository\org\apache\xmlbeans\xmlbeans\5.1.1\xmlbeans-5.1.1.jar;C:\Users\satis\.m2\repository\com\github\virtuald\curvesapi\1.07\curvesapi-1.07.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="suiteXmlFile" value="testng.runner/testng.xml"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17\bin"/>
+    <property name="sun.java.command" value="C:\Users\satis\AppData\Local\Temp\surefire6934381151137388374\surefirebooter-20250116204703003_3.jar C:\Users\satis\AppData\Local\Temp\surefire6934381151137388374 2025-01-16T20-47-02_824-jvmRun1 surefire-20250116204703003_1tmp surefire_0-20250116204703003_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="D:\WorkSpace_Selenium\CucuTestngFramework9\target\test-classes;D:\WorkSpace_Selenium\CucuTestngFramework9\target\classes;C:\Users\satis\.m2\repository\org\seleniumhq\selenium\selenium-java\4.27.0\selenium-java-4.27.0.jar;C:\Users\satis\.m2\repository\org\seleniumhq\selenium\selenium-api\4.27.0\selenium-api-4.27.0.jar;C:\Users\satis\.m2\repository\org\jspecify\jspecify\1.0.0\jspecify-1.0.0.jar;C:\Users\satis\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\4.27.0\selenium-chrome-driver-4.27.0.jar;C:\Users\satis\.m2\repository\com\google\auto\service\auto-service-annotations\1.1.1\auto-service-annotations-1.1.1.jar;C:\Users\satis\.m2\repository\org\seleniumhq\selenium\selenium-chromium-driver\4.27.0\selenium-chromium-driver-4.27.0.jar;C:\Users\satis\.m2\repository\org\seleniumhq\selenium\selenium-json\4.27.0\selenium-json-4.27.0.jar;C:\Users\satis\.m2\repository\org\seleniumhq\selenium\selenium-manager\4.27.0\selenium-manager-4.27.0.jar;C:\Users\satis\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v129\4.27.0\selenium-devtools-v129-4.27.0.jar;C:\Users\satis\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v130\4.27.0\selenium-devtools-v130-4.27.0.jar;C:\Users\satis\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v131\4.27.0\selenium-devtools-v131-4.27.0.jar;C:\Users\satis\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v85\4.27.0\selenium-devtools-v85-4.27.0.jar;C:\Users\satis\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\4.27.0\selenium-edge-driver-4.27.0.jar;C:\Users\satis\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\4.27.0\selenium-firefox-driver-4.27.0.jar;C:\Users\satis\.m2\repository\org\seleniumhq\selenium\selenium-http\4.27.0\selenium-http-4.27.0.jar;C:\Users\satis\.m2\repository\dev\failsafe\failsafe\3.3.2\failsafe-3.3.2.jar;C:\Users\satis\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\4.27.0\selenium-ie-driver-4.27.0.jar;C:\Users\satis\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\4.27.0\selenium-remote-driver-4.27.0.jar;C:\Users\satis\.m2\repository\com\google\guava\guava\33.3.1-jre\guava-33.3.1-jre.jar;C:\Users\satis\.m2\repository\com\google\guava\failureaccess\1.0.2\failureaccess-1.0.2.jar;C:\Users\satis\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\satis\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\satis\.m2\repository\org\checkerframework\checker-qual\3.43.0\checker-qual-3.43.0.jar;C:\Users\satis\.m2\repository\com\google\j2objc\j2objc-annotations\3.0.0\j2objc-annotations-3.0.0.jar;C:\Users\satis\.m2\repository\io\opentelemetry\semconv\opentelemetry-semconv\1.25.0-alpha\opentelemetry-semconv-1.25.0-alpha.jar;C:\Users\satis\.m2\repository\io\opentelemetry\opentelemetry-api\1.44.1\opentelemetry-api-1.44.1.jar;C:\Users\satis\.m2\repository\io\opentelemetry\opentelemetry-context\1.44.1\opentelemetry-context-1.44.1.jar;C:\Users\satis\.m2\repository\io\opentelemetry\opentelemetry-exporter-logging\1.44.1\opentelemetry-exporter-logging-1.44.1.jar;C:\Users\satis\.m2\repository\io\opentelemetry\opentelemetry-sdk-common\1.44.1\opentelemetry-sdk-common-1.44.1.jar;C:\Users\satis\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure-spi\1.44.1\opentelemetry-sdk-extension-autoconfigure-spi-1.44.1.jar;C:\Users\satis\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure\1.44.1\opentelemetry-sdk-extension-autoconfigure-1.44.1.jar;C:\Users\satis\.m2\repository\io\opentelemetry\opentelemetry-api-incubator\1.44.1-alpha\opentelemetry-api-incubator-1.44.1-alpha.jar;C:\Users\satis\.m2\repository\io\opentelemetry\opentelemetry-sdk-trace\1.44.1\opentelemetry-sdk-trace-1.44.1.jar;C:\Users\satis\.m2\repository\io\opentelemetry\opentelemetry-sdk\1.44.1\opentelemetry-sdk-1.44.1.jar;C:\Users\satis\.m2\repository\io\opentelemetry\opentelemetry-sdk-metrics\1.44.1\opentelemetry-sdk-metrics-1.44.1.jar;C:\Users\satis\.m2\repository\io\opentelemetry\opentelemetry-sdk-logs\1.44.1\opentelemetry-sdk-logs-1.44.1.jar;C:\Users\satis\.m2\repository\net\bytebuddy\byte-buddy\1.15.10\byte-buddy-1.15.10.jar;C:\Users\satis\.m2\repository\org\seleniumhq\selenium\selenium-os\4.27.0\selenium-os-4.27.0.jar;C:\Users\satis\.m2\repository\org\apache\commons\commons-exec\1.4.0\commons-exec-1.4.0.jar;C:\Users\satis\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\4.27.0\selenium-safari-driver-4.27.0.jar;C:\Users\satis\.m2\repository\org\seleniumhq\selenium\selenium-support\4.27.0\selenium-support-4.27.0.jar;C:\Users\satis\.m2\repository\io\cucumber\cucumber-java\7.20.1\cucumber-java-7.20.1.jar;C:\Users\satis\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\satis\.m2\repository\io\cucumber\cucumber-testng\7.20.1\cucumber-testng-7.20.1.jar;C:\Users\satis\.m2\repository\io\cucumber\cucumber-core\7.20.1\cucumber-core-7.20.1.jar;C:\Users\satis\.m2\repository\io\cucumber\cucumber-gherkin\7.20.1\cucumber-gherkin-7.20.1.jar;C:\Users\satis\.m2\repository\io\cucumber\cucumber-gherkin-messages\7.20.1\cucumber-gherkin-messages-7.20.1.jar;C:\Users\satis\.m2\repository\io\cucumber\gherkin\28.0.0\gherkin-28.0.0.jar;C:\Users\satis\.m2\repository\io\cucumber\messages\24.1.0\messages-24.1.0.jar;C:\Users\satis\.m2\repository\io\cucumber\testng-xml-formatter\0.2.0\testng-xml-formatter-0.2.0.jar;C:\Users\satis\.m2\repository\io\cucumber\query\12.2.0\query-12.2.0.jar;C:\Users\satis\.m2\repository\io\cucumber\tag-expressions\6.1.0\tag-expressions-6.1.0.jar;C:\Users\satis\.m2\repository\io\cucumber\cucumber-expressions\17.1.0\cucumber-expressions-17.1.0.jar;C:\Users\satis\.m2\repository\io\cucumber\datatable\7.20.1\datatable-7.20.1.jar;C:\Users\satis\.m2\repository\io\cucumber\cucumber-plugin\7.20.1\cucumber-plugin-7.20.1.jar;C:\Users\satis\.m2\repository\io\cucumber\docstring\7.20.1\docstring-7.20.1.jar;C:\Users\satis\.m2\repository\io\cucumber\html-formatter\21.7.0\html-formatter-21.7.0.jar;C:\Users\satis\.m2\repository\io\cucumber\junit-xml-formatter\0.5.0\junit-xml-formatter-0.5.0.jar;C:\Users\satis\.m2\repository\io\cucumber\ci-environment\10.0.1\ci-environment-10.0.1.jar;C:\Users\satis\.m2\repository\io\qameta\allure\allure-cucumber7-jvm\2.29.1\allure-cucumber7-jvm-2.29.1.jar;C:\Users\satis\.m2\repository\io\qameta\allure\allure-testng\2.29.1\allure-testng-2.29.1.jar;C:\Users\satis\.m2\repository\io\qameta\allure\allure-test-filter\2.29.1\allure-test-filter-2.29.1.jar;C:\Users\satis\.m2\repository\io\qameta\allure\allure-java-commons\2.29.1\allure-java-commons-2.29.1.jar;C:\Users\satis\.m2\repository\org\slf4j\slf4j-api\2.0.13\slf4j-api-2.0.13.jar;C:\Users\satis\.m2\repository\io\qameta\allure\allure-model\2.29.1\allure-model-2.29.1.jar;C:\Users\satis\.m2\repository\org\testng\testng\7.10.2\testng-7.10.2.jar;C:\Users\satis\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar;C:\Users\satis\.m2\repository\org\webjars\jquery\3.7.1\jquery-3.7.1.jar;C:\Users\satis\.m2\repository\org\apache\logging\log4j\log4j-core\2.17.0\log4j-core-2.17.0.jar;C:\Users\satis\.m2\repository\org\apache\logging\log4j\log4j-api\2.17.0\log4j-api-2.17.0.jar;C:\Users\satis\.m2\repository\io\github\bonigarcia\webdrivermanager\5.9.2\webdrivermanager-5.9.2.jar;C:\Users\satis\.m2\repository\com\google\code\gson\gson\2.11.0\gson-2.11.0.jar;C:\Users\satis\.m2\repository\com\google\errorprone\error_prone_annotations\2.27.0\error_prone_annotations-2.27.0.jar;C:\Users\satis\.m2\repository\com\github\docker-java\docker-java\3.4.0\docker-java-3.4.0.jar;C:\Users\satis\.m2\repository\com\github\docker-java\docker-java-core\3.4.0\docker-java-core-3.4.0.jar;C:\Users\satis\.m2\repository\com\github\docker-java\docker-java-api\3.4.0\docker-java-api-3.4.0.jar;C:\Users\satis\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.10.3\jackson-annotations-2.10.3.jar;C:\Users\satis\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.10.3\jackson-databind-2.10.3.jar;C:\Users\satis\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.10.3\jackson-core-2.10.3.jar;C:\Users\satis\.m2\repository\org\slf4j\jcl-over-slf4j\1.7.30\jcl-over-slf4j-1.7.30.jar;C:\Users\satis\.m2\repository\com\github\docker-java\docker-java-transport-httpclient5\3.4.0\docker-java-transport-httpclient5-3.4.0.jar;C:\Users\satis\.m2\repository\com\github\docker-java\docker-java-transport\3.4.0\docker-java-transport-3.4.0.jar;C:\Users\satis\.m2\repository\net\java\dev\jna\jna\5.13.0\jna-5.13.0.jar;C:\Users\satis\.m2\repository\org\brotli\dec\0.1.2\dec-0.1.2.jar;C:\Users\satis\.m2\repository\org\apache\commons\commons-lang3\3.15.0\commons-lang3-3.15.0.jar;C:\Users\satis\.m2\repository\org\apache\commons\commons-compress\1.26.2\commons-compress-1.26.2.jar;C:\Users\satis\.m2\repository\org\apache\httpcomponents\client5\httpclient5\5.2.1\httpclient5-5.2.1.jar;C:\Users\satis\.m2\repository\org\apache\httpcomponents\core5\httpcore5\5.2\httpcore5-5.2.jar;C:\Users\satis\.m2\repository\org\apache\httpcomponents\core5\httpcore5-h2\5.2\httpcore5-h2-5.2.jar;C:\Users\satis\.m2\repository\org\slf4j\slf4j-simple\2.0.16\slf4j-simple-2.0.16.jar;C:\Users\satis\.m2\repository\org\apache\poi\poi\5.2.3\poi-5.2.3.jar;C:\Users\satis\.m2\repository\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;C:\Users\satis\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar;C:\Users\satis\.m2\repository\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar;C:\Users\satis\.m2\repository\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;C:\Users\satis\.m2\repository\com\zaxxer\SparseBitSet\1.2\SparseBitSet-1.2.jar;C:\Users\satis\.m2\repository\org\apache\poi\poi-ooxml\5.2.3\poi-ooxml-5.2.3.jar;C:\Users\satis\.m2\repository\org\apache\poi\poi-ooxml-lite\5.2.3\poi-ooxml-lite-5.2.3.jar;C:\Users\satis\.m2\repository\org\apache\xmlbeans\xmlbeans\5.1.1\xmlbeans-5.1.1.jar;C:\Users\satis\.m2\repository\com\github\virtuald\curvesapi\1.07\curvesapi-1.07.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\satis"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2024-07-16"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-17"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="D:\WorkSpace_Selenium\CucuTestngFramework9"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\satis\AppData\Local\Temp\surefire6934381151137388374\surefirebooter-20250116204703003_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="17.0.12+8-LTS-286"/>
+    <property name="user.name" value="satis"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\satis\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\satis\AppData\Local\Temp\"/>
+    <property name="java.version" value="17.0.12"/>
+    <property name="user.dir" value="D:\WorkSpace_Selenium\CucuTestngFramework9"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-17\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Java\jdk-17\bin;D:\VMware\VMware Workstation\bin\;C:\Program Files\Eclipse Adoptium\jdk-11.0.24.8-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Groovy\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\Maven\apache-maven-3.9.6\bin;C:\Program Files\apache-jmeter-5.6.2\apache-jmeter-5.6.2\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Kubectl;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\nodejs;C:\Program Files\dotnet\;C:\Program Files\Java\jdk-17\bin;C:\Program Files\Java\jdk-17\jre\bin;C:\Program Files\Git\cmd;C:\Program Files\allure-2.32.0\bin;C:\Users\satis\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\satis\AppData\Local\Programs\Python\Python312\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\satis\AppData\Local\Microsoft\WindowsApps;C:\Users\satis\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\satis\AppData\Local\GitHubDesktop\bin;C:\Program Files\allure-2.28.0\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2024.1.4\bin;C:\Users\satis\AppData\Roaming\npm;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.1\bin;;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="17.0.12+8-LTS-286"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="61.0"/>
+  </properties>
+  <testcase name="runScenario[&quot;Login with Empty Credentials Should Display Error Messages&quot;, &quot;Login with Empty Credentials&quot;](1)" classname="com.orangehrm.selenium.cucumber.runner.TestRunner" time="0.0">
+    <skipped message="Error message for Username field does not match! expected [Require] but found [Required]"/>
+    <system-out><![CDATA[2025-01-16T20:47:04,098 [main] INFO  LogUtil:60 - Deleted directory allure-results
+
+@Login @InvalidLoginCredentials @SanityTest @RegressionTest
+Scenario Outline: Login with Invalid Credentials Should Display Error Message   # src/test/resources/features/LoginWithInvalidCredentials.feature:20
+
+@Login @InvalidLoginCredentials @SanityTest @RegressionTest
+Scenario Outline: Login with Invalid Credentials Should Display Error Message # src/test/resources/features/LoginWithInvalidCredentials.feature:19
+
+@Login @InvalidLoginCredentials @SanityTest @RegressionTest
+Scenario Outline: Login with Invalid Credentials Should Display Error Message # src/test/resources/features/LoginWithInvalidCredentials.feature:21
+
+@Login @LoginResetPassword @SanityTest
+Scenario: Reset Password Functionality Should Display Success Message # src/test/resources/features/PasswordResetFunctionality.feature:12
+
+@Login @EmptyLoginCredentials @SanityTest
+Scenario: Login with Empty Credentials Should Display Error Messages      # src/test/resources/features/LoginWithEmptyCredentials.feature:12
+
+@Login @ValidLoginCredentials @SmokeTest @SanityTest @EndToEndTest @RegressionTest
+Scenario Outline: Login with Valid Credentials Should Navigate to Dashboard   # src/test/resources/features/LoginWithValidCredentials.feature:21
+2025-01-16T20:47:04,610 [TestNG-PoolService-2] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-16T20:47:04,610 [TestNG-PoolService-4] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-16T20:47:04,611 [TestNG-PoolService-6] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-16T20:47:04,611 [TestNG-PoolService-3] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-16T20:47:04,612 [TestNG-PoolService-1] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-16T20:47:04,612 [TestNG-PoolService-5] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-16T20:47:06,831 [TestNG-PoolService-3] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (9a1c98a038a0aaeed427fb14ab4e41ac) at WebDriverHooks : setUp
+2025-01-16T20:47:06,831 [TestNG-PoolService-1] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (9ec90f49f0380d90e105f6bda6b4c3f4) at WebDriverHooks : setUp
+2025-01-16T20:47:06,831 [TestNG-PoolService-5] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (6ac985012b03e9854d297d5cab837df4) at WebDriverHooks : setUp
+2025-01-16T20:47:06,848 [TestNG-PoolService-2] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (79a10585f0baf288dfc845601ebd994e) at WebDriverHooks : setUp
+2025-01-16T20:47:06,848 [TestNG-PoolService-4] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (294098162ada7e8ccbbc89b76d41a559) at WebDriverHooks : setUp
+2025-01-16T20:47:06,863 [TestNG-PoolService-6] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (39de52fd294ea5ab5e4c48c44298eb40) at WebDriverHooks : setUp
+2025-01-16T20:47:09,798 [TestNG-PoolService-3] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-16T20:47:09,835 [TestNG-PoolService-4] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-16T20:47:09,851 [TestNG-PoolService-5] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-16T20:47:09,865 [TestNG-PoolService-2] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-16T20:47:10,081 [TestNG-PoolService-1] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-16T20:47:10,268 [TestNG-PoolService-6] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-16T20:47:10,360 [TestNG-PoolService-3] INFO  LogUtil:60 - Login page loaded successfully.
+  Given I am on the login page                                                  # com.orangehrm.selenium.cucumber.stepdefs.CommonStepDef.i_am_on_the_login_page()
+2025-01-16T20:47:10,367 [TestNG-PoolService-3] INFO  LogUtil:60 - Entering invalid credentials. Username: Admin, Password: admin123
+2025-01-16T20:47:10,404 [TestNG-PoolService-4] INFO  LogUtil:60 - Login page loaded successfully.
+  Given I am on the login page                                                # com.orangehrm.selenium.cucumber.stepdefs.CommonStepDef.i_am_on_the_login_page()
+2025-01-16T20:47:10,411 [TestNG-PoolService-4] INFO  LogUtil:60 - Entering invalid credentials. Username: Adminn, Password: admin
+2025-01-16T20:47:10,424 [TestNG-PoolService-5] INFO  LogUtil:60 - Login page loaded successfully.
+  Given I am on the login page                                                # com.orangehrm.selenium.cucumber.stepdefs.CommonStepDef.i_am_on_the_login_page()
+2025-01-16T20:47:10,429 [TestNG-PoolService-5] INFO  LogUtil:60 - Entering valid credentials. Username: Admin, Password: admin123
+2025-01-16T20:47:10,439 [TestNG-PoolService-2] INFO  LogUtil:60 - Login page loaded successfully.
+  Given I am on the login page                                                # com.orangehrm.selenium.cucumber.stepdefs.CommonStepDef.i_am_on_the_login_page()
+2025-01-16T20:47:10,442 [TestNG-PoolService-2] INFO  LogUtil:60 - Entering invalid credentials. Username: Admin, Password: admin
+2025-01-16T20:47:10,477 [TestNG-PoolService-3] INFO  LogUtil:60 - Entered username: Admin
+2025-01-16T20:47:10,574 [TestNG-PoolService-4] INFO  LogUtil:60 - Entered username: Adminn
+2025-01-16T20:47:10,582 [TestNG-PoolService-5] INFO  LogUtil:60 - Entered username: Admin
+2025-01-16T20:47:10,582 [TestNG-PoolService-2] INFO  LogUtil:60 - Entered username: Admin
+2025-01-16T20:47:10,637 [TestNG-PoolService-3] INFO  LogUtil:60 - Entered password: admin123
+  Given I enter an invalid user name "Admin" and an invalid password "admin123" # com.orangehrm.selenium.cucumber.stepdefs.InvalidLoginStepDef.i_enter_invalid_user_credentials(java.lang.String,java.lang.String)
+2025-01-16T20:47:10,641 [TestNG-PoolService-1] INFO  LogUtil:60 - Login page loaded successfully.
+  Given I am on the login page                                            # com.orangehrm.selenium.cucumber.stepdefs.CommonStepDef.i_am_on_the_login_page()
+2025-01-16T20:47:10,644 [TestNG-PoolService-1] INFO  LogUtil:60 - Leaving the username and password fields empty.
+2025-01-16T20:47:10,689 [TestNG-PoolService-2] INFO  LogUtil:60 - Entered password: admin
+  Given I enter an invalid user name "Admin" and an invalid password "admin"  # com.orangehrm.selenium.cucumber.stepdefs.InvalidLoginStepDef.i_enter_invalid_user_credentials(java.lang.String,java.lang.String)
+2025-01-16T20:47:10,703 [TestNG-PoolService-4] INFO  LogUtil:60 - Entered password: admin
+  Given I enter an invalid user name "Adminn" and an invalid password "admin" # com.orangehrm.selenium.cucumber.stepdefs.InvalidLoginStepDef.i_enter_invalid_user_credentials(java.lang.String,java.lang.String)
+2025-01-16T20:47:10,724 [TestNG-PoolService-5] INFO  LogUtil:60 - Entered password: admin123
+  Given I enter a valid user name "Admin" and a valid password "admin123"     # com.orangehrm.selenium.cucumber.stepdefs.ValidLoginStepDef.i_enter_valid_user_credentials(java.lang.String,java.lang.String)
+2025-01-16T20:47:10,731 [TestNG-PoolService-1] INFO  LogUtil:60 - Entered username: 
+2025-01-16T20:47:10,762 [TestNG-PoolService-3] INFO  LogUtil:60 - Clicked login button
+2025-01-16T20:47:10,762 [TestNG-PoolService-3] INFO  LogUtil:60 - Login button clicked.
+  When I click on the login button                                              # com.orangehrm.selenium.cucumber.stepdefs.CommonStepDef.i_click_on_the_login_button()
+2025-01-16T20:47:10,764 [TestNG-PoolService-3] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-16T20:47:10,794 [TestNG-PoolService-2] INFO  LogUtil:60 - Clicked login button
+2025-01-16T20:47:10,795 [TestNG-PoolService-2] INFO  LogUtil:60 - Login button clicked.
+  When I click on the login button                                            # com.orangehrm.selenium.cucumber.stepdefs.CommonStepDef.i_click_on_the_login_button()
+2025-01-16T20:47:10,797 [TestNG-PoolService-2] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-16T20:47:10,802 [TestNG-PoolService-4] INFO  LogUtil:60 - Clicked login button
+2025-01-16T20:47:10,802 [TestNG-PoolService-4] INFO  LogUtil:60 - Login button clicked.
+  When I click on the login button                                            # com.orangehrm.selenium.cucumber.stepdefs.CommonStepDef.i_click_on_the_login_button()
+2025-01-16T20:47:10,806 [TestNG-PoolService-4] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-16T20:47:10,812 [TestNG-PoolService-1] INFO  LogUtil:60 - Entered password: 
+  Given I leave the username and password fields empty                    # com.orangehrm.selenium.cucumber.stepdefs.EmptyLoginStepDef.i_leave_fields_empty()
+2025-01-16T20:47:10,832 [TestNG-PoolService-6] INFO  LogUtil:60 - Login page loaded successfully.
+  Given I am on the login page                                        # com.orangehrm.selenium.cucumber.stepdefs.CommonStepDef.i_am_on_the_login_page()
+2025-01-16T20:47:10,835 [TestNG-PoolService-6] INFO  LogUtil:60 - Clicking on the link: Forgot your password?
+2025-01-16T20:47:10,908 [TestNG-PoolService-1] INFO  LogUtil:60 - Clicked login button
+2025-01-16T20:47:10,909 [TestNG-PoolService-1] INFO  LogUtil:60 - Login button clicked.
+  When I click on the login button                                        # com.orangehrm.selenium.cucumber.stepdefs.CommonStepDef.i_click_on_the_login_button()
+2025-01-16T20:47:10,911 [TestNG-PoolService-1] INFO  LogUtil:60 - Verifying error messages for blank username and password fields.
+  Then I should see error messages for blank username and password fields # com.orangehrm.selenium.cucumber.stepdefs.EmptyLoginStepDef.i_should_see_error_messages()
+      java.lang.AssertionError: Error message for Username field does not match! expected [Require] but found [Required]
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1578)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:150)
+	at org.testng.Assert.assertEquals(Assert.java:132)
+	at org.testng.Assert.assertEquals(Assert.java:656)
+	at com.orangehrm.selenium.cucumber.stepdefs.EmptyLoginStepDef.i_should_see_error_messages(EmptyLoginStepDef.java:68)
+	at âœ½.I should see error messages for blank username and password fields(file:///D:/WorkSpace_Selenium/CucuTestngFramework9/src/test/resources/features/LoginWithEmptyCredentials.feature:15)
+
+
+    Embedding Login with Empty Credentials Should Display Error Messages [image/png 95233 bytes]
+
+2025-01-16T20:47:11,428 [TestNG-PoolService-1] ERROR LogUtil:66 - Test Failed: Login with Empty Credentials Should Display Error Messages
+2025-01-16T20:47:11,429 [TestNG-PoolService-1] INFO  LogUtil:60 - Processing Scenario: Name = file:///D:/WorkSpace_Selenium/CucuTestngFramework9/src/test/resources/features/LoginWithEmptyCredentials, Line = 12
+2025-01-16T20:47:11,606 [TestNG-PoolService-1] INFO  LogUtil:60 - Screenshot of Failed Test Scenario file:///D:/WorkSpace_Selenium/CucuTestngFramework9/src/test/resources/features/LoginWithEmptyCredentials is saved.
+2025-01-16T20:47:11,682 [TestNG-PoolService-6] INFO  LogUtil:60 - Clicked forgot password link
+  When I click on the "Forgot your password?" link                    # com.orangehrm.selenium.cucumber.stepdefs.PasswordResetStepDef.i_click_on_the_link(java.lang.String)
+2025-01-16T20:47:11,683 [TestNG-PoolService-6] INFO  LogUtil:60 - Verifying that I am redirected to the Reset Password page.
+]]></system-out>
+    <system-err><![CDATA[[TestNG-PoolService-1] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 131.0.6778.264 (resolved driver for Chrome 131)
+[TestNG-PoolService-6] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 131.0.6778.264 (resolved driver for Chrome 131)
+[TestNG-PoolService-3] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 131.0.6778.264 (resolved driver for Chrome 131)
+[TestNG-PoolService-5] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 131.0.6778.264 (resolved driver for Chrome 131)
+[TestNG-PoolService-2] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 131.0.6778.264 (resolved driver for Chrome 131)
+[TestNG-PoolService-4] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 131.0.6778.264 (resolved driver for Chrome 131)
+[TestNG-PoolService-3] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\satis\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe
+[TestNG-PoolService-2] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\satis\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe
+[TestNG-PoolService-4] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\satis\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe
+[TestNG-PoolService-6] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\satis\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe
+[TestNG-PoolService-5] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\satis\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe
+[TestNG-PoolService-1] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\satis\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe
+]]></system-err>
+  </testcase>
+  <testcase name="runScenario[&quot;Login with Invalid Credentials Should Display Error Message&quot;, &quot;Login with Invalid Credentials&quot;](2)" classname="com.orangehrm.selenium.cucumber.runner.TestRunner" time="0.663">
+    <system-out><![CDATA[
+@Login @EmptyLoginCredentials @SanityTest
+Scenario: Login with Empty Credentials Should Display Error Messages      # src/test/resources/features/LoginWithEmptyCredentials.feature:12
+2025-01-16T20:47:11,758 [TestNG-PoolService-1] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-16T20:47:12,153 [TestNG-PoolService-5] INFO  LogUtil:60 - Clicked login button
+2025-01-16T20:47:12,154 [TestNG-PoolService-5] INFO  LogUtil:60 - Login button clicked.
+  When I click on the login button                                            # com.orangehrm.selenium.cucumber.stepdefs.CommonStepDef.i_click_on_the_login_button()
+2025-01-16T20:47:12,156 [TestNG-PoolService-5] INFO  LogUtil:60 - Verifying login success and Dashboard page visibility.
+  Then I should be redirected to the Reset Password page              # com.orangehrm.selenium.cucumber.stepdefs.PasswordResetStepDef.i_should_be_redirected_to_the_reset_password_page()
+2025-01-16T20:47:12,225 [TestNG-PoolService-6] INFO  LogUtil:60 - Entering a valid username: Admin
+  Then I should see an error message "Invalid credentials" on the Login page  # com.orangehrm.selenium.cucumber.stepdefs.InvalidLoginStepDef.i_should_see_error_message(java.lang.String)
+2025-01-16T20:47:12,318 [TestNG-PoolService-6] INFO  LogUtil:60 - Entered username: Admin
+  And I enter a valid username "Admin"                                # com.orangehrm.selenium.cucumber.stepdefs.PasswordResetStepDef.i_enter_a_valid_username(java.lang.String)
+2025-01-16T20:47:12,319 [TestNG-PoolService-6] INFO  LogUtil:60 - Clicking on the Reset Password button.
+2025-01-16T20:47:12,407 [TestNG-PoolService-6] INFO  LogUtil:60 - Clicked login button
+  When I click on the Reset Password button                           # com.orangehrm.selenium.cucumber.stepdefs.PasswordResetStepDef.i_click_on_the_reset_password_button()
+]]></system-out>
+    <system-err><![CDATA[[TestNG-PoolService-1] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 131.0.6778.264 (resolved driver for Chrome 131)
+[TestNG-PoolService-1] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\satis\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe
+]]></system-err>
+  </testcase>
+  <testcase name="runScenario[&quot;Login with Invalid Credentials Should Display Error Message&quot;, &quot;Login with Invalid Credentials&quot;](3)" classname="com.orangehrm.selenium.cucumber.runner.TestRunner" time="0.941">
+    <system-out><![CDATA[2025-01-16T20:47:12,412 [TestNG-PoolService-6] INFO  LogUtil:60 - Verifying the success message and URL after clicking the Reset Password button.
+2025-01-16T20:47:12,456 [TestNG-PoolService-1] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (ebfa145b68e4a6d15c88156e667e86ea) at WebDriverHooks : setUp
+  Then I should see an error message "Invalid credentials" on the Login page  # com.orangehrm.selenium.cucumber.stepdefs.InvalidLoginStepDef.i_should_see_error_message(java.lang.String)
+]]></system-out>
+  </testcase>
+  <testcase name="runScenario[&quot;Reset Password Functionality Should Display Success Message&quot;, &quot;Password Reset Functionality&quot;](4)" classname="com.orangehrm.selenium.cucumber.runner.TestRunner" time="2.209">
+    <system-out><![CDATA[  Then I should be logged in successfully and I should see the Dashboard page # com.orangehrm.selenium.cucumber.stepdefs.ValidLoginStepDef.i_should_be_logged_in_successfully()
+2025-01-16T20:47:12,711 [TestNG-PoolService-5] INFO  LogUtil:60 - Clicking on the logout button.
+  Then I should see a message "Reset Password link sent successfully" # com.orangehrm.selenium.cucumber.stepdefs.PasswordResetStepDef.i_should_see_a_message(java.lang.String)
+]]></system-out>
+  </testcase>
+  <testcase name="runScenario[&quot;Login with Valid Credentials Should Navigate to Dashboard&quot;, &quot;Login with Valid Credentials&quot;](5)" classname="com.orangehrm.selenium.cucumber.runner.TestRunner" time="3.097">
+    <system-out><![CDATA[2025-01-16T20:47:14,206 [TestNG-PoolService-5] INFO  LogUtil:60 - Clicked logout link
+  When I click on the logout button                                           # com.orangehrm.selenium.cucumber.stepdefs.ValidLoginStepDef.i_click_on_the_logout_button()
+2025-01-16T20:47:14,206 [TestNG-PoolService-5] INFO  LogUtil:60 - Verifying successful navigation to the Login page.
+  Then I should be successfully navigated to the Login page                   # com.orangehrm.selenium.cucumber.stepdefs.ValidLoginStepDef.i_should_be_navigated_to_the_login_page()
+]]></system-out>
+  </testcase>
+  <testcase name="runScenario[&quot;Login with Empty Credentials Should Display Error Messages&quot;, &quot;Login with Empty Credentials&quot;](6)" classname="com.orangehrm.selenium.cucumber.runner.TestRunner" time="0.0">
+    <skipped message="Error message for Username field does not match! expected [Require] but found [Required]"/>
+    <system-out><![CDATA[2025-01-16T20:47:15,112 [TestNG-PoolService-1] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-16T20:47:15,657 [TestNG-PoolService-1] INFO  LogUtil:60 - Login page loaded successfully.
+  Given I am on the login page                                            # com.orangehrm.selenium.cucumber.stepdefs.CommonStepDef.i_am_on_the_login_page()
+2025-01-16T20:47:15,658 [TestNG-PoolService-1] INFO  LogUtil:60 - Leaving the username and password fields empty.
+2025-01-16T20:47:15,700 [TestNG-PoolService-1] INFO  LogUtil:60 - Entered username: 
+2025-01-16T20:47:15,751 [TestNG-PoolService-1] INFO  LogUtil:60 - Entered password: 
+  Given I leave the username and password fields empty                    # com.orangehrm.selenium.cucumber.stepdefs.EmptyLoginStepDef.i_leave_fields_empty()
+2025-01-16T20:47:15,814 [TestNG-PoolService-1] INFO  LogUtil:60 - Clicked login button
+2025-01-16T20:47:15,814 [TestNG-PoolService-1] INFO  LogUtil:60 - Login button clicked.
+  When I click on the login button                                        # com.orangehrm.selenium.cucumber.stepdefs.CommonStepDef.i_click_on_the_login_button()
+2025-01-16T20:47:15,816 [TestNG-PoolService-1] INFO  LogUtil:60 - Verifying error messages for blank username and password fields.
+  Then I should see error messages for blank username and password fields # com.orangehrm.selenium.cucumber.stepdefs.EmptyLoginStepDef.i_should_see_error_messages()
+      java.lang.AssertionError: Error message for Username field does not match! expected [Require] but found [Required]
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1578)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:150)
+	at org.testng.Assert.assertEquals(Assert.java:132)
+	at org.testng.Assert.assertEquals(Assert.java:656)
+	at com.orangehrm.selenium.cucumber.stepdefs.EmptyLoginStepDef.i_should_see_error_messages(EmptyLoginStepDef.java:68)
+	at âœ½.I should see error messages for blank username and password fields(file:///D:/WorkSpace_Selenium/CucuTestngFramework9/src/test/resources/features/LoginWithEmptyCredentials.feature:15)
+
+
+    Embedding Login with Empty Credentials Should Display Error Messages [image/png 93838 bytes]
+
+2025-01-16T20:47:16,258 [TestNG-PoolService-1] ERROR LogUtil:66 - Test Failed: Login with Empty Credentials Should Display Error Messages
+2025-01-16T20:47:16,259 [TestNG-PoolService-1] INFO  LogUtil:60 - Processing Scenario: Name = file:///D:/WorkSpace_Selenium/CucuTestngFramework9/src/test/resources/features/LoginWithEmptyCredentials, Line = 12
+2025-01-16T20:47:16,259 [TestNG-PoolService-1] INFO  LogUtil:60 - Duplicate Screenshot: file:///D:/WorkSpace_Selenium/CucuTestngFramework9/src/test/resources/features/LoginWithEmptyCredentials at line 12
+]]></system-out>
+  </testcase>
+  <testcase name="runScenario[&quot;Login with Empty Credentials Should Display Error Messages&quot;, &quot;Login with Empty Credentials&quot;](7)" classname="com.orangehrm.selenium.cucumber.runner.TestRunner" time="4.841">
+    <failure message="Error message for Username field does not match! expected [Require] but found [Required]" type="java.lang.AssertionError"><![CDATA[java.lang.AssertionError: Error message for Username field does not match! expected [Require] but found [Required]
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1578)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:150)
+	at org.testng.Assert.assertEquals(Assert.java:132)
+	at org.testng.Assert.assertEquals(Assert.java:656)
+	at com.orangehrm.selenium.cucumber.stepdefs.EmptyLoginStepDef.i_should_see_error_messages(EmptyLoginStepDef.java:68)
+	at ✽.I should see error messages for blank username and password fields(file:///D:/WorkSpace_Selenium/CucuTestngFramework9/src/test/resources/features/LoginWithEmptyCredentials.feature:15)
+]]></failure>
+    <system-out><![CDATA[
+@Login @EmptyLoginCredentials @SanityTest
+Scenario: Login with Empty Credentials Should Display Error Messages      # src/test/resources/features/LoginWithEmptyCredentials.feature:12
+2025-01-16T20:47:16,362 [TestNG-PoolService-1] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-16T20:47:17,034 [TestNG-PoolService-1] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (cd2b6eb39b6bd89edeed3874f864fe36) at WebDriverHooks : setUp
+2025-01-16T20:47:19,967 [TestNG-PoolService-1] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-16T20:47:20,513 [TestNG-PoolService-1] INFO  LogUtil:60 - Login page loaded successfully.
+  Given I am on the login page                                            # com.orangehrm.selenium.cucumber.stepdefs.CommonStepDef.i_am_on_the_login_page()
+2025-01-16T20:47:20,514 [TestNG-PoolService-1] INFO  LogUtil:60 - Leaving the username and password fields empty.
+2025-01-16T20:47:20,554 [TestNG-PoolService-1] INFO  LogUtil:60 - Entered username: 
+2025-01-16T20:47:20,605 [TestNG-PoolService-1] INFO  LogUtil:60 - Entered password: 
+  Given I leave the username and password fields empty                    # com.orangehrm.selenium.cucumber.stepdefs.EmptyLoginStepDef.i_leave_fields_empty()
+2025-01-16T20:47:20,664 [TestNG-PoolService-1] INFO  LogUtil:60 - Clicked login button
+2025-01-16T20:47:20,664 [TestNG-PoolService-1] INFO  LogUtil:60 - Login button clicked.
+  When I click on the login button                                        # com.orangehrm.selenium.cucumber.stepdefs.CommonStepDef.i_click_on_the_login_button()
+2025-01-16T20:47:20,665 [TestNG-PoolService-1] INFO  LogUtil:60 - Verifying error messages for blank username and password fields.
+  Then I should see error messages for blank username and password fields # com.orangehrm.selenium.cucumber.stepdefs.EmptyLoginStepDef.i_should_see_error_messages()
+      java.lang.AssertionError: Error message for Username field does not match! expected [Require] but found [Required]
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1578)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:150)
+	at org.testng.Assert.assertEquals(Assert.java:132)
+	at org.testng.Assert.assertEquals(Assert.java:656)
+	at com.orangehrm.selenium.cucumber.stepdefs.EmptyLoginStepDef.i_should_see_error_messages(EmptyLoginStepDef.java:68)
+	at âœ½.I should see error messages for blank username and password fields(file:///D:/WorkSpace_Selenium/CucuTestngFramework9/src/test/resources/features/LoginWithEmptyCredentials.feature:15)
+
+  Then I should see an error message "Invalid credentials" on the Login page    # com.orangehrm.selenium.cucumber.stepdefs.InvalidLoginStepDef.i_should_see_error_message(java.lang.String)
+      java.lang.AssertionError: Error message not displayed as expected! expected [Invalid credentials] but found []
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1578)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:150)
+	at org.testng.Assert.assertEquals(Assert.java:132)
+	at org.testng.Assert.assertEquals(Assert.java:656)
+	at com.orangehrm.selenium.cucumber.stepdefs.InvalidLoginStepDef.i_should_see_error_message(InvalidLoginStepDef.java:65)
+	at âœ½.I should see an error message "Invalid credentials" on the Login page(file:///D:/WorkSpace_Selenium/CucuTestngFramework9/src/test/resources/features/LoginWithInvalidCredentials.feature:15)
+
+
+    Embedding Login with Empty Credentials Should Display Error Messages [image/png 80433 bytes]
+
+2025-01-16T20:47:21,105 [TestNG-PoolService-1] ERROR LogUtil:66 - Test Failed: Login with Empty Credentials Should Display Error Messages
+2025-01-16T20:47:21,105 [TestNG-PoolService-1] INFO  LogUtil:60 - Processing Scenario: Name = file:///D:/WorkSpace_Selenium/CucuTestngFramework9/src/test/resources/features/LoginWithEmptyCredentials, Line = 12
+2025-01-16T20:47:21,105 [TestNG-PoolService-1] INFO  LogUtil:60 - Duplicate Screenshot: file:///D:/WorkSpace_Selenium/CucuTestngFramework9/src/test/resources/features/LoginWithEmptyCredentials at line 12
+]]></system-out>
+    <system-err><![CDATA[[TestNG-PoolService-1] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 131.0.6778.264 (resolved driver for Chrome 131)
+[TestNG-PoolService-1] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\satis\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe
+]]></system-err>
+  </testcase>
+  <testcase name="runScenario[&quot;Login with Invalid Credentials Should Display Error Message&quot;, &quot;Login with Invalid Credentials&quot;](8)" classname="com.orangehrm.selenium.cucumber.runner.TestRunner" time="0.0">
+    <skipped message="Error message not displayed as expected! expected [Invalid credentials] but found []"/>
+    <system-out><![CDATA[
+    Embedding Login with Invalid Credentials Should Display Error Message [image/png 259266 bytes]
+
+2025-01-16T20:47:21,230 [TestNG-PoolService-3] ERROR LogUtil:66 - Test Failed: Login with Invalid Credentials Should Display Error Message
+2025-01-16T20:47:21,230 [TestNG-PoolService-3] INFO  LogUtil:60 - Processing Scenario: Name = file:///D:/WorkSpace_Selenium/CucuTestngFramework9/src/test/resources/features/LoginWithInvalidCredentials, Line = 20
+2025-01-16T20:47:21,437 [TestNG-PoolService-3] INFO  LogUtil:60 - Screenshot of Failed Test Scenario file:///D:/WorkSpace_Selenium/CucuTestngFramework9/src/test/resources/features/LoginWithInvalidCredentials is saved.
+]]></system-out>
+  </testcase>
+  <testcase name="runScenario[&quot;Login with Invalid Credentials Should Display Error Message&quot;, &quot;Login with Invalid Credentials&quot;](9)" classname="com.orangehrm.selenium.cucumber.runner.TestRunner" time="0.0">
+    <skipped message="Error message not displayed as expected! expected [Invalid credentials] but found []"/>
+    <system-out><![CDATA[
+@Login @InvalidLoginCredentials @SanityTest @RegressionTest
+Scenario Outline: Login with Invalid Credentials Should Display Error Message   # src/test/resources/features/LoginWithInvalidCredentials.feature:20
+2025-01-16T20:47:21,565 [TestNG-PoolService-3] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-16T20:47:22,203 [TestNG-PoolService-3] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (36272097379d4d835dfae9ad94f6c263) at WebDriverHooks : setUp
+2025-01-16T20:47:25,144 [TestNG-PoolService-3] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-16T20:47:25,678 [TestNG-PoolService-3] INFO  LogUtil:60 - Login page loaded successfully.
+  Given I am on the login page                                                  # com.orangehrm.selenium.cucumber.stepdefs.CommonStepDef.i_am_on_the_login_page()
+2025-01-16T20:47:25,679 [TestNG-PoolService-3] INFO  LogUtil:60 - Entering invalid credentials. Username: Admin, Password: admin123
+2025-01-16T20:47:25,728 [TestNG-PoolService-3] INFO  LogUtil:60 - Entered username: Admin
+2025-01-16T20:47:25,789 [TestNG-PoolService-3] INFO  LogUtil:60 - Entered password: admin123
+  Given I enter an invalid user name "Admin" and an invalid password "admin123" # com.orangehrm.selenium.cucumber.stepdefs.InvalidLoginStepDef.i_enter_invalid_user_credentials(java.lang.String,java.lang.String)
+2025-01-16T20:47:25,845 [TestNG-PoolService-3] INFO  LogUtil:60 - Clicked login button
+2025-01-16T20:47:25,845 [TestNG-PoolService-3] INFO  LogUtil:60 - Login button clicked.
+  When I click on the login button                                              # com.orangehrm.selenium.cucumber.stepdefs.CommonStepDef.i_click_on_the_login_button()
+2025-01-16T20:47:25,846 [TestNG-PoolService-3] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+  Then I should see an error message "Invalid credentials" on the Login page    # com.orangehrm.selenium.cucumber.stepdefs.InvalidLoginStepDef.i_should_see_error_message(java.lang.String)
+      java.lang.AssertionError: Error message not displayed as expected! expected [Invalid credentials] but found []
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1578)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:150)
+	at org.testng.Assert.assertEquals(Assert.java:132)
+	at org.testng.Assert.assertEquals(Assert.java:656)
+	at com.orangehrm.selenium.cucumber.stepdefs.InvalidLoginStepDef.i_should_see_error_message(InvalidLoginStepDef.java:65)
+	at âœ½.I should see an error message "Invalid credentials" on the Login page(file:///D:/WorkSpace_Selenium/CucuTestngFramework9/src/test/resources/features/LoginWithInvalidCredentials.feature:15)
+
+
+    Embedding Login with Invalid Credentials Should Display Error Message [image/png 259263 bytes]
+
+2025-01-16T20:47:36,292 [TestNG-PoolService-3] ERROR LogUtil:66 - Test Failed: Login with Invalid Credentials Should Display Error Message
+2025-01-16T20:47:36,292 [TestNG-PoolService-3] INFO  LogUtil:60 - Processing Scenario: Name = file:///D:/WorkSpace_Selenium/CucuTestngFramework9/src/test/resources/features/LoginWithInvalidCredentials, Line = 20
+2025-01-16T20:47:36,292 [TestNG-PoolService-3] INFO  LogUtil:60 - Duplicate Screenshot: file:///D:/WorkSpace_Selenium/CucuTestngFramework9/src/test/resources/features/LoginWithInvalidCredentials at line 20
+]]></system-out>
+    <system-err><![CDATA[[TestNG-PoolService-3] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 131.0.6778.264 (resolved driver for Chrome 131)
+[TestNG-PoolService-3] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\satis\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe
+]]></system-err>
+  </testcase>
+  <testcase name="runScenario[&quot;Login with Invalid Credentials Should Display Error Message&quot;, &quot;Login with Invalid Credentials&quot;](10)" classname="com.orangehrm.selenium.cucumber.runner.TestRunner" time="16.465">
+    <failure message="Error message not displayed as expected! expected [Invalid credentials] but found []" type="java.lang.AssertionError"><![CDATA[java.lang.AssertionError: Error message not displayed as expected! expected [Invalid credentials] but found []
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1578)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:150)
+	at org.testng.Assert.assertEquals(Assert.java:132)
+	at org.testng.Assert.assertEquals(Assert.java:656)
+	at com.orangehrm.selenium.cucumber.stepdefs.InvalidLoginStepDef.i_should_see_error_message(InvalidLoginStepDef.java:65)
+	at ✽.I should see an error message "Invalid credentials" on the Login page(file:///D:/WorkSpace_Selenium/CucuTestngFramework9/src/test/resources/features/LoginWithInvalidCredentials.feature:15)
+]]></failure>
+    <system-out><![CDATA[
+@Login @InvalidLoginCredentials @SanityTest @RegressionTest
+Scenario Outline: Login with Invalid Credentials Should Display Error Message   # src/test/resources/features/LoginWithInvalidCredentials.feature:20
+2025-01-16T20:47:36,433 [TestNG-PoolService-3] INFO  LogUtil:60 - Initializing WebDriver: Browser = chrome, Headless = false
+2025-01-16T20:47:37,090 [TestNG-PoolService-3] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (128f4ad80f69e683e3a2153ef7f20f75) at WebDriverHooks : setUp
+2025-01-16T20:47:40,013 [TestNG-PoolService-3] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-16T20:47:40,551 [TestNG-PoolService-3] INFO  LogUtil:60 - Login page loaded successfully.
+  Given I am on the login page                                                  # com.orangehrm.selenium.cucumber.stepdefs.CommonStepDef.i_am_on_the_login_page()
+2025-01-16T20:47:40,553 [TestNG-PoolService-3] INFO  LogUtil:60 - Entering invalid credentials. Username: Admin, Password: admin123
+2025-01-16T20:47:40,604 [TestNG-PoolService-3] INFO  LogUtil:60 - Entered username: Admin
+2025-01-16T20:47:40,661 [TestNG-PoolService-3] INFO  LogUtil:60 - Entered password: admin123
+  Given I enter an invalid user name "Admin" and an invalid password "admin123" # com.orangehrm.selenium.cucumber.stepdefs.InvalidLoginStepDef.i_enter_invalid_user_credentials(java.lang.String,java.lang.String)
+2025-01-16T20:47:42,012 [TestNG-PoolService-3] INFO  LogUtil:60 - Clicked login button
+2025-01-16T20:47:42,012 [TestNG-PoolService-3] INFO  LogUtil:60 - Login button clicked.
+  When I click on the login button                                              # com.orangehrm.selenium.cucumber.stepdefs.CommonStepDef.i_click_on_the_login_button()
+2025-01-16T20:47:42,014 [TestNG-PoolService-3] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+  Then I should see an error message "Invalid credentials" on the Login page    # com.orangehrm.selenium.cucumber.stepdefs.InvalidLoginStepDef.i_should_see_error_message(java.lang.String)
+      java.lang.AssertionError: Error message not displayed as expected! expected [Invalid credentials] but found []
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1578)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:150)
+	at org.testng.Assert.assertEquals(Assert.java:132)
+	at org.testng.Assert.assertEquals(Assert.java:656)
+	at com.orangehrm.selenium.cucumber.stepdefs.InvalidLoginStepDef.i_should_see_error_message(InvalidLoginStepDef.java:65)
+	at âœ½.I should see an error message "Invalid credentials" on the Login page(file:///D:/WorkSpace_Selenium/CucuTestngFramework9/src/test/resources/features/LoginWithInvalidCredentials.feature:15)
+
+
+    Embedding Login with Invalid Credentials Should Display Error Message [image/png 259330 bytes]
+
+2025-01-16T20:47:52,744 [TestNG-PoolService-3] ERROR LogUtil:66 - Test Failed: Login with Invalid Credentials Should Display Error Message
+2025-01-16T20:47:52,744 [TestNG-PoolService-3] INFO  LogUtil:60 - Processing Scenario: Name = file:///D:/WorkSpace_Selenium/CucuTestngFramework9/src/test/resources/features/LoginWithInvalidCredentials, Line = 20
+2025-01-16T20:47:52,744 [TestNG-PoolService-3] INFO  LogUtil:60 - Duplicate Screenshot: file:///D:/WorkSpace_Selenium/CucuTestngFramework9/src/test/resources/features/LoginWithInvalidCredentials at line 20
+]]></system-out>
+    <system-err><![CDATA[[TestNG-PoolService-3] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 131.0.6778.264 (resolved driver for Chrome 131)
+[TestNG-PoolService-3] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\satis\.cache\selenium\chromedriver\win64\131.0.6778.264\chromedriver.exe
+]]></system-err>
+  </testcase>
+</testsuite>

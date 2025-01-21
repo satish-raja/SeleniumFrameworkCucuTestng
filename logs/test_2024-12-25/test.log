@@ -1,0 +1,359 @@
+2024-12-25T16:38:58,094 [main] INFO  main:71 - [Thread-1] Clearing Allure results at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.15\allure-results
+2024-12-25T16:38:58,100 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 064e1a3d-db56-4378-8ed7-a0ce3c25bf85-container.json
+2024-12-25T16:38:58,101 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 0a7cb38b-845f-4058-84c5-1bbc720d58d7-container.json
+2024-12-25T16:38:58,102 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 20adc8d8-b266-423c-9da1-52e4a3c0ac1f-container.json
+2024-12-25T16:38:58,102 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 29478085-4ac5-462c-b1c1-cbe8526d8356-container.json
+2024-12-25T16:38:58,103 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 36e620e8-1f66-4549-a1b9-2b9967f5de99-container.json
+2024-12-25T16:38:58,105 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 40a8e732-0836-4df4-ac1e-9873a7860468-container.json
+2024-12-25T16:38:58,105 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 43baf6a6-01ef-4189-88f3-7f8be8e4db6c-container.json
+2024-12-25T16:38:58,106 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 4405446a-ac1f-4dd5-a9ef-1c136e467336-container.json
+2024-12-25T16:38:58,106 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 4f4e06e5-f39b-4a5a-b3e6-4b1cd628675f-container.json
+2024-12-25T16:38:58,107 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 6068cf2b-f582-49ff-9f2e-61aba10e20fa-result.json
+2024-12-25T16:38:58,108 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 6cea1a1f-bfc3-49fe-9c9a-9481dbf2a51f-container.json
+2024-12-25T16:38:58,108 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 6dc51863-a596-4ca1-8064-43520b68058e-container.json
+2024-12-25T16:38:58,109 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 745801a0-3f7f-4baa-8e7a-5dd5fab4ae42-container.json
+2024-12-25T16:38:58,109 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 78ecabb8-866c-46d3-8ca6-9a4e27720a15-container.json
+2024-12-25T16:38:58,110 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 88ec260f-02ad-4990-9782-3416f779431b-container.json
+2024-12-25T16:38:58,111 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 8d57cf28-57c3-4e05-9db7-31ce31c59f5f-result.json
+2024-12-25T16:38:58,111 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 9853c981-e3e3-48ee-b073-e2a7da243ccd-container.json
+2024-12-25T16:38:58,112 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 9e16511a-9b57-4ced-8d30-08e0a89f6ec0-container.json
+2024-12-25T16:38:58,112 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: a491869c-550f-4a3d-bde7-34a8fccb6b0f-container.json
+2024-12-25T16:38:58,113 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: a67b41a5-d5c8-466a-94dc-80dc222523f0-result.json
+2024-12-25T16:38:58,114 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: af9108f4-278c-4f6a-8c3b-17b0759e8ca6-container.json
+2024-12-25T16:38:58,114 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: af93d77f-9e74-4b5b-8768-9465a5ebe9ff-container.json
+2024-12-25T16:38:58,115 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: bf545755-0bd7-4b0d-81ee-5d0927e3cef8-container.json
+2024-12-25T16:38:58,116 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: c20afbea-b477-4e0b-a79b-714ebaef7295-container.json
+2024-12-25T16:38:58,117 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: c8801623-03b4-4793-8f3d-495dad3c0229-container.json
+2024-12-25T16:38:58,117 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: d3a90977-34be-4c8f-ad3b-d4521cfb22c3-result.json
+2024-12-25T16:38:58,118 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: db3f12d4-7cd4-4e70-a07c-afe100176998-container.json
+2024-12-25T16:38:58,119 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: e6a74639-e2f9-45aa-94dc-1fbdc8b230a8-result.json
+2024-12-25T16:38:58,120 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: e840a3cb-966f-4ae3-b400-12fa2b69a97a-container.json
+2024-12-25T16:38:58,120 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: edb7b9ba-1cdb-46ab-9e00-f17bbb57858d-container.json
+2024-12-25T16:38:58,121 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: eeeae4aa-eaa2-4faf-a296-5f6c9d0752d1-container.json
+2024-12-25T16:38:58,122 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: f026d0d9-164d-4a40-8b5e-02b9c987cb72-container.json
+2024-12-25T16:38:58,123 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: f7c201ca-19d6-41fe-8d0e-9df07ed84229-result.json
+2024-12-25T16:38:58,145 [TestNG-tests-1] INFO  TestListener:73 - Test Context Started: ChromeTests
+2024-12-25T16:38:58,145 [TestNG-tests-2] INFO  TestListener:73 - Test Context Started: FirefoxTests
+2024-12-25T16:38:58,145 [TestNG-tests-3] INFO  TestListener:73 - Test Context Started: EdgeTests
+2024-12-25T16:38:58,146 [TestNG-tests-1] INFO  TestListener:78 - Running tests with Browser: chrome and Environment: dev
+2024-12-25T16:38:58,146 [TestNG-tests-3] INFO  TestListener:78 - Running tests with Browser: edge and Environment: dev
+2024-12-25T16:38:58,146 [TestNG-tests-2] INFO  TestListener:78 - Running tests with Browser: firefox and Environment: dev
+2024-12-25T16:38:59,987 [TestNG-tests-3] INFO  TestListener:87 - WebDriver initialized: edge
+2024-12-25T16:38:59,988 [TestNG-tests-1] INFO  TestListener:87 - WebDriver initialized: chrome
+2024-12-25T16:39:00,544 [TestNG-PoolService-4] INFO  TestNG-PoolService-4:71 - [Thread-74] Setting up tests. Browser: edge, Environment: dev
+2024-12-25T16:39:00,544 [TestNG-PoolService-2] INFO  TestNG-PoolService-2:71 - [Thread-70] Setting up tests. Browser: edge, Environment: dev
+2024-12-25T16:39:00,544 [TestNG-PoolService-2] INFO  TestNG-PoolService-2:71 - [Thread-69] Setting up tests. Browser: chrome, Environment: dev
+2024-12-25T16:39:00,544 [TestNG-PoolService-3] INFO  TestNG-PoolService-3:71 - [Thread-71] Setting up tests. Browser: chrome, Environment: dev
+2024-12-25T16:39:00,544 [TestNG-PoolService-3] INFO  TestNG-PoolService-3:71 - [Thread-72] Setting up tests. Browser: edge, Environment: dev
+2024-12-25T16:39:00,544 [TestNG-PoolService-1] INFO  TestNG-PoolService-1:71 - [Thread-68] Setting up tests. Browser: chrome, Environment: dev
+2024-12-25T16:39:00,544 [TestNG-PoolService-1] INFO  TestNG-PoolService-1:71 - [Thread-67] Setting up tests. Browser: edge, Environment: dev
+2024-12-25T16:39:00,545 [TestNG-PoolService-4] INFO  TestNG-PoolService-4:71 - [Thread-73] Setting up tests. Browser: chrome, Environment: dev
+2024-12-25T16:39:00,545 [TestNG-PoolService-5] INFO  TestNG-PoolService-5:71 - [Thread-75] Setting up tests. Browser: edge, Environment: dev
+2024-12-25T16:39:00,546 [TestNG-PoolService-5] INFO  TestNG-PoolService-5:71 - [Thread-76] Setting up tests. Browser: chrome, Environment: dev
+2024-12-25T16:39:00,547 [TestNG-PoolService-6] INFO  TestNG-PoolService-6:71 - [Thread-77] Setting up tests. Browser: edge, Environment: dev
+2024-12-25T16:39:00,548 [TestNG-PoolService-6] INFO  TestNG-PoolService-6:71 - [Thread-78] Setting up tests. Browser: chrome, Environment: dev
+2024-12-25T16:39:01,627 [TestNG-tests-2] INFO  TestListener:87 - WebDriver initialized: firefox
+2024-12-25T16:39:02,313 [TestNG-PoolService-1] INFO  TestNG-PoolService-1:71 - [Thread-148] Setting up tests. Browser: firefox, Environment: dev
+2024-12-25T16:39:02,345 [TestNG-PoolService-2] INFO  TestNG-PoolService-2:71 - [Thread-161] Setting up tests. Browser: firefox, Environment: dev
+2024-12-25T16:39:02,352 [TestNG-PoolService-2] INFO  LogUtil:24 - Logger initialized with level: DEBUG
+2024-12-25T16:39:02,352 [TestNG-PoolService-5] INFO  LogUtil:24 - Logger initialized with level: DEBUG
+2024-12-25T16:39:02,351 [TestNG-PoolService-3] INFO  TestNG-PoolService-3:71 - [Thread-166] Setting up tests. Browser: firefox, Environment: dev
+2024-12-25T16:39:02,365 [TestNG-PoolService-1] INFO  LogUtil:24 - Logger initialized with level: DEBUG
+2024-12-25T16:39:02,365 [TestNG-PoolService-4] INFO  TestNG-PoolService-4:71 - [Thread-170] Setting up tests. Browser: firefox, Environment: dev
+2024-12-25T16:39:02,367 [TestNG-PoolService-3] INFO  LogUtil:24 - Logger initialized with level: DEBUG
+2024-12-25T16:39:02,369 [TestNG-PoolService-5] INFO  TestNG-PoolService-5:71 - [Thread-172] Setting up tests. Browser: firefox, Environment: dev
+2024-12-25T16:39:02,389 [TestNG-PoolService-6] INFO  TestNG-PoolService-6:71 - [Thread-174] Setting up tests. Browser: firefox, Environment: dev
+2024-12-25T16:39:02,439 [TestNG-PoolService-2] INFO  TestListener:25 - Test Started: runScenario
+2024-12-25T16:39:02,439 [TestNG-PoolService-5] INFO  TestListener:25 - Test Started: runScenario
+2024-12-25T16:39:02,439 [TestNG-PoolService-1] INFO  TestListener:25 - Test Started: runScenario
+2024-12-25T16:39:02,439 [TestNG-PoolService-3] INFO  TestListener:25 - Test Started: runScenario
+2024-12-25T16:39:02,759 [TestNG-PoolService-4] INFO  LogUtil:24 - Logger initialized with level: DEBUG
+2024-12-25T16:39:02,763 [TestNG-PoolService-4] INFO  TestListener:25 - Test Started: runScenario
+2024-12-25T16:39:03,080 [TestNG-PoolService-6] INFO  LogUtil:24 - Logger initialized with level: DEBUG
+2024-12-25T16:39:03,082 [TestNG-PoolService-6] INFO  TestListener:25 - Test Started: runScenario
+2024-12-25T16:39:04,848 [TestNG-PoolService-6] INFO  LogUtil:24 - Logger initialized with level: DEBUG
+2024-12-25T16:39:04,851 [TestNG-PoolService-6] INFO  TestListener:25 - Test Started: runScenario
+2024-12-25T16:39:05,074 [TestNG-PoolService-2] INFO  LogUtil:24 - Logger initialized with level: DEBUG
+2024-12-25T16:39:05,076 [TestNG-PoolService-2] INFO  TestListener:25 - Test Started: runScenario
+2024-12-25T16:39:05,506 [TestNG-PoolService-5] INFO  LogUtil:24 - Logger initialized with level: DEBUG
+2024-12-25T16:39:05,509 [TestNG-PoolService-5] INFO  TestListener:25 - Test Started: runScenario
+2024-12-25T16:39:05,617 [TestNG-PoolService-3] INFO  LogUtil:24 - Logger initialized with level: DEBUG
+2024-12-25T16:39:05,624 [TestNG-PoolService-3] INFO  TestListener:25 - Test Started: runScenario
+2024-12-25T16:39:06,473 [TestNG-PoolService-1] INFO  LogUtil:24 - Logger initialized with level: DEBUG
+2024-12-25T16:39:06,476 [TestNG-PoolService-1] INFO  TestListener:25 - Test Started: runScenario
+2024-12-25T16:39:06,986 [TestNG-PoolService-4] INFO  LogUtil:24 - Logger initialized with level: DEBUG
+2024-12-25T16:39:06,994 [TestNG-PoolService-4] INFO  TestListener:25 - Test Started: runScenario
+2024-12-25T16:39:10,329 [TestNG-PoolService-2] INFO  TestNG-PoolService-2:31 - [Thread-69] Entered username: Admin
+2024-12-25T16:39:10,399 [TestNG-PoolService-5] INFO  TestNG-PoolService-5:31 - [Thread-76] Entered username: 
+2024-12-25T16:39:11,037 [TestNG-PoolService-2] INFO  TestNG-PoolService-2:31 - [Thread-69] Entered password: admin
+2024-12-25T16:39:11,188 [TestNG-PoolService-5] INFO  LogUtil:24 - Logger initialized with level: DEBUG
+2024-12-25T16:39:11,195 [TestNG-PoolService-5] INFO  TestListener:25 - Test Started: runScenario
+2024-12-25T16:39:11,369 [TestNG-PoolService-1] INFO  LogUtil:24 - Logger initialized with level: DEBUG
+2024-12-25T16:39:11,372 [TestNG-PoolService-1] INFO  TestListener:25 - Test Started: runScenario
+2024-12-25T16:39:11,440 [TestNG-PoolService-1] INFO  TestNG-PoolService-1:31 - [Thread-68] Entered username: Admin
+2024-12-25T16:39:11,459 [TestNG-PoolService-5] INFO  TestNG-PoolService-5:31 - [Thread-76] Entered password: 
+2024-12-25T16:39:11,509 [TestNG-PoolService-3] INFO  TestNG-PoolService-3:31 - [Thread-71] Entered username: Adminn
+2024-12-25T16:39:12,152 [TestNG-PoolService-4] INFO  TestNG-PoolService-4:31 - [Thread-73] Entered username: Adminn
+2024-12-25T16:39:12,333 [TestNG-PoolService-3] INFO  TestNG-PoolService-3:31 - [Thread-72] Entered username: Adminn
+2024-12-25T16:39:12,529 [TestNG-PoolService-1] INFO  TestNG-PoolService-1:31 - [Thread-68] Entered password: admin123
+2024-12-25T16:39:12,645 [TestNG-PoolService-5] INFO  TestNG-PoolService-5:31 - [Thread-75] Entered username: 
+2024-12-25T16:39:12,819 [TestNG-PoolService-3] INFO  TestNG-PoolService-3:31 - [Thread-72] Entered password: admin123
+2024-12-25T16:39:12,921 [TestNG-PoolService-5] INFO  TestNG-PoolService-5:31 - [Thread-75] Entered password: 
+2024-12-25T16:39:12,964 [TestNG-PoolService-3] INFO  TestNG-PoolService-3:31 - [Thread-71] Entered password: admin123
+2024-12-25T16:39:13,251 [TestNG-PoolService-2] INFO  TestNG-PoolService-2:31 - [Thread-70] Entered username: Admin
+2024-12-25T16:39:13,282 [TestNG-PoolService-6] INFO  TestNG-PoolService-6:31 - [Thread-77] Clicked forgot password link
+2024-12-25T16:39:13,411 [TestNG-PoolService-5] INFO  TestNG-PoolService-5:31 - [Thread-76] Clicked login button
+2024-12-25T16:39:13,497 [TestNG-PoolService-6] INFO  TestNG-PoolService-6:31 - [Thread-78] Clicked forgot password link
+2024-12-25T16:39:13,502 [TestNG-PoolService-5] INFO  TestNG-PoolService-5:31 - [Thread-75] Clicked login button
+2024-12-25T16:39:13,716 [TestNG-PoolService-2] INFO  TestNG-PoolService-2:31 - [Thread-70] Entered password: admin
+2024-12-25T16:39:13,901 [TestNG-PoolService-4] INFO  TestNG-PoolService-4:31 - [Thread-73] Entered password: admin
+2024-12-25T16:39:14,075 [TestNG-PoolService-4] INFO  TestNG-PoolService-4:31 - [Thread-74] Entered username: Adminn
+2024-12-25T16:39:14,319 [TestNG-PoolService-1] INFO  TestNG-PoolService-1:31 - [Thread-67] Entered username: Admin
+2024-12-25T16:39:14,602 [TestNG-PoolService-3] INFO  TestNG-PoolService-3:31 - [Thread-72] Clicked login button
+2024-12-25T16:39:14,810 [TestNG-PoolService-6] INFO  TestNG-PoolService-6:31 - [Thread-78] Entered username: Admin
+2024-12-25T16:39:14,854 [TestNG-PoolService-4] INFO  TestNG-PoolService-4:31 - [Thread-74] Entered password: admin
+2024-12-25T16:39:15,277 [TestNG-PoolService-6] INFO  TestNG-PoolService-6:31 - [Thread-77] Entered username: Admin
+2024-12-25T16:39:15,280 [TestNG-PoolService-1] INFO  TestNG-PoolService-1:31 - [Thread-67] Entered password: admin123
+2024-12-25T16:39:15,469 [TestNG-PoolService-6] INFO  TestNG-PoolService-6:31 - [Thread-78] Clicked login button
+2024-12-25T16:39:16,312 [TestNG-PoolService-2] INFO  TestNG-PoolService-2:31 - [Thread-69] Clicked login button
+2024-12-25T16:39:16,432 [TestNG-PoolService-3] INFO  TestNG-PoolService-3:31 - [Thread-71] Clicked login button
+2024-12-25T16:39:16,469 [TestNG-PoolService-2] INFO  TestNG-PoolService-2:31 - [Thread-70] Clicked login button
+2024-12-25T16:39:16,611 [TestNG-PoolService-1] INFO  TestNG-PoolService-1:31 - [Thread-68] Clicked login button
+2024-12-25T16:39:16,923 [TestNG-PoolService-6] INFO  TestNG-PoolService-6:31 - [Thread-77] Clicked login button
+2024-12-25T16:39:16,944 [TestNG-PoolService-4] INFO  TestNG-PoolService-4:31 - [Thread-73] Clicked login button
+2024-12-25T16:39:17,069 [TestNG-PoolService-5] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-25T16:39:17,070 [TestNG-PoolService-5] INFO  TestNG-PoolService-5:71 - [Thread-76] WebDriver instance closed.
+2024-12-25T16:39:17,088 [TestNG-PoolService-2] INFO  LogUtil:24 - Logger initialized with level: DEBUG
+2024-12-25T16:39:17,091 [TestNG-PoolService-2] INFO  TestListener:25 - Test Started: runScenario
+2024-12-25T16:39:17,208 [TestNG-PoolService-4] INFO  TestNG-PoolService-4:31 - [Thread-74] Clicked login button
+2024-12-25T16:39:17,473 [TestNG-PoolService-6] INFO  LogUtil:24 - Logger initialized with level: DEBUG
+2024-12-25T16:39:17,476 [TestNG-PoolService-6] INFO  TestListener:25 - Test Started: runScenario
+2024-12-25T16:39:17,762 [TestNG-PoolService-4] INFO  LogUtil:24 - Logger initialized with level: DEBUG
+2024-12-25T16:39:17,767 [TestNG-PoolService-4] INFO  TestListener:25 - Test Started: runScenario
+2024-12-25T16:39:18,557 [TestNG-PoolService-1] INFO  TestNG-PoolService-1:31 - [Thread-148] Entered username: Admin
+2024-12-25T16:39:18,573 [TestNG-PoolService-5] INFO  TestNG-PoolService-5:31 - [Thread-172] Entered username: 
+2024-12-25T16:39:18,677 [TestNG-PoolService-5] INFO  TestNG-PoolService-5:31 - [Thread-172] Entered password: 
+2024-12-25T16:39:18,683 [TestNG-PoolService-1] INFO  TestNG-PoolService-1:31 - [Thread-148] Entered password: admin123
+2024-12-25T16:39:18,971 [TestNG-PoolService-5] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-25T16:39:18,978 [TestNG-PoolService-5] INFO  TestNG-PoolService-5:71 - [Thread-75] WebDriver instance closed.
+2024-12-25T16:39:19,324 [TestNG-PoolService-5] INFO  TestNG-PoolService-5:31 - [Thread-172] Clicked login button
+2024-12-25T16:39:19,796 [TestNG-PoolService-1] INFO  TestNG-PoolService-1:31 - [Thread-67] Clicked login button
+2024-12-25T16:39:19,929 [TestNG-PoolService-2] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-25T16:39:19,932 [TestNG-PoolService-2] INFO  TestNG-PoolService-2:71 - [Thread-69] WebDriver instance closed.
+2024-12-25T16:39:20,124 [TestNG-PoolService-3] INFO  LogUtil:24 - Logger initialized with level: DEBUG
+2024-12-25T16:39:20,126 [TestNG-PoolService-3] INFO  TestListener:25 - Test Started: runScenario
+2024-12-25T16:39:20,664 [TestNG-PoolService-6] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-25T16:39:20,665 [TestNG-PoolService-6] INFO  TestNG-PoolService-6:71 - [Thread-78] WebDriver instance closed.
+2024-12-25T16:39:20,879 [TestNG-PoolService-6] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-25T16:39:20,881 [TestNG-PoolService-6] INFO  TestNG-PoolService-6:71 - [Thread-77] WebDriver instance closed.
+2024-12-25T16:39:20,893 [TestNG-PoolService-4] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-25T16:39:20,894 [TestNG-PoolService-1] INFO  TestNG-PoolService-1:31 - [Thread-148] Clicked login button
+2024-12-25T16:39:20,894 [TestNG-PoolService-4] INFO  TestNG-PoolService-4:71 - [Thread-74] WebDriver instance closed.
+2024-12-25T16:39:20,999 [TestNG-PoolService-3] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-25T16:39:21,000 [TestNG-PoolService-2] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-25T16:39:21,000 [TestNG-PoolService-4] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-25T16:39:21,001 [TestNG-PoolService-3] INFO  TestNG-PoolService-3:71 - [Thread-72] WebDriver instance closed.
+2024-12-25T16:39:21,002 [TestNG-PoolService-2] INFO  TestNG-PoolService-2:71 - [Thread-70] WebDriver instance closed.
+2024-12-25T16:39:21,002 [TestNG-PoolService-4] INFO  TestNG-PoolService-4:71 - [Thread-73] WebDriver instance closed.
+2024-12-25T16:39:21,157 [TestNG-PoolService-5] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-25T16:39:21,157 [TestNG-PoolService-5] INFO  TestNG-PoolService-5:71 - [Thread-172] WebDriver instance closed.
+2024-12-25T16:39:21,380 [TestNG-PoolService-3] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-25T16:39:21,381 [TestNG-PoolService-3] INFO  TestNG-PoolService-3:71 - [Thread-71] WebDriver instance closed.
+2024-12-25T16:39:21,443 [TestNG-PoolService-1] INFO  TestNG-PoolService-1:31 - [Thread-68] Clicked logout link
+2024-12-25T16:39:22,448 [TestNG-PoolService-1] INFO  TestNG-PoolService-1:31 - [Thread-67] Clicked logout link
+2024-12-25T16:39:22,615 [TestNG-PoolService-2] INFO  TestNG-PoolService-2:31 - [Thread-161] Entered username: Admin
+2024-12-25T16:39:22,618 [TestNG-PoolService-4] INFO  TestNG-PoolService-4:31 - [Thread-170] Entered username: Adminn
+2024-12-25T16:39:22,648 [TestNG-PoolService-2] INFO  TestNG-PoolService-2:31 - [Thread-161] Entered password: admin
+2024-12-25T16:39:22,655 [TestNG-PoolService-4] INFO  TestNG-PoolService-4:31 - [Thread-170] Entered password: admin
+2024-12-25T16:39:22,830 [TestNG-PoolService-1] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-25T16:39:22,831 [TestNG-PoolService-1] INFO  TestNG-PoolService-1:71 - [Thread-68] WebDriver instance closed.
+2024-12-25T16:39:23,259 [TestNG-PoolService-1] INFO  TestNG-PoolService-1:31 - [Thread-148] Clicked logout link
+2024-12-25T16:39:23,736 [TestNG-PoolService-4] INFO  TestNG-PoolService-4:31 - [Thread-170] Clicked login button
+2024-12-25T16:39:24,099 [TestNG-PoolService-6] INFO  TestNG-PoolService-6:31 - [Thread-174] Clicked forgot password link
+2024-12-25T16:39:24,108 [TestNG-PoolService-2] INFO  TestNG-PoolService-2:31 - [Thread-161] Clicked login button
+2024-12-25T16:39:24,295 [TestNG-tests-1] INFO  TestListener:94 - Test Context Finished: ChromeTests
+2024-12-25T16:39:24,310 [TestNG-PoolService-3] INFO  TestNG-PoolService-3:31 - [Thread-166] Entered username: Adminn
+2024-12-25T16:39:24,346 [TestNG-PoolService-3] INFO  TestNG-PoolService-3:31 - [Thread-166] Entered password: admin123
+2024-12-25T16:39:24,504 [TestNG-tests-1] INFO  TestListener:98 - WebDriver instance quit for thread.
+2024-12-25T16:39:24,593 [TestNG-PoolService-1] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-25T16:39:24,594 [TestNG-PoolService-1] INFO  TestNG-PoolService-1:71 - [Thread-67] WebDriver instance closed.
+2024-12-25T16:39:24,754 [TestNG-PoolService-6] INFO  TestNG-PoolService-6:31 - [Thread-174] Entered username: Admin
+2024-12-25T16:39:24,765 [TestNG-PoolService-1] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-25T16:39:24,767 [TestNG-PoolService-1] INFO  TestNG-PoolService-1:71 - [Thread-148] WebDriver instance closed.
+2024-12-25T16:39:25,307 [TestNG-PoolService-4] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-25T16:39:25,308 [TestNG-PoolService-4] INFO  TestNG-PoolService-4:71 - [Thread-170] WebDriver instance closed.
+2024-12-25T16:39:25,317 [TestNG-tests-3] INFO  TestListener:94 - Test Context Finished: EdgeTests
+2024-12-25T16:39:25,564 [TestNG-PoolService-2] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-25T16:39:25,565 [TestNG-PoolService-2] INFO  TestNG-PoolService-2:71 - [Thread-161] WebDriver instance closed.
+2024-12-25T16:39:25,789 [TestNG-PoolService-6] INFO  TestNG-PoolService-6:31 - [Thread-174] Clicked login button
+2024-12-25T16:39:25,792 [TestNG-PoolService-3] INFO  TestNG-PoolService-3:31 - [Thread-166] Clicked login button
+2024-12-25T16:39:26,523 [TestNG-tests-3] INFO  TestListener:98 - WebDriver instance quit for thread.
+2024-12-25T16:39:27,169 [TestNG-PoolService-6] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-25T16:39:27,169 [TestNG-PoolService-6] INFO  TestNG-PoolService-6:71 - [Thread-174] WebDriver instance closed.
+2024-12-25T16:39:27,185 [TestNG-PoolService-3] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-25T16:39:27,186 [TestNG-PoolService-3] INFO  TestNG-PoolService-3:71 - [Thread-166] WebDriver instance closed.
+2024-12-25T16:39:27,774 [TestNG-tests-2] INFO  TestListener:94 - Test Context Finished: FirefoxTests
+2024-12-25T16:39:28,457 [TestNG-tests-2] INFO  TestListener:98 - WebDriver instance quit for thread.
+2024-12-25T16:43:07,271 [main] INFO  main:71 - [Thread-1] Clearing Allure results at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.15\allure-results
+2024-12-25T16:43:07,292 [TestNG-tests-2] INFO  TestListener:73 - Test Context Started: FirefoxTests
+2024-12-25T16:43:07,292 [TestNG-tests-1] INFO  TestListener:73 - Test Context Started: ChromeTests
+2024-12-25T16:43:07,292 [TestNG-tests-3] INFO  TestListener:73 - Test Context Started: EdgeTests
+2024-12-25T16:43:07,293 [TestNG-tests-2] INFO  TestListener:78 - Running tests with Browser: firefox and Environment: dev
+2024-12-25T16:43:07,293 [TestNG-tests-3] INFO  TestListener:78 - Running tests with Browser: edge and Environment: dev
+2024-12-25T16:43:07,293 [TestNG-tests-1] INFO  TestListener:78 - Running tests with Browser: chrome and Environment: dev
+2024-12-25T16:43:08,778 [TestNG-tests-3] INFO  TestListener:87 - WebDriver initialized: edge
+2024-12-25T16:43:08,778 [TestNG-tests-1] INFO  TestListener:87 - WebDriver initialized: chrome
+2024-12-25T16:43:09,267 [TestNG-PoolService-1] INFO  TestNG-PoolService-1:71 - [Thread-69] Setting up tests. Browser: edge, Environment: dev
+2024-12-25T16:43:09,267 [TestNG-PoolService-4] INFO  TestNG-PoolService-4:71 - [Thread-75] Setting up tests. Browser: edge, Environment: dev
+2024-12-25T16:43:09,267 [TestNG-PoolService-3] INFO  TestNG-PoolService-3:71 - [Thread-74] Setting up tests. Browser: chrome, Environment: dev
+2024-12-25T16:43:09,267 [TestNG-PoolService-3] INFO  TestNG-PoolService-3:71 - [Thread-73] Setting up tests. Browser: edge, Environment: dev
+2024-12-25T16:43:09,267 [TestNG-PoolService-4] INFO  TestNG-PoolService-4:71 - [Thread-76] Setting up tests. Browser: chrome, Environment: dev
+2024-12-25T16:43:09,267 [TestNG-PoolService-2] INFO  TestNG-PoolService-2:71 - [Thread-72] Setting up tests. Browser: chrome, Environment: dev
+2024-12-25T16:43:09,268 [TestNG-PoolService-5] INFO  TestNG-PoolService-5:71 - [Thread-78] Setting up tests. Browser: chrome, Environment: dev
+2024-12-25T16:43:09,267 [TestNG-PoolService-1] INFO  TestNG-PoolService-1:71 - [Thread-70] Setting up tests. Browser: chrome, Environment: dev
+2024-12-25T16:43:09,268 [TestNG-PoolService-6] INFO  TestNG-PoolService-6:71 - [Thread-79] Setting up tests. Browser: edge, Environment: dev
+2024-12-25T16:43:09,268 [TestNG-PoolService-2] INFO  TestNG-PoolService-2:71 - [Thread-71] Setting up tests. Browser: edge, Environment: dev
+2024-12-25T16:43:09,268 [TestNG-PoolService-5] INFO  TestNG-PoolService-5:71 - [Thread-77] Setting up tests. Browser: edge, Environment: dev
+2024-12-25T16:43:09,269 [TestNG-PoolService-6] INFO  TestNG-PoolService-6:71 - [Thread-80] Setting up tests. Browser: chrome, Environment: dev
+2024-12-25T16:43:10,012 [TestNG-tests-2] INFO  TestListener:87 - WebDriver initialized: firefox
+2024-12-25T16:43:10,478 [TestNG-PoolService-1] INFO  TestNG-PoolService-1:71 - [Thread-151] Setting up tests. Browser: firefox, Environment: dev
+2024-12-25T16:43:10,617 [TestNG-PoolService-2] INFO  TestNG-PoolService-2:71 - [Thread-152] Setting up tests. Browser: firefox, Environment: dev
+2024-12-25T16:43:10,719 [TestNG-PoolService-3] INFO  TestNG-PoolService-3:71 - [Thread-153] Setting up tests. Browser: firefox, Environment: dev
+2024-12-25T16:43:10,769 [TestNG-PoolService-4] INFO  TestNG-PoolService-4:71 - [Thread-154] Setting up tests. Browser: firefox, Environment: dev
+2024-12-25T16:43:10,868 [TestNG-PoolService-5] INFO  TestNG-PoolService-5:71 - [Thread-161] Setting up tests. Browser: firefox, Environment: dev
+2024-12-25T16:43:10,975 [TestNG-PoolService-6] INFO  TestNG-PoolService-6:71 - [Thread-170] Setting up tests. Browser: firefox, Environment: dev
+2024-12-25T16:43:11,041 [TestNG-PoolService-5] INFO  LogUtil:24 - Logger initialized with level: DEBUG
+2024-12-25T16:43:11,049 [TestNG-PoolService-1] INFO  LogUtil:24 - Logger initialized with level: DEBUG
+2024-12-25T16:43:11,051 [TestNG-PoolService-4] INFO  LogUtil:24 - Logger initialized with level: DEBUG
+2024-12-25T16:43:11,060 [TestNG-PoolService-3] INFO  LogUtil:24 - Logger initialized with level: DEBUG
+2024-12-25T16:43:11,064 [TestNG-PoolService-2] INFO  LogUtil:24 - Logger initialized with level: DEBUG
+2024-12-25T16:43:11,071 [TestNG-PoolService-6] INFO  LogUtil:24 - Logger initialized with level: DEBUG
+2024-12-25T16:43:11,116 [TestNG-PoolService-3] INFO  TestListener:25 - Test Started: runScenario
+2024-12-25T16:43:11,116 [TestNG-PoolService-1] INFO  TestListener:25 - Test Started: runScenario
+2024-12-25T16:43:11,117 [TestNG-PoolService-4] INFO  TestListener:25 - Test Started: runScenario
+2024-12-25T16:43:11,117 [TestNG-PoolService-5] INFO  TestListener:25 - Test Started: runScenario
+2024-12-25T16:43:11,117 [TestNG-PoolService-6] INFO  TestListener:25 - Test Started: runScenario
+2024-12-25T16:43:11,117 [TestNG-PoolService-2] INFO  TestListener:25 - Test Started: runScenario
+2024-12-25T16:43:13,442 [TestNG-PoolService-4] INFO  LogUtil:24 - Logger initialized with level: DEBUG
+2024-12-25T16:43:13,444 [TestNG-PoolService-4] INFO  TestListener:25 - Test Started: runScenario
+2024-12-25T16:43:13,469 [TestNG-PoolService-5] INFO  LogUtil:24 - Logger initialized with level: DEBUG
+2024-12-25T16:43:13,471 [TestNG-PoolService-5] INFO  TestListener:25 - Test Started: runScenario
+2024-12-25T16:43:13,551 [TestNG-PoolService-1] INFO  LogUtil:24 - Logger initialized with level: DEBUG
+2024-12-25T16:43:13,551 [TestNG-PoolService-2] INFO  LogUtil:24 - Logger initialized with level: DEBUG
+2024-12-25T16:43:13,555 [TestNG-PoolService-2] INFO  TestListener:25 - Test Started: runScenario
+2024-12-25T16:43:13,561 [TestNG-PoolService-1] INFO  TestListener:25 - Test Started: runScenario
+2024-12-25T16:43:13,717 [TestNG-PoolService-6] INFO  LogUtil:24 - Logger initialized with level: DEBUG
+2024-12-25T16:43:13,722 [TestNG-PoolService-6] INFO  TestListener:25 - Test Started: runScenario
+2024-12-25T16:43:13,752 [TestNG-PoolService-3] INFO  LogUtil:24 - Logger initialized with level: DEBUG
+2024-12-25T16:43:13,760 [TestNG-PoolService-3] INFO  TestListener:25 - Test Started: runScenario
+2024-12-25T16:43:16,669 [TestNG-PoolService-2] INFO  TestNG-PoolService-2:31 - [Thread-72] Entered username: Admin
+2024-12-25T16:43:16,886 [TestNG-PoolService-5] INFO  TestNG-PoolService-5:31 - [Thread-78] Entered username: 
+2024-12-25T16:43:16,923 [TestNG-PoolService-2] INFO  TestNG-PoolService-2:31 - [Thread-72] Entered password: admin
+2024-12-25T16:43:17,238 [TestNG-PoolService-5] INFO  TestNG-PoolService-5:31 - [Thread-78] Entered password: 
+2024-12-25T16:43:17,251 [TestNG-PoolService-1] INFO  TestNG-PoolService-1:31 - [Thread-70] Entered username: Admin
+2024-12-25T16:43:17,251 [TestNG-PoolService-4] INFO  TestNG-PoolService-4:31 - [Thread-76] Entered username: Adminn
+2024-12-25T16:43:17,448 [TestNG-PoolService-4] INFO  TestNG-PoolService-4:31 - [Thread-76] Entered password: admin
+2024-12-25T16:43:17,454 [TestNG-PoolService-1] INFO  TestNG-PoolService-1:31 - [Thread-70] Entered password: admin123
+2024-12-25T16:43:17,487 [TestNG-PoolService-3] INFO  TestNG-PoolService-3:31 - [Thread-74] Entered username: Adminn
+2024-12-25T16:43:17,488 [TestNG-PoolService-5] INFO  TestNG-PoolService-5:31 - [Thread-78] Clicked login button
+2024-12-25T16:43:17,833 [TestNG-PoolService-3] INFO  TestNG-PoolService-3:31 - [Thread-74] Entered password: admin123
+2024-12-25T16:43:18,024 [TestNG-PoolService-6] INFO  TestNG-PoolService-6:31 - [Thread-80] Clicked forgot password link
+2024-12-25T16:43:18,323 [TestNG-PoolService-4] INFO  TestNG-PoolService-4:31 - [Thread-75] Entered username: Adminn
+2024-12-25T16:43:18,502 [TestNG-PoolService-5] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-25T16:43:18,504 [TestNG-PoolService-5] INFO  TestNG-PoolService-5:71 - [Thread-78] WebDriver instance closed.
+2024-12-25T16:43:18,519 [TestNG-PoolService-4] INFO  TestNG-PoolService-4:31 - [Thread-75] Entered password: admin
+2024-12-25T16:43:18,794 [TestNG-PoolService-2] INFO  TestNG-PoolService-2:31 - [Thread-72] Clicked login button
+2024-12-25T16:43:19,081 [TestNG-PoolService-4] INFO  TestNG-PoolService-4:31 - [Thread-76] Clicked login button
+2024-12-25T16:43:19,186 [TestNG-PoolService-6] INFO  TestNG-PoolService-6:31 - [Thread-80] Entered username: Admin
+2024-12-25T16:43:19,369 [TestNG-PoolService-3] INFO  TestNG-PoolService-3:31 - [Thread-74] Clicked login button
+2024-12-25T16:43:19,442 [TestNG-PoolService-6] INFO  TestNG-PoolService-6:31 - [Thread-80] Clicked login button
+2024-12-25T16:43:19,468 [TestNG-PoolService-3] INFO  TestNG-PoolService-3:31 - [Thread-73] Entered username: Adminn
+2024-12-25T16:43:19,528 [TestNG-PoolService-1] INFO  TestNG-PoolService-1:31 - [Thread-70] Clicked login button
+2024-12-25T16:43:19,695 [TestNG-PoolService-3] INFO  TestNG-PoolService-3:31 - [Thread-73] Entered password: admin123
+2024-12-25T16:43:19,777 [TestNG-PoolService-4] INFO  TestNG-PoolService-4:31 - [Thread-75] Clicked login button
+2024-12-25T16:43:20,318 [TestNG-PoolService-2] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-25T16:43:20,320 [TestNG-PoolService-2] INFO  TestNG-PoolService-2:71 - [Thread-72] WebDriver instance closed.
+2024-12-25T16:43:20,524 [TestNG-PoolService-4] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-25T16:43:20,525 [TestNG-PoolService-4] INFO  TestNG-PoolService-4:71 - [Thread-76] WebDriver instance closed.
+2024-12-25T16:43:20,785 [TestNG-PoolService-3] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-25T16:43:20,787 [TestNG-PoolService-3] INFO  TestNG-PoolService-3:71 - [Thread-74] WebDriver instance closed.
+2024-12-25T16:43:20,817 [TestNG-PoolService-5] INFO  TestNG-PoolService-5:31 - [Thread-77] Entered username: 
+2024-12-25T16:43:20,924 [TestNG-PoolService-2] INFO  LogUtil:24 - Logger initialized with level: DEBUG
+2024-12-25T16:43:20,929 [TestNG-PoolService-2] INFO  TestListener:25 - Test Started: runScenario
+2024-12-25T16:43:21,105 [TestNG-PoolService-5] INFO  TestNG-PoolService-5:31 - [Thread-77] Entered password: 
+2024-12-25T16:43:21,180 [TestNG-PoolService-3] INFO  TestNG-PoolService-3:31 - [Thread-73] Clicked login button
+2024-12-25T16:43:21,287 [TestNG-PoolService-5] INFO  TestNG-PoolService-5:31 - [Thread-77] Clicked login button
+2024-12-25T16:43:21,417 [TestNG-PoolService-6] INFO  TestNG-PoolService-6:31 - [Thread-79] Clicked forgot password link
+2024-12-25T16:43:22,204 [TestNG-PoolService-4] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-25T16:43:22,205 [TestNG-PoolService-4] INFO  TestNG-PoolService-4:71 - [Thread-75] WebDriver instance closed.
+2024-12-25T16:43:22,403 [TestNG-PoolService-5] INFO  LogUtil:24 - Logger initialized with level: DEBUG
+2024-12-25T16:43:22,405 [TestNG-PoolService-5] INFO  TestListener:25 - Test Started: runScenario
+2024-12-25T16:43:22,521 [TestNG-PoolService-6] INFO  TestNG-PoolService-6:31 - [Thread-79] Entered username: Admin
+2024-12-25T16:43:22,534 [TestNG-PoolService-6] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-25T16:43:22,535 [TestNG-PoolService-6] INFO  TestNG-PoolService-6:71 - [Thread-80] WebDriver instance closed.
+2024-12-25T16:43:22,966 [TestNG-PoolService-1] INFO  TestNG-PoolService-1:31 - [Thread-70] Clicked logout link
+2024-12-25T16:43:23,186 [TestNG-PoolService-5] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-25T16:43:23,187 [TestNG-PoolService-5] INFO  TestNG-PoolService-5:71 - [Thread-77] WebDriver instance closed.
+2024-12-25T16:43:23,526 [TestNG-PoolService-3] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-25T16:43:23,527 [TestNG-PoolService-3] INFO  TestNG-PoolService-3:71 - [Thread-73] WebDriver instance closed.
+2024-12-25T16:43:23,632 [TestNG-PoolService-6] INFO  TestNG-PoolService-6:31 - [Thread-79] Clicked login button
+2024-12-25T16:43:24,247 [TestNG-PoolService-1] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-25T16:43:24,248 [TestNG-PoolService-1] INFO  TestNG-PoolService-1:71 - [Thread-70] WebDriver instance closed.
+2024-12-25T16:43:24,284 [TestNG-PoolService-1] INFO  LogUtil:24 - Logger initialized with level: DEBUG
+2024-12-25T16:43:24,287 [TestNG-PoolService-1] INFO  TestListener:25 - Test Started: runScenario
+2024-12-25T16:43:24,863 [TestNG-PoolService-2] INFO  TestNG-PoolService-2:31 - [Thread-71] Entered username: Admin
+2024-12-25T16:43:25,012 [TestNG-PoolService-2] INFO  TestNG-PoolService-2:31 - [Thread-71] Entered password: admin
+2024-12-25T16:43:25,014 [TestNG-PoolService-6] INFO  LogUtil:24 - Logger initialized with level: DEBUG
+2024-12-25T16:43:25,017 [TestNG-PoolService-6] INFO  TestListener:25 - Test Started: runScenario
+2024-12-25T16:43:25,148 [TestNG-PoolService-4] INFO  LogUtil:24 - Logger initialized with level: DEBUG
+2024-12-25T16:43:25,150 [TestNG-PoolService-4] INFO  TestListener:25 - Test Started: runScenario
+2024-12-25T16:43:25,339 [TestNG-PoolService-3] INFO  LogUtil:24 - Logger initialized with level: DEBUG
+2024-12-25T16:43:25,341 [TestNG-PoolService-3] INFO  TestListener:25 - Test Started: runScenario
+2024-12-25T16:43:25,660 [TestNG-PoolService-2] INFO  TestNG-PoolService-2:31 - [Thread-152] Entered username: Admin
+2024-12-25T16:43:25,694 [TestNG-PoolService-2] INFO  TestNG-PoolService-2:31 - [Thread-152] Entered password: admin
+2024-12-25T16:43:25,872 [TestNG-tests-1] INFO  TestListener:94 - Test Context Finished: ChromeTests
+2024-12-25T16:43:25,879 [TestNG-PoolService-6] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-25T16:43:25,880 [TestNG-PoolService-6] INFO  TestNG-PoolService-6:71 - [Thread-79] WebDriver instance closed.
+2024-12-25T16:43:26,122 [TestNG-PoolService-1] INFO  TestNG-PoolService-1:31 - [Thread-69] Entered username: Admin
+2024-12-25T16:43:26,188 [TestNG-tests-1] INFO  TestListener:98 - WebDriver instance quit for thread.
+2024-12-25T16:43:26,208 [TestNG-PoolService-1] INFO  TestNG-PoolService-1:31 - [Thread-69] Entered password: admin123
+2024-12-25T16:43:26,422 [TestNG-PoolService-2] INFO  TestNG-PoolService-2:31 - [Thread-71] Clicked login button
+2024-12-25T16:43:26,758 [TestNG-PoolService-5] INFO  TestNG-PoolService-5:31 - [Thread-161] Entered username: 
+2024-12-25T16:43:26,781 [TestNG-PoolService-5] INFO  TestNG-PoolService-5:31 - [Thread-161] Entered password: 
+2024-12-25T16:43:27,031 [TestNG-PoolService-5] INFO  TestNG-PoolService-5:31 - [Thread-161] Clicked login button
+2024-12-25T16:43:27,223 [TestNG-PoolService-2] INFO  TestNG-PoolService-2:31 - [Thread-152] Clicked login button
+2024-12-25T16:43:27,895 [TestNG-PoolService-1] INFO  TestNG-PoolService-1:31 - [Thread-69] Clicked login button
+2024-12-25T16:43:28,044 [TestNG-PoolService-5] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-25T16:43:28,044 [TestNG-PoolService-5] INFO  TestNG-PoolService-5:71 - [Thread-161] WebDriver instance closed.
+2024-12-25T16:43:28,536 [TestNG-PoolService-2] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-25T16:43:28,538 [TestNG-PoolService-2] INFO  TestNG-PoolService-2:71 - [Thread-71] WebDriver instance closed.
+2024-12-25T16:43:28,544 [TestNG-PoolService-1] INFO  TestNG-PoolService-1:31 - [Thread-151] Entered username: Admin
+2024-12-25T16:43:28,576 [TestNG-PoolService-1] INFO  TestNG-PoolService-1:31 - [Thread-151] Entered password: admin123
+2024-12-25T16:43:28,755 [TestNG-PoolService-2] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-25T16:43:28,756 [TestNG-PoolService-2] INFO  TestNG-PoolService-2:71 - [Thread-152] WebDriver instance closed.
+2024-12-25T16:43:29,290 [TestNG-PoolService-4] INFO  TestNG-PoolService-4:31 - [Thread-154] Entered username: Adminn
+2024-12-25T16:43:29,326 [TestNG-PoolService-4] INFO  TestNG-PoolService-4:31 - [Thread-154] Entered password: admin
+2024-12-25T16:43:29,498 [TestNG-PoolService-3] INFO  TestNG-PoolService-3:31 - [Thread-153] Entered username: Adminn
+2024-12-25T16:43:29,530 [TestNG-PoolService-3] INFO  TestNG-PoolService-3:31 - [Thread-153] Entered password: admin123
+2024-12-25T16:43:30,091 [TestNG-PoolService-1] INFO  TestNG-PoolService-1:31 - [Thread-151] Clicked login button
+2024-12-25T16:43:30,356 [TestNG-PoolService-6] INFO  TestNG-PoolService-6:31 - [Thread-170] Clicked forgot password link
+2024-12-25T16:43:30,506 [TestNG-PoolService-6] INFO  TestNG-PoolService-6:31 - [Thread-170] Entered username: Admin
+2024-12-25T16:43:30,545 [TestNG-PoolService-1] INFO  TestNG-PoolService-1:31 - [Thread-69] Clicked logout link
+2024-12-25T16:43:30,725 [TestNG-PoolService-4] INFO  TestNG-PoolService-4:31 - [Thread-154] Clicked login button
+2024-12-25T16:43:30,918 [TestNG-PoolService-3] INFO  TestNG-PoolService-3:31 - [Thread-153] Clicked login button
+2024-12-25T16:43:31,609 [TestNG-PoolService-6] INFO  TestNG-PoolService-6:31 - [Thread-170] Clicked login button
+2024-12-25T16:43:32,184 [TestNG-PoolService-4] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-25T16:43:32,185 [TestNG-PoolService-4] INFO  TestNG-PoolService-4:71 - [Thread-154] WebDriver instance closed.
+2024-12-25T16:43:32,397 [TestNG-PoolService-1] INFO  TestNG-PoolService-1:31 - [Thread-151] Clicked logout link
+2024-12-25T16:43:32,416 [TestNG-PoolService-3] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-25T16:43:32,417 [TestNG-PoolService-3] INFO  TestNG-PoolService-3:71 - [Thread-153] WebDriver instance closed.
+2024-12-25T16:43:32,755 [TestNG-PoolService-1] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-25T16:43:32,756 [TestNG-PoolService-1] INFO  TestNG-PoolService-1:71 - [Thread-69] WebDriver instance closed.
+2024-12-25T16:43:32,992 [TestNG-PoolService-6] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-25T16:43:32,993 [TestNG-PoolService-6] INFO  TestNG-PoolService-6:71 - [Thread-170] WebDriver instance closed.
+2024-12-25T16:43:33,649 [TestNG-PoolService-1] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-25T16:43:33,650 [TestNG-PoolService-1] INFO  TestNG-PoolService-1:71 - [Thread-151] WebDriver instance closed.
+2024-12-25T16:43:33,987 [TestNG-tests-3] INFO  TestListener:94 - Test Context Finished: EdgeTests
+2024-12-25T16:43:34,547 [TestNG-tests-2] INFO  TestListener:94 - Test Context Finished: FirefoxTests
+2024-12-25T16:43:35,122 [TestNG-tests-2] INFO  TestListener:98 - WebDriver instance quit for thread.
+2024-12-25T16:43:35,190 [TestNG-tests-3] INFO  TestListener:98 - WebDriver instance quit for thread.

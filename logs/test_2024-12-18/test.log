@@ -1,0 +1,540 @@
+2024-12-18T12:53:15,153 [main] INFO  main:71 - [Thread-1] Clearing Allure results at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.14\allure-results
+2024-12-18T12:53:15,159 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 06bf03d8-2d4c-4e37-899a-a109c754a53e-result.json
+2024-12-18T12:53:15,160 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 092ae2b0-b19f-47ce-9043-73ff1982ac42-container.json
+2024-12-18T12:53:15,160 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 0b8057c6-2966-47a3-a35f-e8a0b7f1105c-result.json
+2024-12-18T12:53:15,161 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 0c0aa9de-186f-43e4-a7ca-95ae6d0bca12-result.json
+2024-12-18T12:53:15,161 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 10b5acb9-3be9-423c-911b-fb262bc9884f-container.json
+2024-12-18T12:53:15,162 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 10fad9fc-ac9e-4548-ad1f-d0e5a2d7d30a-container.json
+2024-12-18T12:53:15,163 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 13dc001c-eb42-4c87-b425-e31b49df5c90-container.json
+2024-12-18T12:53:15,163 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 16f699cd-3b06-4636-b4ee-75461eb8cf4a-container.json
+2024-12-18T12:53:15,164 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 185434a3-56dc-4e56-a04b-910c3cfeff29-result.json
+2024-12-18T12:53:15,165 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 18df2e2a-faf1-4f2d-99fe-f92d94ac470d-container.json
+2024-12-18T12:53:15,165 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 1945a07b-88a2-43ab-9e23-09c006d5d824-container.json
+2024-12-18T12:53:15,166 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 1a2e53d1-9f42-467f-94a0-b47edcd6d53b-container.json
+2024-12-18T12:53:15,166 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 1b18dd2b-d8dc-4f8d-9012-af12ea80ee90-container.json
+2024-12-18T12:53:15,167 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 1ce915be-a2cc-49de-a4cf-6c7f00db2072-container.json
+2024-12-18T12:53:15,167 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 1d95d160-7dfd-4c7e-9905-da03dcb8b018-container.json
+2024-12-18T12:53:15,168 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 208fa67f-7a59-4755-801a-a8f1a1c6f37b-container.json
+2024-12-18T12:53:15,168 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 223c0636-e7c6-4705-9383-b5a75f1748bb-result.json
+2024-12-18T12:53:15,169 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 25a72727-b465-4285-80fa-c745364ce416-container.json
+2024-12-18T12:53:15,169 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 270c41d8-0ecb-4347-a02f-b6841ee11b10-container.json
+2024-12-18T12:53:15,170 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 2b8a6561-4b64-469e-9d02-ad6487bdddeb-container.json
+2024-12-18T12:53:15,171 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 2c37d14e-3d69-47cb-9e88-97ebac5971f0-container.json
+2024-12-18T12:53:15,171 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 2d58e439-bd50-452d-a53e-9466973048fd-result.json
+2024-12-18T12:53:15,172 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 2d6f017d-42e8-4e10-ae54-0f24be4b4b8b-container.json
+2024-12-18T12:53:15,172 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 2ebd612a-8883-4b33-b7d6-330a07711630-container.json
+2024-12-18T12:53:15,173 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 35897ff7-16a1-4076-a3fd-45e81f78b002-container.json
+2024-12-18T12:53:15,173 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 365a9222-4a9f-4881-b7f2-a265b1ab9a1b-result.json
+2024-12-18T12:53:15,174 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 3bd47b0f-cbd7-485a-901b-12c669748081-container.json
+2024-12-18T12:53:15,174 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 3f68dadf-54da-49b5-87e3-6612f8f1a672-container.json
+2024-12-18T12:53:15,175 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 4aa2457c-f730-4ee3-8683-42fcdeb91fd7-container.json
+2024-12-18T12:53:15,176 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 502e9aa1-73d4-48d6-a3e4-d38c3e15f210-container.json
+2024-12-18T12:53:15,176 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 5417a7b8-b2ac-45d0-88c1-fa7e52b2f6e8-container.json
+2024-12-18T12:53:15,177 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 54b6d608-1a8f-417e-bb6e-8b1e66cb2a34-container.json
+2024-12-18T12:53:15,177 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 55d81c06-9cd0-430f-9e98-4522a53f9c5d-result.json
+2024-12-18T12:53:15,178 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 57153b3d-3142-4527-ae23-ad99a886289e-container.json
+2024-12-18T12:53:15,179 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 576872f3-c1eb-4542-b485-be9a3e3867f9-result.json
+2024-12-18T12:53:15,179 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 5aaefec0-c507-4dd3-8f1b-a98f77ad5816-container.json
+2024-12-18T12:53:15,179 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 5e390a19-2077-4fdc-924c-3fadc1f46219-container.json
+2024-12-18T12:53:15,180 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 650cda47-b744-48a7-9e15-036f7c3cda98-container.json
+2024-12-18T12:53:15,180 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 6560ef16-2f2a-4e76-9d96-90b66f2dd9e4-container.json
+2024-12-18T12:53:15,181 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 65909531-1e64-4c98-ab9e-bdbe740366db-container.json
+2024-12-18T12:53:15,181 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 663a1070-f9c7-4c27-9a68-b23a775ec524-container.json
+2024-12-18T12:53:15,182 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 6641a634-74e2-4e7a-99d6-c857eda7d79b-container.json
+2024-12-18T12:53:15,183 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 673811c1-70eb-4688-9a9c-b83f654955b6-container.json
+2024-12-18T12:53:15,183 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 68ec3752-5bc7-4702-bbdd-ae186855aeb6-container.json
+2024-12-18T12:53:15,184 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 6d21c42b-5cdf-4067-822d-7412c7076563-result.json
+2024-12-18T12:53:15,184 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 6e0031b4-283e-49f3-9d9c-dd43676ef10a-result.json
+2024-12-18T12:53:15,185 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 75f9b1c3-19f7-42f0-b43c-98b334baf36a-container.json
+2024-12-18T12:53:15,185 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 77411b13-7b58-4483-9e12-fdb83cbc230e-container.json
+2024-12-18T12:53:15,186 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 77beb138-22cc-498a-b54c-8a37c82205ab-container.json
+2024-12-18T12:53:15,186 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 77c43315-ec42-4eb0-b714-1b53aa160ccf-container.json
+2024-12-18T12:53:15,187 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 78aa9f46-6acb-4837-a7ca-6e6e4e3e5701-container.json
+2024-12-18T12:53:15,187 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 7cca39ba-59c5-4de2-af9b-f05fc3c3bab0-container.json
+2024-12-18T12:53:15,188 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 7fa66079-6b9d-465e-b3e2-1c3ff08d04ee-result.json
+2024-12-18T12:53:15,188 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 85a56abc-4453-4b40-b18c-6345ff0a2c97-container.json
+2024-12-18T12:53:15,189 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 8782bc44-46a2-4950-98a9-51d649fc5962-container.json
+2024-12-18T12:53:15,189 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 8a506091-53a6-44b7-b586-a9720327670d-container.json
+2024-12-18T12:53:15,189 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 8b447ded-344a-48f9-91a7-b9b68c6a5bc4-result.json
+2024-12-18T12:53:15,190 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 8c50cb60-1072-46d7-9359-73d9b80594b9-container.json
+2024-12-18T12:53:15,190 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 8e079751-c548-43fa-8020-b9e09f3f753a-container.json
+2024-12-18T12:53:15,191 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 8eecae52-4d0f-4f1d-9df5-5b805888d205-container.json
+2024-12-18T12:53:15,191 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 8fee39a8-7f75-4f2f-a2b7-9a3a50612328-container.json
+2024-12-18T12:53:15,192 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 978e073d-2108-4cec-afbd-b6eb200392d6-container.json
+2024-12-18T12:53:15,192 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 9af9fedf-9762-4be6-b07c-475fa1c75d3e-container.json
+2024-12-18T12:53:15,193 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 9b2952ac-7aa3-45b1-a8f0-eac6254d7a15-container.json
+2024-12-18T12:53:15,193 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 9ba9966b-c793-4f56-89db-1d1ee69e30bf-container.json
+2024-12-18T12:53:15,194 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 9c1bb591-1500-47f1-b20d-f077f24b9be3-result.json
+2024-12-18T12:53:15,194 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 9e3b72e0-809e-4bbb-b8fe-280f2fae7010-result.json
+2024-12-18T12:53:15,195 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: a0b58a7c-56d9-4a90-afcf-d78d99cfc52a-container.json
+2024-12-18T12:53:15,195 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: a38bd3b2-0091-4f48-b3ed-5547673f3d9a-container.json
+2024-12-18T12:53:15,195 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: a4a97b83-a519-4c16-8a7e-49ca23465faf-container.json
+2024-12-18T12:53:15,196 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: a658781a-586e-4986-a061-2360eee6006e-container.json
+2024-12-18T12:53:15,196 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: a7220f50-405e-44d5-9ad0-7c7ddf3565fa-container.json
+2024-12-18T12:53:15,197 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: a7c1b2d3-40b5-468d-9c85-06f932fb60ac-container.json
+2024-12-18T12:53:15,197 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: a91b550b-4864-4ff5-b550-c20e885f63e3-container.json
+2024-12-18T12:53:15,198 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: ab97caa7-7114-4cc4-affe-3600a883b871-container.json
+2024-12-18T12:53:15,198 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: b253bb05-3664-49c4-baf2-53c4b825c18d-container.json
+2024-12-18T12:53:15,198 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: b57154c0-af09-41fa-90ba-27f3e9bc9a4e-result.json
+2024-12-18T12:53:15,199 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: b740769a-600f-41d7-ab49-e8da5fe17c92-container.json
+2024-12-18T12:53:15,200 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: b7db2fe3-abf5-41cd-82d6-7cc91974ad2e-container.json
+2024-12-18T12:53:15,200 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: bd8cb8e7-28ad-4287-8ca4-cc163d1d814d-container.json
+2024-12-18T12:53:15,200 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: be70b4b1-6bd7-4375-b7c5-0f9e9b517074-container.json
+2024-12-18T12:53:15,201 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: c0cf404c-0acf-461d-ad8a-74dcec0322b3-container.json
+2024-12-18T12:53:15,202 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: c0fcd920-9b23-4946-9979-d13985bbdb93-container.json
+2024-12-18T12:53:15,202 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: c26d7aa7-6f44-46d2-88d7-c8e638f851db-container.json
+2024-12-18T12:53:15,203 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: c2f6c467-a463-4c93-bf56-80c84df15940-container.json
+2024-12-18T12:53:15,203 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: c681262d-8443-4285-baf1-a500990034b0-container.json
+2024-12-18T12:53:15,204 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: cd01dd01-9c1f-456e-a790-0cd9d8e57cdb-container.json
+2024-12-18T12:53:15,204 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: d19567f3-f452-48d8-8cbd-44a42372e0b0-result.json
+2024-12-18T12:53:15,205 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: daf43569-67d1-44b5-9829-779af117cc40-container.json
+2024-12-18T12:53:15,205 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: de31102a-dbe6-49bd-80e0-d1aa6ff47dc9-container.json
+2024-12-18T12:53:15,206 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: defe923d-44d0-42ce-abdb-7d4edef5953c-container.json
+2024-12-18T12:53:15,206 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: df63f76e-f5fe-4ffb-aa22-214e8d5ddb52-result.json
+2024-12-18T12:53:15,206 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: f2d98e8d-9ad3-492e-aa8d-2eff506c1be7-container.json
+2024-12-18T12:53:15,207 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: f5b9c749-de90-4741-a76d-384891c8b18c-container.json
+2024-12-18T12:53:15,207 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: f612d5a2-1ec4-46b7-ac57-7cdfea3fe642-container.json
+2024-12-18T12:53:15,208 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: f967469b-8b52-49ce-8c8f-96c3e26f06bc-container.json
+2024-12-18T12:53:15,208 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: fcff4ff3-c748-4f6b-ae4b-c939f7a5c142-container.json
+2024-12-18T12:53:15,216 [main] INFO  TestListener:73 - Test Context Started: ChromeTests
+2024-12-18T12:53:15,216 [main] INFO  TestListener:78 - Running tests with Browser: chrome and Environment: dev
+2024-12-18T12:53:16,459 [main] INFO  TestListener:87 - WebDriver initialized: chrome
+2024-12-18T12:53:16,826 [main] INFO  main:71 - [Thread-1] Setting up tests. Browser: chrome, Environment: dev
+2024-12-18T12:53:17,452 [main] INFO  LogUtil:24 - Logger initialized with level: INFO
+2024-12-18T12:53:17,501 [main] INFO  TestListener:25 - Test Started: runScenario
+2024-12-18T12:53:21,530 [main] INFO  main:31 - [Thread-1] Entered username: Admin
+2024-12-18T12:53:21,582 [main] INFO  main:31 - [Thread-1] Entered password: admin123
+2024-12-18T12:53:22,987 [main] INFO  main:31 - [Thread-1] Clicked login button
+2024-12-18T12:53:25,270 [main] INFO  main:31 - [Thread-1] Clicked logout link
+2024-12-18T12:53:26,266 [main] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-18T12:53:26,267 [main] INFO  main:71 - [Thread-1] WebDriver instance closed.
+2024-12-18T12:53:26,270 [main] INFO  main:71 - [Thread-1] Setting up tests. Browser: chrome, Environment: dev
+2024-12-18T12:53:26,887 [main] INFO  LogUtil:24 - Logger initialized with level: INFO
+2024-12-18T12:53:26,889 [main] INFO  TestListener:25 - Test Started: runScenario
+2024-12-18T12:53:30,269 [main] INFO  main:31 - [Thread-1] Entered username: Admin
+2024-12-18T12:53:30,319 [main] INFO  main:31 - [Thread-1] Entered password: admin
+2024-12-18T12:53:30,379 [main] INFO  main:31 - [Thread-1] Clicked login button
+2024-12-18T12:53:32,520 [main] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-18T12:53:32,521 [main] INFO  main:71 - [Thread-1] WebDriver instance closed.
+2024-12-18T12:53:32,522 [main] INFO  main:71 - [Thread-1] Setting up tests. Browser: chrome, Environment: dev
+2024-12-18T12:53:33,153 [main] INFO  LogUtil:24 - Logger initialized with level: INFO
+2024-12-18T12:53:33,154 [main] INFO  TestListener:25 - Test Started: runScenario
+2024-12-18T12:53:36,484 [main] INFO  main:31 - [Thread-1] Entered username: Adminn
+2024-12-18T12:53:36,545 [main] INFO  main:31 - [Thread-1] Entered password: admin123
+2024-12-18T12:53:36,605 [main] INFO  main:31 - [Thread-1] Clicked login button
+2024-12-18T12:53:38,494 [main] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-18T12:53:38,495 [main] INFO  main:71 - [Thread-1] WebDriver instance closed.
+2024-12-18T12:53:38,496 [main] INFO  main:71 - [Thread-1] Setting up tests. Browser: chrome, Environment: dev
+2024-12-18T12:53:39,117 [main] INFO  LogUtil:24 - Logger initialized with level: INFO
+2024-12-18T12:53:39,118 [main] INFO  TestListener:25 - Test Started: runScenario
+2024-12-18T12:53:42,522 [main] INFO  main:31 - [Thread-1] Entered username: Adminn
+2024-12-18T12:53:42,577 [main] INFO  main:31 - [Thread-1] Entered password: admin
+2024-12-18T12:53:42,638 [main] INFO  main:31 - [Thread-1] Clicked login button
+2024-12-18T12:53:44,494 [main] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-18T12:53:44,495 [main] INFO  main:71 - [Thread-1] WebDriver instance closed.
+2024-12-18T12:53:44,499 [main] INFO  main:71 - [Thread-1] Setting up tests. Browser: chrome, Environment: dev
+2024-12-18T12:53:45,122 [main] INFO  LogUtil:24 - Logger initialized with level: INFO
+2024-12-18T12:53:45,124 [main] INFO  TestListener:25 - Test Started: runScenario
+2024-12-18T12:53:48,592 [main] INFO  main:31 - [Thread-1] Entered username: 
+2024-12-18T12:53:48,642 [main] INFO  main:31 - [Thread-1] Entered password: 
+2024-12-18T12:53:48,701 [main] INFO  main:31 - [Thread-1] Clicked login button
+2024-12-18T12:53:49,235 [main] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-18T12:53:49,236 [main] INFO  main:71 - [Thread-1] WebDriver instance closed.
+2024-12-18T12:53:49,238 [main] INFO  main:71 - [Thread-1] Setting up tests. Browser: chrome, Environment: dev
+2024-12-18T12:53:49,840 [main] INFO  LogUtil:24 - Logger initialized with level: INFO
+2024-12-18T12:53:49,841 [main] INFO  TestListener:25 - Test Started: runScenario
+2024-12-18T12:53:53,741 [main] INFO  main:31 - [Thread-1] Clicked forgot password link
+2024-12-18T12:53:54,504 [main] INFO  main:31 - [Thread-1] Entered username: Admin
+2024-12-18T12:53:54,561 [main] INFO  main:31 - [Thread-1] Clicked login button
+2024-12-18T12:53:56,470 [main] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-18T12:53:56,471 [main] INFO  main:71 - [Thread-1] WebDriver instance closed.
+2024-12-18T12:53:57,879 [main] INFO  TestListener:94 - Test Context Finished: ChromeTests
+2024-12-18T12:53:57,879 [main] INFO  TestListener:98 - WebDriver instance quit for thread.
+2024-12-18T12:53:57,890 [main] INFO  TestListener:73 - Test Context Started: FirefoxTests
+2024-12-18T12:53:57,890 [main] INFO  TestListener:78 - Running tests with Browser: firefox and Environment: dev
+2024-12-18T12:53:59,264 [main] INFO  TestListener:87 - WebDriver initialized: firefox
+2024-12-18T12:53:59,278 [main] INFO  main:71 - [Thread-1] Setting up tests. Browser: firefox, Environment: dev
+2024-12-18T12:54:01,239 [main] INFO  LogUtil:24 - Logger initialized with level: INFO
+2024-12-18T12:54:01,240 [main] INFO  TestListener:25 - Test Started: runScenario
+2024-12-18T12:54:05,163 [main] INFO  main:31 - [Thread-1] Entered username: Admin
+2024-12-18T12:54:05,183 [main] INFO  main:31 - [Thread-1] Entered password: admin123
+2024-12-18T12:54:07,020 [main] INFO  main:31 - [Thread-1] Clicked login button
+2024-12-18T12:54:09,437 [main] INFO  main:31 - [Thread-1] Clicked logout link
+2024-12-18T12:54:10,667 [main] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-18T12:54:10,668 [main] INFO  main:71 - [Thread-1] WebDriver instance closed.
+2024-12-18T12:54:10,669 [main] INFO  main:71 - [Thread-1] Setting up tests. Browser: firefox, Environment: dev
+2024-12-18T12:54:12,471 [main] INFO  LogUtil:24 - Logger initialized with level: INFO
+2024-12-18T12:54:12,472 [main] INFO  TestListener:25 - Test Started: runScenario
+2024-12-18T12:54:14,570 [main] ERROR TestListener:37 - Test Failed: runScenario
+2024-12-18T12:54:14,573 [main] ERROR TestListener:37 - Test Failed: runScenario
+2024-12-18T12:55:19,020 [main] INFO  main:71 - [Thread-1] Clearing Allure results at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.14\allure-results
+2024-12-18T12:55:19,023 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 0b0a8b2a-d7ff-4ddf-872b-53ddd47ad642-container.json
+2024-12-18T12:55:19,024 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 0d466d15-9263-4097-a97f-ed81db44c079-container.json
+2024-12-18T12:55:19,024 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 0de87e9e-a71d-4c49-aa71-c1af23d0e890-container.json
+2024-12-18T12:55:19,025 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 10809921-7cfe-4571-ae0a-b72740d9a1a0-container.json
+2024-12-18T12:55:19,025 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 158f0d45-694d-4a59-af70-66eaa9fde4d8-container.json
+2024-12-18T12:55:19,026 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 1605a6b7-be29-4ca3-9f4d-ba622866c014-container.json
+2024-12-18T12:55:19,027 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 19da560b-bd85-48e3-8328-45b05299a5ee-container.json
+2024-12-18T12:55:19,027 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 25dd0f0b-40f2-4b9e-90c1-226ff35e0c12-container.json
+2024-12-18T12:55:19,028 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 28728d61-6ce0-4cb1-9721-1f8d95bb7e37-result.json
+2024-12-18T12:55:19,028 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 29931726-9e36-4958-ae51-3382da1d518c-container.json
+2024-12-18T12:55:19,029 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 2ce848b4-f85d-4c0a-bdf4-d7889c882433-container.json
+2024-12-18T12:55:19,029 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 2f6af9ca-caea-44a7-91c8-7245946575fa-container.json
+2024-12-18T12:55:19,030 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 310da96f-a343-4a56-ae12-fc4a304f73f6-result.json
+2024-12-18T12:55:19,030 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 326e59a3-f3d2-4c39-88b1-8906a7579214-result.json
+2024-12-18T12:55:19,031 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 4041b231-51aa-40f4-94df-df3a2892943f-container.json
+2024-12-18T12:55:19,031 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 43812544-8ed9-45f2-a29a-73af81699589-container.json
+2024-12-18T12:55:19,032 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 454835fe-d96c-4fa3-bde6-52096a77e7d4-container.json
+2024-12-18T12:55:19,033 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 516e8eab-a801-4479-8148-79cb0bf089ec-result.json
+2024-12-18T12:55:19,033 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 54ce098f-8e0d-482b-9dd9-074450787ae9-container.json
+2024-12-18T12:55:19,034 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 60658621-450f-42ba-8355-41589bd2400f-result.json
+2024-12-18T12:55:19,034 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 653495fb-b113-4f59-86e6-97635af9293f-container.json
+2024-12-18T12:55:19,035 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 653aa508-a309-4e68-b1cc-40c8c9e00559-container.json
+2024-12-18T12:55:19,035 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 65fdc622-d29b-4a4d-86c8-55a90cbb7634-container.json
+2024-12-18T12:55:19,036 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 687e2b18-7a1a-4507-bd34-5aabac650f8c-container.json
+2024-12-18T12:55:19,036 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 6dbe76d6-d19a-4aa8-a75e-e7ffc8ec0894-container.json
+2024-12-18T12:55:19,037 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 6f104be0-321e-464f-9f09-a2925d85298e-container.json
+2024-12-18T12:55:19,037 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 73938d42-7889-4c6c-af9a-cd25ff7c9f5d-container.json
+2024-12-18T12:55:19,038 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 757c031b-669f-47ee-bd47-071fddf07728-container.json
+2024-12-18T12:55:19,038 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 84699962-4623-4936-bed7-aa3c2a33aa28-container.json
+2024-12-18T12:55:19,039 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 8695ee3f-8c87-4196-9b2e-628f59dea048-result.json
+2024-12-18T12:55:19,039 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 8881d319-278f-4da5-8f6d-707c18128e4f-container.json
+2024-12-18T12:55:19,040 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: a1c192d1-9ce5-4e7a-8b2c-8d6b6e571ced-result.json
+2024-12-18T12:55:19,040 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: adc780d0-5514-4856-9544-e841d0ebdc7a-container.json
+2024-12-18T12:55:19,041 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: b262e108-3403-4274-86e8-01f49afad260-container.json
+2024-12-18T12:55:19,041 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: bbe47eaf-ebc1-4b6f-973a-f7adcc7ad2f6-container.json
+2024-12-18T12:55:19,042 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: c80603b0-91b7-4f6e-9ceb-b288d60db91f-container.json
+2024-12-18T12:55:19,042 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: cca7a7c3-8adb-4faa-8af0-354dc2c579f0-container.json
+2024-12-18T12:55:19,042 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: d2895a53-9996-4036-97c2-aa9c85423bf6-result.json
+2024-12-18T12:55:19,043 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: d717ca8f-086e-4f75-aa63-a750a3e68e05-container.json
+2024-12-18T12:55:19,043 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: db6bf4b5-c4a7-42a1-bff2-c2abb904dacb-container.json
+2024-12-18T12:55:19,044 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: feb2313d-ccbe-4f0b-8dd3-6fd3713b99a8-container.json
+2024-12-18T12:55:19,056 [main] INFO  TestListener:73 - Test Context Started: ChromeTests
+2024-12-18T12:55:19,056 [main] INFO  TestListener:78 - Running tests with Browser: chrome and Environment: dev
+2024-12-18T12:55:20,193 [main] INFO  TestListener:87 - WebDriver initialized: chrome
+2024-12-18T12:55:20,528 [main] INFO  main:71 - [Thread-1] Setting up tests. Browser: chrome, Environment: dev
+2024-12-18T12:55:21,159 [main] INFO  LogUtil:24 - Logger initialized with level: INFO
+2024-12-18T12:55:21,203 [main] INFO  TestListener:25 - Test Started: runScenario
+2024-12-18T12:55:24,984 [main] INFO  main:31 - [Thread-1] Entered username: 
+2024-12-18T12:55:25,030 [main] INFO  main:31 - [Thread-1] Entered password: 
+2024-12-18T12:55:25,089 [main] INFO  main:31 - [Thread-1] Clicked login button
+2024-12-18T12:55:25,662 [main] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-18T12:55:25,663 [main] INFO  main:71 - [Thread-1] WebDriver instance closed.
+2024-12-18T12:55:26,860 [main] INFO  TestListener:94 - Test Context Finished: ChromeTests
+2024-12-18T12:55:26,861 [main] INFO  TestListener:98 - WebDriver instance quit for thread.
+2024-12-18T12:55:26,871 [main] INFO  TestListener:73 - Test Context Started: FirefoxTests
+2024-12-18T12:55:26,871 [main] INFO  TestListener:78 - Running tests with Browser: firefox and Environment: dev
+2024-12-18T12:55:28,071 [main] INFO  TestListener:87 - WebDriver initialized: firefox
+2024-12-18T12:55:28,087 [main] INFO  main:71 - [Thread-1] Setting up tests. Browser: firefox, Environment: dev
+2024-12-18T12:55:30,051 [main] INFO  LogUtil:24 - Logger initialized with level: INFO
+2024-12-18T12:55:30,052 [main] INFO  TestListener:25 - Test Started: runScenario
+2024-12-18T12:55:33,853 [main] INFO  main:31 - [Thread-1] Entered username: 
+2024-12-18T12:55:33,869 [main] INFO  main:31 - [Thread-1] Entered password: 
+2024-12-18T12:55:34,114 [main] INFO  main:31 - [Thread-1] Clicked login button
+2024-12-18T12:55:34,815 [main] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-18T12:55:34,815 [main] INFO  main:71 - [Thread-1] WebDriver instance closed.
+2024-12-18T12:55:35,916 [main] INFO  TestListener:94 - Test Context Finished: FirefoxTests
+2024-12-18T12:55:35,916 [main] INFO  TestListener:98 - WebDriver instance quit for thread.
+2024-12-18T12:55:35,919 [main] INFO  TestListener:73 - Test Context Started: EdgeTests
+2024-12-18T12:55:35,919 [main] INFO  TestListener:78 - Running tests with Browser: edge and Environment: dev
+2024-12-18T12:55:36,842 [main] INFO  TestListener:87 - WebDriver initialized: edge
+2024-12-18T12:55:36,854 [main] INFO  main:71 - [Thread-1] Setting up tests. Browser: edge, Environment: dev
+2024-12-18T12:55:39,127 [main] INFO  LogUtil:24 - Logger initialized with level: INFO
+2024-12-18T12:55:39,128 [main] INFO  TestListener:25 - Test Started: runScenario
+2024-12-18T12:55:42,784 [main] INFO  main:31 - [Thread-1] Entered username: 
+2024-12-18T12:55:42,834 [main] INFO  main:31 - [Thread-1] Entered password: 
+2024-12-18T12:55:42,881 [main] INFO  main:31 - [Thread-1] Clicked login button
+2024-12-18T12:55:44,525 [main] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-18T12:55:44,526 [main] INFO  main:71 - [Thread-1] WebDriver instance closed.
+2024-12-18T12:55:45,564 [main] INFO  TestListener:94 - Test Context Finished: EdgeTests
+2024-12-18T12:55:45,565 [main] INFO  TestListener:98 - WebDriver instance quit for thread.
+2024-12-18T12:58:58,406 [main] INFO  main:71 - [Thread-1] Clearing Allure results at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.14\allure-results
+2024-12-18T12:58:58,409 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 012d1b56-840b-4193-8e20-a77ad5375d48-container.json
+2024-12-18T12:58:58,409 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 094bec2b-905d-4682-8627-ac1bc6d490c2-container.json
+2024-12-18T12:58:58,410 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 1319e799-7452-48dc-9900-d92a3c1cd2f0-result.json
+2024-12-18T12:58:58,410 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 13985898-a4bb-48c4-b820-a76e491e5873-container.json
+2024-12-18T12:58:58,411 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 19987fa3-92f4-47bc-9eed-630ebc54e4ab-result.json
+2024-12-18T12:58:58,411 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 451aa9d8-68f8-4bb6-9f6c-f2427083b6ff-container.json
+2024-12-18T12:58:58,412 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 5734318d-196d-4509-b7dd-4730785271ad-container.json
+2024-12-18T12:58:58,413 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 683e8bac-6c53-4f9c-aa38-4df1a82a1396-container.json
+2024-12-18T12:58:58,413 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 714a9208-187a-4f17-ac46-30e31929cecf-container.json
+2024-12-18T12:58:58,414 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 7513dfba-3e0a-40da-a11c-794723727344-container.json
+2024-12-18T12:58:58,414 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 75aea664-c360-45e1-8105-c1c13f42bc83-container.json
+2024-12-18T12:58:58,415 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 75db0ac9-535d-4c42-af3a-c589d16e6fe6-container.json
+2024-12-18T12:58:58,415 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 7e4ec92b-41b2-4c7c-83e6-9952f37163bc-container.json
+2024-12-18T12:58:58,416 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 806ad9b0-6da1-4118-ab74-b995488b8ec5-container.json
+2024-12-18T12:58:58,416 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: ab91d0e6-df3b-4ebe-97e4-d7d839b495ec-container.json
+2024-12-18T12:58:58,417 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: ac2d2311-2726-4b46-b2e3-b19c175deba4-container.json
+2024-12-18T12:58:58,417 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: b399000b-cdc0-42cb-92c6-cae152b452f8-container.json
+2024-12-18T12:58:58,418 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: b8b42fc1-5b75-4246-87d2-fdb5f5350201-container.json
+2024-12-18T12:58:58,418 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: c36afa1b-a93a-4197-8125-fa373d6a8d0e-container.json
+2024-12-18T12:58:58,419 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: d2e8d3da-4c5c-444a-87d9-1cddc230ce74-container.json
+2024-12-18T12:58:58,419 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: dfd389e2-6d46-4f0d-8683-7ee3c37a87cf-container.json
+2024-12-18T12:58:58,419 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: e84a3f88-294f-42ba-a945-ba4842ea407f-result.json
+2024-12-18T12:58:58,430 [main] INFO  TestListener:73 - Test Context Started: ChromeTests
+2024-12-18T12:58:58,430 [main] INFO  TestListener:78 - Running tests with Browser: chrome and Environment: dev
+2024-12-18T12:58:59,574 [main] INFO  TestListener:87 - WebDriver initialized: chrome
+2024-12-18T12:58:59,911 [main] INFO  main:71 - [Thread-1] Setting up tests. Browser: chrome, Environment: dev
+2024-12-18T12:59:00,520 [main] INFO  LogUtil:24 - Logger initialized with level: INFO
+2024-12-18T12:59:00,563 [main] INFO  TestListener:25 - Test Started: runScenario
+2024-12-18T12:59:04,349 [main] INFO  main:31 - [Thread-1] Entered username: 
+2024-12-18T12:59:04,405 [main] INFO  main:31 - [Thread-1] Entered password: 
+2024-12-18T12:59:04,472 [main] INFO  main:31 - [Thread-1] Clicked login button
+2024-12-18T12:59:05,040 [main] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-18T12:59:05,041 [main] INFO  main:71 - [Thread-1] WebDriver instance closed.
+2024-12-18T12:59:06,246 [main] INFO  TestListener:94 - Test Context Finished: ChromeTests
+2024-12-18T12:59:06,246 [main] INFO  TestListener:98 - WebDriver instance quit for thread.
+2024-12-18T12:59:06,257 [main] INFO  TestListener:73 - Test Context Started: FirefoxTests
+2024-12-18T12:59:06,257 [main] INFO  TestListener:78 - Running tests with Browser: firefox and Environment: dev
+2024-12-18T12:59:07,487 [main] INFO  TestListener:87 - WebDriver initialized: firefox
+2024-12-18T12:59:07,502 [main] INFO  main:71 - [Thread-1] Setting up tests. Browser: firefox, Environment: dev
+2024-12-18T12:59:09,449 [main] INFO  LogUtil:24 - Logger initialized with level: INFO
+2024-12-18T12:59:09,450 [main] INFO  TestListener:25 - Test Started: runScenario
+2024-12-18T12:59:13,276 [main] INFO  main:31 - [Thread-1] Entered username: 
+2024-12-18T12:59:13,300 [main] INFO  main:31 - [Thread-1] Entered password: 
+2024-12-18T12:59:13,537 [main] INFO  main:31 - [Thread-1] Clicked login button
+2024-12-18T12:59:14,254 [main] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-18T12:59:14,255 [main] INFO  main:71 - [Thread-1] WebDriver instance closed.
+2024-12-18T12:59:15,355 [main] INFO  TestListener:94 - Test Context Finished: FirefoxTests
+2024-12-18T12:59:15,355 [main] INFO  TestListener:98 - WebDriver instance quit for thread.
+2024-12-18T12:59:15,359 [main] INFO  TestListener:73 - Test Context Started: EdgeTests
+2024-12-18T12:59:15,359 [main] INFO  TestListener:78 - Running tests with Browser: edge and Environment: dev
+2024-12-18T12:59:17,631 [main] INFO  TestListener:87 - WebDriver initialized: edge
+2024-12-18T12:59:17,642 [main] INFO  main:71 - [Thread-1] Setting up tests. Browser: edge, Environment: dev
+2024-12-18T12:59:19,913 [main] INFO  LogUtil:24 - Logger initialized with level: INFO
+2024-12-18T12:59:19,915 [main] INFO  TestListener:25 - Test Started: runScenario
+2024-12-18T12:59:23,775 [main] INFO  main:31 - [Thread-1] Entered username: 
+2024-12-18T12:59:23,823 [main] INFO  main:31 - [Thread-1] Entered password: 
+2024-12-18T12:59:23,875 [main] INFO  main:31 - [Thread-1] Clicked login button
+2024-12-18T12:59:25,496 [main] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-18T12:59:25,497 [main] INFO  main:71 - [Thread-1] WebDriver instance closed.
+2024-12-18T12:59:26,611 [main] INFO  TestListener:94 - Test Context Finished: EdgeTests
+2024-12-18T12:59:26,611 [main] INFO  TestListener:98 - WebDriver instance quit for thread.
+2024-12-18T13:11:01,961 [main] INFO  main:71 - [Thread-1] Clearing Allure results at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.15\allure-results
+2024-12-18T13:11:01,964 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 0c93a4de-793f-4d6e-aaed-bdf299705231-container.json
+2024-12-18T13:11:01,964 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 132ba3d1-529e-40dc-9f06-59246e6829ad-container.json
+2024-12-18T13:11:01,965 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 22bd0f48-b179-4c06-8265-24d6b4a95907-result.json
+2024-12-18T13:11:01,965 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 3dfde1ac-caae-436f-8e26-87d8d0c2b063-container.json
+2024-12-18T13:11:01,966 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 472989f5-3897-425a-8dfe-46b5b0feb5c2-container.json
+2024-12-18T13:11:01,966 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 4b89f606-6284-4aa6-b300-1dd066ff095d-container.json
+2024-12-18T13:11:01,967 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 8731df2e-1c60-4438-8b34-6275aa757507-container.json
+2024-12-18T13:11:01,967 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 8da57da9-5a53-484b-b2d6-c4cd32e46e6f-container.json
+2024-12-18T13:11:01,968 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 97103dce-4281-401d-aa44-8c20dda4a2f2-container.json
+2024-12-18T13:11:01,969 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 9a2c782b-bba9-46bb-af2a-61961eea3800-container.json
+2024-12-18T13:11:01,969 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 9e9d1a6b-5073-4330-b2b7-3591a779238e-container.json
+2024-12-18T13:11:01,970 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: a2bd7e69-eeb6-4d07-9dec-ee924b66f932-container.json
+2024-12-18T13:11:01,970 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: b5a035db-aca9-4442-94f1-352d2f97ae90-result.json
+2024-12-18T13:11:01,971 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: ba018711-d360-4b09-9dac-2cadbff72110-container.json
+2024-12-18T13:11:01,971 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: d1f12c0d-4082-422d-8b2c-fe4a65e31623-container.json
+2024-12-18T13:11:01,972 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: dc2e0f5c-8d39-49da-a620-39cdb8be2b12-container.json
+2024-12-18T13:11:01,972 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: e155e5e3-e06d-4b8a-89f5-84609bd72723-container.json
+2024-12-18T13:11:01,973 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: e300bb6c-e025-4868-9cc0-c617a140a6dd-result.json
+2024-12-18T13:11:01,973 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: e3013760-3199-43db-a475-2905773195e6-container.json
+2024-12-18T13:11:01,974 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: ec6fae6a-2fc2-4a13-9aa9-9ad92917a77d-container.json
+2024-12-18T13:11:01,974 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: f057f067-4021-4ad4-aa4e-b0c42e47670f-container.json
+2024-12-18T13:11:01,975 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: fc0a19b7-d051-438e-b849-4895b2efddc2-container.json
+2024-12-18T13:11:01,984 [main] INFO  TestListener:73 - Test Context Started: ChromeTest
+2024-12-18T13:11:01,984 [main] INFO  TestListener:78 - Running tests with Browser: chrome and Environment: dev
+2024-12-18T13:11:03,090 [main] INFO  TestListener:87 - WebDriver initialized: chrome
+2024-12-18T13:11:03,426 [TestNG-PoolService-4] INFO  TestNG-PoolService-4:71 - [Thread-48] Setting up tests. Browser: chrome, Environment: dev
+2024-12-18T13:11:03,426 [TestNG-PoolService-5] INFO  TestNG-PoolService-5:71 - [Thread-49] Setting up tests. Browser: chrome, Environment: dev
+2024-12-18T13:11:03,426 [TestNG-PoolService-2] INFO  TestNG-PoolService-2:71 - [Thread-46] Setting up tests. Browser: chrome, Environment: dev
+2024-12-18T13:11:03,426 [TestNG-PoolService-3] INFO  TestNG-PoolService-3:71 - [Thread-47] Setting up tests. Browser: chrome, Environment: dev
+2024-12-18T13:11:03,426 [TestNG-PoolService-1] INFO  TestNG-PoolService-1:71 - [Thread-45] Setting up tests. Browser: chrome, Environment: dev
+2024-12-18T13:11:03,426 [TestNG-PoolService-6] INFO  TestNG-PoolService-6:71 - [Thread-50] Setting up tests. Browser: chrome, Environment: dev
+2024-12-18T13:11:04,524 [TestNG-PoolService-4] INFO  LogUtil:24 - Logger initialized with level: OFF
+2024-12-18T13:11:04,581 [TestNG-PoolService-4] INFO  TestListener:25 - Test Started: runScenario
+2024-12-18T13:11:04,622 [TestNG-PoolService-1] INFO  LogUtil:24 - Logger initialized with level: OFF
+2024-12-18T13:11:04,624 [TestNG-PoolService-1] INFO  TestListener:25 - Test Started: runScenario
+2024-12-18T13:11:04,638 [TestNG-PoolService-6] INFO  LogUtil:24 - Logger initialized with level: OFF
+2024-12-18T13:11:04,640 [TestNG-PoolService-6] INFO  TestListener:25 - Test Started: runScenario
+2024-12-18T13:11:04,661 [TestNG-PoolService-3] INFO  LogUtil:24 - Logger initialized with level: OFF
+2024-12-18T13:11:04,663 [TestNG-PoolService-3] INFO  TestListener:25 - Test Started: runScenario
+2024-12-18T13:11:04,676 [TestNG-PoolService-5] INFO  LogUtil:24 - Logger initialized with level: OFF
+2024-12-18T13:11:04,678 [TestNG-PoolService-5] INFO  TestListener:25 - Test Started: runScenario
+2024-12-18T13:11:04,691 [TestNG-PoolService-2] INFO  LogUtil:24 - Logger initialized with level: OFF
+2024-12-18T13:11:04,693 [TestNG-PoolService-2] INFO  TestListener:25 - Test Started: runScenario
+2024-12-18T13:11:09,620 [TestNG-PoolService-5] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-18T13:11:10,744 [TestNG-PoolService-3] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-18T13:11:10,836 [TestNG-PoolService-4] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-18T13:11:11,151 [TestNG-PoolService-2] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-18T13:11:12,094 [TestNG-PoolService-6] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-18T13:11:13,613 [TestNG-PoolService-1] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-18T13:11:14,981 [main] INFO  TestListener:94 - Test Context Finished: ChromeTest
+2024-12-18T13:11:16,612 [main] INFO  TestListener:98 - WebDriver instance quit for thread.
+2024-12-18T13:13:44,088 [main] INFO  main:71 - [Thread-1] Clearing Allure results at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.15\allure-results
+2024-12-18T13:13:44,090 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 04f31581-8a08-4f15-9337-68315307e91f-container.json
+2024-12-18T13:13:44,091 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 0fbca389-a623-400b-bdb2-e861d7dbf041-container.json
+2024-12-18T13:13:44,091 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 24a27fa6-880d-436b-9eaa-7d8dd118fe2e-container.json
+2024-12-18T13:13:44,092 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 27c9cc96-37c4-4991-9849-46d097d60642-container.json
+2024-12-18T13:13:44,093 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 2ca8823a-de4b-4207-b7ea-6e5064a8332d-result.json
+2024-12-18T13:13:44,093 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 3e563db5-7613-4d84-a69c-f4c944a89ee6-container.json
+2024-12-18T13:13:44,094 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 5f3df9cb-a2f1-4e00-9364-ce8356371cb1-container.json
+2024-12-18T13:13:44,094 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 6c9738d5-b588-4912-a652-66b66971135d-container.json
+2024-12-18T13:13:44,095 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 6dbc2e09-cd4f-48ef-9fe6-3f0429e89311-container.json
+2024-12-18T13:13:44,095 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 70a28950-414b-4e4a-9109-85cf988cca34-result.json
+2024-12-18T13:13:44,096 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 7bc833c9-e2df-4e6a-9192-331bebbfa5b9-container.json
+2024-12-18T13:13:44,096 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 7ce0dac0-c6a2-438c-bc0c-b98bdc77cb24-container.json
+2024-12-18T13:13:44,097 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 88ac75ee-f238-4f25-8256-ba4cded43884-result.json
+2024-12-18T13:13:44,097 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 9325d5a8-6d7c-4c84-b6e2-fa01cc1cc8f0-container.json
+2024-12-18T13:13:44,098 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 97c1ace2-22ef-4bba-a1fd-b4cbbec06525-container.json
+2024-12-18T13:13:44,099 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 9b0cd82d-cd18-4c86-9d4c-da418e73a332-container.json
+2024-12-18T13:13:44,099 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 9cf85d1d-330e-47a3-98a2-452dc2d86122-container.json
+2024-12-18T13:13:44,100 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 9f1a3c8d-b828-4a5d-baa8-ee28af053e17-container.json
+2024-12-18T13:13:44,100 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: ab3c8d5e-973a-4f4b-8809-ae65cf039515-container.json
+2024-12-18T13:13:44,101 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: ad92b06c-f2f1-4c95-98f7-fc110adb371d-container.json
+2024-12-18T13:13:44,101 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: af52897f-f4b1-4933-9bcf-6f333db8e7b2-container.json
+2024-12-18T13:13:44,102 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: b099b376-5380-49a8-a20d-3e5254779c34-container.json
+2024-12-18T13:13:44,102 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: b49b717b-c7d9-45d0-93ec-f6b22c9233ae-container.json
+2024-12-18T13:13:44,103 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: c2c8f419-6340-4503-ac1c-36052dcc0fad-container.json
+2024-12-18T13:13:44,104 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: c413882f-9ef7-43da-a5d2-2ce84d6c0dac-container.json
+2024-12-18T13:13:44,104 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: cb4160ab-5cab-4333-8756-d767a32a6335-result.json
+2024-12-18T13:13:44,105 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: d6120173-b617-45a0-8c09-36b51873d1ee-container.json
+2024-12-18T13:13:44,105 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: e3c87f1c-fd19-4b59-b946-b9e6dc2397de-result.json
+2024-12-18T13:13:44,106 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: e60446d9-ef27-47e0-8424-0fdfbc8fc4af-container.json
+2024-12-18T13:13:44,106 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: ef6a746e-ec5c-45d1-ae6d-430de774d217-container.json
+2024-12-18T13:13:44,106 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: f3bcd474-cd33-4b40-94d5-9638e4a7c666-container.json
+2024-12-18T13:13:44,107 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: f3fe78ba-2a78-4502-b2f5-e67cdfe4c544-result.json
+2024-12-18T13:13:44,107 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: fcc03544-effe-4c05-9839-f80e442c0e08-container.json
+2024-12-18T13:13:44,117 [main] INFO  TestListener:73 - Test Context Started: Login Page Tests
+2024-12-18T13:13:44,117 [main] INFO  TestListener:78 - Running tests with Browser: chrome and Environment: dev
+2024-12-18T13:13:45,590 [main] INFO  TestListener:87 - WebDriver initialized: chrome
+2024-12-18T13:13:45,929 [TestNG-PoolService-1] INFO  TestNG-PoolService-1:71 - [Thread-44] Setting up tests. Browser: chrome, Environment: dev
+2024-12-18T13:13:45,929 [TestNG-PoolService-3] INFO  TestNG-PoolService-3:71 - [Thread-46] Setting up tests. Browser: chrome, Environment: dev
+2024-12-18T13:13:45,929 [TestNG-PoolService-5] INFO  TestNG-PoolService-5:71 - [Thread-48] Setting up tests. Browser: chrome, Environment: dev
+2024-12-18T13:13:45,929 [TestNG-PoolService-2] INFO  TestNG-PoolService-2:71 - [Thread-45] Setting up tests. Browser: chrome, Environment: dev
+2024-12-18T13:13:45,929 [TestNG-PoolService-6] INFO  TestNG-PoolService-6:71 - [Thread-49] Setting up tests. Browser: chrome, Environment: dev
+2024-12-18T13:13:45,929 [TestNG-PoolService-4] INFO  TestNG-PoolService-4:71 - [Thread-47] Setting up tests. Browser: chrome, Environment: dev
+2024-12-18T13:13:46,926 [TestNG-PoolService-2] INFO  LogUtil:24 - Logger initialized with level: INFO
+2024-12-18T13:13:46,930 [TestNG-PoolService-1] INFO  LogUtil:24 - Logger initialized with level: INFO
+2024-12-18T13:13:46,987 [TestNG-PoolService-3] INFO  LogUtil:24 - Logger initialized with level: INFO
+2024-12-18T13:13:46,994 [TestNG-PoolService-3] INFO  TestListener:25 - Test Started: runScenario
+2024-12-18T13:13:46,994 [TestNG-PoolService-1] INFO  TestListener:25 - Test Started: runScenario
+2024-12-18T13:13:46,994 [TestNG-PoolService-2] INFO  TestListener:25 - Test Started: runScenario
+2024-12-18T13:13:47,040 [TestNG-PoolService-4] INFO  LogUtil:24 - Logger initialized with level: INFO
+2024-12-18T13:13:47,041 [TestNG-PoolService-4] INFO  TestListener:25 - Test Started: runScenario
+2024-12-18T13:13:47,042 [TestNG-PoolService-6] INFO  LogUtil:24 - Logger initialized with level: INFO
+2024-12-18T13:13:47,042 [TestNG-PoolService-5] INFO  LogUtil:24 - Logger initialized with level: INFO
+2024-12-18T13:13:47,043 [TestNG-PoolService-6] INFO  TestListener:25 - Test Started: runScenario
+2024-12-18T13:13:47,044 [TestNG-PoolService-5] INFO  TestListener:25 - Test Started: runScenario
+2024-12-18T13:13:50,826 [TestNG-PoolService-5] INFO  TestNG-PoolService-5:31 - [Thread-48] Entered username: 
+2024-12-18T13:13:50,918 [TestNG-PoolService-5] INFO  TestNG-PoolService-5:31 - [Thread-48] Entered password: 
+2024-12-18T13:13:51,019 [TestNG-PoolService-5] INFO  TestNG-PoolService-5:31 - [Thread-48] Clicked login button
+2024-12-18T13:13:51,123 [TestNG-PoolService-4] INFO  TestNG-PoolService-4:31 - [Thread-47] Entered username: Adminn
+2024-12-18T13:13:51,186 [TestNG-PoolService-4] INFO  TestNG-PoolService-4:31 - [Thread-47] Entered password: admin
+2024-12-18T13:13:51,206 [TestNG-PoolService-1] INFO  TestNG-PoolService-1:31 - [Thread-44] Entered username: Admin
+2024-12-18T13:13:51,232 [TestNG-PoolService-3] INFO  TestNG-PoolService-3:31 - [Thread-46] Entered username: Adminn
+2024-12-18T13:13:51,285 [TestNG-PoolService-1] INFO  TestNG-PoolService-1:31 - [Thread-44] Entered password: admin123
+2024-12-18T13:13:51,296 [TestNG-PoolService-2] INFO  TestNG-PoolService-2:31 - [Thread-45] Entered username: Admin
+2024-12-18T13:13:51,309 [TestNG-PoolService-3] INFO  TestNG-PoolService-3:31 - [Thread-46] Entered password: admin123
+2024-12-18T13:13:51,365 [TestNG-PoolService-2] INFO  TestNG-PoolService-2:31 - [Thread-45] Entered password: admin
+2024-12-18T13:13:51,392 [TestNG-PoolService-3] INFO  TestNG-PoolService-3:31 - [Thread-46] Clicked login button
+2024-12-18T13:13:51,442 [TestNG-PoolService-2] INFO  TestNG-PoolService-2:31 - [Thread-45] Clicked login button
+2024-12-18T13:13:51,475 [TestNG-PoolService-6] INFO  TestNG-PoolService-6:31 - [Thread-49] Clicked forgot password link
+2024-12-18T13:13:51,576 [TestNG-PoolService-1] INFO  TestNG-PoolService-1:31 - [Thread-44] Clicked login button
+2024-12-18T13:13:51,647 [TestNG-PoolService-5] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-18T13:13:51,648 [TestNG-PoolService-5] INFO  TestNG-PoolService-5:71 - [Thread-48] WebDriver instance closed.
+2024-12-18T13:13:52,162 [TestNG-PoolService-4] INFO  TestNG-PoolService-4:31 - [Thread-47] Clicked login button
+2024-12-18T13:13:52,262 [TestNG-PoolService-6] INFO  TestNG-PoolService-6:31 - [Thread-49] Entered username: Admin
+2024-12-18T13:13:53,159 [TestNG-PoolService-4] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-18T13:13:53,161 [TestNG-PoolService-4] INFO  TestNG-PoolService-4:71 - [Thread-47] WebDriver instance closed.
+2024-12-18T13:13:53,253 [TestNG-PoolService-3] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-18T13:13:53,254 [TestNG-PoolService-3] INFO  TestNG-PoolService-3:71 - [Thread-46] WebDriver instance closed.
+2024-12-18T13:13:53,262 [TestNG-PoolService-6] INFO  TestNG-PoolService-6:31 - [Thread-49] Clicked login button
+2024-12-18T13:13:53,570 [TestNG-PoolService-2] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-18T13:13:53,571 [TestNG-PoolService-2] INFO  TestNG-PoolService-2:71 - [Thread-45] WebDriver instance closed.
+2024-12-18T13:13:54,226 [TestNG-PoolService-6] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-18T13:13:54,226 [TestNG-PoolService-6] INFO  TestNG-PoolService-6:71 - [Thread-49] WebDriver instance closed.
+2024-12-18T13:13:55,137 [TestNG-PoolService-1] INFO  TestNG-PoolService-1:31 - [Thread-44] Clicked logout link
+2024-12-18T13:13:56,095 [TestNG-PoolService-1] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-18T13:13:56,096 [TestNG-PoolService-1] INFO  TestNG-PoolService-1:71 - [Thread-44] WebDriver instance closed.
+2024-12-18T13:13:57,387 [main] INFO  TestListener:94 - Test Context Finished: Login Page Tests
+2024-12-18T13:13:59,096 [main] INFO  TestListener:98 - WebDriver instance quit for thread.
+2024-12-18T13:17:55,278 [main] INFO  main:71 - [Thread-1] Clearing Allure results at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.15\allure-results
+2024-12-18T13:17:55,281 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 0f307bec-2cba-4946-97ab-9e440d65612d-container.json
+2024-12-18T13:17:55,281 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 2c01d278-5afe-4503-a574-e8b97ee82631-container.json
+2024-12-18T13:17:55,282 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 4df181df-d2d7-498a-9524-2967a0dc7838-container.json
+2024-12-18T13:17:55,282 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 57d1da0a-0f8f-4d8e-aeb2-25310a83a41a-container.json
+2024-12-18T13:17:55,283 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 5a14a997-8fab-47fe-8297-9a6db0219edf-container.json
+2024-12-18T13:17:55,283 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 5d2ae486-64de-4eec-a089-44c80d30807a-container.json
+2024-12-18T13:17:55,284 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 5d730d9f-48ce-439e-9789-d08dbcd62b47-container.json
+2024-12-18T13:17:55,284 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 6a8256d1-70c5-4a47-975d-4ddfb5ea25e8-container.json
+2024-12-18T13:17:55,285 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 6dbed476-3ca6-487e-84b3-3974cef2816f-container.json
+2024-12-18T13:17:55,285 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 6ff721bc-e534-43cb-9ea5-7d707031931a-container.json
+2024-12-18T13:17:55,286 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 72130976-b910-4648-98cf-59e58bd86ac3-result.json
+2024-12-18T13:17:55,286 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 7d51503f-368d-47e9-92d8-f33c4c5006db-container.json
+2024-12-18T13:17:55,287 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 7f1816c3-1557-4f5c-8261-569d63740c18-container.json
+2024-12-18T13:17:55,287 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 820d8435-ac62-4c91-a713-75729ab5b062-result.json
+2024-12-18T13:17:55,288 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 82b4b80a-6236-4164-9203-60a2c977cb3c-container.json
+2024-12-18T13:17:55,288 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 8c9bc617-39e9-414e-ad61-9992eada0a9e-result.json
+2024-12-18T13:17:55,289 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 90a9a8e0-7ae2-437e-a83b-92e5f9bdcda8-container.json
+2024-12-18T13:17:55,289 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: a367daf0-6ca7-4e92-b6f4-9405d6129b55-result.json
+2024-12-18T13:17:55,289 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: a5e2da0f-5c2b-4098-9ba4-db3421073753-result.json
+2024-12-18T13:17:55,290 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: a92d78f0-fd8d-4fb7-8647-0cf670bff43d-container.json
+2024-12-18T13:17:55,290 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: aeef9966-0d46-4fe0-9ec7-8c3e73b3aa37-container.json
+2024-12-18T13:17:55,291 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: b92f29c8-c16c-4977-9554-1a0d8aa53f66-container.json
+2024-12-18T13:17:55,291 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: ba01f30e-46f9-4afa-ba10-b61ad47a3e6c-container.json
+2024-12-18T13:17:55,292 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: bfbf25f1-b335-41e9-b17c-819f6c54e169-container.json
+2024-12-18T13:17:55,292 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: c788522c-ca6b-492f-bd39-e5092a2cdc74-container.json
+2024-12-18T13:17:55,293 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: c8a08a4b-3a9b-4788-8b53-be2d3fa71fe5-container.json
+2024-12-18T13:17:55,293 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: d2e9e759-c81b-4552-9469-75680c1b7201-container.json
+2024-12-18T13:17:55,294 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: d366e5e7-4279-41fc-8343-560024f72058-container.json
+2024-12-18T13:17:55,294 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: daa67236-7c2a-41b2-8c52-b007593260f0-result.json
+2024-12-18T13:17:55,295 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: e9a7cf6e-ca2b-40f7-91ab-8ce698fb8f1d-container.json
+2024-12-18T13:17:55,295 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: e9d06a4d-4e2c-407e-8cf5-f0e2b0333176-container.json
+2024-12-18T13:17:55,296 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: eead668a-160e-457a-9221-5bb727423779-container.json
+2024-12-18T13:17:55,296 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: f14d5243-3955-491f-99dd-48606b0d5bef-container.json
+2024-12-18T13:17:55,307 [main] INFO  TestListener:73 - Test Context Started: Login Page Tests
+2024-12-18T13:17:55,308 [main] INFO  TestListener:78 - Running tests with Browser: chrome and Environment: dev
+2024-12-18T13:17:56,461 [main] INFO  TestListener:87 - WebDriver initialized: chrome
+2024-12-18T13:17:56,796 [main] INFO  main:71 - [Thread-1] Setting up tests. Browser: chrome, Environment: dev
+2024-12-18T13:17:57,449 [main] INFO  LogUtil:24 - Logger initialized with level: INFO
+2024-12-18T13:17:57,494 [main] INFO  TestListener:25 - Test Started: runScenario
+2024-12-18T13:18:00,991 [main] INFO  main:31 - [Thread-1] Entered username: Admin
+2024-12-18T13:18:01,047 [main] INFO  main:31 - [Thread-1] Entered password: admin123
+2024-12-18T13:18:01,299 [main] INFO  main:31 - [Thread-1] Clicked login button
+2024-12-18T13:18:04,869 [main] INFO  main:31 - [Thread-1] Clicked logout link
+2024-12-18T13:18:05,906 [main] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-18T13:18:05,907 [main] INFO  main:71 - [Thread-1] WebDriver instance closed.
+2024-12-18T13:18:05,910 [main] INFO  main:71 - [Thread-1] Setting up tests. Browser: chrome, Environment: dev
+2024-12-18T13:18:06,511 [main] INFO  LogUtil:24 - Logger initialized with level: INFO
+2024-12-18T13:18:06,513 [main] INFO  TestListener:25 - Test Started: runScenario
+2024-12-18T13:18:10,188 [main] INFO  main:31 - [Thread-1] Entered username: Admin
+2024-12-18T13:18:10,240 [main] INFO  main:31 - [Thread-1] Entered password: admin
+2024-12-18T13:18:10,297 [main] INFO  main:31 - [Thread-1] Clicked login button
+2024-12-18T13:18:12,418 [main] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-18T13:18:12,419 [main] INFO  main:71 - [Thread-1] WebDriver instance closed.
+2024-12-18T13:18:12,420 [main] INFO  main:71 - [Thread-1] Setting up tests. Browser: chrome, Environment: dev
+2024-12-18T13:18:13,051 [main] INFO  LogUtil:24 - Logger initialized with level: INFO
+2024-12-18T13:18:13,052 [main] INFO  TestListener:25 - Test Started: runScenario
+2024-12-18T13:18:16,817 [main] INFO  main:31 - [Thread-1] Entered username: Adminn
+2024-12-18T13:18:16,865 [main] INFO  main:31 - [Thread-1] Entered password: admin123
+2024-12-18T13:18:17,774 [main] INFO  main:31 - [Thread-1] Clicked login button
+2024-12-18T13:18:18,758 [main] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-18T13:18:18,758 [main] INFO  main:71 - [Thread-1] WebDriver instance closed.
+2024-12-18T13:18:18,760 [main] INFO  main:71 - [Thread-1] Setting up tests. Browser: chrome, Environment: dev
+2024-12-18T13:18:19,386 [main] INFO  LogUtil:24 - Logger initialized with level: INFO
+2024-12-18T13:18:19,387 [main] INFO  TestListener:25 - Test Started: runScenario
+2024-12-18T13:18:23,101 [main] INFO  main:31 - [Thread-1] Entered username: Adminn
+2024-12-18T13:18:23,149 [main] INFO  main:31 - [Thread-1] Entered password: admin
+2024-12-18T13:18:24,076 [main] INFO  main:31 - [Thread-1] Clicked login button
+2024-12-18T13:18:25,058 [main] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-18T13:18:25,059 [main] INFO  main:71 - [Thread-1] WebDriver instance closed.
+2024-12-18T13:18:25,063 [main] INFO  main:71 - [Thread-1] Setting up tests. Browser: chrome, Environment: dev
+2024-12-18T13:18:25,690 [main] INFO  LogUtil:24 - Logger initialized with level: INFO
+2024-12-18T13:18:25,691 [main] INFO  TestListener:25 - Test Started: runScenario
+2024-12-18T13:18:29,388 [main] INFO  main:31 - [Thread-1] Entered username: 
+2024-12-18T13:18:29,437 [main] INFO  main:31 - [Thread-1] Entered password: 
+2024-12-18T13:18:29,497 [main] INFO  main:31 - [Thread-1] Clicked login button
+2024-12-18T13:18:30,042 [main] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-18T13:18:30,043 [main] INFO  main:71 - [Thread-1] WebDriver instance closed.
+2024-12-18T13:18:30,044 [main] INFO  main:71 - [Thread-1] Setting up tests. Browser: chrome, Environment: dev
+2024-12-18T13:18:30,653 [main] INFO  LogUtil:24 - Logger initialized with level: INFO
+2024-12-18T13:18:30,655 [main] INFO  TestListener:25 - Test Started: runScenario
+2024-12-18T13:18:34,531 [main] INFO  main:31 - [Thread-1] Clicked forgot password link
+2024-12-18T13:18:35,285 [main] INFO  main:31 - [Thread-1] Entered username: Admin
+2024-12-18T13:18:36,198 [main] INFO  main:31 - [Thread-1] Clicked login button
+2024-12-18T13:18:37,188 [main] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-18T13:18:37,189 [main] INFO  main:71 - [Thread-1] WebDriver instance closed.
+2024-12-18T13:18:38,531 [main] INFO  TestListener:94 - Test Context Finished: Login Page Tests
+2024-12-18T13:18:38,531 [main] INFO  TestListener:98 - WebDriver instance quit for thread.

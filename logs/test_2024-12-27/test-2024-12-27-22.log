@@ -1,0 +1,213 @@
+2024-12-27T22:37:11,816 [main] INFO  main:71 - [Thread-1] Clearing Allure results at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.17\allure-results
+2024-12-27T22:37:11,823 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 00aa6eec-00ec-46b1-b060-d766d81ba7a1-container.json
+2024-12-27T22:37:11,824 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 00ef0cb1-a34d-42cb-8d21-5899214f564a-container.json
+2024-12-27T22:37:11,824 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 02b8d3a4-2fc4-4c25-ad02-1d69049fa494-container.json
+2024-12-27T22:37:11,834 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 02d7abc3-3f4b-40fa-9e40-a6f5030e22aa-attachment.txt
+2024-12-27T22:37:11,835 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 065d435a-f4e5-4621-bccb-0a16850aeee4-container.json
+2024-12-27T22:37:11,836 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 07c4a73b-d495-4a0e-b161-5378bde3871e-container.json
+2024-12-27T22:37:11,837 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 08f66786-5469-455d-a65e-ce72c0196b0c-container.json
+2024-12-27T22:37:11,837 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 097c9f21-b635-4893-92fd-21e08ba70a65-container.json
+2024-12-27T22:37:11,838 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 0b846df3-ee8f-4d48-8013-3929811cd629-container.json
+2024-12-27T22:37:11,839 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 0df335ac-6ca5-4335-9b47-408b47b301c8-container.json
+2024-12-27T22:37:11,839 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 0e3d5a23-fe1d-4b36-bc9f-5b42f0996301-attachment.txt
+2024-12-27T22:37:11,840 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 11329d73-6bad-4b96-9995-1e689c44d6d6-attachment.txt
+2024-12-27T22:37:11,841 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 124a9626-8210-4308-9c36-3d98e43b1c13-attachment.txt
+2024-12-27T22:37:11,842 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 13b4e67f-84da-4549-887c-a293979e7e30-attachment.txt
+2024-12-27T22:37:11,843 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 14bce961-2477-4671-a1b3-70fa1cff8162-result.json
+2024-12-27T22:37:11,844 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 14fe3996-12c6-40ec-bd61-2903f715e074-container.json
+2024-12-27T22:37:11,844 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 164de0b3-cee0-449e-8c8e-08823fdc8991-container.json
+2024-12-27T22:37:11,845 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 167b029c-9643-4a19-9c56-4ec8749ea6a7-result.json
+2024-12-27T22:37:11,845 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 16d23ddb-4bb3-4822-bdc1-5af04e671c18-container.json
+2024-12-27T22:37:11,846 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 16f9fae2-9a7e-4bdb-a175-048544f8bcd9-container.json
+2024-12-27T22:37:11,846 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 17de161a-da7f-4336-9fcb-4b0a2b8d307d-container.json
+2024-12-27T22:37:11,847 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 191fa67a-45a1-49d0-95c6-f17551353589-attachment.txt
+2024-12-27T22:37:11,847 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 195d5a3b-4ace-4807-8334-a2af504a158b-container.json
+2024-12-27T22:37:11,848 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 1e2f8641-5304-4c74-bddb-327e6c2c3f91-container.json
+2024-12-27T22:37:11,848 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 1f536e92-8dde-4ef6-a4f9-859a6d701984-container.json
+2024-12-27T22:37:11,849 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 20cf4ab8-627d-4061-ae1d-ee3ede48cd66-container.json
+2024-12-27T22:37:11,850 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 273f3df7-65b1-465b-be18-770c1b4d243f-result.json
+2024-12-27T22:37:11,850 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 274799d5-e080-432f-8eeb-420be7799713-container.json
+2024-12-27T22:37:11,851 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 277dc211-d86c-4e92-a745-889bf3d4882e-container.json
+2024-12-27T22:37:11,852 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 279b2326-487d-4372-aafa-122097d61b5b-attachment.txt
+2024-12-27T22:37:11,852 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 29818785-be35-4a58-98f4-9ad9b4bfcc2f-container.json
+2024-12-27T22:37:11,853 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 2cf1387e-b086-4b3a-b8a0-05e795166d56-container.json
+2024-12-27T22:37:11,854 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 315d2bcf-4f0a-4863-afbc-6e22a2be7f34-container.json
+2024-12-27T22:37:11,854 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 33835ca0-e972-4c5e-887a-37ae9fcd310a-container.json
+2024-12-27T22:37:11,855 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 33f5a26a-bdf8-43ed-a17d-375a0982f0a6-container.json
+2024-12-27T22:37:11,855 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 354c80e7-6c68-4917-ae8c-8face76e0142-container.json
+2024-12-27T22:37:11,856 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 37af2985-8a21-4850-ad45-6890a8c4e9c6-container.json
+2024-12-27T22:37:11,857 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 39a6b116-fcd9-4c5e-a01f-4c88431fa594-container.json
+2024-12-27T22:37:11,857 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 3cea4e51-959d-419b-aa25-008ed7b027e6-attachment.txt
+2024-12-27T22:37:11,858 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 3ede34c1-5c25-4008-abac-05f84294c5ed-container.json
+2024-12-27T22:37:11,858 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 3f4ed34f-20af-4184-97e8-1970ff10596b-container.json
+2024-12-27T22:37:11,859 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 3fcea56a-a174-4e9f-9749-637bb5fe1469-container.json
+2024-12-27T22:37:11,859 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 448c5913-2853-499e-8144-0c7bd7ab2eab-attachment.txt
+2024-12-27T22:37:11,860 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 451b6ffc-6fc0-4e5b-98d9-8ad2382601e4-container.json
+2024-12-27T22:37:11,860 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 467effab-c833-4db7-aa7b-6cbb0c1ee6ce-container.json
+2024-12-27T22:37:11,861 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 46ee329a-aa50-4104-8bcd-ac02c9f8d293-container.json
+2024-12-27T22:37:11,861 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 4a975e0f-8610-4846-b6c7-22fd5f2057d3-container.json
+2024-12-27T22:37:11,862 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 4bfa859f-4592-4b46-ab67-2ed9d85e4d01-container.json
+2024-12-27T22:37:11,862 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 4cc62e2f-6060-4911-bfd8-817c1217f54a-container.json
+2024-12-27T22:37:11,863 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 5201676c-6a77-4267-be01-7d619c286244-result.json
+2024-12-27T22:37:11,863 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 52a61637-3a1b-4bcd-81da-ea8334e414ae-container.json
+2024-12-27T22:37:11,864 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 536c461c-7d56-45b1-897c-e13c5ae93f1a-container.json
+2024-12-27T22:37:11,865 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 55f258c8-5746-4f8a-8419-551ae4a1958e-container.json
+2024-12-27T22:37:11,865 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 5691a6af-c961-4e2b-a976-59636bc5ae64-container.json
+2024-12-27T22:37:11,866 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 5697c890-3188-4c0e-9699-c8b82f481ca4-result.json
+2024-12-27T22:37:11,866 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 57e92157-d82f-471e-bf32-e60cfb1a5ea9-container.json
+2024-12-27T22:37:11,867 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 59d15d8f-fb75-41fd-b055-1301e42154a7-container.json
+2024-12-27T22:37:11,867 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 5a0dc6cb-a993-4f0e-b6cc-94215e43d939-container.json
+2024-12-27T22:37:11,868 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 5b38e585-72f5-4396-a101-23c903fd0230-container.json
+2024-12-27T22:37:11,868 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 5cc25446-cb03-477a-9740-9cd8df7ce6e4-container.json
+2024-12-27T22:37:11,869 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 5cf62ed4-f9b1-4af1-b6d9-10ac0e5f7c02-container.json
+2024-12-27T22:37:11,869 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 5dc26625-3e8f-4882-974c-127e1222e75f-container.json
+2024-12-27T22:37:11,870 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 5e41c437-3790-4585-8317-b7c09d4e980a-container.json
+2024-12-27T22:37:11,871 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 614484a8-5e8b-415e-8e57-c520b13e2604-attachment.txt
+2024-12-27T22:37:11,871 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 615813e6-27c1-44b2-aa86-e2689abc1976-attachment.txt
+2024-12-27T22:37:11,872 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 65020aa2-16d9-4735-9788-4af9ec59e5d5-container.json
+2024-12-27T22:37:11,873 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 6617ba4e-e79d-4de4-b425-35bc65766634-result.json
+2024-12-27T22:37:11,873 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 66680922-6f75-4864-b280-e30076a597c3-container.json
+2024-12-27T22:37:11,874 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 67a2a165-c8e9-4734-9ac9-e528de66fef4-container.json
+2024-12-27T22:37:11,874 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 69cc010b-215f-476e-be42-799c8022fe47-attachment.txt
+2024-12-27T22:37:11,875 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 6e94c470-70b9-4fbf-b3d1-8eb9035009c1-container.json
+2024-12-27T22:37:11,875 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 6f7dffa8-bd8b-460f-9017-8c8c40186322-container.json
+2024-12-27T22:37:11,876 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 745082f6-2b32-446d-9bba-816bf7844ef7-container.json
+2024-12-27T22:37:11,876 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 747cf5c0-4a2c-43cb-a6d6-d2e889253d93-result.json
+2024-12-27T22:37:11,877 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 774b002f-86ba-41ea-8d1b-d8e5851bf7f7-result.json
+2024-12-27T22:37:11,877 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 777ee50a-247a-4a5c-b603-9678ee5e897f-container.json
+2024-12-27T22:37:11,877 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 781dc659-5847-4c82-9eb7-219d7d4dc2a4-container.json
+2024-12-27T22:37:11,878 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 799eddf9-d27e-464f-b589-8ac25d7cd755-container.json
+2024-12-27T22:37:11,879 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 7c9741a0-9b64-4e51-b2a7-36a1db8f0f0f-container.json
+2024-12-27T22:37:11,879 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 7e104de5-341f-46c6-8a85-fffcd1e36735-container.json
+2024-12-27T22:37:11,880 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 7eac053c-2fc2-41f5-a699-2039f28a9b65-attachment.txt
+2024-12-27T22:37:11,880 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 83cc21cf-7047-4355-8754-ba7aae410320-result.json
+2024-12-27T22:37:11,881 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 83f4ff87-c438-47e5-b730-893f61d408c2-container.json
+2024-12-27T22:37:11,881 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 841e05cf-cc7b-4755-aa9e-1b6eaf07f803-container.json
+2024-12-27T22:37:11,882 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 8553d7e5-420f-479b-8a13-29969426478d-container.json
+2024-12-27T22:37:11,882 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 87443946-7f65-48b0-8268-5a4400803eb4-result.json
+2024-12-27T22:37:11,882 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 887cfc45-524e-4a42-9e7c-d1609b143179-container.json
+2024-12-27T22:37:11,883 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 8a6daacb-600a-4403-b009-b92e1071c911-container.json
+2024-12-27T22:37:11,883 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 8b3c64ac-155e-494a-a4d3-2c3090bcf51e-container.json
+2024-12-27T22:37:11,884 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 8b46e19e-2924-4e9c-bf89-1b0eb8403415-container.json
+2024-12-27T22:37:11,884 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 8ff1e704-382f-426e-879a-8f3164ad9c1d-container.json
+2024-12-27T22:37:11,885 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 901d5b27-1c34-429e-ba9c-6c4d83578cc1-container.json
+2024-12-27T22:37:11,886 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 95b2c0f5-2b95-4421-ab6d-2287604962ec-result.json
+2024-12-27T22:37:11,886 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 96b22faa-1d90-4f90-9b0c-69717de89104-attachment.txt
+2024-12-27T22:37:11,887 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 992cd353-5258-43d2-8e8b-c518e1315774-attachment.txt
+2024-12-27T22:37:11,887 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 9fe3a648-9fd7-4028-8ca9-62ee380fc2db-container.json
+2024-12-27T22:37:11,888 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: a21c6315-e4f5-4355-aaf7-80d3d7d148d0-result.json
+2024-12-27T22:37:11,888 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: a321d571-6ac2-4376-a1cb-8405b5cd4008-container.json
+2024-12-27T22:37:11,889 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: a3ca109b-6cd4-491a-a7a5-de7870ba118f-attachment.txt
+2024-12-27T22:37:11,889 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: a4ee9233-2223-4ab0-b663-eefc289e36e9-container.json
+2024-12-27T22:37:11,890 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: a68f5aba-fe63-4467-b64a-37cc853ad7a8-attachment.txt
+2024-12-27T22:37:11,890 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: a7013fd9-1838-41e8-a497-29ec299e4098-container.json
+2024-12-27T22:37:11,890 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: a89fbf82-47cb-45c5-94be-39f31399c836-container.json
+2024-12-27T22:37:11,891 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: a9cb981a-514e-46ed-871e-4cf359fed774-container.json
+2024-12-27T22:37:11,891 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: a9fbee4d-99d7-48d3-9298-052fa3584c43-attachment.txt
+2024-12-27T22:37:11,892 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: ac5fd6eb-798f-4dab-8f32-590ee90628fa-container.json
+2024-12-27T22:37:11,892 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: ad2becf5-1aa4-4518-83b7-843855897602-container.json
+2024-12-27T22:37:11,893 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: ad579663-cbb5-49b8-bd55-4ef109d46621-attachment.txt
+2024-12-27T22:37:11,893 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: af22345f-e2c4-4f16-be7a-b894495f6d72-attachment.txt
+2024-12-27T22:37:11,894 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: b0318dcb-fb99-40b1-ac6d-f7416857c97d-container.json
+2024-12-27T22:37:11,894 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: b03e8b2d-4e2a-4874-8cba-b349bb2b5ce5-container.json
+2024-12-27T22:37:11,895 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: b1d3c19c-0736-45c8-8e83-92d45d856347-attachment.txt
+2024-12-27T22:37:11,895 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: b2b80e5c-2cfd-4555-bbf2-7f6b4ef7267d-attachment.txt
+2024-12-27T22:37:11,896 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: b30f7531-2b1d-4114-b1aa-d818cc7751d1-container.json
+2024-12-27T22:37:11,897 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: b35abb69-bc76-4597-b4b0-884238caa1be-attachment.txt
+2024-12-27T22:37:11,897 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: b3becb5c-b573-4624-a9fa-84d6a60405d2-container.json
+2024-12-27T22:37:11,897 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: b49de654-bbc8-4077-b3cf-761bf302f9b5-container.json
+2024-12-27T22:37:11,898 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: b84f6dbc-bce9-424c-a497-0a3201c492fd-container.json
+2024-12-27T22:37:11,898 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: b85c5078-acbe-4255-ae2e-ec0909c34a21-result.json
+2024-12-27T22:37:11,899 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: b8866ca3-f712-4dfc-8472-faf09bc8de8f-container.json
+2024-12-27T22:37:11,899 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: baaf1b4c-305e-46e3-a603-74c3b9260343-container.json
+2024-12-27T22:37:11,899 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: bebbfefa-3297-425d-9a52-a3dce1bfe788-result.json
+2024-12-27T22:37:11,900 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: c1385020-a96d-4a44-abc0-d08e7a89cca2-attachment.txt
+2024-12-27T22:37:11,900 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: c1f30ba4-0858-4ec7-b65d-d8a8e440d24d-container.json
+2024-12-27T22:37:11,901 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: c30add4a-c5cb-4533-a541-2b24fa5aaa1b-attachment.txt
+2024-12-27T22:37:11,902 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: c320f21f-ed92-48a9-95c2-221538d886d2-attachment.txt
+2024-12-27T22:37:11,903 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: c592c10b-65f9-4e5f-9ac7-b8fc17d822d7-container.json
+2024-12-27T22:37:11,903 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: c5f63990-e17f-4bcf-867b-c26f2c3f0132-container.json
+2024-12-27T22:37:11,904 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: c84b7431-e1b6-49a0-94e1-e1374c035ada-container.json
+2024-12-27T22:37:11,904 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: ca517e22-19c1-42a2-98bb-8fe8434ed4e0-container.json
+2024-12-27T22:37:11,905 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: cdb9615d-aa2b-4b29-b616-facb3e357ece-attachment.txt
+2024-12-27T22:37:11,905 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: d00b3a0d-b8f4-45ba-a6b4-5e405015fa78-attachment.txt
+2024-12-27T22:37:11,906 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: d135655c-0a4b-4b35-bce3-365ea5527de2-container.json
+2024-12-27T22:37:11,906 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: d3bf9c56-4558-4d42-acf7-dad8419180ac-container.json
+2024-12-27T22:37:11,907 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: d81aac46-c081-4e69-aa8d-a6f2a9c2bccb-attachment.txt
+2024-12-27T22:37:11,907 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: d8a50bc7-8e3f-4155-8b97-0d1480808995-container.json
+2024-12-27T22:37:11,907 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: d8daf41e-9b1b-44a8-ab07-b2806f07b0eb-result.json
+2024-12-27T22:37:11,908 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: d8ddfa40-b848-4077-89e3-eed427a51574-container.json
+2024-12-27T22:37:11,908 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: d9b65fc4-3b40-4364-a711-4f45e4f98a9b-container.json
+2024-12-27T22:37:11,909 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: da7baa4f-ed6b-440c-97b8-b85fb703def8-container.json
+2024-12-27T22:37:11,909 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: dde25b86-4a8f-4714-b26e-3d4a1aea83af-container.json
+2024-12-27T22:37:11,909 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: de609a7b-ce67-41a7-b669-5a9fddf59947-container.json
+2024-12-27T22:37:11,910 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: e1848bc8-e4f3-47f2-bd27-df727caecb25-container.json
+2024-12-27T22:37:11,910 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: e1ad048f-dbbd-44d2-8226-3823eec80c16-container.json
+2024-12-27T22:37:11,911 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: e365bd0f-8b1a-43c7-a7d4-c3c0374dd2af-result.json
+2024-12-27T22:37:11,911 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: e6dbcafd-963b-47db-b039-ae3845dd61ae-container.json
+2024-12-27T22:37:11,912 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: e7b22e3f-0023-4158-9cca-3352a4b0ee8c-attachment.txt
+2024-12-27T22:37:11,912 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: e8e68151-546f-48fd-8904-8bd51ad72b4a-container.json
+2024-12-27T22:37:11,913 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: e9a201da-e737-470f-860d-fd7b99a984cb-container.json
+2024-12-27T22:37:11,913 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: ea093961-81a7-40a4-b205-0e0fa33005b3-container.json
+2024-12-27T22:37:11,914 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: ea8f9ce7-5338-475e-873c-e14300438abc-attachment.txt
+2024-12-27T22:37:11,915 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: eda4f056-a45c-416c-bb34-d584b9261e74-container.json
+2024-12-27T22:37:11,915 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: effeb142-8092-4788-a882-0826689c19e4-container.json
+2024-12-27T22:37:11,916 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: f039c89d-df2b-4b00-ab6d-03608ee5149c-result.json
+2024-12-27T22:37:11,916 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: f1e20c96-58f6-4f9c-b6ae-a5165c0f4426-container.json
+2024-12-27T22:37:11,917 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: f2ba6174-b97c-45a0-b5be-e2c36dbf672d-attachment.txt
+2024-12-27T22:37:11,917 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: f3eeccf8-c551-41be-9485-5d0717a56514-container.json
+2024-12-27T22:37:11,918 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: f5fdc177-6d99-4168-98cd-93456420fb84-container.json
+2024-12-27T22:37:11,919 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: f69d6046-e7cb-4fb7-8730-5ab3e28f5a69-attachment.txt
+2024-12-27T22:37:11,920 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: f7040309-3f8b-4e12-9879-750567ec8672-container.json
+2024-12-27T22:37:11,920 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: f7436be0-0c8d-41c5-b9ce-98c2ccb6cdb9-attachment.txt
+2024-12-27T22:37:11,921 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: f77d9c96-7a1c-46a9-9267-ab7c72ac058a-container.json
+2024-12-27T22:37:11,921 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: f95d0942-e4c6-4279-9146-2402a53fca0b-container.json
+2024-12-27T22:37:11,922 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: f98cb042-dcc7-470c-81ca-a31e13b58b69-container.json
+2024-12-27T22:37:11,922 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: fac57db3-5b23-4337-85d7-63cb1f0eec37-container.json
+2024-12-27T22:37:11,923 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: fb0f0bf2-9915-4737-9e8e-c575d6f54649-attachment.txt
+2024-12-27T22:37:11,923 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: fdab4812-2528-47c4-9d02-c4582a81658a-container.json
+2024-12-27T22:37:11,924 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: fe4fe21a-b3d8-4525-b19b-6c82b269bc69-attachment.txt
+2024-12-27T22:37:11,924 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: ff91967f-4dbb-4bdf-944e-26329f4188f2-result.json
+2024-12-27T22:37:11,941 [TestNG-tests-2] INFO  TestListener:73 - Test Context Started: FirefoxTests
+2024-12-27T22:37:11,941 [TestNG-tests-1] INFO  TestListener:73 - Test Context Started: ChromeTests
+2024-12-27T22:37:11,941 [TestNG-tests-3] INFO  TestListener:73 - Test Context Started: EdgeTests
+2024-12-27T22:37:11,942 [TestNG-tests-2] INFO  TestListener:78 - Running tests with Browser: firefox and Environment: dev
+2024-12-27T22:37:11,942 [TestNG-tests-3] INFO  TestListener:78 - Running tests with Browser: edge and Environment: dev
+2024-12-27T22:37:11,942 [TestNG-tests-1] INFO  TestListener:78 - Running tests with Browser: chrome and Environment: dev
+2024-12-27T22:37:13,382 [TestNG-tests-3] INFO  TestListener:87 - WebDriver initialized: edge
+2024-12-27T22:37:13,382 [TestNG-tests-1] INFO  TestListener:87 - WebDriver initialized: chrome
+2024-12-27T22:37:13,815 [TestNG-test-EdgeTests-1] INFO  TestNG-test-EdgeTests-1:71 - [Thread-67] Setting up tests. Browser: edge, Environment: dev
+2024-12-27T22:37:13,815 [TestNG-test-ChromeTests-1] INFO  TestNG-test-ChromeTests-1:71 - [Thread-68] Setting up tests. Browser: chrome, Environment: dev
+2024-12-27T22:37:14,397 [TestNG-tests-2] INFO  TestListener:87 - WebDriver initialized: firefox
+2024-12-27T22:37:14,417 [TestNG-test-FirefoxTests-1] INFO  TestNG-test-FirefoxTests-1:71 - [Thread-82] Setting up tests. Browser: firefox, Environment: dev
+2024-12-27T22:37:14,481 [TestNG-test-ChromeTests-1] INFO  LogUtil:24 - Logger initialized with level: DEBUG
+2024-12-27T22:37:14,524 [TestNG-test-ChromeTests-1] INFO  TestListener:25 - Test Started: runScenario
+2024-12-27T22:37:14,634 [TestNG-test-ChromeTests-1] INFO  ConfigManager:60 - Loaded configuration file: src/test/resources/config/config-dev.properties
+2024-12-27T22:37:16,095 [TestNG-test-EdgeTests-1] INFO  LogUtil:24 - Logger initialized with level: DEBUG
+2024-12-27T22:37:16,096 [TestNG-test-EdgeTests-1] INFO  TestListener:25 - Test Started: runScenario
+2024-12-27T22:37:16,660 [TestNG-test-FirefoxTests-1] INFO  LogUtil:24 - Logger initialized with level: DEBUG
+2024-12-27T22:37:16,661 [TestNG-test-FirefoxTests-1] INFO  TestListener:25 - Test Started: runScenario
+2024-12-27T22:37:18,251 [TestNG-test-ChromeTests-1] INFO  WebDriverHooks:48 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-12-27T22:37:19,351 [TestNG-test-EdgeTests-1] INFO  WebDriverHooks:48 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-12-27T22:37:20,017 [TestNG-test-FirefoxTests-1] INFO  WebDriverHooks:48 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-12-27T22:37:20,420 [TestNG-test-ChromeTests-1] INFO  TestNG-test-ChromeTests-1:31 - [Thread-68] Entered username: 
+2024-12-27T22:37:20,474 [TestNG-test-ChromeTests-1] INFO  TestNG-test-ChromeTests-1:31 - [Thread-68] Entered password: 
+2024-12-27T22:37:20,540 [TestNG-test-ChromeTests-1] INFO  TestNG-test-ChromeTests-1:31 - [Thread-68] Clicked login button
+2024-12-27T22:37:21,127 [TestNG-test-ChromeTests-1] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-27T22:37:21,129 [TestNG-test-ChromeTests-1] INFO  TestNG-test-ChromeTests-1:71 - [Thread-68] WebDriver instance closed.
+2024-12-27T22:37:21,385 [TestNG-test-EdgeTests-1] INFO  TestNG-test-EdgeTests-1:31 - [Thread-67] Entered username: 
+2024-12-27T22:37:21,443 [TestNG-test-EdgeTests-1] INFO  TestNG-test-EdgeTests-1:31 - [Thread-67] Entered password: 
+2024-12-27T22:37:21,493 [TestNG-test-EdgeTests-1] INFO  TestNG-test-EdgeTests-1:31 - [Thread-67] Clicked login button
+2024-12-27T22:37:22,601 [TestNG-test-FirefoxTests-1] INFO  TestNG-test-FirefoxTests-1:31 - [Thread-82] Entered username: 
+2024-12-27T22:37:22,616 [TestNG-test-FirefoxTests-1] INFO  TestNG-test-FirefoxTests-1:31 - [Thread-82] Entered password: 
+2024-12-27T22:37:22,648 [TestNG-tests-1] INFO  TestListener:94 - Test Context Finished: ChromeTests
+2024-12-27T22:37:22,735 [TestNG-tests-1] INFO  TestListener:98 - WebDriver instance quit for thread.
+2024-12-27T22:37:22,862 [TestNG-test-FirefoxTests-1] INFO  TestNG-test-FirefoxTests-1:31 - [Thread-82] Clicked login button
+2024-12-27T22:37:23,142 [TestNG-test-EdgeTests-1] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-27T22:37:23,143 [TestNG-test-EdgeTests-1] INFO  TestNG-test-EdgeTests-1:71 - [Thread-67] WebDriver instance closed.
+2024-12-27T22:37:23,610 [TestNG-test-FirefoxTests-1] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-27T22:37:23,611 [TestNG-test-FirefoxTests-1] INFO  TestNG-test-FirefoxTests-1:71 - [Thread-82] WebDriver instance closed.
+2024-12-27T22:37:23,971 [TestNG-tests-3] INFO  TestListener:94 - Test Context Finished: EdgeTests
+2024-12-27T22:37:24,325 [TestNG-tests-2] INFO  TestListener:94 - Test Context Finished: FirefoxTests
+2024-12-27T22:37:24,911 [TestNG-tests-2] INFO  TestListener:98 - WebDriver instance quit for thread.
+2024-12-27T22:37:25,183 [TestNG-tests-3] INFO  TestListener:98 - WebDriver instance quit for thread.

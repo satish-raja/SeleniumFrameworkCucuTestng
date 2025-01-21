@@ -1,0 +1,10 @@
+2025-01-16T01:34:28,461 [main] INFO  LogUtil:60 - Deleted directory allure-results
+2025-01-16T01:34:30,084 [TestNG-PoolService-1] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (46c3a246a53a1ca2d6d203514b78eae5) at WebDriverHooks : setUp
+2025-01-16T01:34:33,009 [TestNG-PoolService-1] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-16T01:34:33,562 [TestNG-PoolService-1] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-16T01:34:33,566 [TestNG-PoolService-1] INFO  LogUtil:60 - Leaving the username and password fields empty.
+2025-01-16T01:34:33,621 [TestNG-PoolService-1] INFO  LogUtil:60 - Entered username: 
+2025-01-16T01:34:33,663 [TestNG-PoolService-1] INFO  LogUtil:60 - Entered password: 
+2025-01-16T01:34:33,725 [TestNG-PoolService-1] INFO  LogUtil:60 - Clicked login button
+2025-01-16T01:34:33,725 [TestNG-PoolService-1] INFO  LogUtil:60 - Login button clicked.
+2025-01-16T01:34:33,727 [TestNG-PoolService-1] INFO  LogUtil:60 - Verifying error messages for blank username and password fields.

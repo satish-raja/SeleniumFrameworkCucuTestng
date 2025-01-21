@@ -1,0 +1,270 @@
+2024-12-15T17:48:07,575 [main] INFO  main:71 - [Thread-1] Clearing Allure results at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.12\allure-results
+2024-12-15T17:48:07,578 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 13eb6569-931e-4ffb-adde-8f9846f6f244-container.json
+2024-12-15T17:48:07,578 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 9bd3a71b-f3d7-4d54-8597-581c0156a821-result.json
+2024-12-15T17:48:07,579 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: e46c6be3-3778-464d-b133-22e4a94fb0e4-container.json
+2024-12-15T17:48:07,592 [TestNG-tests-2] INFO  TestListener:74 - Test Context Started: FirefoxTests
+2024-12-15T17:48:07,592 [TestNG-tests-1] INFO  TestListener:74 - Test Context Started: ChromeTests
+2024-12-15T17:48:07,592 [TestNG-tests-3] INFO  TestListener:74 - Test Context Started: EdgeTests
+2024-12-15T17:48:07,593 [TestNG-tests-1] INFO  ReportUtil:25 - Logging step to Allure: Test Context Started: ChromeTests
+2024-12-15T17:48:07,593 [TestNG-tests-2] INFO  ReportUtil:25 - Logging step to Allure: Test Context Started: FirefoxTests
+2024-12-15T17:48:07,593 [TestNG-tests-3] INFO  ReportUtil:25 - Logging step to Allure: Test Context Started: EdgeTests
+2024-12-15T17:48:07,712 [TestNG-tests-1] INFO  TestListener:80 - Running tests with Browser: chrome and Environment: dev
+2024-12-15T17:48:07,712 [TestNG-tests-2] INFO  TestListener:80 - Running tests with Browser: firefox and Environment: dev
+2024-12-15T17:48:07,712 [TestNG-tests-3] INFO  TestListener:80 - Running tests with Browser: edge and Environment: dev
+2024-12-15T17:48:07,713 [TestNG-tests-3] INFO  LogUtil:24 - Logger initialized with level: OFF
+2024-12-15T17:48:07,714 [TestNG-tests-1] INFO  LogUtil:24 - Logger initialized with level: OFF
+2024-12-15T17:48:07,714 [TestNG-tests-2] INFO  LogUtil:24 - Logger initialized with level: OFF
+2024-12-15T17:48:07,714 [TestNG-tests-3] INFO  TestListener:86 - Log level set to: OFF
+2024-12-15T17:48:07,714 [TestNG-tests-1] INFO  TestListener:86 - Log level set to: OFF
+2024-12-15T17:48:07,714 [TestNG-tests-2] INFO  TestListener:86 - Log level set to: OFF
+2024-12-15T17:48:09,695 [TestNG-tests-3] INFO  LogUtil:24 - Logger initialized with level: OFF
+2024-12-15T17:48:09,697 [TestNG-tests-3] INFO  TestListener:22 - Test Started: runScenario
+2024-12-15T17:48:09,698 [TestNG-tests-3] INFO  ReportUtil:25 - Logging step to Allure: Test Started: runScenario
+2024-12-15T17:48:09,747 [TestNG-tests-1] INFO  LogUtil:24 - Logger initialized with level: OFF
+2024-12-15T17:48:09,748 [TestNG-tests-1] INFO  TestListener:22 - Test Started: runScenario
+2024-12-15T17:48:09,748 [TestNG-tests-1] INFO  ReportUtil:25 - Logging step to Allure: Test Started: runScenario
+2024-12-15T17:48:11,229 [TestNG-tests-2] INFO  LogUtil:24 - Logger initialized with level: OFF
+2024-12-15T17:48:11,229 [TestNG-tests-2] INFO  TestListener:22 - Test Started: runScenario
+2024-12-15T17:48:11,229 [TestNG-tests-2] INFO  ReportUtil:25 - Logging step to Allure: Test Started: runScenario
+2024-12-15T17:48:14,500 [TestNG-tests-1] INFO  TestListener:29 - Test Passed: runScenario
+2024-12-15T17:48:14,501 [TestNG-tests-1] INFO  ReportUtil:25 - Logging step to Allure: Test Passed: runScenario
+2024-12-15T17:48:15,407 [TestNG-tests-3] INFO  TestListener:29 - Test Passed: runScenario
+2024-12-15T17:48:15,407 [TestNG-tests-3] INFO  ReportUtil:25 - Logging step to Allure: Test Passed: runScenario
+2024-12-15T17:48:15,694 [TestNG-tests-1] INFO  TestListener:93 - Test Context Finished: ChromeTests
+2024-12-15T17:48:15,694 [TestNG-tests-1] INFO  ReportUtil:25 - Logging step to Allure: Test Context Finished: ChromeTests
+2024-12-15T17:48:15,694 [TestNG-tests-1] INFO  TestListener:98 - WebDriver instance quit for thread.
+2024-12-15T17:48:16,156 [TestNG-tests-3] INFO  TestListener:93 - Test Context Finished: EdgeTests
+2024-12-15T17:48:16,156 [TestNG-tests-3] INFO  ReportUtil:25 - Logging step to Allure: Test Context Finished: EdgeTests
+2024-12-15T17:48:16,156 [TestNG-tests-3] INFO  TestListener:98 - WebDriver instance quit for thread.
+2024-12-15T17:48:16,157 [TestNG-tests-2] INFO  TestListener:29 - Test Passed: runScenario
+2024-12-15T17:48:16,157 [TestNG-tests-2] INFO  ReportUtil:25 - Logging step to Allure: Test Passed: runScenario
+2024-12-15T17:48:16,852 [TestNG-tests-2] INFO  TestListener:93 - Test Context Finished: FirefoxTests
+2024-12-15T17:48:16,853 [TestNG-tests-2] INFO  ReportUtil:25 - Logging step to Allure: Test Context Finished: FirefoxTests
+2024-12-15T17:48:16,853 [TestNG-tests-2] INFO  TestListener:98 - WebDriver instance quit for thread.
+2024-12-15T18:11:07,775 [main] INFO  main:71 - [Thread-1] Clearing Allure results at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.13\allure-results
+2024-12-15T18:11:07,778 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 287f5ef2-4e97-4d58-94a3-07286226ece5-container.json
+2024-12-15T18:11:07,778 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 491c39ce-feb3-4971-b425-94230c07a53f-container.json
+2024-12-15T18:11:07,779 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 72a8becf-a339-4bdb-bce3-351ae5cf8209-result.json
+2024-12-15T18:11:07,779 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 794da764-504c-422d-9167-332328ae6586-container.json
+2024-12-15T18:11:07,780 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: a41ca4d8-4960-45e3-ade8-e027419ab011-result.json
+2024-12-15T18:11:07,780 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: a5f30d4f-a828-4c28-ae70-8922b1e907bc-container.json
+2024-12-15T18:11:07,781 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: b0f851d5-67c4-4fd8-8263-3f53792d03f1-container.json
+2024-12-15T18:11:07,782 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: d0763c54-43aa-4d6c-9a49-7174c2a62467-container.json
+2024-12-15T18:11:07,782 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: edbaf017-0e87-4131-8cb0-2389f5375f44-result.json
+2024-12-15T18:11:07,797 [TestNG-tests-2] INFO  TestListener:74 - Test Context Started: FirefoxTests
+2024-12-15T18:11:07,797 [TestNG-tests-1] INFO  TestListener:74 - Test Context Started: ChromeTests
+2024-12-15T18:11:07,797 [TestNG-tests-3] INFO  TestListener:74 - Test Context Started: EdgeTests
+2024-12-15T18:11:07,801 [TestNG-tests-2] INFO  ReportUtil:25 - Logging step to Allure: Test Context Started: FirefoxTests
+2024-12-15T18:11:07,801 [TestNG-tests-3] INFO  ReportUtil:25 - Logging step to Allure: Test Context Started: EdgeTests
+2024-12-15T18:11:07,801 [TestNG-tests-1] INFO  ReportUtil:25 - Logging step to Allure: Test Context Started: ChromeTests
+2024-12-15T18:11:07,925 [TestNG-tests-3] INFO  TestListener:80 - Running tests with Browser: edge and Environment: dev
+2024-12-15T18:11:07,925 [TestNG-tests-2] INFO  TestListener:80 - Running tests with Browser: firefox and Environment: dev
+2024-12-15T18:11:07,925 [TestNG-tests-1] INFO  TestListener:80 - Running tests with Browser: chrome and Environment: dev
+2024-12-15T18:11:07,926 [TestNG-tests-3] INFO  LogUtil:24 - Logger initialized with level: OFF
+2024-12-15T18:11:07,926 [TestNG-tests-2] INFO  LogUtil:24 - Logger initialized with level: OFF
+2024-12-15T18:11:07,926 [TestNG-tests-1] INFO  LogUtil:24 - Logger initialized with level: OFF
+2024-12-15T18:11:07,926 [TestNG-tests-3] INFO  TestListener:86 - Log level set to: OFF
+2024-12-15T18:11:07,926 [TestNG-tests-2] INFO  TestListener:86 - Log level set to: OFF
+2024-12-15T18:11:07,926 [TestNG-tests-1] INFO  TestListener:86 - Log level set to: OFF
+2024-12-15T18:11:09,701 [TestNG-tests-1] INFO  LogUtil:24 - Logger initialized with level: OFF
+2024-12-15T18:11:09,704 [TestNG-tests-1] INFO  TestListener:22 - Test Started: runScenario
+2024-12-15T18:11:09,705 [TestNG-tests-1] INFO  ReportUtil:25 - Logging step to Allure: Test Started: runScenario
+2024-12-15T18:11:09,930 [TestNG-tests-3] INFO  LogUtil:24 - Logger initialized with level: OFF
+2024-12-15T18:11:09,931 [TestNG-tests-3] INFO  TestListener:22 - Test Started: runScenario
+2024-12-15T18:11:09,931 [TestNG-tests-3] INFO  ReportUtil:25 - Logging step to Allure: Test Started: runScenario
+2024-12-15T18:11:11,349 [TestNG-tests-2] INFO  LogUtil:24 - Logger initialized with level: OFF
+2024-12-15T18:11:11,350 [TestNG-tests-2] INFO  TestListener:22 - Test Started: runScenario
+2024-12-15T18:11:11,350 [TestNG-tests-2] INFO  ReportUtil:25 - Logging step to Allure: Test Started: runScenario
+2024-12-15T18:11:14,492 [TestNG-tests-1] INFO  TestListener:29 - Test Passed: runScenario
+2024-12-15T18:11:14,492 [TestNG-tests-1] INFO  ReportUtil:25 - Logging step to Allure: Test Passed: runScenario
+2024-12-15T18:11:15,473 [TestNG-tests-3] INFO  TestListener:29 - Test Passed: runScenario
+2024-12-15T18:11:15,473 [TestNG-tests-3] INFO  ReportUtil:25 - Logging step to Allure: Test Passed: runScenario
+2024-12-15T18:11:15,678 [TestNG-tests-1] INFO  TestListener:93 - Test Context Finished: ChromeTests
+2024-12-15T18:11:15,678 [TestNG-tests-1] INFO  ReportUtil:25 - Logging step to Allure: Test Context Finished: ChromeTests
+2024-12-15T18:11:15,679 [TestNG-tests-1] INFO  TestListener:98 - WebDriver instance quit for thread.
+2024-12-15T18:11:16,203 [TestNG-tests-3] INFO  TestListener:93 - Test Context Finished: EdgeTests
+2024-12-15T18:11:16,204 [TestNG-tests-3] INFO  ReportUtil:25 - Logging step to Allure: Test Context Finished: EdgeTests
+2024-12-15T18:11:16,204 [TestNG-tests-3] INFO  TestListener:98 - WebDriver instance quit for thread.
+2024-12-15T18:11:16,284 [TestNG-tests-2] INFO  TestListener:29 - Test Passed: runScenario
+2024-12-15T18:11:16,285 [TestNG-tests-2] INFO  ReportUtil:25 - Logging step to Allure: Test Passed: runScenario
+2024-12-15T18:11:17,044 [TestNG-tests-2] INFO  TestListener:93 - Test Context Finished: FirefoxTests
+2024-12-15T18:11:17,044 [TestNG-tests-2] INFO  ReportUtil:25 - Logging step to Allure: Test Context Finished: FirefoxTests
+2024-12-15T18:11:17,044 [TestNG-tests-2] INFO  TestListener:98 - WebDriver instance quit for thread.
+2024-12-15T18:13:10,008 [main] INFO  main:71 - [Thread-1] Clearing Allure results at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.13\allure-results
+2024-12-15T18:13:10,011 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 1ade039a-381f-495e-860d-2730b43e2b3b-container.json
+2024-12-15T18:13:10,012 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 3982a386-82f9-449c-9980-47910010985a-result.json
+2024-12-15T18:13:10,013 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 505eec63-cdd7-4ee6-90c2-86b9a7386559-container.json
+2024-12-15T18:13:10,013 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 525e5b6d-e6bc-4299-8bc8-06ac65336b19-container.json
+2024-12-15T18:13:10,014 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 977fe539-a13f-4e20-90c4-0b4c1971e5ba-container.json
+2024-12-15T18:13:10,014 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: b1e8c6f0-d4b1-4d5d-9094-71f3f017dd82-container.json
+2024-12-15T18:13:10,015 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: be415688-c3db-4c43-bd0f-041519fa97b5-result.json
+2024-12-15T18:13:10,015 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: dec496e2-7977-4408-8e5d-9769df000014-result.json
+2024-12-15T18:13:10,016 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: e2e0fe14-c79b-4ca8-bf48-de7c320aed6b-container.json
+2024-12-15T18:13:10,038 [TestNG-tests-2] INFO  TestListener:74 - Test Context Started: FirefoxTests
+2024-12-15T18:13:10,038 [TestNG-tests-1] INFO  TestListener:74 - Test Context Started: ChromeTests
+2024-12-15T18:13:10,038 [TestNG-tests-3] INFO  TestListener:74 - Test Context Started: EdgeTests
+2024-12-15T18:13:10,040 [TestNG-tests-3] INFO  ReportUtil:25 - Logging step to Allure: Test Context Started: EdgeTests
+2024-12-15T18:13:10,040 [TestNG-tests-2] INFO  ReportUtil:25 - Logging step to Allure: Test Context Started: FirefoxTests
+2024-12-15T18:13:10,040 [TestNG-tests-1] INFO  ReportUtil:25 - Logging step to Allure: Test Context Started: ChromeTests
+2024-12-15T18:13:10,042 [TestNG-tests-2] INFO  TestListener:80 - Running tests with Browser: firefox and Environment: dev
+2024-12-15T18:13:10,042 [TestNG-tests-1] INFO  TestListener:80 - Running tests with Browser: chrome and Environment: dev
+2024-12-15T18:13:10,042 [TestNG-tests-3] INFO  TestListener:80 - Running tests with Browser: edge and Environment: dev
+2024-12-15T18:13:10,045 [TestNG-tests-1] INFO  LogUtil:24 - Logger initialized with level: OFF
+2024-12-15T18:13:10,045 [TestNG-tests-3] INFO  LogUtil:24 - Logger initialized with level: OFF
+2024-12-15T18:13:10,045 [TestNG-tests-2] INFO  LogUtil:24 - Logger initialized with level: OFF
+2024-12-15T18:13:10,045 [TestNG-tests-1] INFO  TestListener:86 - Log level set to: OFF
+2024-12-15T18:13:10,045 [TestNG-tests-3] INFO  TestListener:86 - Log level set to: OFF
+2024-12-15T18:13:10,045 [TestNG-tests-2] INFO  TestListener:86 - Log level set to: OFF
+2024-12-15T18:13:11,866 [TestNG-tests-1] INFO  LogUtil:24 - Logger initialized with level: OFF
+2024-12-15T18:13:11,920 [TestNG-tests-1] INFO  TestListener:22 - Test Started: runScenario
+2024-12-15T18:13:11,920 [TestNG-tests-1] INFO  ReportUtil:25 - Logging step to Allure: Test Started: runScenario
+2024-12-15T18:13:12,005 [TestNG-tests-3] INFO  LogUtil:24 - Logger initialized with level: OFF
+2024-12-15T18:13:12,007 [TestNG-tests-3] INFO  TestListener:22 - Test Started: runScenario
+2024-12-15T18:13:12,007 [TestNG-tests-3] INFO  ReportUtil:25 - Logging step to Allure: Test Started: runScenario
+2024-12-15T18:13:13,613 [TestNG-tests-2] INFO  LogUtil:24 - Logger initialized with level: OFF
+2024-12-15T18:13:13,614 [TestNG-tests-2] INFO  TestListener:22 - Test Started: runScenario
+2024-12-15T18:13:13,614 [TestNG-tests-2] INFO  ReportUtil:25 - Logging step to Allure: Test Started: runScenario
+2024-12-15T18:13:16,492 [TestNG-tests-1] INFO  TestListener:29 - Test Passed: runScenario
+2024-12-15T18:13:16,492 [TestNG-tests-1] INFO  ReportUtil:25 - Logging step to Allure: Test Passed: runScenario
+2024-12-15T18:13:17,704 [TestNG-tests-1] INFO  TestListener:93 - Test Context Finished: ChromeTests
+2024-12-15T18:13:17,704 [TestNG-tests-1] INFO  ReportUtil:25 - Logging step to Allure: Test Context Finished: ChromeTests
+2024-12-15T18:13:17,704 [TestNG-tests-1] INFO  TestListener:98 - WebDriver instance quit for thread.
+2024-12-15T18:13:17,861 [TestNG-tests-3] INFO  TestListener:29 - Test Passed: runScenario
+2024-12-15T18:13:17,861 [TestNG-tests-3] INFO  ReportUtil:25 - Logging step to Allure: Test Passed: runScenario
+2024-12-15T18:13:18,512 [TestNG-tests-2] INFO  TestListener:29 - Test Passed: runScenario
+2024-12-15T18:13:18,513 [TestNG-tests-2] INFO  ReportUtil:25 - Logging step to Allure: Test Passed: runScenario
+2024-12-15T18:13:18,572 [TestNG-tests-3] INFO  TestListener:93 - Test Context Finished: EdgeTests
+2024-12-15T18:13:18,572 [TestNG-tests-3] INFO  ReportUtil:25 - Logging step to Allure: Test Context Finished: EdgeTests
+2024-12-15T18:13:18,572 [TestNG-tests-3] INFO  TestListener:98 - WebDriver instance quit for thread.
+2024-12-15T18:13:19,249 [TestNG-tests-2] INFO  TestListener:93 - Test Context Finished: FirefoxTests
+2024-12-15T18:13:19,249 [TestNG-tests-2] INFO  ReportUtil:25 - Logging step to Allure: Test Context Finished: FirefoxTests
+2024-12-15T18:13:19,249 [TestNG-tests-2] INFO  TestListener:98 - WebDriver instance quit for thread.
+2024-12-15T18:20:28,897 [main] INFO  main:71 - [Thread-1] Clearing Allure results at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.13\allure-results
+2024-12-15T18:20:28,899 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 0ff49b03-f0d1-4742-8b51-aaa0ede86115-container.json
+2024-12-15T18:20:28,900 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 15e5ee9a-458a-4b40-9127-db5c834b67e4-result.json
+2024-12-15T18:20:28,900 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 1f0711db-6e24-4e0c-b4ae-6512d454146b-container.json
+2024-12-15T18:20:28,901 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 22598add-c104-4c44-ad8e-9f7efb8b09a6-container.json
+2024-12-15T18:20:28,901 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 232b98e8-612a-4e23-b2c0-69a1a1675791-container.json
+2024-12-15T18:20:28,902 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 37efc43c-4178-45ab-b0a3-fd540cfdec64-container.json
+2024-12-15T18:20:28,903 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 3df45257-fc9a-43d0-ba20-a1b0cb1e0894-container.json
+2024-12-15T18:20:28,903 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 463428a5-7823-47e7-9d69-6dfd32ff6b8b-container.json
+2024-12-15T18:20:28,904 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 48e6f4c2-842d-4aa0-a172-48ad88612b16-container.json
+2024-12-15T18:20:28,904 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 8d33ef77-7424-44b2-a66f-99c5c8e5efa0-container.json
+2024-12-15T18:20:28,905 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 8ddcc55a-a6b7-4a53-a5db-d1b934986e1c-container.json
+2024-12-15T18:20:28,905 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 8dfee3c9-6652-49e6-904f-4c0ed4e9af4b-container.json
+2024-12-15T18:20:28,906 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 9eb2beb2-5dd4-41e8-9b9a-6f2be8b25ab1-result.json
+2024-12-15T18:20:28,906 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: ba32b6e5-a3c8-40e6-8ac5-362e0dc32857-container.json
+2024-12-15T18:20:28,907 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: ce3c5181-e3f9-4226-9b6d-cfdf04925906-container.json
+2024-12-15T18:20:28,907 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: d562c938-ce15-4356-b522-7930958f2387-container.json
+2024-12-15T18:20:28,908 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: dc49614c-b747-411a-88d6-6bf6b38c18e6-container.json
+2024-12-15T18:20:28,908 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: eaaf0f10-250f-4daa-bf72-174d3333c2cb-result.json
+2024-12-15T18:20:28,909 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: ed0d338a-3349-4d9a-8cec-eb190f5dfbda-container.json
+2024-12-15T18:20:28,909 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: f77a61b7-7ae9-4500-b13d-a84338092795-container.json
+2024-12-15T18:20:28,910 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: f9d14763-ef62-4ae4-94d6-95347d108187-container.json
+2024-12-15T18:20:28,910 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: fca746f4-90fe-4e8a-aca9-618f3fb1c796-container.json
+2024-12-15T18:20:28,930 [TestNG-tests-2] INFO  TestListener:74 - Test Context Started: FirefoxTests
+2024-12-15T18:20:28,930 [TestNG-tests-3] INFO  TestListener:74 - Test Context Started: EdgeTests
+2024-12-15T18:20:28,930 [TestNG-tests-1] INFO  TestListener:74 - Test Context Started: ChromeTests
+2024-12-15T18:27:26,650 [main] INFO  main:71 - [Thread-1] Clearing Allure results at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.13\allure-results
+2024-12-15T18:27:26,653 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 0bc32d5f-7a0a-4cca-88e7-f69dd6926f26-container.json
+2024-12-15T18:27:26,673 [TestNG-tests-3] INFO  TestListener:74 - Test Context Started: EdgeTests
+2024-12-15T18:27:26,673 [TestNG-tests-1] INFO  TestListener:74 - Test Context Started: ChromeTests
+2024-12-15T18:27:26,673 [TestNG-tests-2] INFO  TestListener:74 - Test Context Started: FirefoxTests
+2024-12-15T18:27:26,675 [TestNG-tests-1] INFO  ReportUtil:25 - Logging step to Allure: Test Context Started: ChromeTests
+2024-12-15T18:27:26,675 [TestNG-tests-3] INFO  ReportUtil:25 - Logging step to Allure: Test Context Started: EdgeTests
+2024-12-15T18:27:26,675 [TestNG-tests-2] INFO  ReportUtil:25 - Logging step to Allure: Test Context Started: FirefoxTests
+2024-12-15T18:27:26,678 [TestNG-tests-1] INFO  TestListener:80 - Running tests with Browser: chrome and Environment: dev
+2024-12-15T18:27:26,678 [TestNG-tests-3] INFO  TestListener:80 - Running tests with Browser: edge and Environment: dev
+2024-12-15T18:27:26,679 [TestNG-tests-2] INFO  TestListener:80 - Running tests with Browser: firefox and Environment: dev
+2024-12-15T18:27:26,680 [TestNG-tests-3] INFO  LogUtil:24 - Logger initialized with level: OFF
+2024-12-15T18:27:26,680 [TestNG-tests-1] INFO  LogUtil:24 - Logger initialized with level: OFF
+2024-12-15T18:27:26,680 [TestNG-tests-2] INFO  LogUtil:24 - Logger initialized with level: OFF
+2024-12-15T18:27:26,680 [TestNG-tests-3] INFO  TestListener:86 - Log level set to: OFF
+2024-12-15T18:27:26,680 [TestNG-tests-2] INFO  TestListener:86 - Log level set to: OFF
+2024-12-15T18:27:26,680 [TestNG-tests-1] INFO  TestListener:86 - Log level set to: OFF
+2024-12-15T18:27:28,398 [TestNG-tests-3] INFO  LogUtil:24 - Logger initialized with level: OFF
+2024-12-15T18:27:28,398 [TestNG-tests-1] INFO  LogUtil:24 - Logger initialized with level: OFF
+2024-12-15T18:27:28,449 [TestNG-tests-1] INFO  TestListener:22 - Test Started: runScenario
+2024-12-15T18:27:28,449 [TestNG-tests-3] INFO  TestListener:22 - Test Started: runScenario
+2024-12-15T18:27:28,450 [TestNG-tests-3] INFO  ReportUtil:25 - Logging step to Allure: Test Started: runScenario
+2024-12-15T18:27:28,450 [TestNG-tests-1] INFO  ReportUtil:25 - Logging step to Allure: Test Started: runScenario
+2024-12-15T18:27:30,151 [TestNG-tests-2] INFO  LogUtil:24 - Logger initialized with level: OFF
+2024-12-15T18:27:30,153 [TestNG-tests-2] INFO  TestListener:22 - Test Started: runScenario
+2024-12-15T18:27:30,153 [TestNG-tests-2] INFO  ReportUtil:25 - Logging step to Allure: Test Started: runScenario
+2024-12-15T18:27:33,160 [TestNG-tests-1] INFO  TestListener:29 - Test Passed: runScenario
+2024-12-15T18:27:33,160 [TestNG-tests-1] INFO  ReportUtil:25 - Logging step to Allure: Test Passed: runScenario
+2024-12-15T18:27:34,251 [TestNG-tests-3] INFO  TestListener:29 - Test Passed: runScenario
+2024-12-15T18:27:34,251 [TestNG-tests-3] INFO  ReportUtil:25 - Logging step to Allure: Test Passed: runScenario
+2024-12-15T18:27:34,423 [TestNG-tests-1] INFO  TestListener:93 - Test Context Finished: ChromeTests
+2024-12-15T18:27:34,423 [TestNG-tests-1] INFO  ReportUtil:25 - Logging step to Allure: Test Context Finished: ChromeTests
+2024-12-15T18:27:34,423 [TestNG-tests-1] INFO  TestListener:98 - WebDriver instance quit for thread.
+2024-12-15T18:27:34,962 [TestNG-tests-3] INFO  TestListener:93 - Test Context Finished: EdgeTests
+2024-12-15T18:27:34,963 [TestNG-tests-3] INFO  ReportUtil:25 - Logging step to Allure: Test Context Finished: EdgeTests
+2024-12-15T18:27:34,963 [TestNG-tests-3] INFO  TestListener:98 - WebDriver instance quit for thread.
+2024-12-15T18:27:34,999 [TestNG-tests-2] INFO  TestListener:29 - Test Passed: runScenario
+2024-12-15T18:27:34,999 [TestNG-tests-2] INFO  ReportUtil:25 - Logging step to Allure: Test Passed: runScenario
+2024-12-15T18:27:35,595 [TestNG-tests-2] INFO  TestListener:93 - Test Context Finished: FirefoxTests
+2024-12-15T18:27:35,596 [TestNG-tests-2] INFO  ReportUtil:25 - Logging step to Allure: Test Context Finished: FirefoxTests
+2024-12-15T18:27:35,596 [TestNG-tests-2] INFO  TestListener:98 - WebDriver instance quit for thread.
+2024-12-15T18:29:39,026 [main] INFO  main:71 - [Thread-1] Clearing Allure results at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.13\allure-results
+2024-12-15T18:29:39,030 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 09527edd-8de3-455c-9216-41b713ac9a7f-container.json
+2024-12-15T18:29:39,030 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 1bb4e2e3-2683-401b-a502-3c1f73b5005f-container.json
+2024-12-15T18:29:39,031 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 3ba94bae-ba14-4085-a25c-12665c246553-container.json
+2024-12-15T18:29:39,031 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 3c42eba3-458a-4926-bc11-fce9aceaca5c-container.json
+2024-12-15T18:29:39,032 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 4619e119-a5c5-406c-99f0-af613c683a01-container.json
+2024-12-15T18:29:39,032 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 4ab84ecd-ef26-4955-9a0b-5909f9df04f5-container.json
+2024-12-15T18:29:39,033 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 4b4c94c3-85c0-4a4b-9a09-29112815f14f-container.json
+2024-12-15T18:29:39,033 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 6c2564d5-0d4b-4947-b1a4-2b11d9c03754-container.json
+2024-12-15T18:29:39,034 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 6e5a96ac-2f8b-436e-8a55-13479f3f3517-result.json
+2024-12-15T18:29:39,034 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 71b22145-80be-4cb3-8fdf-326fd49bb879-container.json
+2024-12-15T18:29:39,035 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 7e80610d-7368-420c-82b0-5034c681cd5a-container.json
+2024-12-15T18:29:39,035 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 8ce548d3-efe2-4e4f-838b-2ac295a7e0bc-container.json
+2024-12-15T18:29:39,036 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 8f698b96-c0c5-44be-ae62-5348d19064b2-container.json
+2024-12-15T18:29:39,036 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: a35e3968-d89c-48cf-960c-fc070ae71765-container.json
+2024-12-15T18:29:39,037 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: a9d22bdd-c531-4e1f-8741-b21195bc6918-container.json
+2024-12-15T18:29:39,037 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: ab71b274-c33f-457f-9326-e03f2425ae6e-container.json
+2024-12-15T18:29:39,038 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: ae619948-3a1f-4c22-9963-c2adcc8dcdb3-container.json
+2024-12-15T18:29:39,038 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: c8c80443-064f-4b6b-aab7-96428b35cad3-result.json
+2024-12-15T18:29:39,039 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: e39e3da3-326a-4417-afcb-8a8f7fb17f9e-container.json
+2024-12-15T18:29:39,039 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: ecd0da89-17d2-461a-a436-3423dff17630-container.json
+2024-12-15T18:29:39,040 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: ef8193d1-7ebd-4920-afb4-74e27273bd42-result.json
+2024-12-15T18:29:39,040 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: f5c23fe1-806d-4e81-8c9c-14ad96d5b0d3-container.json
+2024-12-15T18:29:39,060 [TestNG-tests-3] INFO  TestListener:74 - Test Context Started: EdgeTests
+2024-12-15T18:29:39,060 [TestNG-tests-1] INFO  TestListener:74 - Test Context Started: ChromeTests
+2024-12-15T18:29:39,060 [TestNG-tests-2] INFO  TestListener:74 - Test Context Started: FirefoxTests
+2024-12-15T18:29:39,061 [TestNG-tests-1] INFO  ReportUtil:25 - Logging step to Allure: Test Context Started: ChromeTests
+2024-12-15T18:29:39,061 [TestNG-tests-2] INFO  ReportUtil:25 - Logging step to Allure: Test Context Started: FirefoxTests
+2024-12-15T18:29:39,061 [TestNG-tests-3] INFO  ReportUtil:25 - Logging step to Allure: Test Context Started: EdgeTests
+2024-12-15T18:29:39,066 [TestNG-tests-2] INFO  TestListener:80 - Running tests with Browser: firefox and Environment: dev
+2024-12-15T18:29:39,066 [TestNG-tests-1] INFO  TestListener:80 - Running tests with Browser: chrome and Environment: dev
+2024-12-15T18:29:39,066 [TestNG-tests-3] INFO  TestListener:80 - Running tests with Browser: edge and Environment: dev
+2024-12-15T18:29:39,067 [TestNG-tests-3] INFO  LogUtil:24 - Logger initialized with level: OFF
+2024-12-15T18:29:39,068 [TestNG-tests-2] INFO  LogUtil:24 - Logger initialized with level: OFF
+2024-12-15T18:29:39,068 [TestNG-tests-1] INFO  LogUtil:24 - Logger initialized with level: OFF
+2024-12-15T18:29:39,068 [TestNG-tests-3] INFO  TestListener:86 - Log level set to: OFF
+2024-12-15T18:29:39,068 [TestNG-tests-1] INFO  TestListener:86 - Log level set to: OFF
+2024-12-15T18:29:39,068 [TestNG-tests-2] INFO  TestListener:86 - Log level set to: OFF
+2024-12-15T18:29:40,794 [TestNG-tests-3] INFO  LogUtil:24 - Logger initialized with level: OFF
+2024-12-15T18:29:40,829 [TestNG-tests-1] INFO  LogUtil:24 - Logger initialized with level: OFF
+2024-12-15T18:29:40,842 [TestNG-tests-1] INFO  TestListener:22 - Test Started: runScenario
+2024-12-15T18:29:40,842 [TestNG-tests-3] INFO  TestListener:22 - Test Started: runScenario
+2024-12-15T18:29:40,842 [TestNG-tests-1] INFO  ReportUtil:25 - Logging step to Allure: Test Started: runScenario
+2024-12-15T18:29:40,842 [TestNG-tests-3] INFO  ReportUtil:25 - Logging step to Allure: Test Started: runScenario
+2024-12-15T18:29:42,501 [TestNG-tests-2] INFO  LogUtil:24 - Logger initialized with level: OFF
+2024-12-15T18:29:42,503 [TestNG-tests-2] INFO  TestListener:22 - Test Started: runScenario
+2024-12-15T18:29:42,503 [TestNG-tests-2] INFO  ReportUtil:25 - Logging step to Allure: Test Started: runScenario
+2024-12-15T18:29:45,594 [TestNG-tests-1] INFO  TestListener:29 - Test Passed: runScenario
+2024-12-15T18:29:45,594 [TestNG-tests-1] INFO  ReportUtil:25 - Logging step to Allure: Test Passed: runScenario
+2024-12-15T18:29:46,351 [TestNG-tests-3] INFO  TestListener:29 - Test Passed: runScenario
+2024-12-15T18:29:46,351 [TestNG-tests-3] INFO  ReportUtil:25 - Logging step to Allure: Test Passed: runScenario
+2024-12-15T18:29:46,847 [TestNG-tests-1] INFO  TestListener:93 - Test Context Finished: ChromeTests
+2024-12-15T18:29:46,847 [TestNG-tests-1] INFO  ReportUtil:25 - Logging step to Allure: Test Context Finished: ChromeTests
+2024-12-15T18:29:46,848 [TestNG-tests-1] INFO  TestListener:98 - WebDriver instance quit for thread.
+2024-12-15T18:29:47,109 [TestNG-tests-3] INFO  TestListener:93 - Test Context Finished: EdgeTests
+2024-12-15T18:29:47,110 [TestNG-tests-3] INFO  ReportUtil:25 - Logging step to Allure: Test Context Finished: EdgeTests
+2024-12-15T18:29:47,110 [TestNG-tests-3] INFO  TestListener:98 - WebDriver instance quit for thread.
+2024-12-15T18:29:47,425 [TestNG-tests-2] INFO  TestListener:29 - Test Passed: runScenario
+2024-12-15T18:29:47,425 [TestNG-tests-2] INFO  ReportUtil:25 - Logging step to Allure: Test Passed: runScenario
+2024-12-15T18:29:48,146 [TestNG-tests-2] INFO  TestListener:93 - Test Context Finished: FirefoxTests
+2024-12-15T18:29:48,147 [TestNG-tests-2] INFO  ReportUtil:25 - Logging step to Allure: Test Context Finished: FirefoxTests
+2024-12-15T18:29:48,147 [TestNG-tests-2] INFO  TestListener:98 - WebDriver instance quit for thread.

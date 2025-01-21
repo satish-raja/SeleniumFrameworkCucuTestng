@@ -1,0 +1,5 @@
+# Created at 2025-01-16T20:47:03.046
+Boot Manifest-JAR contains absolute paths in classpath 'D:\WorkSpace_Selenium\CucuTestngFramework9\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

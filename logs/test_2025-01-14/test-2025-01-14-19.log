@@ -1,0 +1,314 @@
+2025-01-14T14:29:42,073 [main] INFO  LogUtil:60 - Deleted directory allure-results
+2025-01-14T14:29:45,065 [TestNG-PoolService-3] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (a2f2316c7ab3a43cea18e02055c94b87) at WebDriverHooks : setUp
+2025-01-14T14:29:45,071 [TestNG-PoolService-1] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (87a7aab3bbce401434ead20d416f39bb) at WebDriverHooks : setUp
+2025-01-14T14:29:45,078 [TestNG-PoolService-4] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (54968cb72118d3889a33e78b6eddfde1) at WebDriverHooks : setUp
+2025-01-14T14:29:45,077 [TestNG-PoolService-6] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (85384d1aab63bdd5d91fa472b7fd4af7) at WebDriverHooks : setUp
+2025-01-14T14:29:45,079 [TestNG-PoolService-2] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (60d2b363baf41a69aaba86894ba10fe5) at WebDriverHooks : setUp
+2025-01-14T14:29:45,078 [TestNG-PoolService-5] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (8e554d2c3e5db66d72675c258f884603) at WebDriverHooks : setUp
+2025-01-14T14:29:47,741 [TestNG-PoolService-1] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-14T14:29:48,049 [TestNG-PoolService-2] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-14T14:29:48,150 [TestNG-PoolService-4] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-14T14:29:48,189 [TestNG-PoolService-3] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-14T14:29:48,303 [TestNG-PoolService-1] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-14T14:29:48,308 [TestNG-PoolService-1] INFO  LogUtil:60 - Leaving the username and password fields empty.
+2025-01-14T14:29:48,360 [TestNG-PoolService-1] INFO  LogUtil:60 - Entered username: 
+2025-01-14T14:29:48,431 [TestNG-PoolService-1] INFO  LogUtil:60 - Entered password: 
+2025-01-14T14:29:48,500 [TestNG-PoolService-5] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-14T14:29:48,515 [TestNG-PoolService-1] INFO  LogUtil:60 - Clicked login button
+2025-01-14T14:29:48,515 [TestNG-PoolService-1] INFO  LogUtil:60 - Login button clicked.
+2025-01-14T14:29:48,517 [TestNG-PoolService-1] INFO  LogUtil:60 - Verifying error messages for blank username and password fields.
+2025-01-14T14:29:48,606 [TestNG-PoolService-2] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-14T14:29:48,609 [TestNG-PoolService-2] INFO  LogUtil:60 - Entering invalid credentials. Username: Admin, Password: admin
+2025-01-14T14:29:48,634 [TestNG-PoolService-6] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-14T14:29:48,677 [TestNG-PoolService-2] INFO  LogUtil:60 - Entered username: Admin
+2025-01-14T14:29:48,732 [TestNG-PoolService-4] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-14T14:29:48,734 [TestNG-PoolService-4] INFO  LogUtil:60 - Entering invalid credentials. Username: Adminn, Password: admin
+2025-01-14T14:29:48,746 [TestNG-PoolService-3] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-14T14:29:48,748 [TestNG-PoolService-3] INFO  LogUtil:60 - Entering invalid credentials. Username: Adminn, Password: admin123
+2025-01-14T14:29:48,782 [TestNG-PoolService-2] INFO  LogUtil:60 - Entered password: admin
+2025-01-14T14:29:48,805 [TestNG-PoolService-4] INFO  LogUtil:60 - Entered username: Adminn
+2025-01-14T14:29:48,823 [TestNG-PoolService-3] INFO  LogUtil:60 - Entered username: Adminn
+2025-01-14T14:29:48,913 [TestNG-PoolService-4] INFO  LogUtil:60 - Entered password: admin
+2025-01-14T14:29:48,940 [TestNG-PoolService-3] INFO  LogUtil:60 - Entered password: admin123
+2025-01-14T14:29:49,032 [TestNG-PoolService-4] INFO  LogUtil:60 - Clicked login button
+2025-01-14T14:29:49,032 [TestNG-PoolService-4] INFO  LogUtil:60 - Login button clicked.
+2025-01-14T14:29:49,035 [TestNG-PoolService-4] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-14T14:29:49,071 [TestNG-PoolService-5] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-14T14:29:49,074 [TestNG-PoolService-5] INFO  LogUtil:60 - Entering valid credentials. Username: Admin, Password: admin123
+2025-01-14T14:29:49,143 [TestNG-PoolService-5] INFO  LogUtil:60 - Entered username: Admin
+2025-01-14T14:29:49,191 [TestNG-PoolService-6] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-14T14:29:49,192 [TestNG-PoolService-6] INFO  LogUtil:60 - Clicking on the link: Forgot your password?
+2025-01-14T14:29:49,219 [TestNG-PoolService-5] INFO  LogUtil:60 - Entered password: admin123
+2025-01-14T14:29:49,790 [TestNG-PoolService-1] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (b905f0b47b4ae2f2a6890604148c4ab5) at WebDriverHooks : setUp
+2025-01-14T14:29:49,969 [TestNG-PoolService-6] INFO  LogUtil:60 - Clicked forgot password link
+2025-01-14T14:29:49,970 [TestNG-PoolService-6] INFO  LogUtil:60 - Verifying that I am redirected to the Reset Password page.
+2025-01-14T14:29:50,027 [TestNG-PoolService-3] INFO  LogUtil:60 - Clicked login button
+2025-01-14T14:29:50,027 [TestNG-PoolService-3] INFO  LogUtil:60 - Login button clicked.
+2025-01-14T14:29:50,029 [TestNG-PoolService-3] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-14T14:29:50,185 [TestNG-PoolService-2] INFO  LogUtil:60 - Clicked login button
+2025-01-14T14:29:50,185 [TestNG-PoolService-2] INFO  LogUtil:60 - Login button clicked.
+2025-01-14T14:29:50,186 [TestNG-PoolService-2] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-14T14:29:50,517 [TestNG-PoolService-6] INFO  LogUtil:60 - Entering a valid username: Admin
+2025-01-14T14:29:50,600 [TestNG-PoolService-6] INFO  LogUtil:60 - Entered username: Admin
+2025-01-14T14:29:50,601 [TestNG-PoolService-6] INFO  LogUtil:60 - Clicking on the Reset Password button.
+2025-01-14T14:29:50,681 [TestNG-PoolService-6] INFO  LogUtil:60 - Clicked login button
+2025-01-14T14:29:50,683 [TestNG-PoolService-6] INFO  LogUtil:60 - Verifying the success message and URL after clicking the Reset Password button.
+2025-01-14T14:29:50,721 [TestNG-PoolService-5] INFO  LogUtil:60 - Clicked login button
+2025-01-14T14:29:50,721 [TestNG-PoolService-5] INFO  LogUtil:60 - Login button clicked.
+2025-01-14T14:29:50,723 [TestNG-PoolService-5] INFO  LogUtil:60 - Verifying login success and Dashboard page visibility.
+2025-01-14T14:29:51,263 [TestNG-PoolService-5] INFO  LogUtil:60 - Clicking on the logout button.
+2025-01-14T14:29:52,489 [TestNG-PoolService-1] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-14T14:29:53,074 [TestNG-PoolService-1] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-14T14:29:53,075 [TestNG-PoolService-1] INFO  LogUtil:60 - Leaving the username and password fields empty.
+2025-01-14T14:29:53,115 [TestNG-PoolService-5] INFO  LogUtil:60 - Clicked logout link
+2025-01-14T14:29:53,116 [TestNG-PoolService-5] INFO  LogUtil:60 - Verifying successful navigation to the Login page.
+2025-01-14T14:29:53,117 [TestNG-PoolService-1] INFO  LogUtil:60 - Entered username: 
+2025-01-14T14:29:53,171 [TestNG-PoolService-1] INFO  LogUtil:60 - Entered password: 
+2025-01-14T14:29:53,236 [TestNG-PoolService-1] INFO  LogUtil:60 - Clicked login button
+2025-01-14T14:29:53,236 [TestNG-PoolService-1] INFO  LogUtil:60 - Login button clicked.
+2025-01-14T14:29:53,237 [TestNG-PoolService-1] INFO  LogUtil:60 - Verifying error messages for blank username and password fields.
+2025-01-14T14:29:54,380 [TestNG-PoolService-1] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (2004229a61e2804b40986a6f218414fa) at WebDriverHooks : setUp
+2025-01-14T14:29:57,314 [TestNG-PoolService-1] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-14T14:29:57,860 [TestNG-PoolService-1] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-14T14:29:57,861 [TestNG-PoolService-1] INFO  LogUtil:60 - Leaving the username and password fields empty.
+2025-01-14T14:29:57,897 [TestNG-PoolService-1] INFO  LogUtil:60 - Entered username: 
+2025-01-14T14:29:57,960 [TestNG-PoolService-1] INFO  LogUtil:60 - Entered password: 
+2025-01-14T14:29:58,022 [TestNG-PoolService-1] INFO  LogUtil:60 - Clicked login button
+2025-01-14T14:29:58,022 [TestNG-PoolService-1] INFO  LogUtil:60 - Login button clicked.
+2025-01-14T14:29:58,024 [TestNG-PoolService-1] INFO  LogUtil:60 - Verifying error messages for blank username and password fields.
+2025-01-14T19:46:38,672 [main] INFO  LogUtil:60 - Deleted directory allure-results
+2025-01-14T19:46:40,323 [TestNG-PoolService-1] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (c4b6e3d18407fb22206444d743a6a17e) at WebDriverHooks : setUp
+2025-01-14T19:46:42,968 [TestNG-PoolService-1] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-14T19:46:43,518 [TestNG-PoolService-1] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-14T19:46:43,523 [TestNG-PoolService-1] INFO  LogUtil:60 - Leaving the username and password fields empty.
+2025-01-14T19:46:43,574 [TestNG-PoolService-1] INFO  LogUtil:60 - Entered username: 
+2025-01-14T19:46:43,628 [TestNG-PoolService-1] INFO  LogUtil:60 - Entered password: 
+2025-01-14T19:46:43,688 [TestNG-PoolService-1] INFO  LogUtil:60 - Clicked login button
+2025-01-14T19:46:43,689 [TestNG-PoolService-1] INFO  LogUtil:60 - Login button clicked.
+2025-01-14T19:46:43,690 [TestNG-PoolService-1] INFO  LogUtil:60 - Verifying error messages for blank username and password fields.
+2025-01-14T19:46:44,776 [TestNG-PoolService-1] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (c5492017178a718ad63aac8ea495168c) at WebDriverHooks : setUp
+2025-01-14T19:46:47,519 [TestNG-PoolService-1] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-14T19:46:48,057 [TestNG-PoolService-1] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-14T19:46:48,060 [TestNG-PoolService-1] INFO  LogUtil:60 - Leaving the username and password fields empty.
+2025-01-14T19:46:48,104 [TestNG-PoolService-1] INFO  LogUtil:60 - Entered username: 
+2025-01-14T19:46:48,159 [TestNG-PoolService-1] INFO  LogUtil:60 - Entered password: 
+2025-01-14T19:46:48,218 [TestNG-PoolService-1] INFO  LogUtil:60 - Clicked login button
+2025-01-14T19:46:48,219 [TestNG-PoolService-1] INFO  LogUtil:60 - Login button clicked.
+2025-01-14T19:46:48,220 [TestNG-PoolService-1] INFO  LogUtil:60 - Verifying error messages for blank username and password fields.
+2025-01-14T19:46:49,304 [TestNG-PoolService-1] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (ce70bf011deb83ebd07724871699da3f) at WebDriverHooks : setUp
+2025-01-14T19:46:52,109 [TestNG-PoolService-1] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-14T19:46:52,646 [TestNG-PoolService-1] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-14T19:46:52,647 [TestNG-PoolService-1] INFO  LogUtil:60 - Leaving the username and password fields empty.
+2025-01-14T19:46:52,696 [TestNG-PoolService-1] INFO  LogUtil:60 - Entered username: 
+2025-01-14T19:46:52,746 [TestNG-PoolService-1] INFO  LogUtil:60 - Entered password: 
+2025-01-14T19:46:52,806 [TestNG-PoolService-1] INFO  LogUtil:60 - Clicked login button
+2025-01-14T19:46:52,807 [TestNG-PoolService-1] INFO  LogUtil:60 - Login button clicked.
+2025-01-14T19:46:52,808 [TestNG-PoolService-1] INFO  LogUtil:60 - Verifying error messages for blank username and password fields.
+2025-01-14T19:51:10,428 [main] INFO  LogUtil:60 - Deleted directory allure-results
+2025-01-14T19:51:13,137 [TestNG-PoolService-4] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (a184ffbbf648e43d6e9004a367a1e35d) at WebDriverHooks : setUp
+2025-01-14T19:51:13,143 [TestNG-PoolService-1] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (baac562175dcfdef358f159a570d90c3) at WebDriverHooks : setUp
+2025-01-14T19:51:13,143 [TestNG-PoolService-3] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (cb6479fb0e5c847f169539e0e61be5bf) at WebDriverHooks : setUp
+2025-01-14T19:51:13,144 [TestNG-PoolService-6] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (78161345739e781bb26e41480a601d12) at WebDriverHooks : setUp
+2025-01-14T19:51:13,145 [TestNG-PoolService-5] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (c139e55578dcfa4523bef587cdda4305) at WebDriverHooks : setUp
+2025-01-14T19:51:13,149 [TestNG-PoolService-2] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (49eff4c9702bb0529c3f47472ad9a9fb) at WebDriverHooks : setUp
+2025-01-14T19:51:16,061 [TestNG-PoolService-1] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-14T19:51:16,214 [TestNG-PoolService-4] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-14T19:51:16,238 [TestNG-PoolService-6] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-14T19:51:16,260 [TestNG-PoolService-3] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-14T19:51:16,282 [TestNG-PoolService-5] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-14T19:51:16,372 [TestNG-PoolService-2] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-14T19:51:16,640 [TestNG-PoolService-1] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-14T19:51:16,649 [TestNG-PoolService-1] INFO  LogUtil:60 - Leaving the username and password fields empty.
+2025-01-14T19:51:16,739 [TestNG-PoolService-1] INFO  LogUtil:60 - Entered username: 
+2025-01-14T19:51:16,782 [TestNG-PoolService-4] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-14T19:51:16,788 [TestNG-PoolService-4] INFO  LogUtil:60 - Entering invalid credentials. Username: Adminn, Password: admin
+2025-01-14T19:51:16,796 [TestNG-PoolService-6] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-14T19:51:16,800 [TestNG-PoolService-6] INFO  LogUtil:60 - Clicking on the link: Forgot your password?
+2025-01-14T19:51:16,836 [TestNG-PoolService-3] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-14T19:51:16,841 [TestNG-PoolService-3] INFO  LogUtil:60 - Entering invalid credentials. Username: Adminn, Password: admin123
+2025-01-14T19:51:16,842 [TestNG-PoolService-1] INFO  LogUtil:60 - Entered password: 
+2025-01-14T19:51:16,868 [TestNG-PoolService-5] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-14T19:51:16,871 [TestNG-PoolService-5] INFO  LogUtil:60 - Entering valid credentials. Username: Admin, Password: admin123
+2025-01-14T19:51:16,937 [TestNG-PoolService-4] INFO  LogUtil:60 - Entered username: Adminn
+2025-01-14T19:51:17,011 [TestNG-PoolService-3] INFO  LogUtil:60 - Entered username: Adminn
+2025-01-14T19:51:17,027 [TestNG-PoolService-2] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-14T19:51:17,033 [TestNG-PoolService-2] INFO  LogUtil:60 - Entering invalid credentials. Username: Admin, Password: admin
+2025-01-14T19:51:17,087 [TestNG-PoolService-5] INFO  LogUtil:60 - Entered username: Admin
+2025-01-14T19:51:17,097 [TestNG-PoolService-1] INFO  LogUtil:60 - Clicked login button
+2025-01-14T19:51:17,097 [TestNG-PoolService-1] INFO  LogUtil:60 - Login button clicked.
+2025-01-14T19:51:17,100 [TestNG-PoolService-1] INFO  LogUtil:60 - Verifying error messages for blank username and password fields.
+2025-01-14T19:51:17,140 [TestNG-PoolService-2] INFO  LogUtil:60 - Entered username: Admin
+2025-01-14T19:51:17,151 [TestNG-PoolService-4] INFO  LogUtil:60 - Entered password: admin
+2025-01-14T19:51:17,178 [TestNG-PoolService-3] INFO  LogUtil:60 - Entered password: admin123
+2025-01-14T19:51:17,218 [TestNG-PoolService-5] INFO  LogUtil:60 - Entered password: admin123
+2025-01-14T19:51:17,240 [TestNG-PoolService-2] INFO  LogUtil:60 - Entered password: admin
+2025-01-14T19:51:17,632 [TestNG-PoolService-6] INFO  LogUtil:60 - Clicked forgot password link
+2025-01-14T19:51:17,633 [TestNG-PoolService-6] INFO  LogUtil:60 - Verifying that I am redirected to the Reset Password page.
+2025-01-14T19:51:18,161 [TestNG-PoolService-4] INFO  LogUtil:60 - Clicked login button
+2025-01-14T19:51:18,161 [TestNG-PoolService-4] INFO  LogUtil:60 - Login button clicked.
+2025-01-14T19:51:18,163 [TestNG-PoolService-4] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-14T19:51:18,177 [TestNG-PoolService-6] INFO  LogUtil:60 - Entering a valid username: Admin
+2025-01-14T19:51:18,218 [TestNG-PoolService-3] INFO  LogUtil:60 - Clicked login button
+2025-01-14T19:51:18,218 [TestNG-PoolService-3] INFO  LogUtil:60 - Login button clicked.
+2025-01-14T19:51:18,220 [TestNG-PoolService-3] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-14T19:51:18,266 [TestNG-PoolService-6] INFO  LogUtil:60 - Entered username: Admin
+2025-01-14T19:51:18,267 [TestNG-PoolService-6] INFO  LogUtil:60 - Clicking on the Reset Password button.
+2025-01-14T19:51:18,279 [TestNG-PoolService-1] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (06c797b7c0dfb4b4ed48b2b1f5de83aa) at WebDriverHooks : setUp
+2025-01-14T19:51:18,341 [TestNG-PoolService-6] INFO  LogUtil:60 - Clicked login button
+2025-01-14T19:51:18,342 [TestNG-PoolService-6] INFO  LogUtil:60 - Verifying the success message and URL after clicking the Reset Password button.
+2025-01-14T19:51:18,565 [TestNG-PoolService-5] INFO  LogUtil:60 - Clicked login button
+2025-01-14T19:51:18,565 [TestNG-PoolService-5] INFO  LogUtil:60 - Login button clicked.
+2025-01-14T19:51:18,567 [TestNG-PoolService-5] INFO  LogUtil:60 - Verifying login success and Dashboard page visibility.
+2025-01-14T19:51:18,685 [TestNG-PoolService-2] INFO  LogUtil:60 - Clicked login button
+2025-01-14T19:51:18,686 [TestNG-PoolService-2] INFO  LogUtil:60 - Login button clicked.
+2025-01-14T19:51:18,687 [TestNG-PoolService-2] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-14T19:51:19,116 [TestNG-PoolService-5] INFO  LogUtil:60 - Clicking on the logout button.
+2025-01-14T19:51:20,598 [TestNG-PoolService-5] INFO  LogUtil:60 - Clicked logout link
+2025-01-14T19:51:20,598 [TestNG-PoolService-5] INFO  LogUtil:60 - Verifying successful navigation to the Login page.
+2025-01-14T19:51:21,274 [TestNG-PoolService-1] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-14T19:51:21,818 [TestNG-PoolService-1] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-14T19:51:21,819 [TestNG-PoolService-1] INFO  LogUtil:60 - Leaving the username and password fields empty.
+2025-01-14T19:51:21,865 [TestNG-PoolService-1] INFO  LogUtil:60 - Entered username: 
+2025-01-14T19:51:21,923 [TestNG-PoolService-1] INFO  LogUtil:60 - Entered password: 
+2025-01-14T19:51:21,983 [TestNG-PoolService-1] INFO  LogUtil:60 - Clicked login button
+2025-01-14T19:51:21,984 [TestNG-PoolService-1] INFO  LogUtil:60 - Login button clicked.
+2025-01-14T19:51:21,985 [TestNG-PoolService-1] INFO  LogUtil:60 - Verifying error messages for blank username and password fields.
+2025-01-14T19:51:23,035 [TestNG-PoolService-1] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (578461e0312fc1e2c9057e391c1a06fb) at WebDriverHooks : setUp
+2025-01-14T19:51:25,946 [TestNG-PoolService-1] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-14T19:51:26,482 [TestNG-PoolService-1] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-14T19:51:26,483 [TestNG-PoolService-1] INFO  LogUtil:60 - Leaving the username and password fields empty.
+2025-01-14T19:51:26,520 [TestNG-PoolService-1] INFO  LogUtil:60 - Entered username: 
+2025-01-14T19:51:26,580 [TestNG-PoolService-1] INFO  LogUtil:60 - Entered password: 
+2025-01-14T19:51:26,644 [TestNG-PoolService-1] INFO  LogUtil:60 - Clicked login button
+2025-01-14T19:51:26,644 [TestNG-PoolService-1] INFO  LogUtil:60 - Login button clicked.
+2025-01-14T19:51:26,645 [TestNG-PoolService-1] INFO  LogUtil:60 - Verifying error messages for blank username and password fields.
+2025-01-14T19:52:50,362 [main] INFO  LogUtil:60 - Deleted directory allure-results
+2025-01-14T19:52:53,019 [TestNG-PoolService-6] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (870a683bcdd3ec32c705b40e96a5bc33) at WebDriverHooks : setUp
+2025-01-14T19:52:53,019 [TestNG-PoolService-3] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (034488f47fa897b5a3849dc5832d1e4e) at WebDriverHooks : setUp
+2025-01-14T19:52:53,072 [TestNG-PoolService-4] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (6873dcb61c07df409f80abe2ec77fd9a) at WebDriverHooks : setUp
+2025-01-14T19:52:53,075 [TestNG-PoolService-1] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (33c6ba457c4fb989e978c94cb7a99736) at WebDriverHooks : setUp
+2025-01-14T19:52:53,075 [TestNG-PoolService-5] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (e76f2d3eb5ea77c5c41f7582e50aa0d2) at WebDriverHooks : setUp
+2025-01-14T19:52:53,092 [TestNG-PoolService-2] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (6f48f683c28a9af094b8affb09aa8f08) at WebDriverHooks : setUp
+2025-01-14T19:52:55,609 [TestNG-PoolService-5] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-14T19:52:55,685 [TestNG-PoolService-2] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-14T19:52:55,723 [TestNG-PoolService-6] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-14T19:52:55,845 [TestNG-PoolService-4] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-14T19:52:55,913 [TestNG-PoolService-1] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-14T19:52:56,175 [TestNG-PoolService-5] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-14T19:52:56,184 [TestNG-PoolService-5] INFO  LogUtil:60 - Entering valid credentials. Username: Admin, Password: admin123
+2025-01-14T19:52:56,267 [TestNG-PoolService-2] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-14T19:52:56,282 [TestNG-PoolService-2] INFO  LogUtil:60 - Entering invalid credentials. Username: Admin, Password: admin
+2025-01-14T19:52:56,283 [TestNG-PoolService-5] INFO  LogUtil:60 - Entered username: Admin
+2025-01-14T19:52:56,301 [TestNG-PoolService-6] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-14T19:52:56,304 [TestNG-PoolService-6] INFO  LogUtil:60 - Clicking on the link: Forgot your password?
+2025-01-14T19:52:56,373 [TestNG-PoolService-2] INFO  LogUtil:60 - Entered username: Admin
+2025-01-14T19:52:56,415 [TestNG-PoolService-3] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-14T19:52:56,426 [TestNG-PoolService-5] INFO  LogUtil:60 - Entered password: admin123
+2025-01-14T19:52:56,460 [TestNG-PoolService-4] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-14T19:52:56,463 [TestNG-PoolService-4] INFO  LogUtil:60 - Entering invalid credentials. Username: Adminn, Password: admin
+2025-01-14T19:52:56,485 [TestNG-PoolService-1] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-14T19:52:56,487 [TestNG-PoolService-1] INFO  LogUtil:60 - Leaving the username and password fields empty.
+2025-01-14T19:52:56,510 [TestNG-PoolService-2] INFO  LogUtil:60 - Entered password: admin
+2025-01-14T19:52:56,552 [TestNG-PoolService-4] INFO  LogUtil:60 - Entered username: Adminn
+2025-01-14T19:52:56,576 [TestNG-PoolService-1] INFO  LogUtil:60 - Entered username: 
+2025-01-14T19:52:56,653 [TestNG-PoolService-4] INFO  LogUtil:60 - Entered password: admin
+2025-01-14T19:52:56,661 [TestNG-PoolService-1] INFO  LogUtil:60 - Entered password: 
+2025-01-14T19:52:56,744 [TestNG-PoolService-1] INFO  LogUtil:60 - Clicked login button
+2025-01-14T19:52:56,745 [TestNG-PoolService-1] INFO  LogUtil:60 - Login button clicked.
+2025-01-14T19:52:56,747 [TestNG-PoolService-1] INFO  LogUtil:60 - Verifying error messages for blank username and password fields.
+2025-01-14T19:52:56,992 [TestNG-PoolService-3] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-14T19:52:56,994 [TestNG-PoolService-3] INFO  LogUtil:60 - Entering invalid credentials. Username: Adminn, Password: admin123
+2025-01-14T19:52:57,054 [TestNG-PoolService-3] INFO  LogUtil:60 - Entered username: Adminn
+2025-01-14T19:52:57,093 [TestNG-PoolService-6] INFO  LogUtil:60 - Clicked forgot password link
+2025-01-14T19:52:57,094 [TestNG-PoolService-6] INFO  LogUtil:60 - Verifying that I am redirected to the Reset Password page.
+2025-01-14T19:52:57,128 [TestNG-PoolService-3] INFO  LogUtil:60 - Entered password: admin123
+2025-01-14T19:52:57,629 [TestNG-PoolService-4] INFO  LogUtil:60 - Clicked login button
+2025-01-14T19:52:57,629 [TestNG-PoolService-4] INFO  LogUtil:60 - Login button clicked.
+2025-01-14T19:52:57,631 [TestNG-PoolService-4] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-14T19:52:57,632 [TestNG-PoolService-6] INFO  LogUtil:60 - Entering a valid username: Admin
+2025-01-14T19:52:57,702 [TestNG-PoolService-6] INFO  LogUtil:60 - Entered username: Admin
+2025-01-14T19:52:57,703 [TestNG-PoolService-6] INFO  LogUtil:60 - Clicking on the Reset Password button.
+2025-01-14T19:52:57,774 [TestNG-PoolService-6] INFO  LogUtil:60 - Clicked login button
+2025-01-14T19:52:57,775 [TestNG-PoolService-6] INFO  LogUtil:60 - Verifying the success message and URL after clicking the Reset Password button.
+2025-01-14T19:52:57,795 [TestNG-PoolService-5] INFO  LogUtil:60 - Clicked login button
+2025-01-14T19:52:57,796 [TestNG-PoolService-5] INFO  LogUtil:60 - Login button clicked.
+2025-01-14T19:52:57,798 [TestNG-PoolService-5] INFO  LogUtil:60 - Verifying login success and Dashboard page visibility.
+2025-01-14T19:52:57,857 [TestNG-PoolService-2] INFO  LogUtil:60 - Clicked login button
+2025-01-14T19:52:57,857 [TestNG-PoolService-2] INFO  LogUtil:60 - Login button clicked.
+2025-01-14T19:52:57,859 [TestNG-PoolService-2] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-14T19:52:58,095 [TestNG-PoolService-3] INFO  LogUtil:60 - Clicked login button
+2025-01-14T19:52:58,095 [TestNG-PoolService-3] INFO  LogUtil:60 - Login button clicked.
+2025-01-14T19:52:58,096 [TestNG-PoolService-3] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-14T19:52:58,343 [TestNG-PoolService-5] INFO  LogUtil:60 - Clicking on the logout button.
+2025-01-14T19:52:59,842 [TestNG-PoolService-5] INFO  LogUtil:60 - Clicked logout link
+2025-01-14T19:52:59,843 [TestNG-PoolService-5] INFO  LogUtil:60 - Verifying successful navigation to the Login page.
+2025-01-14T19:59:26,286 [main] INFO  LogUtil:60 - Deleted directory allure-results
+2025-01-14T19:59:29,272 [TestNG-PoolService-6] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (c3c842274a5c23d0544c313b27d50757) at WebDriverHooks : setUp
+2025-01-14T19:59:29,273 [TestNG-PoolService-3] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (be8d708bc689408b150d0917718b3f03) at WebDriverHooks : setUp
+2025-01-14T19:59:29,273 [TestNG-PoolService-2] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (47ce8cacbcf7e4cac633f4baee5e3fb3) at WebDriverHooks : setUp
+2025-01-14T19:59:29,273 [TestNG-PoolService-4] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (7b1e3303e183495d6f8a36339cb5fbee) at WebDriverHooks : setUp
+2025-01-14T19:59:29,274 [TestNG-PoolService-1] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (716171a12981ce779a39cda9d5fb3674) at WebDriverHooks : setUp
+2025-01-14T19:59:29,275 [TestNG-PoolService-5] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (9f42fc7d20a2d9d39c25164e6768d84b) at WebDriverHooks : setUp
+2025-01-14T19:59:31,981 [TestNG-PoolService-6] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-14T19:59:32,222 [TestNG-PoolService-1] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-14T19:59:32,262 [TestNG-PoolService-3] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-14T19:59:32,268 [TestNG-PoolService-5] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-14T19:59:32,332 [TestNG-PoolService-4] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-14T19:59:32,421 [TestNG-PoolService-2] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-14T19:59:32,547 [TestNG-PoolService-6] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-14T19:59:32,554 [TestNG-PoolService-6] INFO  LogUtil:60 - Clicking on the link: Forgot your password?
+2025-01-14T19:59:32,777 [TestNG-PoolService-1] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-14T19:59:32,782 [TestNG-PoolService-1] INFO  LogUtil:60 - Leaving the username and password fields empty.
+2025-01-14T19:59:32,853 [TestNG-PoolService-1] INFO  LogUtil:60 - Entered username: 
+2025-01-14T19:59:32,855 [TestNG-PoolService-5] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-14T19:59:32,858 [TestNG-PoolService-5] INFO  LogUtil:60 - Entering valid credentials. Username: Admin, Password: admin123
+2025-01-14T19:59:32,863 [TestNG-PoolService-3] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-14T19:59:32,867 [TestNG-PoolService-3] INFO  LogUtil:60 - Entering invalid credentials. Username: Admin, Password: admin123
+2025-01-14T19:59:32,911 [TestNG-PoolService-4] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-14T19:59:32,914 [TestNG-PoolService-4] INFO  LogUtil:60 - Entering invalid credentials. Username: Adminn, Password: admin
+2025-01-14T19:59:32,960 [TestNG-PoolService-5] INFO  LogUtil:60 - Entered username: Admin
+2025-01-14T19:59:32,963 [TestNG-PoolService-1] INFO  LogUtil:60 - Entered password: 
+2025-01-14T19:59:33,003 [TestNG-PoolService-3] INFO  LogUtil:60 - Entered username: Admin
+2025-01-14T19:59:33,025 [TestNG-PoolService-2] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-14T19:59:33,029 [TestNG-PoolService-2] INFO  LogUtil:60 - Entering invalid credentials. Username: Admin, Password: admin
+2025-01-14T19:59:33,041 [TestNG-PoolService-4] INFO  LogUtil:60 - Entered username: Adminn
+2025-01-14T19:59:33,105 [TestNG-PoolService-5] INFO  LogUtil:60 - Entered password: admin123
+2025-01-14T19:59:33,133 [TestNG-PoolService-1] INFO  LogUtil:60 - Clicked login button
+2025-01-14T19:59:33,133 [TestNG-PoolService-2] INFO  LogUtil:60 - Entered username: Admin
+2025-01-14T19:59:33,133 [TestNG-PoolService-1] INFO  LogUtil:60 - Login button clicked.
+2025-01-14T19:59:33,138 [TestNG-PoolService-1] INFO  LogUtil:60 - Verifying error messages for blank username and password fields.
+2025-01-14T19:59:33,161 [TestNG-PoolService-3] INFO  LogUtil:60 - Entered password: admin123
+2025-01-14T19:59:33,176 [TestNG-PoolService-4] INFO  LogUtil:60 - Entered password: admin
+2025-01-14T19:59:33,251 [TestNG-PoolService-2] INFO  LogUtil:60 - Entered password: admin
+2025-01-14T19:59:33,276 [TestNG-PoolService-3] INFO  LogUtil:60 - Clicked login button
+2025-01-14T19:59:33,276 [TestNG-PoolService-3] INFO  LogUtil:60 - Login button clicked.
+2025-01-14T19:59:33,278 [TestNG-PoolService-3] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-14T19:59:33,349 [TestNG-PoolService-2] INFO  LogUtil:60 - Clicked login button
+2025-01-14T19:59:33,349 [TestNG-PoolService-2] INFO  LogUtil:60 - Login button clicked.
+2025-01-14T19:59:33,352 [TestNG-PoolService-2] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-14T19:59:33,416 [TestNG-PoolService-6] INFO  LogUtil:60 - Clicked forgot password link
+2025-01-14T19:59:33,417 [TestNG-PoolService-6] INFO  LogUtil:60 - Verifying that I am redirected to the Reset Password page.
+2025-01-14T19:59:33,951 [TestNG-PoolService-6] INFO  LogUtil:60 - Entering a valid username: Admin
+2025-01-14T19:59:34,012 [TestNG-PoolService-6] INFO  LogUtil:60 - Entered username: Admin
+2025-01-14T19:59:34,013 [TestNG-PoolService-6] INFO  LogUtil:60 - Clicking on the Reset Password button.
+2025-01-14T19:59:34,066 [TestNG-PoolService-6] INFO  LogUtil:60 - Clicked login button
+2025-01-14T19:59:34,067 [TestNG-PoolService-6] INFO  LogUtil:60 - Verifying the success message and URL after clicking the Reset Password button.
+2025-01-14T19:59:34,175 [TestNG-PoolService-4] INFO  LogUtil:60 - Clicked login button
+2025-01-14T19:59:34,176 [TestNG-PoolService-4] INFO  LogUtil:60 - Login button clicked.
+2025-01-14T19:59:34,177 [TestNG-PoolService-4] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-14T19:59:34,515 [TestNG-PoolService-5] INFO  LogUtil:60 - Clicked login button
+2025-01-14T19:59:34,515 [TestNG-PoolService-5] INFO  LogUtil:60 - Login button clicked.
+2025-01-14T19:59:34,516 [TestNG-PoolService-5] INFO  LogUtil:60 - Verifying login success and Dashboard page visibility.
+2025-01-14T19:59:35,069 [TestNG-PoolService-5] INFO  LogUtil:60 - Clicking on the logout button.
+2025-01-14T19:59:36,594 [TestNG-PoolService-5] INFO  LogUtil:60 - Clicked logout link
+2025-01-14T19:59:36,594 [TestNG-PoolService-5] INFO  LogUtil:60 - Verifying successful navigation to the Login page.
+2025-01-14T19:59:44,384 [TestNG-PoolService-3] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (dd1387ee1c190e32cc96ca5837e8129f) at WebDriverHooks : setUp
+2025-01-14T19:59:46,914 [TestNG-PoolService-3] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-14T19:59:47,450 [TestNG-PoolService-3] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-14T19:59:47,451 [TestNG-PoolService-3] INFO  LogUtil:60 - Entering invalid credentials. Username: Admin, Password: admin123
+2025-01-14T19:59:47,506 [TestNG-PoolService-3] INFO  LogUtil:60 - Entered username: Admin
+2025-01-14T19:59:47,561 [TestNG-PoolService-3] INFO  LogUtil:60 - Entered password: admin123
+2025-01-14T19:59:47,616 [TestNG-PoolService-3] INFO  LogUtil:60 - Clicked login button
+2025-01-14T19:59:47,616 [TestNG-PoolService-3] INFO  LogUtil:60 - Login button clicked.
+2025-01-14T19:59:47,618 [TestNG-PoolService-3] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-14T19:59:59,109 [TestNG-PoolService-3] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (4817a3cbc46ef9eebc4344338c45b371) at WebDriverHooks : setUp

@@ -1,0 +1,87 @@
+2024-12-13 19:26:44 [TestNG-tests-2] INFO  TestListener:66 - Test Context Started: FirefoxTests
+2024-12-13 19:26:44 [TestNG-tests-1] INFO  TestListener:66 - Test Context Started: ChromeTests
+2024-12-13 19:26:44 [TestNG-tests-3] INFO  TestListener:66 - Test Context Started: EdgeTests
+2024-12-13 19:26:44 [TestNG-tests-3] INFO  TestListener:71 - Running tests with Browser: edge and Environment: dev
+2024-12-13 19:26:44 [TestNG-tests-1] INFO  TestListener:71 - Running tests with Browser: chrome and Environment: dev
+2024-12-13 19:26:44 [TestNG-tests-2] INFO  TestListener:71 - Running tests with Browser: firefox and Environment: dev
+2024-12-13 19:26:46 [TestNG-tests-1] INFO  TestListener:21 - Test Started: runScenario
+2024-12-13 19:26:46 [TestNG-tests-3] INFO  TestListener:21 - Test Started: runScenario
+2024-12-13 19:26:47 [TestNG-tests-2] INFO  TestListener:21 - Test Started: runScenario
+2024-12-13 19:26:50 [TestNG-tests-1] INFO  TestNG-tests-1:49 - Entered username: Admin
+2024-12-13 19:26:50 [TestNG-tests-1] INFO  TestNG-tests-1:49 - Entered password: admin123
+2024-12-13 19:26:50 [TestNG-tests-1] INFO  TestNG-tests-1:49 - Clicked login button
+2024-12-13 19:26:50 [TestNG-tests-3] INFO  TestNG-tests-3:49 - Entered username: Admin
+2024-12-13 19:26:50 [TestNG-tests-3] INFO  TestNG-tests-3:49 - Entered password: admin123
+2024-12-13 19:26:51 [TestNG-tests-2] INFO  TestNG-tests-2:49 - Entered username: Admin
+2024-12-13 19:26:51 [TestNG-tests-2] INFO  TestNG-tests-2:49 - Entered password: admin123
+2024-12-13 19:26:51 [TestNG-tests-3] INFO  TestNG-tests-3:49 - Clicked login button
+2024-12-13 19:26:53 [TestNG-tests-2] INFO  TestNG-tests-2:49 - Clicked login button
+2024-12-13 19:26:53 [TestNG-tests-1] INFO  TestNG-tests-1:49 - Clicked logout link
+2024-12-13 19:26:53 [TestNG-tests-3] INFO  TestNG-tests-3:49 - Clicked logout link
+2024-12-13 19:26:54 [TestNG-tests-1] INFO  TestListener:27 - Test Passed: runScenario
+2024-12-13 19:26:55 [TestNG-tests-1] INFO  TestListener:21 - Test Started: runScenario
+2024-12-13 19:26:55 [TestNG-tests-2] INFO  TestNG-tests-2:49 - Clicked logout link
+2024-12-13 19:26:55 [TestNG-tests-3] INFO  TestListener:27 - Test Passed: runScenario
+2024-12-13 19:26:56 [TestNG-tests-3] INFO  TestListener:21 - Test Started: runScenario
+2024-12-13 19:26:56 [TestNG-tests-2] INFO  TestListener:27 - Test Passed: runScenario
+2024-12-13 19:26:58 [TestNG-tests-2] INFO  TestListener:21 - Test Started: runScenario
+2024-12-13 19:26:58 [TestNG-tests-1] INFO  TestNG-tests-1:49 - Entered username: Admin
+2024-12-13 19:26:58 [TestNG-tests-1] INFO  TestNG-tests-1:49 - Entered password: admin
+2024-12-13 19:26:58 [TestNG-tests-1] INFO  TestNG-tests-1:49 - Clicked login button
+2024-12-13 19:26:59 [TestNG-tests-3] INFO  TestNG-tests-3:49 - Entered username: Admin
+2024-12-13 19:26:59 [TestNG-tests-3] INFO  TestNG-tests-3:49 - Entered password: admin
+2024-12-13 19:27:00 [TestNG-tests-1] INFO  TestListener:27 - Test Passed: runScenario
+2024-12-13 19:27:01 [TestNG-tests-3] INFO  TestNG-tests-3:49 - Clicked login button
+2024-12-13 19:27:01 [TestNG-tests-1] INFO  TestListener:21 - Test Started: runScenario
+2024-12-13 19:27:02 [TestNG-tests-2] INFO  TestNG-tests-2:49 - Entered username: Admin
+2024-12-13 19:27:02 [TestNG-tests-2] INFO  TestNG-tests-2:49 - Entered password: admin
+2024-12-13 19:27:02 [TestNG-tests-3] INFO  TestListener:27 - Test Passed: runScenario
+2024-12-13 19:27:03 [TestNG-tests-3] INFO  TestListener:21 - Test Started: runScenario
+2024-12-13 19:27:04 [TestNG-tests-2] INFO  TestNG-tests-2:49 - Clicked login button
+2024-12-13 19:27:04 [TestNG-tests-1] INFO  TestNG-tests-1:49 - Entered username: Adminn
+2024-12-13 19:27:04 [TestNG-tests-1] INFO  TestNG-tests-1:49 - Entered password: admin123
+2024-12-13 19:27:04 [TestNG-tests-1] INFO  TestNG-tests-1:49 - Clicked login button
+2024-12-13 19:27:05 [TestNG-tests-2] INFO  TestListener:27 - Test Passed: runScenario
+2024-12-13 19:27:06 [TestNG-tests-1] INFO  TestListener:27 - Test Passed: runScenario
+2024-12-13 19:27:06 [TestNG-tests-1] INFO  TestListener:21 - Test Started: runScenario
+2024-12-13 19:27:07 [TestNG-tests-3] INFO  TestNG-tests-3:49 - Entered username: Adminn
+2024-12-13 19:27:07 [TestNG-tests-3] INFO  TestNG-tests-3:49 - Entered password: admin123
+2024-12-13 19:27:07 [TestNG-tests-2] INFO  TestListener:21 - Test Started: runScenario
+2024-12-13 19:27:08 [TestNG-tests-3] INFO  TestNG-tests-3:49 - Clicked login button
+2024-12-13 19:27:09 [TestNG-tests-1] INFO  TestNG-tests-1:49 - Entered username: Adminn
+2024-12-13 19:27:10 [TestNG-tests-1] INFO  TestNG-tests-1:49 - Entered password: admin
+2024-12-13 19:27:10 [TestNG-tests-1] INFO  TestNG-tests-1:49 - Clicked login button
+2024-12-13 19:27:10 [TestNG-tests-3] INFO  TestListener:27 - Test Passed: runScenario
+2024-12-13 19:27:10 [TestNG-tests-3] INFO  TestListener:21 - Test Started: runScenario
+2024-12-13 19:27:11 [TestNG-tests-2] INFO  TestNG-tests-2:49 - Entered username: Adminn
+2024-12-13 19:27:11 [TestNG-tests-2] INFO  TestNG-tests-2:49 - Entered password: admin123
+2024-12-13 19:27:11 [TestNG-tests-1] INFO  TestListener:27 - Test Passed: runScenario
+2024-12-13 19:27:12 [TestNG-tests-1] INFO  TestListener:21 - Test Started: runScenario
+2024-12-13 19:27:12 [TestNG-tests-2] INFO  TestNG-tests-2:49 - Clicked login button
+2024-12-13 19:27:13 [TestNG-tests-2] INFO  TestListener:27 - Test Passed: runScenario
+2024-12-13 19:27:14 [TestNG-tests-3] INFO  TestNG-tests-3:49 - Entered username: Adminn
+2024-12-13 19:27:14 [TestNG-tests-3] INFO  TestNG-tests-3:49 - Entered password: admin
+2024-12-13 19:27:15 [TestNG-tests-3] INFO  TestNG-tests-3:49 - Clicked login button
+2024-12-13 19:27:15 [TestNG-tests-2] INFO  TestListener:21 - Test Started: runScenario
+2024-12-13 19:27:16 [TestNG-tests-1] INFO  TestNG-tests-1:49 - Clicked forgot password link
+2024-12-13 19:27:17 [TestNG-tests-1] INFO  TestNG-tests-1:49 - Entered username: Admin
+2024-12-13 19:27:17 [TestNG-tests-1] INFO  TestNG-tests-1:49 - Clicked login button
+2024-12-13 19:27:17 [TestNG-tests-3] INFO  TestListener:27 - Test Passed: runScenario
+2024-12-13 19:27:17 [TestNG-tests-3] INFO  TestListener:21 - Test Started: runScenario
+2024-12-13 19:27:18 [TestNG-tests-1] INFO  TestListener:27 - Test Passed: runScenario
+2024-12-13 19:27:19 [TestNG-tests-2] INFO  TestNG-tests-2:49 - Entered username: Adminn
+2024-12-13 19:27:19 [TestNG-tests-2] INFO  TestNG-tests-2:49 - Entered password: admin
+2024-12-13 19:27:19 [TestNG-tests-1] INFO  TestListener:83 - Test Context Finished: ChromeTests
+2024-12-13 19:27:20 [TestNG-tests-2] INFO  TestNG-tests-2:49 - Clicked login button
+2024-12-13 19:27:21 [TestNG-tests-3] INFO  TestNG-tests-3:49 - Clicked forgot password link
+2024-12-13 19:27:22 [TestNG-tests-2] INFO  TestListener:27 - Test Passed: runScenario
+2024-12-13 19:27:22 [TestNG-tests-3] INFO  TestNG-tests-3:49 - Entered username: Admin
+2024-12-13 19:27:22 [TestNG-tests-3] INFO  TestNG-tests-3:49 - Clicked login button
+2024-12-13 19:27:24 [TestNG-tests-2] INFO  TestListener:21 - Test Started: runScenario
+2024-12-13 19:27:25 [TestNG-tests-3] INFO  TestListener:27 - Test Passed: runScenario
+2024-12-13 19:27:26 [TestNG-tests-3] INFO  TestListener:83 - Test Context Finished: EdgeTests
+2024-12-13 19:27:29 [TestNG-tests-2] INFO  TestNG-tests-2:49 - Clicked forgot password link
+2024-12-13 19:27:29 [TestNG-tests-2] INFO  TestNG-tests-2:49 - Entered username: Admin
+2024-12-13 19:27:30 [TestNG-tests-2] INFO  TestNG-tests-2:49 - Clicked login button
+2024-12-13 19:27:31 [TestNG-tests-2] INFO  TestListener:27 - Test Passed: runScenario
+2024-12-13 19:27:32 [TestNG-tests-2] INFO  TestListener:83 - Test Context Finished: FirefoxTests

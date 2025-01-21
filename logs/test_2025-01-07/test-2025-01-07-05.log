@@ -1,0 +1,125 @@
+2025-01-07T05:20:43,768 [main] INFO  LogUtil:60 - Clearing Allure results at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.23\allure-results
+2025-01-07T05:20:43,777 [main] INFO  LogUtil:60 - Deleted Allure result file: 237afe8f-b686-40c4-878d-13eec78c93fb-attachment.txt
+2025-01-07T05:20:43,784 [main] INFO  LogUtil:60 - Test Context Started: LoginPageTest
+2025-01-07T05:20:43,785 [main] INFO  LogUtil:60 - Running tests with Browser: chrome and Environment: dev
+2025-01-07T05:20:43,787 [main] INFO  ConfigManager:60 - Loaded configuration file: src/test/resources/config/config-dev.properties
+2025-01-07T05:20:43,787 [main] INFO  LogUtil:60 - Log level set to: INFO
+2025-01-07T05:20:43,788 [main] INFO  LogUtil:60 - Driver Instance : null at TestListener : onStart
+2025-01-07T05:20:44,922 [main] INFO  LogUtil:60 - WebDriver initialized: ChromeDriver: chrome on windows (6ca956044b16e73360165bfba163fc68) at TestListener : onStart
+2025-01-07T05:20:45,280 [main] INFO  LogUtil:60 - Test Started: runScenario
+2025-01-07T05:20:45,349 [main] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (6ca956044b16e73360165bfba163fc68) at WebDriverHooks : setUp
+2025-01-07T05:20:48,158 [main] INFO  LogUtil:60 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-01-07T05:20:49,529 [main] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-07T05:20:49,865 [main] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-07T05:20:49,870 [main] INFO  LogUtil:60 - Leaving the username and password fields empty.
+2025-01-07T05:20:49,903 [main] INFO  LogUtil:60 - Entered username: 
+2025-01-07T05:20:49,946 [main] INFO  LogUtil:60 - Entered password: 
+2025-01-07T05:20:50,008 [main] INFO  LogUtil:60 - Clicked login button
+2025-01-07T05:20:50,008 [main] INFO  LogUtil:60 - Login button clicked.
+2025-01-07T05:20:50,009 [main] INFO  LogUtil:60 - Verifying error messages for blank username and password fields.
+2025-01-07T05:20:50,069 [main] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (6ca956044b16e73360165bfba163fc68) at WebDriverHooks : failedStep
+2025-01-07T05:20:50,333 [main] ERROR LogUtil:66 - Test Failed: runScenario
+2025-01-07T05:20:50,516 [main] INFO  LogUtil:60 - Screenshot saved to: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.23\allure-results\screenshots\screenshot_2025-01-07_05-20-50.png
+2025-01-07T05:20:50,516 [main] ERROR LogUtil:66 - Scenario object is null, cannot attach screenshot to Cucumber report.
+2025-01-07T05:20:50,516 [main] INFO  LogUtil:60 - Screenshot captured for TestCase: runScenario
+2025-01-07T05:20:52,438 [main] INFO  LogUtil:60 - Test Context Finished: LoginPageTest
+2025-01-07T05:20:52,438 [main] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (6ca956044b16e73360165bfba163fc68) before TestListener : onFinish
+2025-01-07T05:20:52,553 [main] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (null) after TestListener : onFinish
+2025-01-07T05:23:17,802 [main] INFO  LogUtil:60 - Clearing Allure results at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.23\allure-results
+2025-01-07T05:23:17,807 [main] INFO  LogUtil:60 - Deleted Allure result file: 136e6d83-012b-48e9-8ee6-98a5643782ab-attachment.txt
+2025-01-07T05:23:17,814 [main] INFO  LogUtil:60 - Test Context Started: LoginPageTest
+2025-01-07T05:23:17,814 [main] INFO  LogUtil:60 - Running tests with Browser: chrome and Environment: dev
+2025-01-07T05:23:17,816 [main] INFO  ConfigManager:60 - Loaded configuration file: src/test/resources/config/config-dev.properties
+2025-01-07T05:23:17,817 [main] INFO  LogUtil:60 - Log level set to: INFO
+2025-01-07T05:23:17,818 [main] INFO  LogUtil:60 - Driver Instance : null at TestListener : onStart
+2025-01-07T05:23:18,950 [main] INFO  LogUtil:60 - WebDriver initialized: ChromeDriver: chrome on windows (9a88ad1a15730bb6eb38c2572f00290a) at TestListener : onStart
+2025-01-07T05:23:19,290 [main] INFO  LogUtil:60 - Test Started: runScenario
+2025-01-07T05:23:19,392 [main] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (9a88ad1a15730bb6eb38c2572f00290a) at WebDriverHooks : setUp
+2025-01-07T05:23:22,278 [main] INFO  LogUtil:60 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-01-07T05:23:23,587 [main] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-07T05:23:23,927 [main] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-07T05:23:23,931 [main] INFO  LogUtil:60 - Leaving the username and password fields empty.
+2025-01-07T05:23:23,965 [main] INFO  LogUtil:60 - Entered username: 
+2025-01-07T05:23:24,007 [main] INFO  LogUtil:60 - Entered password: 
+2025-01-07T05:23:24,069 [main] INFO  LogUtil:60 - Clicked login button
+2025-01-07T05:23:24,069 [main] INFO  LogUtil:60 - Login button clicked.
+2025-01-07T05:23:24,071 [main] INFO  LogUtil:60 - Verifying error messages for blank username and password fields.
+2025-01-07T05:23:24,132 [main] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (9a88ad1a15730bb6eb38c2572f00290a) at WebDriverHooks : failedStep
+2025-01-07T05:23:24,381 [main] ERROR LogUtil:66 - Test Failed: runScenario
+2025-01-07T05:23:24,547 [main] INFO  LogUtil:60 - Screenshot saved to: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.23\allure-results\screenshots\screenshot_2025-01-07_05-23-24.png
+2025-01-07T05:23:24,551 [main] ERROR LogUtil:66 - Test Failed: runScenario
+2025-01-07T05:23:24,717 [main] INFO  LogUtil:60 - Screenshot saved to: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.23\allure-results\screenshots\screenshot_2025-01-07_05-23-24.png
+2025-01-07T05:23:26,451 [main] INFO  LogUtil:60 - Test Context Finished: LoginPageTest
+2025-01-07T05:23:26,452 [main] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (9a88ad1a15730bb6eb38c2572f00290a) before TestListener : onFinish
+2025-01-07T05:23:26,556 [main] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (null) after TestListener : onFinish
+2025-01-07T05:32:50,310 [main] INFO  LogUtil:60 - Clearing Allure results at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.23\allure-results
+2025-01-07T05:32:50,316 [main] INFO  LogUtil:60 - Deleted Allure result file: 553cdc1a-18f5-4f0b-b241-b60c73001cba-attachment.txt
+2025-01-07T05:32:50,324 [main] INFO  LogUtil:60 - Test Context Started: LoginPageTest
+2025-01-07T05:32:50,324 [main] INFO  LogUtil:60 - Running tests with Browser: chrome and Environment: dev
+2025-01-07T05:32:50,326 [main] INFO  ConfigManager:60 - Loaded configuration file: src/test/resources/config/config-dev.properties
+2025-01-07T05:32:50,327 [main] INFO  LogUtil:60 - Log level set to: INFO
+2025-01-07T05:32:50,328 [main] INFO  LogUtil:60 - Driver Instance : null at TestListener : onStart
+2025-01-07T05:32:52,037 [main] INFO  LogUtil:60 - WebDriver initialized: ChromeDriver: chrome on windows (a6b6b28adf5254ec3f250a01f39663e3) at TestListener : onStart
+2025-01-07T05:32:52,383 [main] INFO  LogUtil:60 - Test Started: runScenario
+2025-01-07T05:32:52,445 [main] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (a6b6b28adf5254ec3f250a01f39663e3) at WebDriverHooks : setUp
+2025-01-07T05:32:55,369 [main] INFO  LogUtil:60 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-01-07T05:32:56,724 [main] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-07T05:32:57,080 [main] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-07T05:32:57,084 [main] INFO  LogUtil:60 - Leaving the username and password fields empty.
+2025-01-07T05:32:57,119 [main] INFO  LogUtil:60 - Entered username: 
+2025-01-07T05:32:57,163 [main] INFO  LogUtil:60 - Entered password: 
+2025-01-07T05:32:57,225 [main] INFO  LogUtil:60 - Clicked login button
+2025-01-07T05:32:57,225 [main] INFO  LogUtil:60 - Login button clicked.
+2025-01-07T05:32:57,227 [main] INFO  LogUtil:60 - Verifying error messages for blank username and password fields.
+2025-01-07T05:32:57,286 [main] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (a6b6b28adf5254ec3f250a01f39663e3) at WebDriverHooks : failedStep
+2025-01-07T05:32:57,552 [main] ERROR LogUtil:66 - Test Failed: runScenario
+2025-01-07T05:32:57,724 [main] INFO  LogUtil:60 - Screenshot saved to: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.23\allure-results\screenshots\screenshot_2025-01-07_05-32-57.png
+2025-01-07T05:32:57,725 [main] ERROR LogUtil:66 - Test Failed: runScenario
+2025-01-07T05:32:57,899 [main] INFO  LogUtil:60 - Screenshot saved to: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.23\allure-results\screenshots\screenshot_2025-01-07_05-32-57.png
+2025-01-07T05:32:59,729 [main] INFO  LogUtil:60 - Test Context Finished: LoginPageTest
+2025-01-07T05:32:59,729 [main] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (a6b6b28adf5254ec3f250a01f39663e3) before TestListener : onFinish
+2025-01-07T05:32:59,840 [main] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (null) after TestListener : onFinish
+2025-01-07T05:55:13,569 [main] INFO  LogUtil:60 - Clearing Allure results at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.23\allure-results
+2025-01-07T05:55:13,574 [main] INFO  LogUtil:60 - Deleted Allure result file: 0ef0ea25-70ad-4083-b86c-282b016439ac-attachment.txt
+2025-01-07T05:55:13,575 [main] INFO  LogUtil:60 - Deleted Allure result file: 2d6854ba-4c80-471e-8d60-bcebe48d4d1f-attachment.txt
+2025-01-07T05:55:13,576 [main] INFO  LogUtil:60 - Deleted Allure result file: 460b8ed9-01ae-4c93-a4ea-9a350351518a-container.json
+2025-01-07T05:55:13,577 [main] INFO  LogUtil:60 - Deleted Allure result file: 53fc72b7-115f-4766-a42f-2c313816d52a-container.json
+2025-01-07T05:55:13,578 [main] INFO  LogUtil:60 - Deleted Allure result file: 55af9af6-84a0-4c5e-bead-cf083eb7fa4e-container.json
+2025-01-07T05:55:13,579 [main] INFO  LogUtil:60 - Deleted Allure result file: 63b74b5d-30e4-4aca-8625-f8f696961b30-attachment.txt
+2025-01-07T05:55:13,580 [main] INFO  LogUtil:60 - Deleted Allure result file: 6f11b128-d9b1-4413-8d5c-463f034e706d-attachment
+2025-01-07T05:55:13,581 [main] INFO  LogUtil:60 - Deleted Allure result file: 8199b7f6-0426-43b0-9a5e-2502d1f9b91c-attachment.txt
+2025-01-07T05:55:13,582 [main] INFO  LogUtil:60 - Deleted Allure result file: 93515303-541d-47f4-a52c-88500838a9b3-container.json
+2025-01-07T05:55:13,583 [main] INFO  LogUtil:60 - Deleted Allure result file: 9f129307-b3c6-4ba3-aef9-e3665a3dabdb-attachment.txt
+2025-01-07T05:55:13,584 [main] INFO  LogUtil:60 - Deleted Allure result file: aa778641-d383-43c6-8566-6eb8df128cbf-attachment.txt
+2025-01-07T05:55:13,584 [main] INFO  LogUtil:60 - Deleted Allure result file: b34f876c-7d46-44bd-91f6-5b4f7050e75e-result.json
+2025-01-07T05:55:13,585 [main] INFO  LogUtil:60 - Deleted Allure result file: c247bbe3-d0c1-43c9-8110-65df9cb31f2b-container.json
+2025-01-07T05:55:13,586 [main] INFO  LogUtil:60 - Deleted Allure result file: ded4246c-58b9-415c-acf1-22edfc5d49f4-attachment.txt
+2025-01-07T05:55:13,587 [main] INFO  LogUtil:60 - Deleted Allure result file: e5c89b93-fddb-4b8f-9753-8454c9d0cf28-attachment.txt
+2025-01-07T05:55:13,588 [main] INFO  LogUtil:60 - Deleted Allure result file: f99d0412-3c7b-4d0f-b10e-f99e5f103d1c-container.json
+2025-01-07T05:55:13,589 [main] INFO  LogUtil:60 - Deleted Allure result file: fcd1fc7c-1415-470e-89dc-b89db0ebd92b-attachment.txt
+2025-01-07T05:55:13,590 [main] INFO  LogUtil:60 - Deleted Allure result file: fd1799b8-a496-4df8-89f0-24c6a7053e07-attachment.txt
+2025-01-07T05:55:13,597 [main] INFO  LogUtil:60 - Test Context Started: LoginPageTest
+2025-01-07T05:55:13,597 [main] INFO  LogUtil:60 - Running tests with Browser: chrome and Environment: dev
+2025-01-07T05:55:13,599 [main] INFO  ConfigManager:60 - Loaded configuration file: src/test/resources/config/config-dev.properties
+2025-01-07T05:55:13,600 [main] INFO  LogUtil:60 - Log level set to: INFO
+2025-01-07T05:55:13,601 [main] INFO  LogUtil:60 - Driver Instance : null at TestListener : onStart
+2025-01-07T05:55:14,736 [main] INFO  LogUtil:60 - WebDriver initialized: ChromeDriver: chrome on windows (8e2755a6db3b30eadfccd2fd6f7a8900) at TestListener : onStart
+2025-01-07T05:55:15,106 [main] INFO  LogUtil:60 - Test Started: runScenario
+2025-01-07T05:55:15,176 [main] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (8e2755a6db3b30eadfccd2fd6f7a8900) at WebDriverHooks : setUp
+2025-01-07T05:55:18,022 [main] INFO  LogUtil:60 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-01-07T05:55:19,390 [main] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-07T05:55:19,735 [main] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-07T05:55:19,740 [main] INFO  LogUtil:60 - Leaving the username and password fields empty.
+2025-01-07T05:55:19,777 [main] INFO  LogUtil:60 - Entered username: 
+2025-01-07T05:55:19,821 [main] INFO  LogUtil:60 - Entered password: 
+2025-01-07T05:55:19,884 [main] INFO  LogUtil:60 - Clicked login button
+2025-01-07T05:55:19,884 [main] INFO  LogUtil:60 - Login button clicked.
+2025-01-07T05:55:19,885 [main] INFO  LogUtil:60 - Verifying error messages for blank username and password fields.
+2025-01-07T05:55:19,944 [main] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (8e2755a6db3b30eadfccd2fd6f7a8900) at WebDriverHooks : failedStep
+2025-01-07T05:55:20,196 [main] ERROR LogUtil:66 - Test Failed: runScenario
+2025-01-07T05:55:20,385 [main] INFO  LogUtil:60 - Screenshot saved to: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.23\allure-results\screenshots\screenshot_2025-01-07_05-55-20.png
+2025-01-07T05:55:20,385 [main] ERROR LogUtil:66 - Scenario object is null, cannot attach screenshot to Cucumber report.
+2025-01-07T05:55:20,385 [main] INFO  LogUtil:60 - Screenshot captured for TestCase: runScenario
+2025-01-07T05:55:22,245 [main] INFO  LogUtil:60 - Test Context Finished: LoginPageTest
+2025-01-07T05:55:22,246 [main] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (8e2755a6db3b30eadfccd2fd6f7a8900) before TestListener : onFinish
+2025-01-07T05:55:22,355 [main] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (null) after TestListener : onFinish

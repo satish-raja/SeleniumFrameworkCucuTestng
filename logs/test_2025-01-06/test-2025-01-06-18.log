@@ -1,0 +1,1615 @@
+2025-01-06T18:18:37,732 [main] INFO  LogUtil:60 - Clearing Allure results at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.23\allure-results
+2025-01-06T18:18:37,740 [main] INFO  LogUtil:60 - Deleted Allure result file: 005b7191-b0d5-4ba5-8edb-511e8b9441fb-attachment.txt
+2025-01-06T18:18:37,741 [main] INFO  LogUtil:60 - Deleted Allure result file: 0889b67d-2def-4719-9d7f-4a9675b378a4-container.json
+2025-01-06T18:18:37,742 [main] INFO  LogUtil:60 - Deleted Allure result file: 0944c602-3785-47ea-914a-9709a92b46f8-attachment.txt
+2025-01-06T18:18:37,743 [main] INFO  LogUtil:60 - Deleted Allure result file: 0b12a71f-dd37-42c5-8f47-05265f26e3df-attachment.txt
+2025-01-06T18:18:37,744 [main] INFO  LogUtil:60 - Deleted Allure result file: 0b72156c-81a0-496b-a8cb-242a2e8ffef0-attachment.txt
+2025-01-06T18:18:37,746 [main] INFO  LogUtil:60 - Deleted Allure result file: 0e0b87c3-b94d-41c7-803a-1340c3d52a4d-attachment.txt
+2025-01-06T18:18:37,747 [main] INFO  LogUtil:60 - Deleted Allure result file: 0e6d095a-51b3-46d7-b007-32d20ac19cdb-attachment.txt
+2025-01-06T18:18:37,747 [main] INFO  LogUtil:60 - Deleted Allure result file: 0f699bcc-8fa0-4f88-8d61-c4c949581d4f-attachment.txt
+2025-01-06T18:18:37,748 [main] INFO  LogUtil:60 - Deleted Allure result file: 111c5409-b199-4c14-87ef-21265a758bbb-attachment.txt
+2025-01-06T18:18:37,749 [main] INFO  LogUtil:60 - Deleted Allure result file: 11c6a072-e142-48a8-832b-980ab42693e3-attachment.txt
+2025-01-06T18:18:37,750 [main] INFO  LogUtil:60 - Deleted Allure result file: 129dafea-91fc-4d14-8890-540a33b543dc-attachment.txt
+2025-01-06T18:18:37,751 [main] INFO  LogUtil:60 - Deleted Allure result file: 13a0d1b6-60d3-4924-84bb-e648ef8d386b-result.json
+2025-01-06T18:18:37,752 [main] INFO  LogUtil:60 - Deleted Allure result file: 147b5127-c5bc-4bd3-8bba-2a69ba29b425-result.json
+2025-01-06T18:18:37,753 [main] INFO  LogUtil:60 - Deleted Allure result file: 15bb7556-b772-45c0-8741-8a6468b6945d-attachment.txt
+2025-01-06T18:18:37,754 [main] INFO  LogUtil:60 - Deleted Allure result file: 173ed28f-69a7-48cf-8b7e-7bdb9a1fd33b-attachment.txt
+2025-01-06T18:18:37,755 [main] INFO  LogUtil:60 - Deleted Allure result file: 18e65032-193c-4836-aa8e-aeb1f53af6c9-attachment.txt
+2025-01-06T18:18:37,756 [main] INFO  LogUtil:60 - Deleted Allure result file: 19eea693-9e12-4843-b789-9eadbb35cffd-attachment.txt
+2025-01-06T18:18:37,757 [main] INFO  LogUtil:60 - Deleted Allure result file: 1ad43704-1e7e-4719-8457-0b7960a30c37-attachment.txt
+2025-01-06T18:18:37,758 [main] INFO  LogUtil:60 - Deleted Allure result file: 1be0c430-7ab8-441a-9373-72f8d9229d3b-attachment.txt
+2025-01-06T18:18:37,759 [main] INFO  LogUtil:60 - Deleted Allure result file: 1c7a3fac-940c-4c2e-8c4e-aac710411528-attachment.txt
+2025-01-06T18:18:37,760 [main] INFO  LogUtil:60 - Deleted Allure result file: 1cbdb81b-2f2a-4b83-8607-30a10731f4fb-attachment.txt
+2025-01-06T18:18:37,761 [main] INFO  LogUtil:60 - Deleted Allure result file: 1ce03a8e-a298-4c97-944e-c9678d06de7f-attachment.txt
+2025-01-06T18:18:37,762 [main] INFO  LogUtil:60 - Deleted Allure result file: 1fced4dc-be33-4ed0-80d5-0b1f537fed9a-attachment.txt
+2025-01-06T18:18:37,763 [main] INFO  LogUtil:60 - Deleted Allure result file: 20a2f36f-bfe9-4cf2-aa4f-767a1bbe5146-attachment.txt
+2025-01-06T18:18:37,764 [main] INFO  LogUtil:60 - Deleted Allure result file: 22441168-6c2f-4013-8e26-617ea1545cb1-attachment.txt
+2025-01-06T18:18:37,764 [main] INFO  LogUtil:60 - Deleted Allure result file: 2259dfe4-dafa-46d8-8dbd-a4071f5bdce2-attachment.txt
+2025-01-06T18:18:37,765 [main] INFO  LogUtil:60 - Deleted Allure result file: 244dd08f-1a73-423a-bd47-48e3a5069d16-attachment.txt
+2025-01-06T18:18:37,766 [main] INFO  LogUtil:60 - Deleted Allure result file: 2481a67e-1d88-4da8-869e-32e3660ec233-attachment.txt
+2025-01-06T18:18:37,767 [main] INFO  LogUtil:60 - Deleted Allure result file: 250d9160-4fbd-4a77-8b2c-3bcaf96dfee8-attachment.txt
+2025-01-06T18:18:37,768 [main] INFO  LogUtil:60 - Deleted Allure result file: 25c8f29f-69e1-4628-838d-44a508c06ed7-attachment.txt
+2025-01-06T18:18:37,768 [main] INFO  LogUtil:60 - Deleted Allure result file: 275f7c53-4665-497c-b9f0-6839152695c1-attachment.txt
+2025-01-06T18:18:37,769 [main] INFO  LogUtil:60 - Deleted Allure result file: 27cea50b-dfb8-4395-82c8-a60c9b204aef-attachment.txt
+2025-01-06T18:18:37,770 [main] INFO  LogUtil:60 - Deleted Allure result file: 2b60d8c7-4212-4df3-b82e-91c084e7f1b4-attachment.txt
+2025-01-06T18:18:37,771 [main] INFO  LogUtil:60 - Deleted Allure result file: 2c1281fe-d4c7-4221-83ce-a15b841cad97-container.json
+2025-01-06T18:18:37,772 [main] INFO  LogUtil:60 - Deleted Allure result file: 2c2c8c2b-d073-4c69-b1d6-342e9e52bb9f-attachment.txt
+2025-01-06T18:18:37,773 [main] INFO  LogUtil:60 - Deleted Allure result file: 2e1f4b64-7148-4337-9861-038d88e3ed42-attachment.txt
+2025-01-06T18:18:37,774 [main] INFO  LogUtil:60 - Deleted Allure result file: 2e50f468-b677-4f90-8537-1082d898cf8b-attachment.txt
+2025-01-06T18:18:37,775 [main] INFO  LogUtil:60 - Deleted Allure result file: 2fb8b8e1-7ab9-4e9b-91a1-140b8015c07d-attachment.txt
+2025-01-06T18:18:37,776 [main] INFO  LogUtil:60 - Deleted Allure result file: 30ad5081-845c-4391-9f52-91c65feea471-attachment.txt
+2025-01-06T18:18:37,777 [main] INFO  LogUtil:60 - Deleted Allure result file: 31121b03-c6f6-4a95-ba16-ace1b75d0cf4-attachment.txt
+2025-01-06T18:18:37,778 [main] INFO  LogUtil:60 - Deleted Allure result file: 344c1c69-c921-4afd-9c3c-0c0c2c440085-attachment.txt
+2025-01-06T18:18:37,779 [main] INFO  LogUtil:60 - Deleted Allure result file: 353944e6-0e24-482f-bb97-f9c31b4fa39b-attachment.txt
+2025-01-06T18:18:37,779 [main] INFO  LogUtil:60 - Deleted Allure result file: 35485e40-280c-44d2-8f62-ccfddf69da2b-attachment.txt
+2025-01-06T18:18:37,780 [main] INFO  LogUtil:60 - Deleted Allure result file: 35b06d65-e704-4c9e-bf75-307a550b95a7-attachment.txt
+2025-01-06T18:18:37,781 [main] INFO  LogUtil:60 - Deleted Allure result file: 35e491c3-76b9-48a1-beaf-6842c43d882f-container.json
+2025-01-06T18:18:37,782 [main] INFO  LogUtil:60 - Deleted Allure result file: 369813d9-53ff-467a-925f-26ae2ea1f616-attachment.txt
+2025-01-06T18:18:37,783 [main] INFO  LogUtil:60 - Deleted Allure result file: 36c5ae5f-de51-458b-9c18-81e9f4780239-attachment.txt
+2025-01-06T18:18:37,783 [main] INFO  LogUtil:60 - Deleted Allure result file: 37ccd84f-0499-4e87-8442-e8c88b93ed8d-attachment.txt
+2025-01-06T18:18:37,784 [main] INFO  LogUtil:60 - Deleted Allure result file: 3969cd3e-9226-4a0e-a6f6-0f01bba6f14a-attachment.txt
+2025-01-06T18:18:37,785 [main] INFO  LogUtil:60 - Deleted Allure result file: 397c0765-0c4b-464f-848b-75bcdae352c9-attachment.txt
+2025-01-06T18:18:37,786 [main] INFO  LogUtil:60 - Deleted Allure result file: 3af4ee87-a88e-422d-93a0-d1527719a29e-attachment.txt
+2025-01-06T18:18:37,787 [main] INFO  LogUtil:60 - Deleted Allure result file: 3c2cdb86-9d14-4579-9fbb-dcf62809be87-attachment.txt
+2025-01-06T18:18:37,788 [main] INFO  LogUtil:60 - Deleted Allure result file: 3d2ba3a5-ad88-4904-b590-6ee72ab78da4-attachment.txt
+2025-01-06T18:18:37,789 [main] INFO  LogUtil:60 - Deleted Allure result file: 3d523b9c-0212-4ae3-ad0b-d69f3da96acc-attachment.txt
+2025-01-06T18:18:37,790 [main] INFO  LogUtil:60 - Deleted Allure result file: 3db3a485-7930-49bb-9f2d-dbe2cb183ca0-result.json
+2025-01-06T18:18:37,791 [main] INFO  LogUtil:60 - Deleted Allure result file: 3ef8c927-95ff-4ca7-bf66-8c54f18215b1-attachment.txt
+2025-01-06T18:18:37,791 [main] INFO  LogUtil:60 - Deleted Allure result file: 423f4252-c3c5-48d2-aaef-1ecdcb41a2f4-attachment.txt
+2025-01-06T18:18:37,792 [main] INFO  LogUtil:60 - Deleted Allure result file: 447d56da-f191-499b-be0c-9ceeac52e3cb-attachment.txt
+2025-01-06T18:18:37,793 [main] INFO  LogUtil:60 - Deleted Allure result file: 462f2dcb-a544-423b-a932-b52bf6c14c5e-attachment.txt
+2025-01-06T18:18:37,794 [main] INFO  LogUtil:60 - Deleted Allure result file: 47390d43-4aac-4871-b6d2-65173dcc40a8-attachment.txt
+2025-01-06T18:18:37,795 [main] INFO  LogUtil:60 - Deleted Allure result file: 4b4ca2f8-a611-43ce-a7b8-fea4c7979535-attachment.txt
+2025-01-06T18:18:37,795 [main] INFO  LogUtil:60 - Deleted Allure result file: 4b932a54-cbe0-42c7-9c6b-0e8492c5efb0-attachment.txt
+2025-01-06T18:18:37,796 [main] INFO  LogUtil:60 - Deleted Allure result file: 50a3ba48-fda1-45fb-bf90-e81992a6b696-result.json
+2025-01-06T18:18:37,797 [main] INFO  LogUtil:60 - Deleted Allure result file: 51d1d492-063d-4e16-af39-1c632382470f-attachment.txt
+2025-01-06T18:18:37,798 [main] INFO  LogUtil:60 - Deleted Allure result file: 57a0b66f-e7ef-48c5-ab00-869d678d6f81-attachment.txt
+2025-01-06T18:18:37,799 [main] INFO  LogUtil:60 - Deleted Allure result file: 57b61147-0343-49e1-9c12-6704963268a2-attachment.txt
+2025-01-06T18:18:37,800 [main] INFO  LogUtil:60 - Deleted Allure result file: 5860bba1-c2a0-4128-aeae-dc813436f908-attachment.txt
+2025-01-06T18:18:37,800 [main] INFO  LogUtil:60 - Deleted Allure result file: 5a99588f-d543-4e5b-8eb1-aa3ef150f3be-attachment.txt
+2025-01-06T18:18:37,801 [main] INFO  LogUtil:60 - Deleted Allure result file: 5acab12e-843f-42e4-a3ee-c40a002ec072-attachment.txt
+2025-01-06T18:18:37,802 [main] INFO  LogUtil:60 - Deleted Allure result file: 5b172ca6-d329-449d-8629-f3a06b17207c-attachment.txt
+2025-01-06T18:18:37,803 [main] INFO  LogUtil:60 - Deleted Allure result file: 5c2e8d01-111a-4f90-a25c-17e4e532b313-attachment.txt
+2025-01-06T18:18:37,803 [main] INFO  LogUtil:60 - Deleted Allure result file: 5c9e11d1-9fed-439f-ab01-2cfc3f0e6839-attachment.txt
+2025-01-06T18:18:37,804 [main] INFO  LogUtil:60 - Deleted Allure result file: 5d45a0df-07c4-4afa-883f-b9945c0569ab-attachment.txt
+2025-01-06T18:18:37,805 [main] INFO  LogUtil:60 - Deleted Allure result file: 5d4d9ab3-f6a6-4501-9d68-f741d80c9216-attachment.txt
+2025-01-06T18:18:37,806 [main] INFO  LogUtil:60 - Deleted Allure result file: 5d9a40cb-c1da-44ab-af1e-1b568a8d9fbc-attachment.txt
+2025-01-06T18:18:37,806 [main] INFO  LogUtil:60 - Deleted Allure result file: 5defa9d8-c940-487b-b89e-9d8e87efb313-attachment.txt
+2025-01-06T18:18:37,807 [main] INFO  LogUtil:60 - Deleted Allure result file: 60158e23-6154-4aac-bd82-19d5a5317e40-attachment.txt
+2025-01-06T18:18:37,808 [main] INFO  LogUtil:60 - Deleted Allure result file: 60243f92-e875-4b7d-a3b9-15e0afd5cc9b-attachment.txt
+2025-01-06T18:18:37,808 [main] INFO  LogUtil:60 - Deleted Allure result file: 624a6529-2057-4c37-b58c-d6671c5baa7f-attachment.txt
+2025-01-06T18:18:37,809 [main] INFO  LogUtil:60 - Deleted Allure result file: 62a15aae-c0c9-447c-a7fe-471605e476e1-attachment.txt
+2025-01-06T18:18:37,810 [main] INFO  LogUtil:60 - Deleted Allure result file: 654cd32b-2d0b-4ebb-9a04-897ee32c52b2-attachment.txt
+2025-01-06T18:18:37,811 [main] INFO  LogUtil:60 - Deleted Allure result file: 681c19dc-abab-48d7-adf0-0362fd798ced-result.json
+2025-01-06T18:18:37,811 [main] INFO  LogUtil:60 - Deleted Allure result file: 6905d1ff-35b4-4fec-b7a2-b2b9c078adab-attachment.txt
+2025-01-06T18:18:37,812 [main] INFO  LogUtil:60 - Deleted Allure result file: 6a2ee212-b81d-47ba-9f1f-5c7baa84f183-attachment.txt
+2025-01-06T18:18:37,813 [main] INFO  LogUtil:60 - Deleted Allure result file: 6caec6d2-bb23-404a-a3a1-25a39ea85dfb-attachment.txt
+2025-01-06T18:18:37,814 [main] INFO  LogUtil:60 - Deleted Allure result file: 6d61beb9-3206-4582-a65b-328ae016bb4e-attachment.txt
+2025-01-06T18:18:37,814 [main] INFO  LogUtil:60 - Deleted Allure result file: 6e70e91c-9806-4515-a905-767f14a6962c-attachment.txt
+2025-01-06T18:18:37,815 [main] INFO  LogUtil:60 - Deleted Allure result file: 6fbe487c-7694-4f99-9c33-75d2b344752e-attachment.txt
+2025-01-06T18:18:37,816 [main] INFO  LogUtil:60 - Deleted Allure result file: 6fd9dce0-d496-4d96-8137-2c363a9df179-attachment.txt
+2025-01-06T18:18:37,817 [main] INFO  LogUtil:60 - Deleted Allure result file: 71432af4-9d2d-4a3c-9614-12b36152c46f-attachment.txt
+2025-01-06T18:18:37,817 [main] INFO  LogUtil:60 - Deleted Allure result file: 7200e191-8477-4ce7-8aec-2620ee5c31a0-attachment.txt
+2025-01-06T18:18:37,818 [main] INFO  LogUtil:60 - Deleted Allure result file: 73fa7446-f114-480a-818e-37e6413c9b28-attachment.txt
+2025-01-06T18:18:37,819 [main] INFO  LogUtil:60 - Deleted Allure result file: 75965348-6a7a-438e-b8a6-0b53dba6b58d-container.json
+2025-01-06T18:18:37,819 [main] INFO  LogUtil:60 - Deleted Allure result file: 75fc4e41-8a31-445a-a98f-bd37b906abf7-attachment.txt
+2025-01-06T18:18:37,820 [main] INFO  LogUtil:60 - Deleted Allure result file: 764fa0d4-dfa2-4269-810e-0fc197c011d7-container.json
+2025-01-06T18:18:37,821 [main] INFO  LogUtil:60 - Deleted Allure result file: 7729e2da-9bdc-450d-b000-222123a66115-attachment.txt
+2025-01-06T18:18:37,821 [main] INFO  LogUtil:60 - Deleted Allure result file: 77d2e3bc-e1aa-4133-8194-2de197a6d5ee-attachment.txt
+2025-01-06T18:18:37,822 [main] INFO  LogUtil:60 - Deleted Allure result file: 796e723f-7616-4b1c-9d9d-91e07e289336-attachment.txt
+2025-01-06T18:18:37,823 [main] INFO  LogUtil:60 - Deleted Allure result file: 7a4532bc-1ad7-470f-929b-9ee618f2ef94-attachment.txt
+2025-01-06T18:18:37,823 [main] INFO  LogUtil:60 - Deleted Allure result file: 7bb57b30-d523-4cb8-a684-40be2c9911d5-attachment.txt
+2025-01-06T18:18:37,824 [main] INFO  LogUtil:60 - Deleted Allure result file: 7c9dceb5-f180-4ebe-ad16-2b6c6d4380fb-attachment.txt
+2025-01-06T18:18:37,825 [main] INFO  LogUtil:60 - Deleted Allure result file: 7d7fc780-7f3b-4e2b-808b-0d1c73ee74ef-attachment.txt
+2025-01-06T18:18:37,825 [main] INFO  LogUtil:60 - Deleted Allure result file: 7f76c884-1a6f-447b-a4ba-3c88d67f5fb2-attachment.txt
+2025-01-06T18:18:37,826 [main] INFO  LogUtil:60 - Deleted Allure result file: 818fc070-1187-494a-91b9-59431e8cd9c0-attachment.txt
+2025-01-06T18:18:37,827 [main] INFO  LogUtil:60 - Deleted Allure result file: 81fe5366-e120-4585-9a63-6d336102035f-container.json
+2025-01-06T18:18:37,827 [main] INFO  LogUtil:60 - Deleted Allure result file: 8395de62-a489-44df-b3a1-8f377e0eb263-attachment.txt
+2025-01-06T18:18:37,828 [main] INFO  LogUtil:60 - Deleted Allure result file: 84d005f7-ccd5-45a7-bc03-de82814ca65a-attachment.txt
+2025-01-06T18:18:37,829 [main] INFO  LogUtil:60 - Deleted Allure result file: 857e1c04-e59a-47d2-875b-6878b88531fd-container.json
+2025-01-06T18:18:37,830 [main] INFO  LogUtil:60 - Deleted Allure result file: 86e91530-dc98-4ba8-89be-0ceda8f44d1d-attachment.txt
+2025-01-06T18:18:37,830 [main] INFO  LogUtil:60 - Deleted Allure result file: 88955744-ce00-403f-adc7-03e25d81a949-attachment.txt
+2025-01-06T18:18:37,831 [main] INFO  LogUtil:60 - Deleted Allure result file: 8c21f0bd-8969-47ac-8da0-81d902580f0a-attachment.txt
+2025-01-06T18:18:37,832 [main] INFO  LogUtil:60 - Deleted Allure result file: 8d830413-1836-4d14-b5bd-335aafa13074-attachment.txt
+2025-01-06T18:18:37,832 [main] INFO  LogUtil:60 - Deleted Allure result file: 8dae8787-1b35-433d-9000-c3933724f24f-attachment.txt
+2025-01-06T18:18:37,833 [main] INFO  LogUtil:60 - Deleted Allure result file: 8e1035e5-7c0f-41f0-93fa-50b7341b312e-attachment.txt
+2025-01-06T18:18:37,834 [main] INFO  LogUtil:60 - Deleted Allure result file: 8e7162c9-5ad9-4f95-824d-780e90b9baa9-attachment.txt
+2025-01-06T18:18:37,834 [main] INFO  LogUtil:60 - Deleted Allure result file: 8efcf249-0f00-4e73-9549-429a3f887388-attachment.txt
+2025-01-06T18:18:37,835 [main] INFO  LogUtil:60 - Deleted Allure result file: 8f831403-b983-4576-8137-758a1bf54d64-attachment.txt
+2025-01-06T18:18:37,836 [main] INFO  LogUtil:60 - Deleted Allure result file: 90d18154-b91d-4a09-8a08-6b92f88d4c5e-attachment.txt
+2025-01-06T18:18:37,837 [main] INFO  LogUtil:60 - Deleted Allure result file: 91b63829-53f8-452d-9541-8d8b524a03e2-attachment.txt
+2025-01-06T18:18:37,838 [main] INFO  LogUtil:60 - Deleted Allure result file: 91da64ce-a0eb-40fc-baea-7f99ad802e1d-attachment.txt
+2025-01-06T18:18:37,838 [main] INFO  LogUtil:60 - Deleted Allure result file: 9214e676-f646-4b98-865e-1a9b9589a6d0-attachment.txt
+2025-01-06T18:18:37,839 [main] INFO  LogUtil:60 - Deleted Allure result file: 93661da3-6897-4154-b0ac-0fa06241a940-attachment.txt
+2025-01-06T18:18:37,840 [main] INFO  LogUtil:60 - Deleted Allure result file: 961b8ba5-fc58-4242-8517-3732767fd5b5-attachment.txt
+2025-01-06T18:18:37,840 [main] INFO  LogUtil:60 - Deleted Allure result file: 962a0324-9140-4a9f-88df-dfc82595f94f-attachment.txt
+2025-01-06T18:18:37,841 [main] INFO  LogUtil:60 - Deleted Allure result file: 98203194-2d34-4bfd-bcaf-f6fb5b4b835e-attachment.txt
+2025-01-06T18:18:37,842 [main] INFO  LogUtil:60 - Deleted Allure result file: 98b85b2d-37df-4e3e-9c8c-d4976bcb64c9-attachment.txt
+2025-01-06T18:18:37,843 [main] INFO  LogUtil:60 - Deleted Allure result file: 98cd39f1-92c0-49ff-81cc-40e1d6f58789-attachment.txt
+2025-01-06T18:18:37,845 [main] INFO  LogUtil:60 - Deleted Allure result file: 996fce45-7909-4ae7-953a-80544f8f29da-attachment.txt
+2025-01-06T18:18:37,846 [main] INFO  LogUtil:60 - Deleted Allure result file: 9affc764-45fc-4972-86ed-9bfaf38c6333-attachment.txt
+2025-01-06T18:18:37,847 [main] INFO  LogUtil:60 - Deleted Allure result file: 9b97fec1-b70e-47f9-a5aa-deacef84c389-attachment.txt
+2025-01-06T18:18:37,847 [main] INFO  LogUtil:60 - Deleted Allure result file: 9c0000ec-03ec-4f2b-a0c8-daa16751336b-container.json
+2025-01-06T18:18:37,848 [main] INFO  LogUtil:60 - Deleted Allure result file: 9c401b7f-b938-4471-8c49-e75626f222f9-container.json
+2025-01-06T18:18:37,849 [main] INFO  LogUtil:60 - Deleted Allure result file: a0b0f2c4-bf26-44aa-bb3a-165055099ce0-attachment.txt
+2025-01-06T18:18:37,850 [main] INFO  LogUtil:60 - Deleted Allure result file: a0eec98c-fec8-4da5-908f-fa95ba570678-attachment.txt
+2025-01-06T18:18:37,850 [main] INFO  LogUtil:60 - Deleted Allure result file: a209ef4d-c2a4-42aa-be46-7050dd7d48e5-attachment.txt
+2025-01-06T18:18:37,851 [main] INFO  LogUtil:60 - Deleted Allure result file: a240c8ff-2e3a-4aa5-ac11-af039ce1f799-attachment.txt
+2025-01-06T18:18:37,852 [main] INFO  LogUtil:60 - Deleted Allure result file: a2503d57-49e3-4fb0-8505-a2bcecb1b249-attachment.txt
+2025-01-06T18:18:37,853 [main] INFO  LogUtil:60 - Deleted Allure result file: a2ced52b-d088-446c-9df6-6fcbfdbe7140-attachment.txt
+2025-01-06T18:18:37,853 [main] INFO  LogUtil:60 - Deleted Allure result file: a30d4769-c53c-4740-a0ec-41e9ebe58806-attachment.txt
+2025-01-06T18:18:37,854 [main] INFO  LogUtil:60 - Deleted Allure result file: a43c1496-2075-462f-8ae6-43cf44f2b11b-attachment.txt
+2025-01-06T18:18:37,855 [main] INFO  LogUtil:60 - Deleted Allure result file: a43c7295-fcf8-41f2-b0f0-b3919c6f6dad-attachment.txt
+2025-01-06T18:18:37,855 [main] INFO  LogUtil:60 - Deleted Allure result file: a859bac6-8d4e-487c-a0cc-5db0a4a361ac-attachment.txt
+2025-01-06T18:18:37,856 [main] INFO  LogUtil:60 - Deleted Allure result file: a85a906a-571e-4e89-9783-613448cb48ce-attachment.txt
+2025-01-06T18:18:37,857 [main] INFO  LogUtil:60 - Deleted Allure result file: a86bc8fb-5c87-41c4-8dd5-72558ee3fe4a-attachment.txt
+2025-01-06T18:18:37,857 [main] INFO  LogUtil:60 - Deleted Allure result file: aa8c8f79-b1e9-4743-b9ea-5c80feff30ad-attachment.txt
+2025-01-06T18:18:37,858 [main] INFO  LogUtil:60 - Deleted Allure result file: ab3e6eaa-52fc-45b9-af57-6fd1852de67d-container.json
+2025-01-06T18:18:37,859 [main] INFO  LogUtil:60 - Deleted Allure result file: ab915d17-e230-4401-af67-5144bd924c91-attachment.txt
+2025-01-06T18:18:37,859 [main] INFO  LogUtil:60 - Deleted Allure result file: ac6dd229-b488-4c58-b942-e977b849bab9-attachment.txt
+2025-01-06T18:18:37,860 [main] INFO  LogUtil:60 - Deleted Allure result file: ad60f796-8264-44c6-be7f-5d178ce96a60-attachment.txt
+2025-01-06T18:18:37,861 [main] INFO  LogUtil:60 - Deleted Allure result file: aee843ed-b2c6-45e5-9c76-6c8fbad481d2-attachment.txt
+2025-01-06T18:18:37,861 [main] INFO  LogUtil:60 - Deleted Allure result file: af1fc72f-4c09-487c-b301-bb1d30d738da-container.json
+2025-01-06T18:18:37,862 [main] INFO  LogUtil:60 - Deleted Allure result file: afa656fe-77fb-482a-ab60-849ab3c9dc56-attachment.txt
+2025-01-06T18:18:37,863 [main] INFO  LogUtil:60 - Deleted Allure result file: b00fdbf7-e47b-4268-952b-9a0944e76eab-result.json
+2025-01-06T18:18:37,863 [main] INFO  LogUtil:60 - Deleted Allure result file: b0e3e708-c36a-4a45-90c0-c2bb2aad5b18-attachment.txt
+2025-01-06T18:18:37,864 [main] INFO  LogUtil:60 - Deleted Allure result file: b19902ba-fab6-480d-a8f1-7ed233b9f529-attachment.txt
+2025-01-06T18:18:37,865 [main] INFO  LogUtil:60 - Deleted Allure result file: b1c429da-2570-48a2-a4ad-5b4713cec363-attachment.txt
+2025-01-06T18:18:37,865 [main] INFO  LogUtil:60 - Deleted Allure result file: b3674607-54e1-484e-ba15-c6cacba879dd-container.json
+2025-01-06T18:18:37,866 [main] INFO  LogUtil:60 - Deleted Allure result file: b3ce5e9d-af78-4096-a134-51eb932d8d88-attachment.txt
+2025-01-06T18:18:37,867 [main] INFO  LogUtil:60 - Deleted Allure result file: b5e97589-1432-4c6c-bcf6-de9fb0c6c0dd-attachment.txt
+2025-01-06T18:18:37,867 [main] INFO  LogUtil:60 - Deleted Allure result file: b7395a70-7698-45de-b3f3-679b87f60f72-attachment.txt
+2025-01-06T18:18:37,868 [main] INFO  LogUtil:60 - Deleted Allure result file: b987f987-3c36-4d13-ac03-905b365bb882-attachment.txt
+2025-01-06T18:18:37,869 [main] INFO  LogUtil:60 - Deleted Allure result file: ba3673a5-4e0f-42eb-afd5-1d46f18293bc-attachment.txt
+2025-01-06T18:18:37,870 [main] INFO  LogUtil:60 - Deleted Allure result file: bb8dbb2d-8a56-45a1-b4e5-7368c65b18ec-attachment.txt
+2025-01-06T18:18:37,870 [main] INFO  LogUtil:60 - Deleted Allure result file: c30f12c9-67f3-4d35-87f4-6fd226ce21a9-attachment.txt
+2025-01-06T18:18:37,871 [main] INFO  LogUtil:60 - Deleted Allure result file: c37c70d5-2f07-4460-8a34-442aed122f24-attachment.txt
+2025-01-06T18:18:37,872 [main] INFO  LogUtil:60 - Deleted Allure result file: c4be70da-e150-4803-afe0-abb4d0540fc2-attachment.txt
+2025-01-06T18:18:37,872 [main] INFO  LogUtil:60 - Deleted Allure result file: c782a5d6-462a-421c-bc40-4a508f5dba2d-attachment.txt
+2025-01-06T18:18:37,873 [main] INFO  LogUtil:60 - Deleted Allure result file: c7c20759-cc02-49e7-b531-c31ba7795f2b-attachment.txt
+2025-01-06T18:18:37,874 [main] INFO  LogUtil:60 - Deleted Allure result file: c99ebee4-82fa-4531-bb61-903da7782275-attachment.txt
+2025-01-06T18:18:37,874 [main] INFO  LogUtil:60 - Deleted Allure result file: cc0dd48e-2442-49ed-b009-e2de05ce47db-attachment.txt
+2025-01-06T18:18:37,875 [main] INFO  LogUtil:60 - Deleted Allure result file: ce45c9fc-abbc-4ec2-ac83-569d0e39758a-attachment.txt
+2025-01-06T18:18:37,876 [main] INFO  LogUtil:60 - Deleted Allure result file: ceaa95d3-e9eb-481b-bd66-415321ad0552-attachment.txt
+2025-01-06T18:18:37,876 [main] INFO  LogUtil:60 - Deleted Allure result file: cfd8c0c4-6ea5-43a2-896a-e1fe9491daee-attachment.txt
+2025-01-06T18:18:37,877 [main] INFO  LogUtil:60 - Deleted Allure result file: d01cabab-a2a8-4bac-b977-a2b890086209-container.json
+2025-01-06T18:18:37,878 [main] INFO  LogUtil:60 - Deleted Allure result file: d0904b9a-c58c-4dd3-83bb-0f18f085df8a-attachment.txt
+2025-01-06T18:18:37,878 [main] INFO  LogUtil:60 - Deleted Allure result file: d1f6af8a-e24d-4678-852f-c605401c16aa-attachment.txt
+2025-01-06T18:18:37,879 [main] INFO  LogUtil:60 - Deleted Allure result file: d2cbff7f-771e-4b8d-a881-d75ce63e5847-attachment.txt
+2025-01-06T18:18:37,880 [main] INFO  LogUtil:60 - Deleted Allure result file: d2e54146-cc1f-439e-a9d6-c170404bbbb6-attachment.txt
+2025-01-06T18:18:37,881 [main] INFO  LogUtil:60 - Deleted Allure result file: d4c7cb62-2ff1-45f8-90a7-8f544140dd42-attachment.txt
+2025-01-06T18:18:37,881 [main] INFO  LogUtil:60 - Deleted Allure result file: d7017419-a29e-4609-9dcf-7648e6352698-attachment.txt
+2025-01-06T18:18:37,882 [main] INFO  LogUtil:60 - Deleted Allure result file: d7439f72-8907-4366-8423-9e43417040cf-attachment.txt
+2025-01-06T18:18:37,883 [main] INFO  LogUtil:60 - Deleted Allure result file: d97c78c0-1126-49de-b8c8-04d8121db746-attachment.txt
+2025-01-06T18:18:37,883 [main] INFO  LogUtil:60 - Deleted Allure result file: d9bd1de2-4c4c-487d-8ad9-afc560f01b60-attachment.txt
+2025-01-06T18:18:37,884 [main] INFO  LogUtil:60 - Deleted Allure result file: d9f11307-127f-413d-83e2-6e02618e5726-attachment.txt
+2025-01-06T18:18:37,885 [main] INFO  LogUtil:60 - Deleted Allure result file: dacd631c-9cfe-4ef9-9ea6-a7b870aaa463-attachment.txt
+2025-01-06T18:18:37,885 [main] INFO  LogUtil:60 - Deleted Allure result file: db0b9711-b240-404c-ac72-9a3f65199fc8-attachment.txt
+2025-01-06T18:18:37,886 [main] INFO  LogUtil:60 - Deleted Allure result file: dca4e75a-a430-4892-ad0d-07b58d31953c-attachment.txt
+2025-01-06T18:18:37,887 [main] INFO  LogUtil:60 - Deleted Allure result file: dcd483cf-e154-48dc-831b-4fcbf7053a93-attachment.txt
+2025-01-06T18:18:37,887 [main] INFO  LogUtil:60 - Deleted Allure result file: dd6ca051-bc4a-4b3a-9dce-581c071aa2ad-attachment.txt
+2025-01-06T18:18:37,888 [main] INFO  LogUtil:60 - Deleted Allure result file: df6cc735-9771-4afb-aa07-81189048bc75-attachment.txt
+2025-01-06T18:18:37,889 [main] INFO  LogUtil:60 - Deleted Allure result file: dfb56bb6-1f7e-40be-82ca-d7857adeed1c-attachment.txt
+2025-01-06T18:18:37,890 [main] INFO  LogUtil:60 - Deleted Allure result file: e076020f-fdee-4694-b9c8-ae68c0f087cb-attachment.txt
+2025-01-06T18:18:37,890 [main] INFO  LogUtil:60 - Deleted Allure result file: e0a28191-3eca-4877-8523-166a7a5d9458-attachment.txt
+2025-01-06T18:18:37,891 [main] INFO  LogUtil:60 - Deleted Allure result file: e0cce67d-9f37-4595-9412-1d576011d9bd-attachment.txt
+2025-01-06T18:18:37,892 [main] INFO  LogUtil:60 - Deleted Allure result file: e0e78f6f-2fdf-4120-8418-91c4d8841067-attachment.txt
+2025-01-06T18:18:37,892 [main] INFO  LogUtil:60 - Deleted Allure result file: e19fa485-e397-481c-8ee6-af5cc970d21b-attachment.txt
+2025-01-06T18:18:37,893 [main] INFO  LogUtil:60 - Deleted Allure result file: e47034a1-e3d6-49c6-93b7-82578711945a-container.json
+2025-01-06T18:18:37,894 [main] INFO  LogUtil:60 - Deleted Allure result file: e50bdb71-914f-4eb2-b82b-ecebe225d813-attachment.txt
+2025-01-06T18:18:37,894 [main] INFO  LogUtil:60 - Deleted Allure result file: e57a20ad-e881-4979-9f8f-87aa379694b8-attachment.txt
+2025-01-06T18:18:37,895 [main] INFO  LogUtil:60 - Deleted Allure result file: e5c58245-ee42-4041-91ad-a5a0361c3524-attachment.txt
+2025-01-06T18:18:37,896 [main] INFO  LogUtil:60 - Deleted Allure result file: e5e2f98c-62d0-4269-a245-0c2f0d366953-attachment.txt
+2025-01-06T18:18:37,896 [main] INFO  LogUtil:60 - Deleted Allure result file: e5e64ff7-1110-4e89-8807-0fea3f660d44-attachment.txt
+2025-01-06T18:18:37,897 [main] INFO  LogUtil:60 - Deleted Allure result file: e93862ab-4a82-4eb4-a673-79bc2eb79dd8-container.json
+2025-01-06T18:18:37,898 [main] INFO  LogUtil:60 - Deleted Allure result file: e946c899-5a09-4203-9c8e-a74519ee092c-attachment.txt
+2025-01-06T18:18:37,898 [main] INFO  LogUtil:60 - Deleted Allure result file: eab6a583-09c5-424c-b942-9b6e92be1001-attachment.txt
+2025-01-06T18:18:37,899 [main] INFO  LogUtil:60 - Deleted Allure result file: eb785668-a0af-4771-9a98-7ca6f92ca2be-attachment.txt
+2025-01-06T18:18:37,900 [main] INFO  LogUtil:60 - Deleted Allure result file: ed37cfe8-a462-44e8-b963-6fc4d664090a-attachment.txt
+2025-01-06T18:18:37,900 [main] INFO  LogUtil:60 - Deleted Allure result file: ede0e79d-7395-4d29-95f5-e680ffae6476-attachment.txt
+2025-01-06T18:18:37,901 [main] INFO  LogUtil:60 - Deleted Allure result file: eedfaf1f-8a6e-414b-8bdb-b656c48c1cb3-attachment.txt
+2025-01-06T18:18:37,902 [main] INFO  LogUtil:60 - Deleted Allure result file: f06d426d-7130-47ec-b669-b45472ab7914-attachment.txt
+2025-01-06T18:18:37,902 [main] INFO  LogUtil:60 - Deleted Allure result file: f3530c9d-b83b-4acb-aa76-79152bd6e571-attachment.txt
+2025-01-06T18:18:37,903 [main] INFO  LogUtil:60 - Deleted Allure result file: f4e10f82-8bf0-405f-a667-a70ba5ab54ce-attachment.txt
+2025-01-06T18:18:37,904 [main] INFO  LogUtil:60 - Deleted Allure result file: f9aa4f08-794f-4fd6-bb4a-7b34a3314b64-attachment.txt
+2025-01-06T18:18:37,904 [main] INFO  LogUtil:60 - Deleted Allure result file: fa0f7280-2854-4612-87e2-7a71e84596ce-attachment.txt
+2025-01-06T18:18:37,905 [main] INFO  LogUtil:60 - Deleted Allure result file: fa1925c6-e29f-4840-b012-f7d441344613-attachment.txt
+2025-01-06T18:18:37,906 [main] INFO  LogUtil:60 - Deleted Allure result file: fb3745e2-6a93-426e-9d88-d07e99272db0-attachment.txt
+2025-01-06T18:18:37,906 [main] INFO  LogUtil:60 - Deleted Allure result file: fde66298-96b7-490a-a56b-9da3b399d341-attachment.txt
+2025-01-06T18:18:37,907 [main] INFO  LogUtil:60 - Deleted Allure result file: ff02bd58-1d31-4f9d-95eb-2e685a812f9c-attachment.txt
+2025-01-06T18:18:37,914 [main] INFO  LogUtil:60 - Test Context Started: LoginPageTest
+2025-01-06T18:18:37,915 [main] INFO  LogUtil:60 - Running tests with Browser: chrome and Environment: dev
+2025-01-06T18:18:37,917 [main] INFO  ConfigManager:60 - Loaded configuration file: src/test/resources/config/config-dev.properties
+2025-01-06T18:18:37,917 [main] INFO  LogUtil:60 - Log level set to: INFO
+2025-01-06T18:18:37,917 [main] INFO  LogUtil:60 - Driver Instance : null at TestListener : onStart
+2025-01-06T18:18:39,325 [main] INFO  LogUtil:60 - WebDriver initialized: ChromeDriver: chrome on windows (3b49e2ec0c9f529b990d85019057ae57)
+2025-01-06T18:18:39,650 [main] INFO  LogUtil:60 - Test Started: runScenario
+2025-01-06T18:18:39,705 [main] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (3b49e2ec0c9f529b990d85019057ae57) at WebDriverHooks : setUp
+2025-01-06T18:18:42,903 [main] INFO  LogUtil:60 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-01-06T18:18:44,274 [main] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-06T18:18:44,682 [main] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-06T18:18:44,687 [main] INFO  LogUtil:60 - Leaving the username and password fields empty.
+2025-01-06T18:18:44,723 [main] INFO  LogUtil:60 - Entered username: 
+2025-01-06T18:18:44,767 [main] INFO  LogUtil:60 - Entered password: 
+2025-01-06T18:18:44,829 [main] INFO  LogUtil:60 - Clicked login button
+2025-01-06T18:18:44,830 [main] INFO  LogUtil:60 - Login button clicked.
+2025-01-06T18:18:44,831 [main] INFO  LogUtil:60 - Verifying error messages for blank username and password fields.
+2025-01-06T18:18:44,881 [main] INFO  LogUtil:60 - Error messages validated for username and password fields.
+2025-01-06T18:18:45,001 [main] INFO  LogUtil:60 - WebDriver instance quit successfully.
+2025-01-06T18:18:45,012 [main] INFO  LogUtil:60 - Test Passed: runScenario
+2025-01-06T18:18:45,013 [main] INFO  LogUtil:60 - Test Started: runScenario
+2025-01-06T18:18:45,025 [main] INFO  LogUtil:60 - Driver Instance : null at WebDriverHooks : setUp
+2025-01-06T18:18:45,634 [main] INFO  LogUtil:60 - WebDriver initialized: ChromeDriver: chrome on windows (e23d32521c0c55bc9f7adf26cabf79a5) at WebDriverHooks : setUp
+2025-01-06T18:18:48,593 [main] INFO  LogUtil:60 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-01-06T18:18:50,028 [main] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-06T18:18:50,369 [main] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-06T18:18:50,372 [main] INFO  LogUtil:60 - Entering invalid credentials. Username: Admin, Password: admin
+2025-01-06T18:18:50,413 [main] INFO  LogUtil:60 - Entered username: Admin
+2025-01-06T18:18:50,460 [main] INFO  LogUtil:60 - Entered password: admin
+2025-01-06T18:18:50,460 [main] INFO  LogUtil:60 - Parameters - Username: Admin, Password: admin
+2025-01-06T18:18:50,518 [main] INFO  LogUtil:60 - Clicked login button
+2025-01-06T18:18:50,518 [main] INFO  LogUtil:60 - Login button clicked.
+2025-01-06T18:18:50,519 [main] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-06T18:18:52,333 [main] INFO  LogUtil:60 - WebDriver instance quit successfully.
+2025-01-06T18:18:52,337 [main] INFO  LogUtil:60 - Test Passed: runScenario
+2025-01-06T18:18:52,338 [main] INFO  LogUtil:60 - Test Started: runScenario
+2025-01-06T18:18:52,343 [main] INFO  LogUtil:60 - Driver Instance : null at WebDriverHooks : setUp
+2025-01-06T18:18:52,965 [main] INFO  LogUtil:60 - WebDriver initialized: ChromeDriver: chrome on windows (8525e0c41079a43517eba25fa806bcb3) at WebDriverHooks : setUp
+2025-01-06T18:18:55,923 [main] INFO  LogUtil:60 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-01-06T18:18:57,257 [main] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-06T18:18:57,595 [main] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-06T18:18:57,596 [main] INFO  LogUtil:60 - Entering invalid credentials. Username: Adminn, Password: admin123
+2025-01-06T18:18:57,638 [main] INFO  LogUtil:60 - Entered username: Adminn
+2025-01-06T18:18:57,687 [main] INFO  LogUtil:60 - Entered password: admin123
+2025-01-06T18:18:57,687 [main] INFO  LogUtil:60 - Parameters - Username: Adminn, Password: admin123
+2025-01-06T18:18:57,744 [main] INFO  LogUtil:60 - Clicked login button
+2025-01-06T18:18:57,744 [main] INFO  LogUtil:60 - Login button clicked.
+2025-01-06T18:18:57,746 [main] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-06T18:18:59,003 [main] INFO  LogUtil:60 - WebDriver instance quit successfully.
+2025-01-06T18:18:59,006 [main] INFO  LogUtil:60 - Test Passed: runScenario
+2025-01-06T18:18:59,007 [main] INFO  LogUtil:60 - Test Started: runScenario
+2025-01-06T18:18:59,012 [main] INFO  LogUtil:60 - Driver Instance : null at WebDriverHooks : setUp
+2025-01-06T18:18:59,640 [main] INFO  LogUtil:60 - WebDriver initialized: ChromeDriver: chrome on windows (856c7383066149559df4d661213550f5) at WebDriverHooks : setUp
+2025-01-06T18:19:02,540 [main] INFO  LogUtil:60 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-01-06T18:19:03,849 [main] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-06T18:19:04,183 [main] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-06T18:19:04,184 [main] INFO  LogUtil:60 - Entering invalid credentials. Username: Adminn, Password: admin
+2025-01-06T18:19:04,225 [main] INFO  LogUtil:60 - Entered username: Adminn
+2025-01-06T18:19:04,272 [main] INFO  LogUtil:60 - Entered password: admin
+2025-01-06T18:19:04,272 [main] INFO  LogUtil:60 - Parameters - Username: Adminn, Password: admin
+2025-01-06T18:19:04,328 [main] INFO  LogUtil:60 - Clicked login button
+2025-01-06T18:19:04,328 [main] INFO  LogUtil:60 - Login button clicked.
+2025-01-06T18:19:04,329 [main] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-06T18:19:05,584 [main] INFO  LogUtil:60 - WebDriver instance quit successfully.
+2025-01-06T18:19:05,587 [main] INFO  LogUtil:60 - Test Passed: runScenario
+2025-01-06T18:19:05,588 [main] INFO  LogUtil:60 - Test Started: runScenario
+2025-01-06T18:19:05,593 [main] INFO  LogUtil:60 - Driver Instance : null at WebDriverHooks : setUp
+2025-01-06T18:19:06,218 [main] INFO  LogUtil:60 - WebDriver initialized: ChromeDriver: chrome on windows (fceb9e35d429884d7e767187fec5eae5) at WebDriverHooks : setUp
+2025-01-06T18:19:08,733 [main] INFO  LogUtil:60 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-01-06T18:19:10,048 [main] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-06T18:19:10,384 [main] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-06T18:19:10,385 [main] INFO  LogUtil:60 - Entering valid credentials. Username: Admin, Password: admin123
+2025-01-06T18:19:10,424 [main] INFO  LogUtil:60 - Entered username: Admin
+2025-01-06T18:19:10,472 [main] INFO  LogUtil:60 - Entered password: admin123
+2025-01-06T18:19:10,531 [main] INFO  LogUtil:60 - Clicked login button
+2025-01-06T18:19:10,532 [main] INFO  LogUtil:60 - Login button clicked.
+2025-01-06T18:19:10,533 [main] INFO  LogUtil:60 - Verifying login success and Dashboard page visibility.
+2025-01-06T18:19:12,069 [main] INFO  LogUtil:60 - Clicking on the logout button.
+2025-01-06T18:19:13,976 [main] INFO  LogUtil:60 - Clicked logout link
+2025-01-06T18:19:13,976 [main] INFO  LogUtil:60 - Verifying successful navigation to the Login page.
+2025-01-06T18:19:14,421 [main] INFO  LogUtil:60 - WebDriver instance quit successfully.
+2025-01-06T18:19:14,424 [main] INFO  LogUtil:60 - Test Passed: runScenario
+2025-01-06T18:19:14,425 [main] INFO  LogUtil:60 - Test Started: runScenario
+2025-01-06T18:19:14,430 [main] INFO  LogUtil:60 - Driver Instance : null at WebDriverHooks : setUp
+2025-01-06T18:19:15,041 [main] INFO  LogUtil:60 - WebDriver initialized: ChromeDriver: chrome on windows (10dffec63687c4d15d831a72d989d7b3) at WebDriverHooks : setUp
+2025-01-06T18:19:17,986 [main] INFO  LogUtil:60 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-01-06T18:19:19,327 [main] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-06T18:19:19,668 [main] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-06T18:19:19,669 [main] INFO  LogUtil:60 - Clicking on the link: Forgot your password?
+2025-01-06T18:19:20,235 [main] INFO  LogUtil:60 - Clicked forgot password link
+2025-01-06T18:19:20,236 [main] INFO  LogUtil:60 - Verifying that I am redirected to the Reset Password page.
+2025-01-06T18:19:20,567 [main] INFO  LogUtil:60 - Entering a valid username: Admin
+2025-01-06T18:19:20,619 [main] INFO  LogUtil:60 - Entered username: Admin
+2025-01-06T18:19:20,619 [main] INFO  LogUtil:60 - Clicking on the Reset Password button.
+2025-01-06T18:19:21,592 [main] INFO  LogUtil:60 - Clicked login button
+2025-01-06T18:19:21,592 [main] INFO  LogUtil:60 - Verifying the success message and URL after clicking the Reset Password button.
+2025-01-06T18:19:22,039 [main] INFO  LogUtil:60 - WebDriver instance quit successfully.
+2025-01-06T18:19:22,041 [main] INFO  LogUtil:60 - Test Passed: runScenario
+2025-01-06T18:19:23,556 [main] INFO  LogUtil:60 - Test Context Finished: LoginPageTest
+2025-01-06T18:19:23,556 [main] INFO  LogUtil:60 - WebDriver instance quit for thread.
+2025-01-06T18:25:10,449 [main] INFO  LogUtil:60 - Clearing Allure results at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.23\allure-results
+2025-01-06T18:25:10,455 [main] INFO  LogUtil:60 - Deleted Allure result file: 0219399f-8115-45a7-be5f-3f763a6079fc-attachment.txt
+2025-01-06T18:25:10,456 [main] INFO  LogUtil:60 - Deleted Allure result file: 024abe80-b477-43d7-a5e5-7552fe0723f6-attachment.txt
+2025-01-06T18:25:10,457 [main] INFO  LogUtil:60 - Deleted Allure result file: 02ad1232-abce-4387-ba98-ec052e7145da-attachment.txt
+2025-01-06T18:25:10,457 [main] INFO  LogUtil:60 - Deleted Allure result file: 03193474-1d29-40ce-bfb5-ccf05ce86cfe-attachment.txt
+2025-01-06T18:25:10,459 [main] INFO  LogUtil:60 - Deleted Allure result file: 03571227-541f-4542-8ce9-d334e600a678-attachment.txt
+2025-01-06T18:25:10,460 [main] INFO  LogUtil:60 - Deleted Allure result file: 03658252-2e92-4dc6-9dad-c247fb38b803-attachment.txt
+2025-01-06T18:25:10,461 [main] INFO  LogUtil:60 - Deleted Allure result file: 06984ff9-9528-4cdf-8d83-ec562a08ede3-attachment.txt
+2025-01-06T18:25:10,461 [main] INFO  LogUtil:60 - Deleted Allure result file: 06fc7d41-286a-42f4-8262-678deaaa34db-attachment.txt
+2025-01-06T18:25:10,462 [main] INFO  LogUtil:60 - Deleted Allure result file: 07db937a-6b2b-42d8-b888-76f4dfa89def-attachment.txt
+2025-01-06T18:25:10,463 [main] INFO  LogUtil:60 - Deleted Allure result file: 08cc67ab-d203-442f-a074-2f15e904b3d3-attachment.txt
+2025-01-06T18:25:10,464 [main] INFO  LogUtil:60 - Deleted Allure result file: 0938f31d-c542-4c4d-b1cc-4c1384338314-attachment.txt
+2025-01-06T18:25:10,465 [main] INFO  LogUtil:60 - Deleted Allure result file: 0be86109-3e2f-4fbb-bad1-68ee5a2a711c-attachment.txt
+2025-01-06T18:25:10,466 [main] INFO  LogUtil:60 - Deleted Allure result file: 0c8d6e22-ee97-40a4-bf9e-5c86edf0c0f7-attachment.txt
+2025-01-06T18:25:10,467 [main] INFO  LogUtil:60 - Deleted Allure result file: 0cc35cc5-453c-4f5e-b86e-e1cb8b506ffe-attachment.txt
+2025-01-06T18:25:10,468 [main] INFO  LogUtil:60 - Deleted Allure result file: 0cf7513f-0010-4b6c-bdfb-15306a9a9aea-attachment.txt
+2025-01-06T18:25:10,469 [main] INFO  LogUtil:60 - Deleted Allure result file: 0e0d2487-a684-4e42-9276-fcca235df666-attachment.txt
+2025-01-06T18:25:10,470 [main] INFO  LogUtil:60 - Deleted Allure result file: 103da1aa-5369-4401-b841-e4eafcf0349f-attachment.txt
+2025-01-06T18:25:10,471 [main] INFO  LogUtil:60 - Deleted Allure result file: 116a65a1-30d1-4925-9fd1-a5d3090ff5fb-attachment.txt
+2025-01-06T18:25:10,472 [main] INFO  LogUtil:60 - Deleted Allure result file: 14053b12-0fc2-487d-b893-eb038c50c632-attachment.txt
+2025-01-06T18:25:10,472 [main] INFO  LogUtil:60 - Deleted Allure result file: 14323864-615f-4dad-ad96-ade3245bb3b4-attachment.txt
+2025-01-06T18:25:10,473 [main] INFO  LogUtil:60 - Deleted Allure result file: 1571f2d9-68b5-4e71-a269-2e0d9b8ec291-attachment.txt
+2025-01-06T18:25:10,474 [main] INFO  LogUtil:60 - Deleted Allure result file: 16825019-adaa-49b5-abf2-dc6bedc449cc-attachment.txt
+2025-01-06T18:25:10,475 [main] INFO  LogUtil:60 - Deleted Allure result file: 169f6a03-b178-4dbd-ad71-a11ec2aeb18b-attachment.txt
+2025-01-06T18:25:10,476 [main] INFO  LogUtil:60 - Deleted Allure result file: 16e706d3-464e-45b5-a34b-d47bd93f997d-attachment.txt
+2025-01-06T18:25:10,477 [main] INFO  LogUtil:60 - Deleted Allure result file: 188f9183-cf93-43d0-9e14-c71dc9dd3e61-attachment.txt
+2025-01-06T18:25:10,477 [main] INFO  LogUtil:60 - Deleted Allure result file: 19663c0f-ba2a-4e11-83a4-6cb398a19cf5-attachment.txt
+2025-01-06T18:25:10,478 [main] INFO  LogUtil:60 - Deleted Allure result file: 19843fd9-d9d3-409b-ba67-8d6c118a6efb-attachment.txt
+2025-01-06T18:25:10,479 [main] INFO  LogUtil:60 - Deleted Allure result file: 1bb91f4e-ebbb-4122-a3dd-c844aa1f8da3-container.json
+2025-01-06T18:25:10,480 [main] INFO  LogUtil:60 - Deleted Allure result file: 1ca0494c-e836-4fd0-987c-1a08233a981a-attachment.txt
+2025-01-06T18:25:10,481 [main] INFO  LogUtil:60 - Deleted Allure result file: 1dfa1858-6982-4a4f-9482-e6e7640dcb46-attachment.txt
+2025-01-06T18:25:10,482 [main] INFO  LogUtil:60 - Deleted Allure result file: 1ebf9d19-7a18-48cc-b76b-84d49c68c4fb-attachment.txt
+2025-01-06T18:25:10,483 [main] INFO  LogUtil:60 - Deleted Allure result file: 1f31bfbb-c7c2-477c-84af-e3755c8c5169-attachment.txt
+2025-01-06T18:25:10,484 [main] INFO  LogUtil:60 - Deleted Allure result file: 20554b0a-b14e-4361-97f9-f9f2bd48c778-attachment.txt
+2025-01-06T18:25:10,485 [main] INFO  LogUtil:60 - Deleted Allure result file: 207abe49-3bee-418a-9136-c582b5738077-attachment.txt
+2025-01-06T18:25:10,485 [main] INFO  LogUtil:60 - Deleted Allure result file: 20e69ca2-6c31-402c-a3df-ea01aa2358bb-attachment.txt
+2025-01-06T18:25:10,486 [main] INFO  LogUtil:60 - Deleted Allure result file: 2226336e-31ba-4b45-a821-27ec6d90d3bb-attachment.txt
+2025-01-06T18:25:10,487 [main] INFO  LogUtil:60 - Deleted Allure result file: 25cfbed9-316e-404f-b6ed-09dfe6f786fb-attachment.txt
+2025-01-06T18:25:10,488 [main] INFO  LogUtil:60 - Deleted Allure result file: 25ecb660-56ed-4655-8b6a-185f9cf258fe-attachment.txt
+2025-01-06T18:25:10,489 [main] INFO  LogUtil:60 - Deleted Allure result file: 260e512e-b219-4a6f-9994-9a16fcf8b618-attachment.txt
+2025-01-06T18:25:10,490 [main] INFO  LogUtil:60 - Deleted Allure result file: 26e1805d-ae36-424b-803a-cf362853c19b-attachment.txt
+2025-01-06T18:25:10,490 [main] INFO  LogUtil:60 - Deleted Allure result file: 26fce604-5606-4144-8f0d-fb8127e4c86d-attachment.txt
+2025-01-06T18:25:10,491 [main] INFO  LogUtil:60 - Deleted Allure result file: 27d68c82-0684-43e3-b70e-d2016f056b0f-attachment.txt
+2025-01-06T18:25:10,492 [main] INFO  LogUtil:60 - Deleted Allure result file: 28414923-1857-4cbf-9e1b-f2fbcf6a0a15-attachment.txt
+2025-01-06T18:25:10,493 [main] INFO  LogUtil:60 - Deleted Allure result file: 289b4feb-680e-4a1b-896d-ddd5ff0c7496-attachment.txt
+2025-01-06T18:25:10,494 [main] INFO  LogUtil:60 - Deleted Allure result file: 28b3dcce-87cf-4453-8427-5524c70e7a6d-attachment.txt
+2025-01-06T18:25:10,494 [main] INFO  LogUtil:60 - Deleted Allure result file: 2a49e1df-3e0f-4b59-9d04-7ffed6b8800a-attachment.txt
+2025-01-06T18:25:10,495 [main] INFO  LogUtil:60 - Deleted Allure result file: 2a6fca6a-ba3c-4509-8464-5b60aeb5edb0-attachment.txt
+2025-01-06T18:25:10,496 [main] INFO  LogUtil:60 - Deleted Allure result file: 2a8d52e9-1397-4259-a845-17b5a977db0d-attachment.txt
+2025-01-06T18:25:10,497 [main] INFO  LogUtil:60 - Deleted Allure result file: 2c3f6f2f-1493-4148-90e3-757b71305d8b-attachment.txt
+2025-01-06T18:25:10,498 [main] INFO  LogUtil:60 - Deleted Allure result file: 2cd7f2f5-b539-48ff-be29-a54f240f1609-attachment.txt
+2025-01-06T18:25:10,499 [main] INFO  LogUtil:60 - Deleted Allure result file: 2d7a7dfe-d45f-45af-92de-1238509fe784-container.json
+2025-01-06T18:25:10,500 [main] INFO  LogUtil:60 - Deleted Allure result file: 2d91c445-7301-45bd-8218-a1f0a3466f54-attachment.txt
+2025-01-06T18:25:10,501 [main] INFO  LogUtil:60 - Deleted Allure result file: 2e50f1cc-b66c-4797-9746-0fe1324c3ffd-attachment.txt
+2025-01-06T18:25:10,502 [main] INFO  LogUtil:60 - Deleted Allure result file: 2e8cc6e0-7a97-46a6-9a9a-a7b625ecfac4-attachment.txt
+2025-01-06T18:25:10,503 [main] INFO  LogUtil:60 - Deleted Allure result file: 2eae5e68-0069-4aec-8ecf-53d143581883-attachment.txt
+2025-01-06T18:25:10,504 [main] INFO  LogUtil:60 - Deleted Allure result file: 2f924d84-b63f-40af-9651-fff7f5da44d3-attachment.txt
+2025-01-06T18:25:10,504 [main] INFO  LogUtil:60 - Deleted Allure result file: 301ad6be-625f-4acf-9422-6737378c9914-attachment.txt
+2025-01-06T18:25:10,505 [main] INFO  LogUtil:60 - Deleted Allure result file: 3094b3ec-e51a-44df-aef3-134f59ecc7ee-attachment.txt
+2025-01-06T18:25:10,506 [main] INFO  LogUtil:60 - Deleted Allure result file: 30a92716-752f-4003-a42c-9b276653773f-attachment.txt
+2025-01-06T18:25:10,507 [main] INFO  LogUtil:60 - Deleted Allure result file: 31d2b77d-340e-485c-97fc-84ad95db5eba-container.json
+2025-01-06T18:25:10,508 [main] INFO  LogUtil:60 - Deleted Allure result file: 31d34b63-29ab-492f-a52e-36bad42d47c4-attachment.txt
+2025-01-06T18:25:10,508 [main] INFO  LogUtil:60 - Deleted Allure result file: 31fdc01a-a0ec-4b6c-aeea-6ffc53eb73c8-attachment.txt
+2025-01-06T18:25:10,509 [main] INFO  LogUtil:60 - Deleted Allure result file: 3207cac8-e8ab-4d35-aaab-ef044f6dfbbd-attachment.txt
+2025-01-06T18:25:10,510 [main] INFO  LogUtil:60 - Deleted Allure result file: 32a207e0-5966-43cb-9324-65b72785c778-attachment.txt
+2025-01-06T18:25:10,511 [main] INFO  LogUtil:60 - Deleted Allure result file: 3389265c-9d39-4ee9-ae5e-6ce543b5c18f-attachment.txt
+2025-01-06T18:25:10,512 [main] INFO  LogUtil:60 - Deleted Allure result file: 355edbff-8aea-413e-874d-472f37321253-attachment.txt
+2025-01-06T18:25:10,512 [main] INFO  LogUtil:60 - Deleted Allure result file: 3788e5b9-57f5-4925-b573-c1b17fe2add8-attachment.txt
+2025-01-06T18:25:10,513 [main] INFO  LogUtil:60 - Deleted Allure result file: 37dc2189-c6eb-4dbf-9712-3fd111313433-attachment.txt
+2025-01-06T18:25:10,514 [main] INFO  LogUtil:60 - Deleted Allure result file: 394f445b-f8aa-4483-b81d-c66b1902aa81-attachment.txt
+2025-01-06T18:25:10,515 [main] INFO  LogUtil:60 - Deleted Allure result file: 3a68e230-3ffb-4c77-b008-f7dd98c357ce-attachment.txt
+2025-01-06T18:25:10,515 [main] INFO  LogUtil:60 - Deleted Allure result file: 3a6f88d7-5ec9-4671-8b1a-226a49ce6c67-attachment.txt
+2025-01-06T18:25:10,516 [main] INFO  LogUtil:60 - Deleted Allure result file: 3c0a9717-b42e-4837-a7f1-2327fb214a2d-attachment.txt
+2025-01-06T18:25:10,517 [main] INFO  LogUtil:60 - Deleted Allure result file: 3c53fddb-8fa9-41e3-87e3-66f5be3e7ffd-attachment.txt
+2025-01-06T18:25:10,518 [main] INFO  LogUtil:60 - Deleted Allure result file: 3d56b375-e4a1-4035-9782-2c363d62bb35-attachment.txt
+2025-01-06T18:25:10,518 [main] INFO  LogUtil:60 - Deleted Allure result file: 3f1ee8e2-6128-42cd-80c9-adb2fb995da6-attachment.txt
+2025-01-06T18:25:10,519 [main] INFO  LogUtil:60 - Deleted Allure result file: 4039e50a-e647-476f-a9a8-665a67f9fb51-attachment.txt
+2025-01-06T18:25:10,520 [main] INFO  LogUtil:60 - Deleted Allure result file: 40ea756e-7b1f-41fc-b0e2-47163f253c0e-attachment.txt
+2025-01-06T18:25:10,520 [main] INFO  LogUtil:60 - Deleted Allure result file: 41727808-e7ed-44ba-b75c-e705a27c453a-attachment.txt
+2025-01-06T18:25:10,521 [main] INFO  LogUtil:60 - Deleted Allure result file: 4187ee42-87fe-487f-b6fc-c28df4b9b5f9-container.json
+2025-01-06T18:25:10,522 [main] INFO  LogUtil:60 - Deleted Allure result file: 4300f9f5-27f7-44a3-bd29-68b4bf84aec9-attachment.txt
+2025-01-06T18:25:10,522 [main] INFO  LogUtil:60 - Deleted Allure result file: 43f52aad-fa20-45e7-b9a0-45a33813c18f-attachment.txt
+2025-01-06T18:25:10,523 [main] INFO  LogUtil:60 - Deleted Allure result file: 4507bdd1-1f2e-4c8f-bea1-f229a6235a8a-attachment.txt
+2025-01-06T18:25:10,524 [main] INFO  LogUtil:60 - Deleted Allure result file: 45394f29-7033-4084-81fe-82b5735bdd2f-attachment.txt
+2025-01-06T18:25:10,525 [main] INFO  LogUtil:60 - Deleted Allure result file: 45a0b970-5392-4895-9552-8756e4262b24-attachment.txt
+2025-01-06T18:25:10,525 [main] INFO  LogUtil:60 - Deleted Allure result file: 463dd6c6-df86-48ec-a285-a61666d18006-attachment.txt
+2025-01-06T18:25:10,526 [main] INFO  LogUtil:60 - Deleted Allure result file: 466d515d-77a6-4492-a652-40779070ec3f-attachment.txt
+2025-01-06T18:25:10,527 [main] INFO  LogUtil:60 - Deleted Allure result file: 480c5381-6111-4b16-9d88-a2fa90041d32-attachment.txt
+2025-01-06T18:25:10,528 [main] INFO  LogUtil:60 - Deleted Allure result file: 4a73f578-99a7-4155-ae12-10cbe613bee9-attachment.txt
+2025-01-06T18:25:10,528 [main] INFO  LogUtil:60 - Deleted Allure result file: 4b373bad-bc16-4b4a-8a36-4050604a628e-attachment.txt
+2025-01-06T18:25:10,529 [main] INFO  LogUtil:60 - Deleted Allure result file: 4c8f2f53-0601-4b51-a44e-11a617fd9415-attachment.txt
+2025-01-06T18:25:10,530 [main] INFO  LogUtil:60 - Deleted Allure result file: 4d9439fa-2a8c-4830-8417-f1a12c08ae79-attachment.txt
+2025-01-06T18:25:10,530 [main] INFO  LogUtil:60 - Deleted Allure result file: 4e3b1515-07b1-4469-acf2-71d87cce4301-attachment.txt
+2025-01-06T18:25:10,531 [main] INFO  LogUtil:60 - Deleted Allure result file: 4f6bff98-6ca4-4380-bf88-cfd2d4797387-attachment.txt
+2025-01-06T18:25:10,532 [main] INFO  LogUtil:60 - Deleted Allure result file: 50a3d21f-7bff-450a-b62c-70d0fa3054c3-attachment.txt
+2025-01-06T18:25:10,532 [main] INFO  LogUtil:60 - Deleted Allure result file: 514fd063-72ff-40dc-98fe-0a66a0bc6657-attachment.txt
+2025-01-06T18:25:10,533 [main] INFO  LogUtil:60 - Deleted Allure result file: 51d09d7a-6597-4334-9b14-3da3e816ee86-attachment.txt
+2025-01-06T18:25:10,534 [main] INFO  LogUtil:60 - Deleted Allure result file: 525b1206-8ff5-4dc8-be75-340eac1589fb-attachment.txt
+2025-01-06T18:25:10,535 [main] INFO  LogUtil:60 - Deleted Allure result file: 52de7bcf-ef1b-4bd5-b446-7ccae9f3001a-attachment.txt
+2025-01-06T18:25:10,535 [main] INFO  LogUtil:60 - Deleted Allure result file: 530441f8-7eba-48e0-93aa-f7f6976e88eb-attachment.txt
+2025-01-06T18:25:10,536 [main] INFO  LogUtil:60 - Deleted Allure result file: 5327433b-3c6c-4d68-aa39-606c27237558-attachment.txt
+2025-01-06T18:25:10,537 [main] INFO  LogUtil:60 - Deleted Allure result file: 5528ee10-ae12-41bc-ac38-c26f2909d48f-result.json
+2025-01-06T18:25:10,537 [main] INFO  LogUtil:60 - Deleted Allure result file: 553a2ea5-ae76-48fe-a623-eff7e86348c5-attachment.txt
+2025-01-06T18:25:10,538 [main] INFO  LogUtil:60 - Deleted Allure result file: 56930c19-2821-4298-b7e4-6389f9fb3841-attachment.txt
+2025-01-06T18:25:10,539 [main] INFO  LogUtil:60 - Deleted Allure result file: 56d09bc8-aba1-4198-b3b6-205ed3d735fc-attachment.txt
+2025-01-06T18:25:10,539 [main] INFO  LogUtil:60 - Deleted Allure result file: 59eba7d1-f0c0-4987-9e06-34ec2919c217-attachment.txt
+2025-01-06T18:25:10,540 [main] INFO  LogUtil:60 - Deleted Allure result file: 5a692f5e-111b-4179-97ca-f9cdc3fc5135-attachment.txt
+2025-01-06T18:25:10,541 [main] INFO  LogUtil:60 - Deleted Allure result file: 5a8a43d4-d25a-4243-b76b-0738fe916b02-container.json
+2025-01-06T18:25:10,541 [main] INFO  LogUtil:60 - Deleted Allure result file: 5b649f38-328c-4e95-9720-96d16e3c5d72-attachment.txt
+2025-01-06T18:25:10,542 [main] INFO  LogUtil:60 - Deleted Allure result file: 5c0e973f-e718-4b3e-a790-f62073716c58-attachment.txt
+2025-01-06T18:25:10,543 [main] INFO  LogUtil:60 - Deleted Allure result file: 5e0a3000-33f7-4b67-89a9-6810978ded10-attachment.txt
+2025-01-06T18:25:10,544 [main] INFO  LogUtil:60 - Deleted Allure result file: 5e54b885-97b8-4515-819c-76d11de56b6e-attachment.txt
+2025-01-06T18:25:10,544 [main] INFO  LogUtil:60 - Deleted Allure result file: 5f3597be-247a-49ba-a943-6fcc9dfff202-attachment.txt
+2025-01-06T18:25:10,545 [main] INFO  LogUtil:60 - Deleted Allure result file: 600c51ad-3325-4d42-bce7-0ff4b29b27d2-attachment.txt
+2025-01-06T18:25:10,546 [main] INFO  LogUtil:60 - Deleted Allure result file: 6237309d-7448-480d-a9ce-e4a1e321bb34-result.json
+2025-01-06T18:25:10,546 [main] INFO  LogUtil:60 - Deleted Allure result file: 6424edf5-f29c-4191-80f6-0ae5bc12f425-attachment.txt
+2025-01-06T18:25:10,547 [main] INFO  LogUtil:60 - Deleted Allure result file: 648dc38a-58e7-4571-8eda-4f83d2c6f421-attachment.txt
+2025-01-06T18:25:10,548 [main] INFO  LogUtil:60 - Deleted Allure result file: 6586d5e5-3bdf-4208-9d10-58afe562c1e6-container.json
+2025-01-06T18:25:10,548 [main] INFO  LogUtil:60 - Deleted Allure result file: 6611eee7-3d89-41a2-b6d7-4305c3773d7f-attachment.txt
+2025-01-06T18:25:10,549 [main] INFO  LogUtil:60 - Deleted Allure result file: 6679107d-472d-4844-9b47-50fd6948337c-attachment.txt
+2025-01-06T18:25:10,550 [main] INFO  LogUtil:60 - Deleted Allure result file: 66b09cbd-d745-401c-84ad-dc21e2bca6fe-attachment.txt
+2025-01-06T18:25:10,551 [main] INFO  LogUtil:60 - Deleted Allure result file: 66c7cf30-1dd6-4fbd-8d04-e5f40e046cd0-attachment.txt
+2025-01-06T18:25:10,551 [main] INFO  LogUtil:60 - Deleted Allure result file: 671c17d7-685c-4a20-81ca-7bdd0c0c6956-result.json
+2025-01-06T18:25:10,552 [main] INFO  LogUtil:60 - Deleted Allure result file: 6738c359-55dd-47cb-8baf-48b13e60275d-attachment.txt
+2025-01-06T18:25:10,553 [main] INFO  LogUtil:60 - Deleted Allure result file: 69062446-be1f-4b68-9e91-1e4659d73c2c-attachment.txt
+2025-01-06T18:25:10,553 [main] INFO  LogUtil:60 - Deleted Allure result file: 69360c60-bb3c-4665-b013-1e0ce919a074-attachment.txt
+2025-01-06T18:25:10,554 [main] INFO  LogUtil:60 - Deleted Allure result file: 6a19d16f-a805-4d49-b02d-bdc252cd36d5-attachment.txt
+2025-01-06T18:25:10,555 [main] INFO  LogUtil:60 - Deleted Allure result file: 6a2f90d0-9496-46d5-ad58-47adb6c909d9-container.json
+2025-01-06T18:25:10,557 [main] INFO  LogUtil:60 - Deleted Allure result file: 6c95f41f-c69a-45c7-9eae-7af0929cdc88-attachment.txt
+2025-01-06T18:25:10,557 [main] INFO  LogUtil:60 - Deleted Allure result file: 6d70c142-8f32-4cde-8e19-1a244659467d-attachment.txt
+2025-01-06T18:25:10,558 [main] INFO  LogUtil:60 - Deleted Allure result file: 71aad568-5d7e-41cb-be1a-ad63b50d7ba2-attachment.txt
+2025-01-06T18:25:10,559 [main] INFO  LogUtil:60 - Deleted Allure result file: 72b061de-6a59-41c9-87b3-c48901a5e533-attachment.txt
+2025-01-06T18:25:10,560 [main] INFO  LogUtil:60 - Deleted Allure result file: 73ec0686-d611-45cf-ac96-4ce6ec9799d9-attachment.txt
+2025-01-06T18:25:10,560 [main] INFO  LogUtil:60 - Deleted Allure result file: 74131590-bad1-4b91-82fa-ac10f5948935-attachment.txt
+2025-01-06T18:25:10,562 [main] INFO  LogUtil:60 - Deleted Allure result file: 774dfbaa-27f1-49a3-8059-b1a0233035cd-attachment.txt
+2025-01-06T18:25:10,562 [main] INFO  LogUtil:60 - Deleted Allure result file: 79d4d8ca-332b-43a2-a5c4-70ed02de7b19-attachment.txt
+2025-01-06T18:25:10,563 [main] INFO  LogUtil:60 - Deleted Allure result file: 7ac232ca-802b-4680-83ea-574e19d926f9-attachment.txt
+2025-01-06T18:25:10,564 [main] INFO  LogUtil:60 - Deleted Allure result file: 7b55ae1a-ca33-4432-9263-1d10f861fe9d-attachment.txt
+2025-01-06T18:25:10,564 [main] INFO  LogUtil:60 - Deleted Allure result file: 7caa0cba-2496-41cd-acae-59c77c741dbc-attachment.txt
+2025-01-06T18:25:10,565 [main] INFO  LogUtil:60 - Deleted Allure result file: 7de067db-8500-4db0-9118-1ff03cecd75d-attachment.txt
+2025-01-06T18:25:10,566 [main] INFO  LogUtil:60 - Deleted Allure result file: 80508a54-92f4-4f6a-99fa-f9041600bd34-attachment.txt
+2025-01-06T18:25:10,566 [main] INFO  LogUtil:60 - Deleted Allure result file: 81c84d20-3686-4a80-9e45-dd465ccc5e5c-attachment.txt
+2025-01-06T18:25:10,567 [main] INFO  LogUtil:60 - Deleted Allure result file: 853bb7db-f4a6-4937-a387-78cc21dddec1-attachment.txt
+2025-01-06T18:25:10,568 [main] INFO  LogUtil:60 - Deleted Allure result file: 86632741-63ea-4dc6-86f6-3073cb66db1a-attachment.txt
+2025-01-06T18:25:10,569 [main] INFO  LogUtil:60 - Deleted Allure result file: 868713db-abe1-4e03-830a-90e220aedb0e-attachment.txt
+2025-01-06T18:25:10,569 [main] INFO  LogUtil:60 - Deleted Allure result file: 88ee1581-402e-434b-ad89-d8b33a1a4172-attachment.txt
+2025-01-06T18:25:10,570 [main] INFO  LogUtil:60 - Deleted Allure result file: 8995e14d-bd46-4387-b7d5-b3c91ff4a539-attachment.txt
+2025-01-06T18:25:10,571 [main] INFO  LogUtil:60 - Deleted Allure result file: 8a195b42-05d2-4961-b8d0-73b7229837a2-container.json
+2025-01-06T18:25:10,571 [main] INFO  LogUtil:60 - Deleted Allure result file: 8a75c44f-409d-4efe-9b47-b62cd15b894f-attachment.txt
+2025-01-06T18:25:10,572 [main] INFO  LogUtil:60 - Deleted Allure result file: 8aa549ba-9241-4c52-85b5-e81168ba4a2a-attachment.txt
+2025-01-06T18:25:10,573 [main] INFO  LogUtil:60 - Deleted Allure result file: 8dd20bab-d628-4e81-bac8-24d5c4145c08-attachment.txt
+2025-01-06T18:25:10,573 [main] INFO  LogUtil:60 - Deleted Allure result file: 8ddc028d-2d6b-444d-a76a-e06edee390c2-attachment.txt
+2025-01-06T18:25:10,574 [main] INFO  LogUtil:60 - Deleted Allure result file: 8eb5d51d-472f-4b26-b8ec-c8872df8252d-container.json
+2025-01-06T18:25:10,575 [main] INFO  LogUtil:60 - Deleted Allure result file: 901038c3-e850-4df8-93c2-08cc204207f3-attachment.txt
+2025-01-06T18:25:10,575 [main] INFO  LogUtil:60 - Deleted Allure result file: 906cc46c-e9d2-4711-96a0-8a9fc47cebbc-attachment.txt
+2025-01-06T18:25:10,576 [main] INFO  LogUtil:60 - Deleted Allure result file: 91047c8a-f13e-4bd6-966c-852a5378a43f-attachment.txt
+2025-01-06T18:25:10,577 [main] INFO  LogUtil:60 - Deleted Allure result file: 92bbebb3-8d1f-4fe0-bd5d-803aa09c689e-attachment.txt
+2025-01-06T18:25:10,577 [main] INFO  LogUtil:60 - Deleted Allure result file: 93ead3b2-1f69-4fde-ba48-c2435db87802-attachment.txt
+2025-01-06T18:25:10,578 [main] INFO  LogUtil:60 - Deleted Allure result file: 9412af95-69d6-4d3a-9624-fb6f26277d64-attachment.txt
+2025-01-06T18:25:10,579 [main] INFO  LogUtil:60 - Deleted Allure result file: 941349e8-1ad6-4fda-94f8-2f3f57a5f3a3-attachment.txt
+2025-01-06T18:25:10,579 [main] INFO  LogUtil:60 - Deleted Allure result file: 94bbacfb-b411-4ba6-83cf-52dcbd967574-attachment.txt
+2025-01-06T18:25:10,580 [main] INFO  LogUtil:60 - Deleted Allure result file: 957cd899-fddb-48a5-a669-ad3c556ce5d4-attachment.txt
+2025-01-06T18:25:10,581 [main] INFO  LogUtil:60 - Deleted Allure result file: 95a223d1-9574-4432-9eed-829e2f1ce24f-attachment.txt
+2025-01-06T18:25:10,581 [main] INFO  LogUtil:60 - Deleted Allure result file: 985acafc-0853-42ce-9312-3ac1edd3669b-attachment.txt
+2025-01-06T18:25:10,582 [main] INFO  LogUtil:60 - Deleted Allure result file: 987d36dc-7005-4dee-924b-c0541d4844d6-attachment.txt
+2025-01-06T18:25:10,583 [main] INFO  LogUtil:60 - Deleted Allure result file: 9ba1df6f-461b-4dd7-8421-dd29f17be74a-attachment.txt
+2025-01-06T18:25:10,583 [main] INFO  LogUtil:60 - Deleted Allure result file: 9c00a2f9-884f-4533-90a5-ad7a31bd1fc8-attachment.txt
+2025-01-06T18:25:10,584 [main] INFO  LogUtil:60 - Deleted Allure result file: 9cbb3ecb-6b8a-4b86-8674-bbcf2c717df1-attachment.txt
+2025-01-06T18:25:10,585 [main] INFO  LogUtil:60 - Deleted Allure result file: 9cc410f5-fff1-45f0-8384-2ff807009ff0-attachment.txt
+2025-01-06T18:25:10,585 [main] INFO  LogUtil:60 - Deleted Allure result file: 9d13ba72-8a9d-48ce-98aa-dc365e40ffd1-attachment.txt
+2025-01-06T18:25:10,586 [main] INFO  LogUtil:60 - Deleted Allure result file: 9dd7698d-4e62-4bdd-84d4-4c5e16739a01-container.json
+2025-01-06T18:25:10,587 [main] INFO  LogUtil:60 - Deleted Allure result file: 9df84cc3-eea8-477b-9b9f-4ea7b25e5d4b-attachment.txt
+2025-01-06T18:25:10,587 [main] INFO  LogUtil:60 - Deleted Allure result file: 9f60c8b0-dd4c-46d5-932c-72f04bb2e885-attachment.txt
+2025-01-06T18:25:10,588 [main] INFO  LogUtil:60 - Deleted Allure result file: a046c1bd-1ebe-4f9d-b656-8d2e3b946284-attachment.txt
+2025-01-06T18:25:10,589 [main] INFO  LogUtil:60 - Deleted Allure result file: a1e51c45-72a8-4232-b4a4-edc9263b8321-attachment.txt
+2025-01-06T18:25:10,589 [main] INFO  LogUtil:60 - Deleted Allure result file: a31fec24-372d-435d-872e-a3e16291a908-attachment.txt
+2025-01-06T18:25:10,590 [main] INFO  LogUtil:60 - Deleted Allure result file: a3fa4703-23b0-405d-8a97-ae58ead166e4-attachment.txt
+2025-01-06T18:25:10,591 [main] INFO  LogUtil:60 - Deleted Allure result file: a54a2951-5e8b-4233-9b11-7ac1fa918666-attachment.txt
+2025-01-06T18:25:10,592 [main] INFO  LogUtil:60 - Deleted Allure result file: a587e6f8-37e7-4406-8e5f-90462fdd3fa2-attachment.txt
+2025-01-06T18:25:10,592 [main] INFO  LogUtil:60 - Deleted Allure result file: a60c03f8-8a7b-4306-8980-eb2c9fd0f565-attachment.txt
+2025-01-06T18:25:10,593 [main] INFO  LogUtil:60 - Deleted Allure result file: a66ef00d-9570-4928-a3bb-6ee297abb7fc-attachment.txt
+2025-01-06T18:25:10,594 [main] INFO  LogUtil:60 - Deleted Allure result file: a6b10cf7-c71e-44f8-833f-5662c284ab78-attachment.txt
+2025-01-06T18:25:10,595 [main] INFO  LogUtil:60 - Deleted Allure result file: a8585424-3c67-4344-9aa4-362428434e62-attachment.txt
+2025-01-06T18:25:10,595 [main] INFO  LogUtil:60 - Deleted Allure result file: a990638a-b31c-4f83-b7a6-e80019e231fe-container.json
+2025-01-06T18:25:10,596 [main] INFO  LogUtil:60 - Deleted Allure result file: aa2d7cbb-cc89-4815-ae45-624876a62878-attachment.txt
+2025-01-06T18:25:10,597 [main] INFO  LogUtil:60 - Deleted Allure result file: ab728708-792c-47d6-b3bb-b6b64155a356-attachment.txt
+2025-01-06T18:25:10,597 [main] INFO  LogUtil:60 - Deleted Allure result file: ab8f262f-a5db-4c1a-a969-c688341b33e6-attachment.txt
+2025-01-06T18:25:10,598 [main] INFO  LogUtil:60 - Deleted Allure result file: aba8fbd0-9d0e-4854-8014-e3622550de16-attachment.txt
+2025-01-06T18:25:10,599 [main] INFO  LogUtil:60 - Deleted Allure result file: ad8a40cf-c22d-4905-923e-ff9f83ab1c51-attachment.txt
+2025-01-06T18:25:10,599 [main] INFO  LogUtil:60 - Deleted Allure result file: adb580d8-9b38-4bac-b1a3-a4fb359d25ef-attachment.txt
+2025-01-06T18:25:10,600 [main] INFO  LogUtil:60 - Deleted Allure result file: b09791d2-8680-4141-9cb2-70137206ada5-attachment.txt
+2025-01-06T18:25:10,601 [main] INFO  LogUtil:60 - Deleted Allure result file: b16f6f3a-7d02-4a71-bfad-2cc692b32133-attachment.txt
+2025-01-06T18:25:10,602 [main] INFO  LogUtil:60 - Deleted Allure result file: b1878b7d-6325-4070-8d74-e522cb358d58-attachment.txt
+2025-01-06T18:25:10,602 [main] INFO  LogUtil:60 - Deleted Allure result file: b18891fc-99ad-4750-b483-92cb1fb87a27-attachment.txt
+2025-01-06T18:25:10,603 [main] INFO  LogUtil:60 - Deleted Allure result file: b30bb187-b3ad-490a-9721-0f676505c7ae-container.json
+2025-01-06T18:25:10,604 [main] INFO  LogUtil:60 - Deleted Allure result file: b380356b-4bfe-4b46-a094-0af35324b309-attachment.txt
+2025-01-06T18:25:10,604 [main] INFO  LogUtil:60 - Deleted Allure result file: b3adedd3-abb3-419b-a44d-f506e7aab66a-attachment.txt
+2025-01-06T18:25:10,605 [main] INFO  LogUtil:60 - Deleted Allure result file: b4bbf477-684a-4a37-9802-e0f4b582adea-attachment.txt
+2025-01-06T18:25:10,606 [main] INFO  LogUtil:60 - Deleted Allure result file: b4f26cdb-6f26-423c-a3af-5923cea3e182-attachment.txt
+2025-01-06T18:25:10,606 [main] INFO  LogUtil:60 - Deleted Allure result file: b56d4e96-c090-4660-8d30-1707d70630e8-attachment.txt
+2025-01-06T18:25:10,607 [main] INFO  LogUtil:60 - Deleted Allure result file: b60093c5-4d4e-461d-a9b8-9f60d2494d4e-attachment.txt
+2025-01-06T18:25:10,608 [main] INFO  LogUtil:60 - Deleted Allure result file: b78689e7-2819-4da8-aab8-92e3939f6f35-attachment.txt
+2025-01-06T18:25:10,608 [main] INFO  LogUtil:60 - Deleted Allure result file: b7c1e3ac-449b-4cc6-96c5-3b04fe8a5a82-attachment.txt
+2025-01-06T18:25:10,609 [main] INFO  LogUtil:60 - Deleted Allure result file: b7ce2657-5de5-4d93-9493-4e59b8efcd42-attachment.txt
+2025-01-06T18:25:10,610 [main] INFO  LogUtil:60 - Deleted Allure result file: b9c9db8f-e1fd-414c-9884-7cd774683504-attachment.txt
+2025-01-06T18:25:10,610 [main] INFO  LogUtil:60 - Deleted Allure result file: bb79a225-6f0f-4546-94e6-f98c2309d610-attachment.txt
+2025-01-06T18:25:10,611 [main] INFO  LogUtil:60 - Deleted Allure result file: bee1c670-8005-4e5f-8513-13b9f4d9d286-attachment.txt
+2025-01-06T18:25:10,612 [main] INFO  LogUtil:60 - Deleted Allure result file: bfe415ce-ab5f-4e1a-a64e-2e5b5a54e419-attachment.txt
+2025-01-06T18:25:10,613 [main] INFO  LogUtil:60 - Deleted Allure result file: c0921173-4e51-487b-bf22-a086ea588de8-attachment.txt
+2025-01-06T18:25:10,613 [main] INFO  LogUtil:60 - Deleted Allure result file: c10ad669-8b33-4f41-8254-8c5d4f361b79-attachment.txt
+2025-01-06T18:25:10,614 [main] INFO  LogUtil:60 - Deleted Allure result file: c110a54a-528c-48ee-a695-a3e47999e870-attachment.txt
+2025-01-06T18:25:10,615 [main] INFO  LogUtil:60 - Deleted Allure result file: c16361e7-2c5d-4616-8a07-cda1a73165c3-attachment.txt
+2025-01-06T18:25:10,615 [main] INFO  LogUtil:60 - Deleted Allure result file: c19cefbd-eddd-4006-9e95-f16b8b638fe0-attachment.txt
+2025-01-06T18:25:10,616 [main] INFO  LogUtil:60 - Deleted Allure result file: c1f3ecaa-508b-438b-9201-ff94c1d1dc56-attachment.txt
+2025-01-06T18:25:10,617 [main] INFO  LogUtil:60 - Deleted Allure result file: c2be6dc0-fadc-4d0f-9665-0c82d9d601d3-attachment.txt
+2025-01-06T18:25:10,617 [main] INFO  LogUtil:60 - Deleted Allure result file: c3cdaf86-0326-445e-a69d-f19df6cfbb9f-attachment.txt
+2025-01-06T18:25:10,618 [main] INFO  LogUtil:60 - Deleted Allure result file: c500203a-bfb2-4086-8d52-0caf916bf6af-attachment.txt
+2025-01-06T18:25:10,619 [main] INFO  LogUtil:60 - Deleted Allure result file: c64c473a-8d63-48e7-a9df-b14ff6080c05-attachment.txt
+2025-01-06T18:25:10,619 [main] INFO  LogUtil:60 - Deleted Allure result file: c7fce876-8a12-4945-acbd-098e769e2f46-result.json
+2025-01-06T18:25:10,620 [main] INFO  LogUtil:60 - Deleted Allure result file: c8c2a2ec-7245-4b87-bc3b-e0f21cccd4d6-attachment.txt
+2025-01-06T18:25:10,621 [main] INFO  LogUtil:60 - Deleted Allure result file: c93ce27d-6c11-410c-8680-e78ad52eadaf-attachment.txt
+2025-01-06T18:25:10,621 [main] INFO  LogUtil:60 - Deleted Allure result file: c973e4a5-1c0e-43f3-9e2b-e76f1896d676-attachment.txt
+2025-01-06T18:25:10,622 [main] INFO  LogUtil:60 - Deleted Allure result file: cb07c712-2460-4536-8197-f932091aa557-attachment.txt
+2025-01-06T18:25:10,623 [main] INFO  LogUtil:60 - Deleted Allure result file: cb4e5710-4dc4-4731-bb26-33d6e6f32db9-attachment.txt
+2025-01-06T18:25:10,623 [main] INFO  LogUtil:60 - Deleted Allure result file: cb5dd288-7c33-4945-aa76-c04d512e9650-attachment.txt
+2025-01-06T18:25:10,624 [main] INFO  LogUtil:60 - Deleted Allure result file: cc64a24a-f825-48e4-b066-23d2006a18f3-attachment.txt
+2025-01-06T18:25:10,625 [main] INFO  LogUtil:60 - Deleted Allure result file: cc849e8c-6b8a-4a83-a32c-69dfb341ba43-attachment.txt
+2025-01-06T18:25:10,625 [main] INFO  LogUtil:60 - Deleted Allure result file: cd0b87ac-9ca6-4c6b-b378-8e56b1f4daf1-attachment.txt
+2025-01-06T18:25:10,626 [main] INFO  LogUtil:60 - Deleted Allure result file: cd542a20-c89f-4992-8467-00832ea00dba-attachment.txt
+2025-01-06T18:25:10,627 [main] INFO  LogUtil:60 - Deleted Allure result file: cd9d23cc-90b0-46ef-8857-f9fb7dec466f-attachment.txt
+2025-01-06T18:25:10,627 [main] INFO  LogUtil:60 - Deleted Allure result file: ce3fa0dc-302e-4044-8bb2-233ab843ea1b-attachment.txt
+2025-01-06T18:25:10,628 [main] INFO  LogUtil:60 - Deleted Allure result file: ce647474-d966-475e-baf4-16c700a67601-attachment.txt
+2025-01-06T18:25:10,629 [main] INFO  LogUtil:60 - Deleted Allure result file: cf0e7f34-6b2a-4dbd-905f-3de49eb85d26-attachment.txt
+2025-01-06T18:25:10,629 [main] INFO  LogUtil:60 - Deleted Allure result file: cf7e20c0-e0b8-4fae-ade6-ce6683b9ea00-attachment.txt
+2025-01-06T18:25:10,630 [main] INFO  LogUtil:60 - Deleted Allure result file: cf9d030b-2244-45e7-bd6d-ed61c49c8f89-attachment.txt
+2025-01-06T18:25:10,631 [main] INFO  LogUtil:60 - Deleted Allure result file: d09e0fbd-2a53-48be-98fa-464b7f8a064a-attachment.txt
+2025-01-06T18:25:10,631 [main] INFO  LogUtil:60 - Deleted Allure result file: d0d1f9e5-894c-4eb6-abb8-22f909f175e6-attachment.txt
+2025-01-06T18:25:10,632 [main] INFO  LogUtil:60 - Deleted Allure result file: d0f6b474-1f94-4bc2-97d7-44106b5c524b-attachment.txt
+2025-01-06T18:25:10,633 [main] INFO  LogUtil:60 - Deleted Allure result file: d176c087-1821-4e04-b610-f24e7e4f061f-attachment.txt
+2025-01-06T18:25:10,634 [main] INFO  LogUtil:60 - Deleted Allure result file: d26a429e-2fb5-42f5-be88-3b5af58d7416-attachment.txt
+2025-01-06T18:25:10,634 [main] INFO  LogUtil:60 - Deleted Allure result file: d3735883-d1dd-47f3-b46d-bec356ab63d8-attachment.txt
+2025-01-06T18:25:10,635 [main] INFO  LogUtil:60 - Deleted Allure result file: d3f5d657-dd75-406e-b7eb-add5195acb06-attachment.txt
+2025-01-06T18:25:10,636 [main] INFO  LogUtil:60 - Deleted Allure result file: d6d9f85a-0144-41c5-a79b-3e98035b8852-attachment.txt
+2025-01-06T18:25:10,637 [main] INFO  LogUtil:60 - Deleted Allure result file: d8506e77-4df0-41ba-8be4-f29c8146e783-attachment.txt
+2025-01-06T18:25:10,637 [main] INFO  LogUtil:60 - Deleted Allure result file: d8c585f1-aadf-4e98-90e5-a0f921c41f44-attachment.txt
+2025-01-06T18:25:10,638 [main] INFO  LogUtil:60 - Deleted Allure result file: d963c552-1aff-44f4-a97f-e17011dfb430-attachment.txt
+2025-01-06T18:25:10,639 [main] INFO  LogUtil:60 - Deleted Allure result file: d9c5ada5-b55f-4801-8ba8-46eaed335722-attachment.txt
+2025-01-06T18:25:10,639 [main] INFO  LogUtil:60 - Deleted Allure result file: d9e713f4-955a-4bc5-b182-87e0d6547b03-attachment.txt
+2025-01-06T18:25:10,640 [main] INFO  LogUtil:60 - Deleted Allure result file: dbb8d30d-eb67-4bbf-8247-00159baa7ca0-container.json
+2025-01-06T18:25:10,641 [main] INFO  LogUtil:60 - Deleted Allure result file: dcfff8cf-00b7-4a85-b51d-96a435e99065-attachment.txt
+2025-01-06T18:25:10,642 [main] INFO  LogUtil:60 - Deleted Allure result file: dd08fb56-436d-4a3f-85c6-37a07cdc3972-attachment.txt
+2025-01-06T18:25:10,643 [main] INFO  LogUtil:60 - Deleted Allure result file: dd677dd4-3c2e-4b8e-bd52-036223770bf6-container.json
+2025-01-06T18:25:10,643 [main] INFO  LogUtil:60 - Deleted Allure result file: ddfbf330-c981-4c1e-982e-df32cb3089b2-attachment.txt
+2025-01-06T18:25:10,644 [main] INFO  LogUtil:60 - Deleted Allure result file: de47ef29-036a-483c-96ae-cb9f4f754ead-attachment.txt
+2025-01-06T18:25:10,645 [main] INFO  LogUtil:60 - Deleted Allure result file: de5efd71-7e9f-485c-baef-1c26035b83b1-attachment.txt
+2025-01-06T18:25:10,646 [main] INFO  LogUtil:60 - Deleted Allure result file: e0048249-1560-4395-bf45-16cba0df0414-attachment.txt
+2025-01-06T18:25:10,647 [main] INFO  LogUtil:60 - Deleted Allure result file: e2e4f996-dd7a-4767-9eae-ea0901a8b94c-attachment.txt
+2025-01-06T18:25:10,648 [main] INFO  LogUtil:60 - Deleted Allure result file: e39b561c-f3cf-4f11-a454-d801acf5d5ff-attachment.txt
+2025-01-06T18:25:10,649 [main] INFO  LogUtil:60 - Deleted Allure result file: e4b32366-2754-4b54-97d1-c6ddafbaf33f-attachment.txt
+2025-01-06T18:25:10,650 [main] INFO  LogUtil:60 - Deleted Allure result file: e57ccd8e-c9b1-4aa1-9911-0150f75d4a1f-attachment.txt
+2025-01-06T18:25:10,650 [main] INFO  LogUtil:60 - Deleted Allure result file: e6a7f1ed-686d-488c-8320-81e2308fbb5e-attachment.txt
+2025-01-06T18:25:10,651 [main] INFO  LogUtil:60 - Deleted Allure result file: e731b829-a91c-4b25-985e-8b973de9bbae-attachment.txt
+2025-01-06T18:25:10,652 [main] INFO  LogUtil:60 - Deleted Allure result file: e8ce0d9b-c76b-4bac-bab7-910e8b05995c-attachment.txt
+2025-01-06T18:25:10,653 [main] INFO  LogUtil:60 - Deleted Allure result file: e9cff977-9a36-48b6-a5ed-f75ae2d607a6-attachment.txt
+2025-01-06T18:25:10,653 [main] INFO  LogUtil:60 - Deleted Allure result file: ea2b58b2-bc6b-4ccf-bb3f-54b7547a2cb8-attachment.txt
+2025-01-06T18:25:10,654 [main] INFO  LogUtil:60 - Deleted Allure result file: ea9c3295-8b51-47bd-9201-ddd13610d140-attachment.txt
+2025-01-06T18:25:10,655 [main] INFO  LogUtil:60 - Deleted Allure result file: eb7d5164-1732-4e53-8d54-c1d37191ac5f-attachment.txt
+2025-01-06T18:25:10,655 [main] INFO  LogUtil:60 - Deleted Allure result file: eb80b736-cc3d-47f3-8b49-2c6a16459e2e-attachment.txt
+2025-01-06T18:25:10,656 [main] INFO  LogUtil:60 - Deleted Allure result file: ec1d2f36-1290-45e0-aa67-270bcf481b7c-attachment.txt
+2025-01-06T18:25:10,657 [main] INFO  LogUtil:60 - Deleted Allure result file: ec70119f-6cf7-439c-81a5-55c93c47f577-attachment.txt
+2025-01-06T18:25:10,657 [main] INFO  LogUtil:60 - Deleted Allure result file: eceabb19-3924-4f75-af2c-ed05998e4753-attachment.txt
+2025-01-06T18:25:10,658 [main] INFO  LogUtil:60 - Deleted Allure result file: ee878d5d-3b37-4609-b68b-26731e423749-attachment.txt
+2025-01-06T18:25:10,658 [main] INFO  LogUtil:60 - Deleted Allure result file: ee9dc0bd-db21-4b7b-95b7-e533ddebf836-attachment.txt
+2025-01-06T18:25:10,659 [main] INFO  LogUtil:60 - Deleted Allure result file: ef2c6107-43b8-45b7-aca0-a7bba44ed469-attachment.txt
+2025-01-06T18:25:10,660 [main] INFO  LogUtil:60 - Deleted Allure result file: ef9d3cc6-3dd8-4e8c-aac1-d6161f1c1488-attachment.txt
+2025-01-06T18:25:10,660 [main] INFO  LogUtil:60 - Deleted Allure result file: efc6bb17-4a7f-4814-b718-24ef951f5017-attachment.txt
+2025-01-06T18:25:10,661 [main] INFO  LogUtil:60 - Deleted Allure result file: f0836ba2-af52-48e6-8903-23b6330c969f-attachment.txt
+2025-01-06T18:25:10,662 [main] INFO  LogUtil:60 - Deleted Allure result file: f176b8d2-35cb-4e81-ade8-619685c152d3-attachment.txt
+2025-01-06T18:25:10,662 [main] INFO  LogUtil:60 - Deleted Allure result file: f1bdcacf-e7e0-444c-a3c3-5806aff660ec-result.json
+2025-01-06T18:25:10,663 [main] INFO  LogUtil:60 - Deleted Allure result file: f1fbe5ff-2a7a-4916-bc2a-1b8e713d284d-result.json
+2025-01-06T18:25:10,663 [main] INFO  LogUtil:60 - Deleted Allure result file: f202e9d5-b9dc-4761-9646-86822cec6e11-attachment.txt
+2025-01-06T18:25:10,664 [main] INFO  LogUtil:60 - Deleted Allure result file: f353422d-877c-47ff-82ea-aa86e8b0e67b-attachment.txt
+2025-01-06T18:25:10,665 [main] INFO  LogUtil:60 - Deleted Allure result file: f3560368-2fd2-4db9-a1ef-81a8ca2185d8-attachment.txt
+2025-01-06T18:25:10,665 [main] INFO  LogUtil:60 - Deleted Allure result file: f595caf0-6cd0-4f45-953c-d8b2190da4ce-attachment.txt
+2025-01-06T18:25:10,666 [main] INFO  LogUtil:60 - Deleted Allure result file: f677ee36-dff9-44b4-a379-22f39f3d5a0a-container.json
+2025-01-06T18:25:10,667 [main] INFO  LogUtil:60 - Deleted Allure result file: f85b31c0-645e-439c-8d31-6e1f1e5a5916-attachment.txt
+2025-01-06T18:25:10,667 [main] INFO  LogUtil:60 - Deleted Allure result file: fa493cfa-bddd-4733-8b5b-a792d1911e5e-attachment.txt
+2025-01-06T18:25:10,668 [main] INFO  LogUtil:60 - Deleted Allure result file: fb3bff19-b4e3-4bce-9b4f-dbc8bf06a89f-attachment.txt
+2025-01-06T18:25:10,668 [main] INFO  LogUtil:60 - Deleted Allure result file: fb73fb97-9dac-4267-b00b-fc1809390057-attachment.txt
+2025-01-06T18:25:10,669 [main] INFO  LogUtil:60 - Deleted Allure result file: fc82635c-fb01-4bfb-a1b2-71ebb22d171b-attachment.txt
+2025-01-06T18:25:10,670 [main] INFO  LogUtil:60 - Deleted Allure result file: ff1d8161-2fe4-4214-9774-1b27f1d63639-attachment.txt
+2025-01-06T18:25:10,670 [main] INFO  LogUtil:60 - Deleted Allure result file: ffebf03c-3a00-41e7-b260-1c5f6e5a6e2f-attachment.txt
+2025-01-06T18:25:10,678 [main] INFO  LogUtil:60 - Test Context Started: LoginPageTest
+2025-01-06T18:25:10,678 [main] INFO  LogUtil:60 - Running tests with Browser: chrome and Environment: dev
+2025-01-06T18:25:10,680 [main] INFO  ConfigManager:60 - Loaded configuration file: src/test/resources/config/config-dev.properties
+2025-01-06T18:25:10,680 [main] INFO  LogUtil:60 - Log level set to: INFO
+2025-01-06T18:25:10,680 [main] INFO  LogUtil:60 - Driver Instance : null at TestListener : onStart
+2025-01-06T18:25:11,823 [main] INFO  LogUtil:60 - WebDriver initialized: ChromeDriver: chrome on windows (c28c52b4f830367bfc630b0474e8c4f0)
+2025-01-06T18:25:12,176 [main] INFO  LogUtil:60 - Test Started: runScenario
+2025-01-06T18:25:12,242 [main] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (c28c52b4f830367bfc630b0474e8c4f0) at WebDriverHooks : setUp
+2025-01-06T18:25:15,283 [main] INFO  LogUtil:60 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-01-06T18:25:16,636 [main] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-06T18:25:16,983 [main] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-06T18:25:16,987 [main] INFO  LogUtil:60 - Leaving the username and password fields empty.
+2025-01-06T18:25:17,021 [main] INFO  LogUtil:60 - Entered username: 
+2025-01-06T18:25:17,065 [main] INFO  LogUtil:60 - Entered password: 
+2025-01-06T18:25:17,128 [main] INFO  LogUtil:60 - Clicked login button
+2025-01-06T18:25:17,128 [main] INFO  LogUtil:60 - Login button clicked.
+2025-01-06T18:25:17,129 [main] INFO  LogUtil:60 - Verifying error messages for blank username and password fields.
+2025-01-06T18:25:17,176 [main] INFO  LogUtil:60 - Error messages validated for username and password fields.
+2025-01-06T18:25:17,187 [main] INFO  LogUtil:60 - Test Passed: runScenario
+2025-01-06T18:25:17,188 [main] INFO  LogUtil:60 - Test Started: runScenario
+2025-01-06T18:25:17,201 [main] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (c28c52b4f830367bfc630b0474e8c4f0) at WebDriverHooks : setUp
+2025-01-06T18:25:17,735 [main] INFO  LogUtil:60 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-01-06T18:25:18,586 [main] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-06T18:25:18,931 [main] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-06T18:25:18,933 [main] INFO  LogUtil:60 - Entering invalid credentials. Username: Admin, Password: admin
+2025-01-06T18:25:18,970 [main] INFO  LogUtil:60 - Entered username: Admin
+2025-01-06T18:25:19,012 [main] INFO  LogUtil:60 - Entered password: admin
+2025-01-06T18:25:19,012 [main] INFO  LogUtil:60 - Parameters - Username: Admin, Password: admin
+2025-01-06T18:25:20,219 [main] INFO  LogUtil:60 - Clicked login button
+2025-01-06T18:25:20,219 [main] INFO  LogUtil:60 - Login button clicked.
+2025-01-06T18:25:20,220 [main] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-06T18:25:20,572 [main] INFO  LogUtil:60 - Test Passed: runScenario
+2025-01-06T18:25:20,573 [main] INFO  LogUtil:60 - Test Started: runScenario
+2025-01-06T18:25:20,579 [main] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (c28c52b4f830367bfc630b0474e8c4f0) at WebDriverHooks : setUp
+2025-01-06T18:25:21,094 [main] INFO  LogUtil:60 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-01-06T18:25:21,967 [main] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-06T18:25:22,307 [main] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-06T18:25:22,309 [main] INFO  LogUtil:60 - Entering invalid credentials. Username: Adminn, Password: admin123
+2025-01-06T18:25:22,339 [main] INFO  LogUtil:60 - Entered username: Adminn
+2025-01-06T18:25:22,385 [main] INFO  LogUtil:60 - Entered password: admin123
+2025-01-06T18:25:22,385 [main] INFO  LogUtil:60 - Parameters - Username: Adminn, Password: admin123
+2025-01-06T18:25:23,290 [main] INFO  LogUtil:60 - Clicked login button
+2025-01-06T18:25:23,290 [main] INFO  LogUtil:60 - Login button clicked.
+2025-01-06T18:25:23,291 [main] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-06T18:25:23,636 [main] INFO  LogUtil:60 - Test Passed: runScenario
+2025-01-06T18:25:23,637 [main] INFO  LogUtil:60 - Test Started: runScenario
+2025-01-06T18:25:23,642 [main] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (c28c52b4f830367bfc630b0474e8c4f0) at WebDriverHooks : setUp
+2025-01-06T18:25:24,156 [main] INFO  LogUtil:60 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-01-06T18:25:25,000 [main] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-06T18:25:25,350 [main] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-06T18:25:25,351 [main] INFO  LogUtil:60 - Entering invalid credentials. Username: Adminn, Password: admin
+2025-01-06T18:25:25,381 [main] INFO  LogUtil:60 - Entered username: Adminn
+2025-01-06T18:25:25,422 [main] INFO  LogUtil:60 - Entered password: admin
+2025-01-06T18:25:25,422 [main] INFO  LogUtil:60 - Parameters - Username: Adminn, Password: admin
+2025-01-06T18:25:26,334 [main] INFO  LogUtil:60 - Clicked login button
+2025-01-06T18:25:26,334 [main] INFO  LogUtil:60 - Login button clicked.
+2025-01-06T18:25:26,335 [main] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-06T18:25:26,702 [main] INFO  LogUtil:60 - Test Passed: runScenario
+2025-01-06T18:25:26,703 [main] INFO  LogUtil:60 - Test Started: runScenario
+2025-01-06T18:25:26,708 [main] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (c28c52b4f830367bfc630b0474e8c4f0) at WebDriverHooks : setUp
+2025-01-06T18:25:27,219 [main] INFO  LogUtil:60 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-01-06T18:25:28,061 [main] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-06T18:25:28,449 [main] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-06T18:25:28,451 [main] INFO  LogUtil:60 - Entering valid credentials. Username: Admin, Password: admin123
+2025-01-06T18:25:28,479 [main] INFO  LogUtil:60 - Entered username: Admin
+2025-01-06T18:25:28,530 [main] INFO  LogUtil:60 - Entered password: admin123
+2025-01-06T18:25:29,745 [main] INFO  LogUtil:60 - Clicked login button
+2025-01-06T18:25:29,745 [main] INFO  LogUtil:60 - Login button clicked.
+2025-01-06T18:25:29,746 [main] INFO  LogUtil:60 - Verifying login success and Dashboard page visibility.
+2025-01-06T18:25:30,116 [main] INFO  LogUtil:60 - Clicking on the logout button.
+2025-01-06T18:25:32,120 [main] INFO  LogUtil:60 - Clicked logout link
+2025-01-06T18:25:32,121 [main] INFO  LogUtil:60 - Verifying successful navigation to the Login page.
+2025-01-06T18:25:32,487 [main] INFO  LogUtil:60 - Test Passed: runScenario
+2025-01-06T18:25:32,488 [main] INFO  LogUtil:60 - Test Started: runScenario
+2025-01-06T18:25:32,495 [main] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (c28c52b4f830367bfc630b0474e8c4f0) at WebDriverHooks : setUp
+2025-01-06T18:25:33,032 [main] INFO  LogUtil:60 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-01-06T18:25:33,893 [main] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-06T18:25:34,234 [main] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-06T18:25:34,236 [main] INFO  LogUtil:60 - Clicking on the link: Forgot your password?
+2025-01-06T18:25:34,832 [main] INFO  LogUtil:60 - Clicked forgot password link
+2025-01-06T18:25:34,833 [main] INFO  LogUtil:60 - Verifying that I am redirected to the Reset Password page.
+2025-01-06T18:25:35,189 [main] INFO  LogUtil:60 - Entering a valid username: Admin
+2025-01-06T18:25:35,230 [main] INFO  LogUtil:60 - Entered username: Admin
+2025-01-06T18:25:35,230 [main] INFO  LogUtil:60 - Clicking on the Reset Password button.
+2025-01-06T18:25:36,186 [main] INFO  LogUtil:60 - Clicked login button
+2025-01-06T18:25:36,187 [main] INFO  LogUtil:60 - Verifying the success message and URL after clicking the Reset Password button.
+2025-01-06T18:25:36,532 [main] INFO  LogUtil:60 - Test Passed: runScenario
+2025-01-06T18:25:38,105 [main] INFO  LogUtil:60 - Test Context Finished: LoginPageTest
+2025-01-06T18:25:38,260 [main] INFO  LogUtil:60 - WebDriver instance quit for thread.
+2025-01-06T18:43:40,570 [main] INFO  LogUtil:60 - Clearing Allure results at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.23\allure-results
+2025-01-06T18:43:40,575 [main] INFO  LogUtil:60 - Deleted Allure result file: 0063c63c-75f4-440e-a537-148f0650d59a-attachment.txt
+2025-01-06T18:43:40,577 [main] INFO  LogUtil:60 - Deleted Allure result file: 00c10836-bac1-4258-b211-1d8a020a4d17-attachment.txt
+2025-01-06T18:43:40,578 [main] INFO  LogUtil:60 - Deleted Allure result file: 00d8a2bf-511d-4b31-8a2a-5d0630775c8e-attachment.txt
+2025-01-06T18:43:40,578 [main] INFO  LogUtil:60 - Deleted Allure result file: 01994c6d-d0d5-46df-a96b-dcc5a012bbd6-attachment.txt
+2025-01-06T18:43:40,579 [main] INFO  LogUtil:60 - Deleted Allure result file: 01b0a502-a885-4bb9-9b7c-989bb2b18089-attachment.txt
+2025-01-06T18:43:40,580 [main] INFO  LogUtil:60 - Deleted Allure result file: 02ccdaae-b009-402f-9965-d3a77c99f330-attachment.txt
+2025-01-06T18:43:40,582 [main] INFO  LogUtil:60 - Deleted Allure result file: 034ee4a1-b01c-4a39-9f8e-78e408004618-attachment.txt
+2025-01-06T18:43:40,582 [main] INFO  LogUtil:60 - Deleted Allure result file: 042e90d7-7d5f-40ea-8e93-4c4d3f6d6686-attachment.txt
+2025-01-06T18:43:40,583 [main] INFO  LogUtil:60 - Deleted Allure result file: 061b5d7d-e976-44b0-afd7-4d4bf9fcace5-attachment.txt
+2025-01-06T18:43:40,584 [main] INFO  LogUtil:60 - Deleted Allure result file: 06de6671-f13c-4633-bce7-bb19764a3796-attachment.txt
+2025-01-06T18:43:40,585 [main] INFO  LogUtil:60 - Deleted Allure result file: 06e99e34-d06b-435a-bdea-dee99ee247d2-attachment.txt
+2025-01-06T18:43:40,586 [main] INFO  LogUtil:60 - Deleted Allure result file: 083aa6bc-9f79-4490-b2f9-8a8a5a882520-attachment.txt
+2025-01-06T18:43:40,587 [main] INFO  LogUtil:60 - Deleted Allure result file: 099c41f0-db49-4fcc-8782-b233f8cce2f8-attachment.txt
+2025-01-06T18:43:40,588 [main] INFO  LogUtil:60 - Deleted Allure result file: 09e6b442-618a-4025-ad6f-15390ed6165a-attachment.txt
+2025-01-06T18:43:40,589 [main] INFO  LogUtil:60 - Deleted Allure result file: 09fd7bec-5fb1-4d18-b2e6-32ef70a441f1-attachment.txt
+2025-01-06T18:43:40,590 [main] INFO  LogUtil:60 - Deleted Allure result file: 0b25b516-e713-4d06-be02-368f9e957d01-attachment.txt
+2025-01-06T18:43:40,591 [main] INFO  LogUtil:60 - Deleted Allure result file: 0c0004c6-33da-48a6-8ff8-41e9b8e45b6a-attachment.txt
+2025-01-06T18:43:40,592 [main] INFO  LogUtil:60 - Deleted Allure result file: 0c978597-2dc5-425c-a005-2dfca9afb267-attachment.txt
+2025-01-06T18:43:40,593 [main] INFO  LogUtil:60 - Deleted Allure result file: 0e30f439-1cd9-48c7-a7ed-744e41f31e6d-attachment.txt
+2025-01-06T18:43:40,594 [main] INFO  LogUtil:60 - Deleted Allure result file: 0f68180d-0a11-4424-b1e2-96e873068095-attachment.txt
+2025-01-06T18:43:40,595 [main] INFO  LogUtil:60 - Deleted Allure result file: 0fc67442-7484-4a0c-97ed-883bc0d77dcd-attachment.txt
+2025-01-06T18:43:40,596 [main] INFO  LogUtil:60 - Deleted Allure result file: 1026b6b9-7628-4e5e-9c87-c78c9f7f2739-attachment.txt
+2025-01-06T18:43:40,597 [main] INFO  LogUtil:60 - Deleted Allure result file: 11c31e4c-4f25-4a90-a70d-c039226fa6d1-attachment.txt
+2025-01-06T18:43:40,598 [main] INFO  LogUtil:60 - Deleted Allure result file: 1263b672-34a9-4907-aff7-3346f414976a-attachment.txt
+2025-01-06T18:43:40,599 [main] INFO  LogUtil:60 - Deleted Allure result file: 13ee17da-bd52-4a07-83b9-84cf9727cda6-result.json
+2025-01-06T18:43:40,600 [main] INFO  LogUtil:60 - Deleted Allure result file: 14645c8a-4976-4e54-8a9a-331f361e43af-attachment.txt
+2025-01-06T18:43:40,601 [main] INFO  LogUtil:60 - Deleted Allure result file: 14d03b17-72e9-4ef7-b120-a60af3400330-attachment.txt
+2025-01-06T18:43:40,602 [main] INFO  LogUtil:60 - Deleted Allure result file: 152c9a07-f272-460f-8d22-e60699d58b35-attachment.txt
+2025-01-06T18:43:40,602 [main] INFO  LogUtil:60 - Deleted Allure result file: 16158142-6a8f-46e0-bc0f-a9be22e3fd1d-result.json
+2025-01-06T18:43:40,603 [main] INFO  LogUtil:60 - Deleted Allure result file: 16dad2b3-c8d0-424e-9a15-c292672540de-attachment.txt
+2025-01-06T18:43:40,604 [main] INFO  LogUtil:60 - Deleted Allure result file: 16ee849f-3f43-4263-ab41-233a752862b4-attachment.txt
+2025-01-06T18:43:40,605 [main] INFO  LogUtil:60 - Deleted Allure result file: 174c86dc-9ee8-4beb-b16c-b2df28500465-attachment.txt
+2025-01-06T18:43:40,606 [main] INFO  LogUtil:60 - Deleted Allure result file: 17d95612-feb4-449e-9b92-3b28c4c05dc2-attachment.txt
+2025-01-06T18:43:40,607 [main] INFO  LogUtil:60 - Deleted Allure result file: 19e4c709-d8d5-4cc5-97f4-9627712d554b-attachment.txt
+2025-01-06T18:43:40,608 [main] INFO  LogUtil:60 - Deleted Allure result file: 1a8c2bda-eaf2-4561-a995-13ed8f5aa2f2-attachment.txt
+2025-01-06T18:43:40,609 [main] INFO  LogUtil:60 - Deleted Allure result file: 1af48ec2-fa8f-4733-ae9b-bd4ee124ae1f-attachment.txt
+2025-01-06T18:43:40,610 [main] INFO  LogUtil:60 - Deleted Allure result file: 1b1723e7-6343-4385-9c59-fcea1bb9da80-attachment.txt
+2025-01-06T18:43:40,611 [main] INFO  LogUtil:60 - Deleted Allure result file: 1c8b2334-d504-4ad3-a87f-ba1761f456d6-attachment.txt
+2025-01-06T18:43:40,611 [main] INFO  LogUtil:60 - Deleted Allure result file: 1ca3198a-8351-4ee4-bce5-4b5477f12189-attachment.txt
+2025-01-06T18:43:40,612 [main] INFO  LogUtil:60 - Deleted Allure result file: 1ce2afa9-6430-487f-9946-3bc65d86a802-attachment.txt
+2025-01-06T18:43:40,613 [main] INFO  LogUtil:60 - Deleted Allure result file: 1fe4b2ca-19ff-41a1-bbcf-02819c5a5f72-attachment.txt
+2025-01-06T18:43:40,614 [main] INFO  LogUtil:60 - Deleted Allure result file: 216edffb-2056-42ee-99c5-f181464bb304-attachment.txt
+2025-01-06T18:43:40,615 [main] INFO  LogUtil:60 - Deleted Allure result file: 221eca7f-5415-4622-a3f8-6bc1bb9e9e16-attachment.txt
+2025-01-06T18:43:40,616 [main] INFO  LogUtil:60 - Deleted Allure result file: 22a05005-dc2d-4b3f-b685-398619084913-attachment.txt
+2025-01-06T18:43:40,617 [main] INFO  LogUtil:60 - Deleted Allure result file: 23fd9aac-518d-408a-aab4-28302e43752a-attachment.txt
+2025-01-06T18:43:40,617 [main] INFO  LogUtil:60 - Deleted Allure result file: 2529d13d-dfa2-4de6-9f32-df82b4c1a7c2-attachment.txt
+2025-01-06T18:43:40,618 [main] INFO  LogUtil:60 - Deleted Allure result file: 25aeb0ea-041f-40f5-bdbc-6c850f856f60-attachment.txt
+2025-01-06T18:43:40,619 [main] INFO  LogUtil:60 - Deleted Allure result file: 25d94ddb-dc9e-4753-9675-7d3cf18e49e2-attachment.txt
+2025-01-06T18:43:40,620 [main] INFO  LogUtil:60 - Deleted Allure result file: 26a0fab2-b448-4575-b060-8a61954960ab-attachment.txt
+2025-01-06T18:43:40,621 [main] INFO  LogUtil:60 - Deleted Allure result file: 27526654-fa89-4edb-bd48-c702ed59393f-attachment.txt
+2025-01-06T18:43:40,622 [main] INFO  LogUtil:60 - Deleted Allure result file: 27632025-9e01-41ad-b584-d3a0705e2b94-attachment.txt
+2025-01-06T18:43:40,623 [main] INFO  LogUtil:60 - Deleted Allure result file: 27e3eb4c-fe6d-4afa-a881-3ea94c6020b9-attachment.txt
+2025-01-06T18:43:40,623 [main] INFO  LogUtil:60 - Deleted Allure result file: 2944d1c5-1fa4-4574-a14d-b32e8182c7d5-attachment.txt
+2025-01-06T18:43:40,624 [main] INFO  LogUtil:60 - Deleted Allure result file: 2b0940f5-30bc-4ef7-8048-eb94ffc10543-attachment.txt
+2025-01-06T18:43:40,625 [main] INFO  LogUtil:60 - Deleted Allure result file: 2c042920-17a5-4ca6-8524-a4955a015a58-attachment.txt
+2025-01-06T18:43:40,626 [main] INFO  LogUtil:60 - Deleted Allure result file: 2c54c61b-c1be-4476-a0b7-3e6d8a2871c3-container.json
+2025-01-06T18:43:40,627 [main] INFO  LogUtil:60 - Deleted Allure result file: 2d1bcf75-d262-40e9-808f-5209dcf9d78f-attachment.txt
+2025-01-06T18:43:40,627 [main] INFO  LogUtil:60 - Deleted Allure result file: 2d287470-3f08-4908-8285-8704ac07333b-attachment.txt
+2025-01-06T18:43:40,628 [main] INFO  LogUtil:60 - Deleted Allure result file: 2d63ae75-61dd-40ea-bd58-e9e24e241636-attachment.txt
+2025-01-06T18:43:40,629 [main] INFO  LogUtil:60 - Deleted Allure result file: 2e3696df-a6db-4e04-9300-abaa7e662e34-result.json
+2025-01-06T18:43:40,630 [main] INFO  LogUtil:60 - Deleted Allure result file: 2ea89c2d-b22a-495b-8d29-034f0af02699-attachment.txt
+2025-01-06T18:43:40,631 [main] INFO  LogUtil:60 - Deleted Allure result file: 2f6b5793-2003-4c04-8013-034bdbc927b2-attachment.txt
+2025-01-06T18:43:40,631 [main] INFO  LogUtil:60 - Deleted Allure result file: 2f8b5c82-425a-4a43-aedd-3dba859d170d-attachment.txt
+2025-01-06T18:43:40,632 [main] INFO  LogUtil:60 - Deleted Allure result file: 2fe08e6c-7fd2-41fd-aa49-5bdc6c1dd84a-attachment.txt
+2025-01-06T18:43:40,633 [main] INFO  LogUtil:60 - Deleted Allure result file: 3213af05-f4ba-420c-9d9a-25afdba700f4-container.json
+2025-01-06T18:43:40,634 [main] INFO  LogUtil:60 - Deleted Allure result file: 33c39d03-2207-45ce-ae84-8794df25563b-container.json
+2025-01-06T18:43:40,634 [main] INFO  LogUtil:60 - Deleted Allure result file: 34557440-9ff7-46e3-bccd-a0d497326f3e-attachment.txt
+2025-01-06T18:43:40,635 [main] INFO  LogUtil:60 - Deleted Allure result file: 371163e4-dea7-47e0-916e-3e455a1c44fe-attachment.txt
+2025-01-06T18:43:40,636 [main] INFO  LogUtil:60 - Deleted Allure result file: 38477057-75c8-4544-b8b4-008d8b41030b-attachment.txt
+2025-01-06T18:43:40,637 [main] INFO  LogUtil:60 - Deleted Allure result file: 39839f98-4cb7-4e54-9e8f-0456063ab1b1-attachment.txt
+2025-01-06T18:43:40,637 [main] INFO  LogUtil:60 - Deleted Allure result file: 39b2060b-9df7-46b3-b559-f5d32fffc23d-attachment.txt
+2025-01-06T18:43:40,638 [main] INFO  LogUtil:60 - Deleted Allure result file: 3a0e5aea-2b41-4b1d-8b56-100aea01887f-attachment.txt
+2025-01-06T18:43:40,639 [main] INFO  LogUtil:60 - Deleted Allure result file: 3a656158-21e3-4df8-89d4-7a124fb9cafb-attachment.txt
+2025-01-06T18:43:40,640 [main] INFO  LogUtil:60 - Deleted Allure result file: 3c5dc566-58a1-46ab-b0e3-5e396c2eeb3f-attachment.txt
+2025-01-06T18:43:40,640 [main] INFO  LogUtil:60 - Deleted Allure result file: 3d695e66-14b4-4fd9-9a98-d0d6d81dbc1a-attachment.txt
+2025-01-06T18:43:40,641 [main] INFO  LogUtil:60 - Deleted Allure result file: 3e027a29-b57c-473e-90b0-e17ed6195576-attachment.txt
+2025-01-06T18:43:40,642 [main] INFO  LogUtil:60 - Deleted Allure result file: 3e48fadc-7cc2-4646-89cd-fc77a0137779-attachment.txt
+2025-01-06T18:43:40,642 [main] INFO  LogUtil:60 - Deleted Allure result file: 3e86c47f-b561-47d5-a14c-ccb014a41723-attachment.txt
+2025-01-06T18:43:40,643 [main] INFO  LogUtil:60 - Deleted Allure result file: 3f2110ba-8867-444f-9454-80c21f0ee761-attachment.txt
+2025-01-06T18:43:40,644 [main] INFO  LogUtil:60 - Deleted Allure result file: 3fee46e3-15e6-4e42-bfbd-8e41390ff5bb-attachment.txt
+2025-01-06T18:43:40,644 [main] INFO  LogUtil:60 - Deleted Allure result file: 3ffc522e-6310-4abf-89f4-598dedb19dfc-attachment.txt
+2025-01-06T18:43:40,645 [main] INFO  LogUtil:60 - Deleted Allure result file: 42f236a3-b6ae-4f49-9096-ac96aeda5445-attachment.txt
+2025-01-06T18:43:40,646 [main] INFO  LogUtil:60 - Deleted Allure result file: 439e1967-21ee-4652-b361-fb54168a7c2a-attachment.txt
+2025-01-06T18:43:40,647 [main] INFO  LogUtil:60 - Deleted Allure result file: 441a706a-e3c6-4905-8657-e74f8760f97b-attachment.txt
+2025-01-06T18:43:40,647 [main] INFO  LogUtil:60 - Deleted Allure result file: 461d730f-448e-437e-86b5-20d28d26719d-attachment.txt
+2025-01-06T18:43:40,648 [main] INFO  LogUtil:60 - Deleted Allure result file: 470bcc5a-263c-410a-a836-122746460887-attachment.txt
+2025-01-06T18:43:40,649 [main] INFO  LogUtil:60 - Deleted Allure result file: 47c643ed-d3b0-4358-a644-c479341b20a5-attachment.txt
+2025-01-06T18:43:40,650 [main] INFO  LogUtil:60 - Deleted Allure result file: 48fe42fa-490e-4cfb-9dc9-ba4ce3c9526f-attachment.txt
+2025-01-06T18:43:40,651 [main] INFO  LogUtil:60 - Deleted Allure result file: 497ce309-d39b-4e06-bf3e-5a5724d12b80-attachment.txt
+2025-01-06T18:43:40,651 [main] INFO  LogUtil:60 - Deleted Allure result file: 498829dc-a5c5-43ca-8ef8-608369f82a9d-attachment.txt
+2025-01-06T18:43:40,652 [main] INFO  LogUtil:60 - Deleted Allure result file: 49955375-6422-4489-9e5b-9a53e54c87e6-attachment.txt
+2025-01-06T18:43:40,653 [main] INFO  LogUtil:60 - Deleted Allure result file: 4a12340a-ccb9-48ed-b1a0-fed79eed4f84-attachment.txt
+2025-01-06T18:43:40,654 [main] INFO  LogUtil:60 - Deleted Allure result file: 4ad403e9-a6e3-43a3-8af1-2e78870bc2b2-attachment.txt
+2025-01-06T18:43:40,654 [main] INFO  LogUtil:60 - Deleted Allure result file: 4b0ab119-9173-4505-a086-184183511ae8-attachment.txt
+2025-01-06T18:43:40,655 [main] INFO  LogUtil:60 - Deleted Allure result file: 4b344018-9355-4e9d-b1eb-58b551073fc8-attachment.txt
+2025-01-06T18:43:40,656 [main] INFO  LogUtil:60 - Deleted Allure result file: 4b4ba25f-30eb-4b24-9a56-9a09fc5f4fe2-attachment.txt
+2025-01-06T18:43:40,657 [main] INFO  LogUtil:60 - Deleted Allure result file: 4b9c6590-3145-4247-9697-3489e676e142-attachment.txt
+2025-01-06T18:43:40,657 [main] INFO  LogUtil:60 - Deleted Allure result file: 4c12af38-8844-41a6-91b5-3a38ae663e9d-attachment.txt
+2025-01-06T18:43:40,658 [main] INFO  LogUtil:60 - Deleted Allure result file: 4caaf6ee-c7cd-4f34-97bc-fe761fd5b42a-attachment.txt
+2025-01-06T18:43:40,659 [main] INFO  LogUtil:60 - Deleted Allure result file: 4ccd8353-cc4a-4458-8749-aaa12ae8cb80-attachment.txt
+2025-01-06T18:43:40,659 [main] INFO  LogUtil:60 - Deleted Allure result file: 4d8599f8-a73c-4921-9293-fa7a3e1eed93-attachment.txt
+2025-01-06T18:43:40,660 [main] INFO  LogUtil:60 - Deleted Allure result file: 4e4b77b5-9ad5-4379-bd3e-920c7fd45b0d-attachment.txt
+2025-01-06T18:43:40,661 [main] INFO  LogUtil:60 - Deleted Allure result file: 4fce51a9-8164-4668-81d7-ced17b0508a3-attachment.txt
+2025-01-06T18:43:40,661 [main] INFO  LogUtil:60 - Deleted Allure result file: 5011a791-88fd-4ca6-85ec-ca11f3d557ba-attachment.txt
+2025-01-06T18:43:40,662 [main] INFO  LogUtil:60 - Deleted Allure result file: 50fba563-1411-4266-9ecb-ee802ac6903c-attachment.txt
+2025-01-06T18:43:40,663 [main] INFO  LogUtil:60 - Deleted Allure result file: 51651506-43e2-4183-9e44-3c41f42b1ca5-attachment.txt
+2025-01-06T18:43:40,663 [main] INFO  LogUtil:60 - Deleted Allure result file: 5186f31c-bcf4-4127-b981-a3e5f89dbe49-attachment.txt
+2025-01-06T18:43:40,664 [main] INFO  LogUtil:60 - Deleted Allure result file: 51a24142-ac8b-4296-84f1-5c5ca6a0786c-attachment.txt
+2025-01-06T18:43:40,665 [main] INFO  LogUtil:60 - Deleted Allure result file: 529d6e6d-4d6a-4649-a768-532def9ecffd-attachment.txt
+2025-01-06T18:43:40,665 [main] INFO  LogUtil:60 - Deleted Allure result file: 541ed5b6-98db-46a8-b36d-07eb799927ee-attachment.txt
+2025-01-06T18:43:40,666 [main] INFO  LogUtil:60 - Deleted Allure result file: 5562e0e5-fb26-46c2-8dbc-37ea4fdcacf4-attachment.txt
+2025-01-06T18:43:40,667 [main] INFO  LogUtil:60 - Deleted Allure result file: 56805429-a7bc-4ce2-8542-8f9b7cd19200-attachment.txt
+2025-01-06T18:43:40,667 [main] INFO  LogUtil:60 - Deleted Allure result file: 5728c567-d4b2-4e7f-b151-7818aa48cc22-attachment.txt
+2025-01-06T18:43:40,668 [main] INFO  LogUtil:60 - Deleted Allure result file: 574946c3-c022-4852-a518-00634632c84b-attachment.txt
+2025-01-06T18:43:40,669 [main] INFO  LogUtil:60 - Deleted Allure result file: 57b436f7-0a77-4eb8-9ae6-8f49082e6260-attachment.txt
+2025-01-06T18:43:40,670 [main] INFO  LogUtil:60 - Deleted Allure result file: 57f62baf-950f-4331-a930-bda69db84e63-attachment.txt
+2025-01-06T18:43:40,670 [main] INFO  LogUtil:60 - Deleted Allure result file: 57f7d099-8d25-4d84-9b00-c4a057db41f1-attachment.txt
+2025-01-06T18:43:40,671 [main] INFO  LogUtil:60 - Deleted Allure result file: 5890396e-7e10-4ed1-9016-4ae5bdca094a-attachment.txt
+2025-01-06T18:43:40,672 [main] INFO  LogUtil:60 - Deleted Allure result file: 58a82f39-0e1e-4bee-8274-50ea05af17a1-attachment.txt
+2025-01-06T18:43:40,672 [main] INFO  LogUtil:60 - Deleted Allure result file: 5929c527-ce54-44a9-8830-286be4f39dc9-attachment.txt
+2025-01-06T18:43:40,673 [main] INFO  LogUtil:60 - Deleted Allure result file: 5986c5b2-6aa3-4f38-a359-7e289e90e5b5-attachment.txt
+2025-01-06T18:43:40,674 [main] INFO  LogUtil:60 - Deleted Allure result file: 598c5e78-dd82-4221-b7da-b0bf5e3c5edf-attachment.txt
+2025-01-06T18:43:40,675 [main] INFO  LogUtil:60 - Deleted Allure result file: 5bcfe8a6-d5ee-467f-a6ff-48a2de2a6a1e-attachment.txt
+2025-01-06T18:43:40,675 [main] INFO  LogUtil:60 - Deleted Allure result file: 5c4333e4-f394-4d07-8600-62c71ed0fb48-attachment.txt
+2025-01-06T18:43:40,676 [main] INFO  LogUtil:60 - Deleted Allure result file: 5d16b021-6704-4942-95e4-758110b2ba6d-attachment.txt
+2025-01-06T18:43:40,677 [main] INFO  LogUtil:60 - Deleted Allure result file: 5d3e4328-2689-4efc-8a87-ee93300a523b-attachment.txt
+2025-01-06T18:43:40,678 [main] INFO  LogUtil:60 - Deleted Allure result file: 5fc213f8-7391-41f3-bcb1-4b3c7f927d79-attachment.txt
+2025-01-06T18:43:40,679 [main] INFO  LogUtil:60 - Deleted Allure result file: 5fec4639-a864-4dbd-b51b-c57420a6808a-attachment.txt
+2025-01-06T18:43:40,680 [main] INFO  LogUtil:60 - Deleted Allure result file: 606f63e9-75b3-42e9-a6fc-25fc658e5233-attachment.txt
+2025-01-06T18:43:40,681 [main] INFO  LogUtil:60 - Deleted Allure result file: 61b0a42d-e887-46a4-af17-1cc675cb7a13-attachment.txt
+2025-01-06T18:43:40,682 [main] INFO  LogUtil:60 - Deleted Allure result file: 61d01823-f7f2-4bfa-ad0a-6df61b59feac-attachment.txt
+2025-01-06T18:43:40,683 [main] INFO  LogUtil:60 - Deleted Allure result file: 62f0f8db-caf7-4064-b5b0-bf069e5723cc-attachment.txt
+2025-01-06T18:43:40,684 [main] INFO  LogUtil:60 - Deleted Allure result file: 64926a9b-0d5a-4313-aa30-32df55cc2e51-attachment.txt
+2025-01-06T18:43:40,685 [main] INFO  LogUtil:60 - Deleted Allure result file: 661358e1-7747-47bd-8415-0f07a6bf7017-container.json
+2025-01-06T18:43:40,685 [main] INFO  LogUtil:60 - Deleted Allure result file: 667dad4f-81d8-4512-a1c7-660029b9748d-attachment.txt
+2025-01-06T18:43:40,686 [main] INFO  LogUtil:60 - Deleted Allure result file: 67222f41-875a-487c-b13c-53a53b08a43b-attachment.txt
+2025-01-06T18:43:40,687 [main] INFO  LogUtil:60 - Deleted Allure result file: 686064b5-3fb2-442e-88ba-de18a8aafec9-attachment.txt
+2025-01-06T18:43:40,687 [main] INFO  LogUtil:60 - Deleted Allure result file: 69b44283-aab5-43c8-a969-0e3168c8e9a5-attachment.txt
+2025-01-06T18:43:40,688 [main] INFO  LogUtil:60 - Deleted Allure result file: 6b61513c-3bdc-46dd-ae31-5d653f4f7b35-attachment.txt
+2025-01-06T18:43:40,689 [main] INFO  LogUtil:60 - Deleted Allure result file: 6b737007-f3c0-4796-ada5-5e1c347119d8-attachment.txt
+2025-01-06T18:43:40,689 [main] INFO  LogUtil:60 - Deleted Allure result file: 6ba0252f-7f74-48f4-80e2-1c46e2ce5c71-attachment.txt
+2025-01-06T18:43:40,690 [main] INFO  LogUtil:60 - Deleted Allure result file: 6c4f22d3-c160-4e49-8a29-a4e36f5327eb-attachment.txt
+2025-01-06T18:43:40,691 [main] INFO  LogUtil:60 - Deleted Allure result file: 6c8433c0-7b4d-4b76-890e-1c55914dc356-attachment.txt
+2025-01-06T18:43:40,691 [main] INFO  LogUtil:60 - Deleted Allure result file: 6cf3fbca-90c1-4773-9fc0-15cdea66f56f-attachment.txt
+2025-01-06T18:43:40,692 [main] INFO  LogUtil:60 - Deleted Allure result file: 6dc1eb61-50b6-43d7-98e5-fd3257460515-attachment.txt
+2025-01-06T18:43:40,693 [main] INFO  LogUtil:60 - Deleted Allure result file: 6e2bf20c-fc1d-4d98-9be4-07ff678f0b7b-attachment.txt
+2025-01-06T18:43:40,693 [main] INFO  LogUtil:60 - Deleted Allure result file: 6ee97556-05f8-4e41-9f99-16387196c0b6-attachment.txt
+2025-01-06T18:43:40,694 [main] INFO  LogUtil:60 - Deleted Allure result file: 6ff88bfe-063e-451d-aaed-fa743a2a9fe5-attachment.txt
+2025-01-06T18:43:40,695 [main] INFO  LogUtil:60 - Deleted Allure result file: 7043efba-61fa-4e87-bdd2-054384654b52-attachment.txt
+2025-01-06T18:43:40,696 [main] INFO  LogUtil:60 - Deleted Allure result file: 70af2171-2c13-4213-b01a-4c8b9e60f541-attachment.txt
+2025-01-06T18:43:40,696 [main] INFO  LogUtil:60 - Deleted Allure result file: 70e21857-5b14-4c5c-b8c9-14ac7a44abdf-attachment.txt
+2025-01-06T18:43:40,697 [main] INFO  LogUtil:60 - Deleted Allure result file: 71f8ae94-4923-4356-b666-8677d1753b0c-attachment.txt
+2025-01-06T18:43:40,698 [main] INFO  LogUtil:60 - Deleted Allure result file: 72887caf-8458-4728-83a9-4ca515a3c8b1-attachment.txt
+2025-01-06T18:43:40,698 [main] INFO  LogUtil:60 - Deleted Allure result file: 7295a586-3f7f-4e74-9584-1efd234671d9-attachment.txt
+2025-01-06T18:43:40,699 [main] INFO  LogUtil:60 - Deleted Allure result file: 72c998cb-d733-4a38-b8bc-288fd2d28422-attachment.txt
+2025-01-06T18:43:40,700 [main] INFO  LogUtil:60 - Deleted Allure result file: 7326a301-6a48-4aa5-b7a5-6250a4c7acd0-attachment.txt
+2025-01-06T18:43:40,700 [main] INFO  LogUtil:60 - Deleted Allure result file: 741dba84-d9dc-480d-8522-3c2df28f4167-attachment.txt
+2025-01-06T18:43:40,701 [main] INFO  LogUtil:60 - Deleted Allure result file: 74395ff4-329c-490c-ba8e-8c0eb01ec96e-attachment.txt
+2025-01-06T18:43:40,702 [main] INFO  LogUtil:60 - Deleted Allure result file: 74908f5c-97fb-463b-ba83-5f61ca782157-attachment.txt
+2025-01-06T18:43:40,703 [main] INFO  LogUtil:60 - Deleted Allure result file: 74e39e67-f5f8-4151-b770-7206d9582c92-attachment.txt
+2025-01-06T18:43:40,703 [main] INFO  LogUtil:60 - Deleted Allure result file: 759fe580-6b0d-4536-b347-3b2e91c7c537-attachment.txt
+2025-01-06T18:43:40,704 [main] INFO  LogUtil:60 - Deleted Allure result file: 75a7a0b3-b083-4510-acdf-f2949f340e2e-attachment.txt
+2025-01-06T18:43:40,705 [main] INFO  LogUtil:60 - Deleted Allure result file: 7748cadc-5158-4d60-8257-b9d263436848-attachment.txt
+2025-01-06T18:43:40,705 [main] INFO  LogUtil:60 - Deleted Allure result file: 7818b4a4-8ed7-47db-99c0-767a14bde991-attachment.txt
+2025-01-06T18:43:40,706 [main] INFO  LogUtil:60 - Deleted Allure result file: 785b1e7e-03ba-4bff-9299-17a200265f3a-attachment.txt
+2025-01-06T18:43:40,707 [main] INFO  LogUtil:60 - Deleted Allure result file: 79169d83-7b4a-4e32-b37b-290acfad2cb3-attachment.txt
+2025-01-06T18:43:40,708 [main] INFO  LogUtil:60 - Deleted Allure result file: 796e0f71-6775-4411-8f18-fee28815b5d3-container.json
+2025-01-06T18:43:40,708 [main] INFO  LogUtil:60 - Deleted Allure result file: 79fa3853-d554-49c7-bfa5-6ad1095ec0bc-attachment.txt
+2025-01-06T18:43:40,709 [main] INFO  LogUtil:60 - Deleted Allure result file: 79fd15fe-1192-4870-a0df-f3d2274f7129-attachment.txt
+2025-01-06T18:43:40,710 [main] INFO  LogUtil:60 - Deleted Allure result file: 7a32520e-8954-4f20-b05c-5f15623e05f1-attachment.txt
+2025-01-06T18:43:40,711 [main] INFO  LogUtil:60 - Deleted Allure result file: 7b36d1f6-3b48-4646-8821-1c37d1ab48b3-attachment.txt
+2025-01-06T18:43:40,711 [main] INFO  LogUtil:60 - Deleted Allure result file: 7b6f2dfc-c394-43a2-8bdf-d305ad71637c-attachment.txt
+2025-01-06T18:43:40,712 [main] INFO  LogUtil:60 - Deleted Allure result file: 7de31cc8-beee-4d79-a5dd-8e6a254b6085-attachment.txt
+2025-01-06T18:43:40,713 [main] INFO  LogUtil:60 - Deleted Allure result file: 7f13ec10-b1fd-4729-99de-ca49aa4216d1-attachment.txt
+2025-01-06T18:43:40,714 [main] INFO  LogUtil:60 - Deleted Allure result file: 7f9c4f3b-e5f6-4b6a-81d2-2ec68c7e8821-attachment.txt
+2025-01-06T18:43:40,715 [main] INFO  LogUtil:60 - Deleted Allure result file: 7fa8bade-3dcf-4090-83b4-e0796952845a-attachment.txt
+2025-01-06T18:43:40,716 [main] INFO  LogUtil:60 - Deleted Allure result file: 81000bde-bf60-469c-8c72-7c333667a0d4-attachment.txt
+2025-01-06T18:43:40,717 [main] INFO  LogUtil:60 - Deleted Allure result file: 813d61a7-3059-4634-a2c9-e58e3232f6a3-attachment.txt
+2025-01-06T18:43:40,717 [main] INFO  LogUtil:60 - Deleted Allure result file: 831cb1ea-6d13-4813-92af-3191134d4d4a-attachment.txt
+2025-01-06T18:43:40,718 [main] INFO  LogUtil:60 - Deleted Allure result file: 84862267-e22e-4a65-a565-a1f65a0d7269-attachment.txt
+2025-01-06T18:43:40,719 [main] INFO  LogUtil:60 - Deleted Allure result file: 85336347-9154-4f9e-ab1f-edb9c2d55921-attachment.txt
+2025-01-06T18:43:40,720 [main] INFO  LogUtil:60 - Deleted Allure result file: 855228e1-bd2d-409c-8b09-81414df8ab77-attachment.txt
+2025-01-06T18:43:40,721 [main] INFO  LogUtil:60 - Deleted Allure result file: 8564d488-2d8a-48df-86e1-18973c5ded59-attachment.txt
+2025-01-06T18:43:40,721 [main] INFO  LogUtil:60 - Deleted Allure result file: 861ff1ea-99e6-4ede-9c41-2f8cd27e474b-attachment.txt
+2025-01-06T18:43:40,722 [main] INFO  LogUtil:60 - Deleted Allure result file: 86ce6631-03d5-48bb-b31e-95cc9a493b1a-attachment.txt
+2025-01-06T18:43:40,723 [main] INFO  LogUtil:60 - Deleted Allure result file: 87a4efa3-18ea-4282-8cb6-f36600f85107-attachment.txt
+2025-01-06T18:43:40,723 [main] INFO  LogUtil:60 - Deleted Allure result file: 880ae783-9d9f-48a6-9555-98ad45136110-attachment.txt
+2025-01-06T18:43:40,724 [main] INFO  LogUtil:60 - Deleted Allure result file: 883b3666-a672-4aba-aa9d-40cf4e3d3d31-attachment.txt
+2025-01-06T18:43:40,725 [main] INFO  LogUtil:60 - Deleted Allure result file: 88ca9cb4-28bc-4df7-a451-27e2c0dd85bc-attachment.txt
+2025-01-06T18:43:40,726 [main] INFO  LogUtil:60 - Deleted Allure result file: 8a14e845-3f18-410c-9a01-3a4e1b791fe7-attachment.txt
+2025-01-06T18:43:40,727 [main] INFO  LogUtil:60 - Deleted Allure result file: 8becfce0-0be4-4959-a9db-3342e85e3cd9-attachment.txt
+2025-01-06T18:43:40,729 [main] INFO  LogUtil:60 - Deleted Allure result file: 8bef990d-7721-425c-83e7-8d02134963e0-attachment.txt
+2025-01-06T18:43:40,730 [main] INFO  LogUtil:60 - Deleted Allure result file: 8c3d3b8b-b180-47e5-bc8a-64147c61737e-attachment.txt
+2025-01-06T18:43:40,731 [main] INFO  LogUtil:60 - Deleted Allure result file: 8d39af32-8192-4206-827b-d9966c324c8e-attachment.txt
+2025-01-06T18:43:40,732 [main] INFO  LogUtil:60 - Deleted Allure result file: 8d9da40a-464d-47b3-b851-f5f7d99c415c-attachment.txt
+2025-01-06T18:43:40,732 [main] INFO  LogUtil:60 - Deleted Allure result file: 8e90cd22-700e-4c8a-a1a2-7f8818809761-attachment.txt
+2025-01-06T18:43:40,733 [main] INFO  LogUtil:60 - Deleted Allure result file: 8f2ae6a8-a47c-461a-82d9-cbf92bea196a-attachment.txt
+2025-01-06T18:43:40,734 [main] INFO  LogUtil:60 - Deleted Allure result file: 8fad089e-f7cd-4080-8b7b-dd9037407261-attachment.txt
+2025-01-06T18:43:40,734 [main] INFO  LogUtil:60 - Deleted Allure result file: 8fc38da1-9c14-46c5-acc1-e635d2c96481-attachment.txt
+2025-01-06T18:43:40,735 [main] INFO  LogUtil:60 - Deleted Allure result file: 8fc944e4-b566-4db2-9a71-929fa7495d02-attachment.txt
+2025-01-06T18:43:40,736 [main] INFO  LogUtil:60 - Deleted Allure result file: 914d18c0-6485-49de-9ae7-9fa11fba2a0d-attachment.txt
+2025-01-06T18:43:40,737 [main] INFO  LogUtil:60 - Deleted Allure result file: 92b8f3d3-8c51-4a02-9390-fc3583a8d8a9-attachment.txt
+2025-01-06T18:43:40,737 [main] INFO  LogUtil:60 - Deleted Allure result file: 941fe040-ec6c-4e75-aa1f-98b4306b0518-attachment.txt
+2025-01-06T18:43:40,738 [main] INFO  LogUtil:60 - Deleted Allure result file: 945f39f4-6303-4e26-a917-455f064f7343-attachment.txt
+2025-01-06T18:43:40,739 [main] INFO  LogUtil:60 - Deleted Allure result file: 947f0a08-d48d-4cf3-9e4f-e0eed44069ad-attachment.txt
+2025-01-06T18:43:40,739 [main] INFO  LogUtil:60 - Deleted Allure result file: 95387587-7572-4e22-8fcb-b44d355e7fb6-attachment.txt
+2025-01-06T18:43:40,740 [main] INFO  LogUtil:60 - Deleted Allure result file: 95b69762-7c27-49db-902d-6c4bdba7d061-attachment.txt
+2025-01-06T18:43:40,741 [main] INFO  LogUtil:60 - Deleted Allure result file: 97a8e87d-c480-4768-a2e1-d96003088924-attachment.txt
+2025-01-06T18:43:40,741 [main] INFO  LogUtil:60 - Deleted Allure result file: 97d557ce-9f64-4579-86b5-f37e6677373e-attachment.txt
+2025-01-06T18:43:40,742 [main] INFO  LogUtil:60 - Deleted Allure result file: 97f03e97-84b0-4c72-bee0-f0cf0f0e8e4b-attachment.txt
+2025-01-06T18:43:40,743 [main] INFO  LogUtil:60 - Deleted Allure result file: 97f45fb0-b2ed-4222-8f3e-297a4455c877-attachment.txt
+2025-01-06T18:43:40,744 [main] INFO  LogUtil:60 - Deleted Allure result file: 9800f9b5-e054-456c-88b0-4171f136bdbc-attachment.txt
+2025-01-06T18:43:40,744 [main] INFO  LogUtil:60 - Deleted Allure result file: 9847c8ac-b395-499e-b68b-7afa3301dd39-attachment.txt
+2025-01-06T18:43:40,745 [main] INFO  LogUtil:60 - Deleted Allure result file: 98e1da98-98c2-40d6-aec5-fe6dd193ba33-attachment.txt
+2025-01-06T18:43:40,746 [main] INFO  LogUtil:60 - Deleted Allure result file: 9cb07155-f87d-4e45-8a41-179f74ecb306-attachment.txt
+2025-01-06T18:43:40,746 [main] INFO  LogUtil:60 - Deleted Allure result file: 9d7a8647-e41d-46da-8230-5f51467441e0-attachment.txt
+2025-01-06T18:43:40,747 [main] INFO  LogUtil:60 - Deleted Allure result file: 9dc62f79-3c11-4dc7-8928-13f005abd76a-attachment.txt
+2025-01-06T18:43:40,748 [main] INFO  LogUtil:60 - Deleted Allure result file: 9f3dc48f-0561-4dc1-be9e-f1851194cd73-attachment.txt
+2025-01-06T18:43:40,748 [main] INFO  LogUtil:60 - Deleted Allure result file: 9fb4ff85-343f-4f47-a774-863d8282c3fe-attachment.txt
+2025-01-06T18:43:40,749 [main] INFO  LogUtil:60 - Deleted Allure result file: a012a767-f8e4-4814-b554-ac71b1e69941-attachment.txt
+2025-01-06T18:43:40,750 [main] INFO  LogUtil:60 - Deleted Allure result file: a13f0078-7691-4134-a9eb-21fb9a24a9d1-attachment.txt
+2025-01-06T18:43:40,750 [main] INFO  LogUtil:60 - Deleted Allure result file: a1502454-3e4b-4532-9c43-b93cf54a2c9a-attachment.txt
+2025-01-06T18:43:40,751 [main] INFO  LogUtil:60 - Deleted Allure result file: a17a920c-2e74-4b4e-8ee6-f4c8499674f2-attachment.txt
+2025-01-06T18:43:40,752 [main] INFO  LogUtil:60 - Deleted Allure result file: a2b70f40-5eea-43d2-973f-428687efa109-attachment.txt
+2025-01-06T18:43:40,752 [main] INFO  LogUtil:60 - Deleted Allure result file: a5bf5f85-e027-428b-9b9e-47fd3ff14e4c-attachment.txt
+2025-01-06T18:43:40,753 [main] INFO  LogUtil:60 - Deleted Allure result file: a5e5d74d-afa0-44d4-b515-02cc6c33edc2-attachment.txt
+2025-01-06T18:43:40,754 [main] INFO  LogUtil:60 - Deleted Allure result file: a64cfcd0-ce06-416d-81f4-70270ce129e2-attachment.txt
+2025-01-06T18:43:40,754 [main] INFO  LogUtil:60 - Deleted Allure result file: a74dcad4-93f9-4764-a197-7ef39913f42c-attachment.txt
+2025-01-06T18:43:40,755 [main] INFO  LogUtil:60 - Deleted Allure result file: a8772218-2374-43a8-a1fd-592bd1a888a2-attachment.txt
+2025-01-06T18:43:40,756 [main] INFO  LogUtil:60 - Deleted Allure result file: a90e6688-2c2a-4075-8662-c697c0b4e2db-attachment.txt
+2025-01-06T18:43:40,756 [main] INFO  LogUtil:60 - Deleted Allure result file: a9241377-1ee7-4f97-acb4-a083b8b47a47-attachment.txt
+2025-01-06T18:43:40,757 [main] INFO  LogUtil:60 - Deleted Allure result file: a9d8c5c0-d854-4272-b086-91cb169e3e45-attachment.txt
+2025-01-06T18:43:40,758 [main] INFO  LogUtil:60 - Deleted Allure result file: a9de5271-7666-4e50-86d1-279b102edca9-attachment.txt
+2025-01-06T18:43:40,758 [main] INFO  LogUtil:60 - Deleted Allure result file: aa7b1d0d-4499-4093-b2ec-1b5e31915245-container.json
+2025-01-06T18:43:40,759 [main] INFO  LogUtil:60 - Deleted Allure result file: ac0b876b-e234-4874-a648-817d91a77ce6-attachment.txt
+2025-01-06T18:43:40,760 [main] INFO  LogUtil:60 - Deleted Allure result file: ac6b7de5-173e-4f87-837c-67c600f65eaf-attachment.txt
+2025-01-06T18:43:40,760 [main] INFO  LogUtil:60 - Deleted Allure result file: ad26e3c9-5aff-497f-9c5c-6d7440a456a8-attachment.txt
+2025-01-06T18:43:40,761 [main] INFO  LogUtil:60 - Deleted Allure result file: ad6ea9bc-e2dd-43a0-ac16-95254da28e47-attachment.txt
+2025-01-06T18:43:40,762 [main] INFO  LogUtil:60 - Deleted Allure result file: ad88b51f-a14a-4a50-ac38-a7a67f5b5c46-attachment.txt
+2025-01-06T18:43:40,763 [main] INFO  LogUtil:60 - Deleted Allure result file: ae46c55b-e100-4217-a83a-caeeafbafb84-attachment.txt
+2025-01-06T18:43:40,764 [main] INFO  LogUtil:60 - Deleted Allure result file: af0ab316-f9e5-4a3a-a870-b550b7ec031f-attachment.txt
+2025-01-06T18:43:40,765 [main] INFO  LogUtil:60 - Deleted Allure result file: afcf050f-3a36-40c6-bf81-77a27eadc61b-attachment.txt
+2025-01-06T18:43:40,766 [main] INFO  LogUtil:60 - Deleted Allure result file: b142da7b-2b71-4664-a116-bd546b443d7e-attachment.txt
+2025-01-06T18:43:40,766 [main] INFO  LogUtil:60 - Deleted Allure result file: b21b587f-ec55-4c06-a222-ee14b5d5bfa5-attachment.txt
+2025-01-06T18:43:40,767 [main] INFO  LogUtil:60 - Deleted Allure result file: b3edf04c-f311-489f-92ba-f5ad9c47ef0b-attachment.txt
+2025-01-06T18:43:40,768 [main] INFO  LogUtil:60 - Deleted Allure result file: b46ef385-8376-4952-bc21-a623c13f9225-attachment.txt
+2025-01-06T18:43:40,769 [main] INFO  LogUtil:60 - Deleted Allure result file: b5010cdf-008f-4049-b711-9e55573a9688-attachment.txt
+2025-01-06T18:43:40,770 [main] INFO  LogUtil:60 - Deleted Allure result file: b57f8b03-f71e-44bb-8fdc-2bea57ac78ed-attachment.txt
+2025-01-06T18:43:40,771 [main] INFO  LogUtil:60 - Deleted Allure result file: b675fe4a-2eb8-430e-8717-7b862a678252-attachment.txt
+2025-01-06T18:43:40,771 [main] INFO  LogUtil:60 - Deleted Allure result file: b69e9484-6b6a-4872-83ff-8b68c3e254a0-attachment.txt
+2025-01-06T18:43:40,772 [main] INFO  LogUtil:60 - Deleted Allure result file: b6cd01ba-8257-4712-864a-9fd550a74438-attachment.txt
+2025-01-06T18:43:40,773 [main] INFO  LogUtil:60 - Deleted Allure result file: b762daff-f41e-4e75-a4aa-e4eae7fb5987-attachment.txt
+2025-01-06T18:43:40,774 [main] INFO  LogUtil:60 - Deleted Allure result file: b8516136-ab04-4b11-a690-fa5033817449-attachment.txt
+2025-01-06T18:43:40,774 [main] INFO  LogUtil:60 - Deleted Allure result file: b910d68f-3005-47d7-8ff3-7617f6a0c7e4-attachment.txt
+2025-01-06T18:43:40,776 [main] INFO  LogUtil:60 - Deleted Allure result file: b93a9dd3-0465-43d8-8437-a1f15fa126a9-attachment.txt
+2025-01-06T18:43:40,777 [main] INFO  LogUtil:60 - Deleted Allure result file: b9483649-9c5b-4a46-8b60-12f91b078548-attachment.txt
+2025-01-06T18:43:40,778 [main] INFO  LogUtil:60 - Deleted Allure result file: ba49a87d-46fb-4d4f-80db-586e0537b6e0-attachment.txt
+2025-01-06T18:43:40,779 [main] INFO  LogUtil:60 - Deleted Allure result file: be0d9ab5-9220-445c-b011-9423216db925-attachment.txt
+2025-01-06T18:43:40,780 [main] INFO  LogUtil:60 - Deleted Allure result file: c0245a68-494e-4ade-8017-cef2f67519ce-attachment.txt
+2025-01-06T18:43:40,781 [main] INFO  LogUtil:60 - Deleted Allure result file: c3b60cbe-5103-4ea8-8ec6-d8683cff181d-attachment.txt
+2025-01-06T18:43:40,782 [main] INFO  LogUtil:60 - Deleted Allure result file: c3d300aa-851c-4c09-a494-0b07bf039bea-attachment.txt
+2025-01-06T18:43:40,782 [main] INFO  LogUtil:60 - Deleted Allure result file: c3dc976a-05fa-4bf8-8f81-990f88169973-attachment.txt
+2025-01-06T18:43:40,783 [main] INFO  LogUtil:60 - Deleted Allure result file: c6c32e69-f075-454a-8eec-e911460927d8-attachment.txt
+2025-01-06T18:43:40,784 [main] INFO  LogUtil:60 - Deleted Allure result file: c772f6d4-f57d-4a2e-a151-717d2d4e5808-attachment.txt
+2025-01-06T18:43:40,784 [main] INFO  LogUtil:60 - Deleted Allure result file: c8771bbb-5b0a-4259-b17e-af388e10e632-attachment.txt
+2025-01-06T18:43:40,785 [main] INFO  LogUtil:60 - Deleted Allure result file: c8d6564c-deb7-4eab-841c-b55ec0277170-attachment.txt
+2025-01-06T18:43:40,786 [main] INFO  LogUtil:60 - Deleted Allure result file: c9a7ddba-8540-43f0-a36d-0372ee14f45d-attachment.txt
+2025-01-06T18:43:40,786 [main] INFO  LogUtil:60 - Deleted Allure result file: cb716758-a172-4fea-853e-38942158b77c-attachment.txt
+2025-01-06T18:43:40,787 [main] INFO  LogUtil:60 - Deleted Allure result file: cd067c26-5cf0-4471-b662-01659b50e682-attachment.txt
+2025-01-06T18:43:40,788 [main] INFO  LogUtil:60 - Deleted Allure result file: ce91c1d4-b142-40ab-8aff-3eb0fd8228fd-attachment.txt
+2025-01-06T18:43:40,788 [main] INFO  LogUtil:60 - Deleted Allure result file: cf770255-19bc-4497-bac6-8cdee93f8b1a-attachment.txt
+2025-01-06T18:43:40,789 [main] INFO  LogUtil:60 - Deleted Allure result file: cff8d592-a504-4852-ab10-a6fefbed55a0-attachment.txt
+2025-01-06T18:43:40,790 [main] INFO  LogUtil:60 - Deleted Allure result file: d31a2775-8c08-4a9b-ae72-38da6c2c8cbb-attachment.txt
+2025-01-06T18:43:40,790 [main] INFO  LogUtil:60 - Deleted Allure result file: d31f9451-18c7-4945-81c4-a527773df9a8-container.json
+2025-01-06T18:43:40,791 [main] INFO  LogUtil:60 - Deleted Allure result file: d3fe0b1a-74ae-4c77-9c2d-621e996c91e8-attachment.txt
+2025-01-06T18:43:40,792 [main] INFO  LogUtil:60 - Deleted Allure result file: d57ad45c-ba58-4ac5-97af-b6148de9d54f-attachment.txt
+2025-01-06T18:43:40,792 [main] INFO  LogUtil:60 - Deleted Allure result file: d645bd79-1af8-4503-bcd0-7e8641e73574-attachment.txt
+2025-01-06T18:43:40,793 [main] INFO  LogUtil:60 - Deleted Allure result file: d6cc9dab-253b-4d27-b0e6-ab6daae03d15-attachment.txt
+2025-01-06T18:43:40,794 [main] INFO  LogUtil:60 - Deleted Allure result file: d891852b-2fa3-4b3e-bd94-c2cdd03c2e24-attachment.txt
+2025-01-06T18:43:40,794 [main] INFO  LogUtil:60 - Deleted Allure result file: d9182925-181e-4712-9e6a-90458254ef4b-attachment.txt
+2025-01-06T18:43:40,795 [main] INFO  LogUtil:60 - Deleted Allure result file: da0dc567-d631-4d8b-b224-bec859b9da4e-attachment.txt
+2025-01-06T18:43:40,795 [main] INFO  LogUtil:60 - Deleted Allure result file: dabf4df6-f423-4226-aa7a-4b1b93d0f81a-attachment.txt
+2025-01-06T18:43:40,796 [main] INFO  LogUtil:60 - Deleted Allure result file: db087377-fc18-45cd-983b-363bf2173c26-attachment.txt
+2025-01-06T18:43:40,797 [main] INFO  LogUtil:60 - Deleted Allure result file: db0f9fad-61d5-4c1a-b405-337ced44f9a1-attachment.txt
+2025-01-06T18:43:40,797 [main] INFO  LogUtil:60 - Deleted Allure result file: dd5841f4-c5f2-47ba-b825-0e22d25d5d84-attachment.txt
+2025-01-06T18:43:40,798 [main] INFO  LogUtil:60 - Deleted Allure result file: dda066f0-a54a-4e62-b820-61a9bbdee02c-result.json
+2025-01-06T18:43:40,799 [main] INFO  LogUtil:60 - Deleted Allure result file: ddb10cd4-64c3-411f-ac5b-22348b6f199e-attachment.txt
+2025-01-06T18:43:40,799 [main] INFO  LogUtil:60 - Deleted Allure result file: de49ce72-61f1-4061-84ce-97371f3ffd2b-attachment.txt
+2025-01-06T18:43:40,800 [main] INFO  LogUtil:60 - Deleted Allure result file: dedec4de-c12d-4571-9c0c-42898fe6f1c4-result.json
+2025-01-06T18:43:40,800 [main] INFO  LogUtil:60 - Deleted Allure result file: def8b55a-9c8c-4629-a095-0a7bb91074b8-attachment.txt
+2025-01-06T18:43:40,801 [main] INFO  LogUtil:60 - Deleted Allure result file: dfcfeaeb-6cc2-4e93-9cbe-be7bd7486b3e-result.json
+2025-01-06T18:43:40,802 [main] INFO  LogUtil:60 - Deleted Allure result file: e192a9e0-d02c-422c-a6ff-cb7b6d927634-attachment.txt
+2025-01-06T18:43:40,802 [main] INFO  LogUtil:60 - Deleted Allure result file: e2dfa881-b77b-4288-b9e5-e24a4fec5c07-attachment.txt
+2025-01-06T18:43:40,803 [main] INFO  LogUtil:60 - Deleted Allure result file: e33bf324-35f4-4df4-ad71-2fa74e570897-attachment.txt
+2025-01-06T18:43:40,803 [main] INFO  LogUtil:60 - Deleted Allure result file: e479b095-a762-46f5-aad3-20c0730e835d-attachment.txt
+2025-01-06T18:43:40,804 [main] INFO  LogUtil:60 - Deleted Allure result file: e496fe48-7752-4165-adb5-eaca4ca08c1e-attachment.txt
+2025-01-06T18:43:40,805 [main] INFO  LogUtil:60 - Deleted Allure result file: e49ce22e-145c-4fd4-a5ab-4287565f4ff6-attachment.txt
+2025-01-06T18:43:40,805 [main] INFO  LogUtil:60 - Deleted Allure result file: e55f14b9-e611-48f5-b19d-c9c34163736d-attachment.txt
+2025-01-06T18:43:40,806 [main] INFO  LogUtil:60 - Deleted Allure result file: e56be1e2-d25d-4dc1-bdc8-6a0fc2a86dd2-attachment.txt
+2025-01-06T18:43:40,807 [main] INFO  LogUtil:60 - Deleted Allure result file: e81a95cb-f562-4869-9aea-b338f86a79c8-attachment.txt
+2025-01-06T18:43:40,807 [main] INFO  LogUtil:60 - Deleted Allure result file: e8a5e31c-482a-4f10-9a08-5e41247939a5-attachment.txt
+2025-01-06T18:43:40,808 [main] INFO  LogUtil:60 - Deleted Allure result file: e8e67425-ebda-4de0-ad23-53654237dea1-attachment.txt
+2025-01-06T18:43:40,809 [main] INFO  LogUtil:60 - Deleted Allure result file: eaf0fd35-ddfd-430c-8f32-bf35e28748cb-attachment.txt
+2025-01-06T18:43:40,809 [main] INFO  LogUtil:60 - Deleted Allure result file: eb65339e-5a0e-4fa4-955e-1f3769e67eb0-attachment.txt
+2025-01-06T18:43:40,810 [main] INFO  LogUtil:60 - Deleted Allure result file: ec4785ba-5dbd-44c4-af4d-2ae43254bd04-attachment.txt
+2025-01-06T18:43:40,810 [main] INFO  LogUtil:60 - Deleted Allure result file: ecb0a649-3cc5-4241-ba71-736d7d5d8235-attachment.txt
+2025-01-06T18:43:40,811 [main] INFO  LogUtil:60 - Deleted Allure result file: ee1b49d0-c083-4fc9-a8ad-196bb52d6231-attachment.txt
+2025-01-06T18:43:40,812 [main] INFO  LogUtil:60 - Deleted Allure result file: efd2790c-f6ff-47a2-ba1d-7731bbb3b2ce-attachment.txt
+2025-01-06T18:43:40,812 [main] INFO  LogUtil:60 - Deleted Allure result file: f178a8c5-8d63-464e-af52-3a7de3a64bab-attachment.txt
+2025-01-06T18:43:40,813 [main] INFO  LogUtil:60 - Deleted Allure result file: f21c5921-017d-4dcc-809e-9de6402d218b-attachment.txt
+2025-01-06T18:43:40,814 [main] INFO  LogUtil:60 - Deleted Allure result file: f22e64c2-82ed-4389-87f4-0ac8ce4172a4-attachment.txt
+2025-01-06T18:43:40,814 [main] INFO  LogUtil:60 - Deleted Allure result file: f23406a7-08d1-48d9-845b-bb40a74d62b7-attachment.txt
+2025-01-06T18:43:40,815 [main] INFO  LogUtil:60 - Deleted Allure result file: f290196b-5f19-4cfe-b0c9-a6117c1c7af4-attachment.txt
+2025-01-06T18:43:40,816 [main] INFO  LogUtil:60 - Deleted Allure result file: f3180149-145b-41dc-8334-96864661b2f6-attachment.txt
+2025-01-06T18:43:40,816 [main] INFO  LogUtil:60 - Deleted Allure result file: f32c4414-884f-471f-9343-fe00afaa4800-attachment.txt
+2025-01-06T18:43:40,817 [main] INFO  LogUtil:60 - Deleted Allure result file: f3517528-ee78-4410-9fcf-74c20c03a5ad-attachment.txt
+2025-01-06T18:43:40,817 [main] INFO  LogUtil:60 - Deleted Allure result file: f35fd624-60fe-4c81-abab-6f004687fb8b-attachment.txt
+2025-01-06T18:43:40,818 [main] INFO  LogUtil:60 - Deleted Allure result file: f370a319-757f-423c-b642-d31aae64240d-container.json
+2025-01-06T18:43:40,819 [main] INFO  LogUtil:60 - Deleted Allure result file: f415eaf8-c9fa-45cd-bc3a-42201791813f-attachment.txt
+2025-01-06T18:43:40,819 [main] INFO  LogUtil:60 - Deleted Allure result file: f437db01-9d82-47dc-95bc-0650c1491386-attachment.txt
+2025-01-06T18:43:40,820 [main] INFO  LogUtil:60 - Deleted Allure result file: f4e1946c-dac6-4dd0-9b3a-43c264993209-attachment.txt
+2025-01-06T18:43:40,821 [main] INFO  LogUtil:60 - Deleted Allure result file: f516802d-2705-49fa-9aea-ac411eeb533c-attachment.txt
+2025-01-06T18:43:40,821 [main] INFO  LogUtil:60 - Deleted Allure result file: f63be84d-7563-4764-9301-cba4735cf351-attachment.txt
+2025-01-06T18:43:40,822 [main] INFO  LogUtil:60 - Deleted Allure result file: f82857e4-55e4-49a9-922d-0628421ee2d3-attachment.txt
+2025-01-06T18:43:40,823 [main] INFO  LogUtil:60 - Deleted Allure result file: f90823c4-56d0-4009-a384-e36180f83d1f-attachment.txt
+2025-01-06T18:43:40,823 [main] INFO  LogUtil:60 - Deleted Allure result file: f940309a-86f1-46d2-ae09-38b8fababeb9-attachment.txt
+2025-01-06T18:43:40,824 [main] INFO  LogUtil:60 - Deleted Allure result file: f9cad007-02f6-47d4-a979-c7384d2bb729-attachment.txt
+2025-01-06T18:43:40,824 [main] INFO  LogUtil:60 - Deleted Allure result file: fa8dd2f2-c9b6-48ee-9846-f036cebed640-attachment.txt
+2025-01-06T18:43:40,825 [main] INFO  LogUtil:60 - Deleted Allure result file: fab50b62-befc-4fd2-8835-180fa8ff3e01-attachment.txt
+2025-01-06T18:43:40,826 [main] INFO  LogUtil:60 - Deleted Allure result file: fb4daebe-0d4f-42ac-8de4-ddbace115a1d-attachment.txt
+2025-01-06T18:43:40,826 [main] INFO  LogUtil:60 - Deleted Allure result file: fbb58077-8ac1-4c5c-998a-a1624345830e-container.json
+2025-01-06T18:43:40,827 [main] INFO  LogUtil:60 - Deleted Allure result file: fc82064c-433f-4a4f-b397-fb197bb3354e-attachment.txt
+2025-01-06T18:43:40,828 [main] INFO  LogUtil:60 - Deleted Allure result file: fcb454ee-a569-498a-b15e-a91134aa4f16-attachment.txt
+2025-01-06T18:43:40,828 [main] INFO  LogUtil:60 - Deleted Allure result file: fe3003f2-ce28-4898-be54-c2682ef7f495-attachment.txt
+2025-01-06T18:43:40,829 [main] INFO  LogUtil:60 - Deleted Allure result file: fe96aaef-9178-40e0-9608-ec2e7797059f-attachment.txt
+2025-01-06T18:43:40,829 [main] INFO  LogUtil:60 - Deleted Allure result file: fecc12ae-78e3-450a-a236-83d0982849d6-attachment.txt
+2025-01-06T18:43:40,830 [main] INFO  LogUtil:60 - Deleted Allure result file: ff8ce57c-5e4b-477f-82ec-0aa270ce444c-attachment.txt
+2025-01-06T18:43:40,831 [main] INFO  LogUtil:60 - Deleted Allure result file: ff951b8a-4204-4ccf-ace0-a2810766ca73-attachment.txt
+2025-01-06T18:43:40,831 [main] INFO  LogUtil:60 - Deleted Allure result file: ff9aea17-94b4-485b-bcb5-47076e2edec6-attachment.txt
+2025-01-06T18:43:40,832 [main] INFO  LogUtil:60 - Deleted Allure result file: ffaa1acf-2b40-4ed3-9128-f9a46bb15387-attachment.txt
+2025-01-06T18:43:40,840 [main] INFO  LogUtil:60 - Test Context Started: LoginPageTest
+2025-01-06T18:43:40,840 [main] INFO  LogUtil:60 - Running tests with Browser: chrome and Environment: dev
+2025-01-06T18:43:40,842 [main] INFO  ConfigManager:60 - Loaded configuration file: src/test/resources/config/config-dev.properties
+2025-01-06T18:43:40,842 [main] INFO  LogUtil:60 - Log level set to: INFO
+2025-01-06T18:43:40,843 [main] INFO  LogUtil:60 - Driver Instance : null at TestListener : onStart
+2025-01-06T18:43:41,968 [main] INFO  LogUtil:60 - WebDriver initialized: ChromeDriver: chrome on windows (360f181a2769b53bc09fa60d4091b4c4) at TestListener : onStart
+2025-01-06T18:43:42,315 [main] INFO  LogUtil:60 - Test Started: runScenario
+2025-01-06T18:43:42,386 [main] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (360f181a2769b53bc09fa60d4091b4c4) at WebDriverHooks : setUp
+2025-01-06T18:43:44,933 [main] INFO  LogUtil:60 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-01-06T18:43:46,252 [main] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-06T18:43:46,592 [main] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-06T18:43:46,596 [main] INFO  LogUtil:60 - Leaving the username and password fields empty.
+2025-01-06T18:43:46,631 [main] INFO  LogUtil:60 - Entered username: 
+2025-01-06T18:43:46,679 [main] INFO  LogUtil:60 - Entered password: 
+2025-01-06T18:43:46,744 [main] INFO  LogUtil:60 - Clicked login button
+2025-01-06T18:43:46,745 [main] INFO  LogUtil:60 - Login button clicked.
+2025-01-06T18:43:46,746 [main] INFO  LogUtil:60 - Verifying error messages for blank username and password fields.
+2025-01-06T18:43:46,800 [main] INFO  LogUtil:60 - Error messages validated for username and password fields.
+2025-01-06T18:43:46,813 [main] INFO  LogUtil:60 - Test Passed: runScenario
+2025-01-06T18:43:46,814 [main] INFO  LogUtil:60 - Test Started: runScenario
+2025-01-06T18:43:46,827 [main] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (360f181a2769b53bc09fa60d4091b4c4) at WebDriverHooks : setUp
+2025-01-06T18:43:47,346 [main] INFO  LogUtil:60 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-01-06T18:43:48,177 [main] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-06T18:43:48,514 [main] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-06T18:43:48,516 [main] INFO  LogUtil:60 - Entering invalid credentials. Username: Admin, Password: admin
+2025-01-06T18:43:48,551 [main] INFO  LogUtil:60 - Entered username: Admin
+2025-01-06T18:43:48,593 [main] INFO  LogUtil:60 - Entered password: admin
+2025-01-06T18:43:48,593 [main] INFO  LogUtil:60 - Parameters - Username: Admin, Password: admin
+2025-01-06T18:43:49,784 [main] INFO  LogUtil:60 - Clicked login button
+2025-01-06T18:43:49,784 [main] INFO  LogUtil:60 - Login button clicked.
+2025-01-06T18:43:49,786 [main] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-06T18:43:50,124 [main] INFO  LogUtil:60 - Test Passed: runScenario
+2025-01-06T18:43:50,125 [main] INFO  LogUtil:60 - Test Started: runScenario
+2025-01-06T18:43:50,131 [main] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (360f181a2769b53bc09fa60d4091b4c4) at WebDriverHooks : setUp
+2025-01-06T18:43:50,639 [main] INFO  LogUtil:60 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-01-06T18:43:51,472 [main] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-06T18:43:51,812 [main] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-06T18:43:51,814 [main] INFO  LogUtil:60 - Entering invalid credentials. Username: Adminn, Password: admin123
+2025-01-06T18:43:51,849 [main] INFO  LogUtil:60 - Entered username: Adminn
+2025-01-06T18:43:51,889 [main] INFO  LogUtil:60 - Entered password: admin123
+2025-01-06T18:43:51,889 [main] INFO  LogUtil:60 - Parameters - Username: Adminn, Password: admin123
+2025-01-06T18:43:52,752 [main] INFO  LogUtil:60 - Clicked login button
+2025-01-06T18:43:52,752 [main] INFO  LogUtil:60 - Login button clicked.
+2025-01-06T18:43:52,753 [main] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-06T18:43:53,095 [main] INFO  LogUtil:60 - Test Passed: runScenario
+2025-01-06T18:43:53,095 [main] INFO  LogUtil:60 - Test Started: runScenario
+2025-01-06T18:43:53,101 [main] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (360f181a2769b53bc09fa60d4091b4c4) at WebDriverHooks : setUp
+2025-01-06T18:43:53,606 [main] INFO  LogUtil:60 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-01-06T18:43:54,437 [main] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-06T18:43:54,796 [main] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-06T18:43:54,797 [main] INFO  LogUtil:60 - Entering invalid credentials. Username: Adminn, Password: admin
+2025-01-06T18:43:54,827 [main] INFO  LogUtil:60 - Entered username: Adminn
+2025-01-06T18:43:54,866 [main] INFO  LogUtil:60 - Entered password: admin
+2025-01-06T18:43:54,866 [main] INFO  LogUtil:60 - Parameters - Username: Adminn, Password: admin
+2025-01-06T18:43:54,918 [main] INFO  LogUtil:60 - Clicked login button
+2025-01-06T18:43:54,918 [main] INFO  LogUtil:60 - Login button clicked.
+2025-01-06T18:43:54,919 [main] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-06T18:43:56,088 [main] INFO  LogUtil:60 - Test Passed: runScenario
+2025-01-06T18:43:56,088 [main] INFO  LogUtil:60 - Test Started: runScenario
+2025-01-06T18:43:56,093 [main] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (360f181a2769b53bc09fa60d4091b4c4) at WebDriverHooks : setUp
+2025-01-06T18:43:56,602 [main] INFO  LogUtil:60 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-01-06T18:43:57,459 [main] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-06T18:43:57,797 [main] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-06T18:43:57,798 [main] INFO  LogUtil:60 - Entering valid credentials. Username: Admin, Password: admin123
+2025-01-06T18:43:57,832 [main] INFO  LogUtil:60 - Entered username: Admin
+2025-01-06T18:43:57,878 [main] INFO  LogUtil:60 - Entered password: admin123
+2025-01-06T18:43:59,088 [main] INFO  LogUtil:60 - Clicked login button
+2025-01-06T18:43:59,088 [main] INFO  LogUtil:60 - Login button clicked.
+2025-01-06T18:43:59,089 [main] INFO  LogUtil:60 - Verifying login success and Dashboard page visibility.
+2025-01-06T18:43:59,455 [main] INFO  LogUtil:60 - Clicking on the logout button.
+2025-01-06T18:44:01,363 [main] INFO  LogUtil:60 - Clicked logout link
+2025-01-06T18:44:01,364 [main] INFO  LogUtil:60 - Verifying successful navigation to the Login page.
+2025-01-06T18:44:01,708 [main] INFO  LogUtil:60 - Test Passed: runScenario
+2025-01-06T18:44:01,709 [main] INFO  LogUtil:60 - Test Started: runScenario
+2025-01-06T18:44:01,715 [main] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (360f181a2769b53bc09fa60d4091b4c4) at WebDriverHooks : setUp
+2025-01-06T18:44:02,222 [main] INFO  LogUtil:60 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-01-06T18:44:03,062 [main] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-06T18:44:03,396 [main] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-06T18:44:03,398 [main] INFO  LogUtil:60 - Clicking on the link: Forgot your password?
+2025-01-06T18:44:03,956 [main] INFO  LogUtil:60 - Clicked forgot password link
+2025-01-06T18:44:03,956 [main] INFO  LogUtil:60 - Verifying that I am redirected to the Reset Password page.
+2025-01-06T18:44:04,291 [main] INFO  LogUtil:60 - Entering a valid username: Admin
+2025-01-06T18:44:04,329 [main] INFO  LogUtil:60 - Entered username: Admin
+2025-01-06T18:44:04,330 [main] INFO  LogUtil:60 - Clicking on the Reset Password button.
+2025-01-06T18:44:05,269 [main] INFO  LogUtil:60 - Clicked login button
+2025-01-06T18:44:05,270 [main] INFO  LogUtil:60 - Verifying the success message and URL after clicking the Reset Password button.
+2025-01-06T18:44:05,608 [main] INFO  LogUtil:60 - Test Passed: runScenario
+2025-01-06T18:44:07,229 [main] INFO  LogUtil:60 - Test Context Finished: LoginPageTest
+2025-01-06T18:44:07,229 [main] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (360f181a2769b53bc09fa60d4091b4c4) before TestListener : onFinish
+2025-01-06T18:44:08,904 [main] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (null) after TestListener : onFinish
+2025-01-06T18:44:08,905 [main] INFO  LogUtil:60 - WebDriver instance quit for thread.
+2025-01-06T18:56:21,378 [main] INFO  LogUtil:60 - Clearing Allure results at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.23\allure-results
+2025-01-06T18:56:21,385 [main] INFO  LogUtil:60 - Deleted Allure result file: 001f6a4b-8708-49e3-91e6-30ce97ea67e5-result.json
+2025-01-06T18:56:21,386 [main] INFO  LogUtil:60 - Deleted Allure result file: 002048f2-ff05-4062-9c4d-a98a2314859a-attachment.txt
+2025-01-06T18:56:21,387 [main] INFO  LogUtil:60 - Deleted Allure result file: 00a0fcdb-629b-4c7e-99ce-860cb3263082-attachment.txt
+2025-01-06T18:56:21,387 [main] INFO  LogUtil:60 - Deleted Allure result file: 039abcf0-2582-45ba-87a5-e93d16026ff7-attachment.txt
+2025-01-06T18:56:21,388 [main] INFO  LogUtil:60 - Deleted Allure result file: 03e08a0b-835d-4771-aaab-1dcf573e4273-attachment.txt
+2025-01-06T18:56:21,389 [main] INFO  LogUtil:60 - Deleted Allure result file: 03f01551-ceb2-4f1b-82d1-9de9cda56c65-attachment.txt
+2025-01-06T18:56:21,390 [main] INFO  LogUtil:60 - Deleted Allure result file: 043023fc-0e8b-4e2c-a12c-580794d00bf7-attachment.txt
+2025-01-06T18:56:21,391 [main] INFO  LogUtil:60 - Deleted Allure result file: 045d7b49-a9e2-4860-a9a7-a7d9f23bf271-attachment.txt
+2025-01-06T18:56:21,392 [main] INFO  LogUtil:60 - Deleted Allure result file: 049d0a98-8a42-4f08-88ae-fc5d26a59934-attachment.txt
+2025-01-06T18:56:21,393 [main] INFO  LogUtil:60 - Deleted Allure result file: 06782608-3625-48bf-9bc3-98693d2a1479-attachment.txt
+2025-01-06T18:56:21,394 [main] INFO  LogUtil:60 - Deleted Allure result file: 07c72f49-a098-4210-bb4a-5bf74635e81e-attachment.txt
+2025-01-06T18:56:21,395 [main] INFO  LogUtil:60 - Deleted Allure result file: 0871653e-79d5-48f0-b0a5-71d0d6fd7561-attachment.txt
+2025-01-06T18:56:21,396 [main] INFO  LogUtil:60 - Deleted Allure result file: 0968abd3-880a-4651-b9ee-27a872012cc2-attachment.txt
+2025-01-06T18:56:21,397 [main] INFO  LogUtil:60 - Deleted Allure result file: 0aa66837-dfed-42a2-84c3-8905c8563608-attachment.txt
+2025-01-06T18:56:21,398 [main] INFO  LogUtil:60 - Deleted Allure result file: 0ad5680f-5e4b-4a78-babd-35755646ab48-attachment.txt
+2025-01-06T18:56:21,399 [main] INFO  LogUtil:60 - Deleted Allure result file: 0c47e851-7422-4226-a213-32285abd7d1e-attachment.txt
+2025-01-06T18:56:21,399 [main] INFO  LogUtil:60 - Deleted Allure result file: 0c4b3cb9-943e-45b0-9d5c-7bdb5a13b498-attachment.txt
+2025-01-06T18:56:21,400 [main] INFO  LogUtil:60 - Deleted Allure result file: 0c841c33-b8bb-4f4c-baf5-ee57badba279-attachment.txt
+2025-01-06T18:56:21,401 [main] INFO  LogUtil:60 - Deleted Allure result file: 0cd9d94e-68ec-46ba-9fd5-0870193eb2c8-attachment.txt
+2025-01-06T18:56:21,402 [main] INFO  LogUtil:60 - Deleted Allure result file: 0d0edb74-157c-4978-b7be-934045732078-attachment.txt
+2025-01-06T18:56:21,403 [main] INFO  LogUtil:60 - Deleted Allure result file: 0e345ec7-1748-44a4-b826-f5b354074a27-attachment.txt
+2025-01-06T18:56:21,404 [main] INFO  LogUtil:60 - Deleted Allure result file: 0e8fffe7-4fe7-4094-97a4-bd96a85f674a-attachment.txt
+2025-01-06T18:56:21,405 [main] INFO  LogUtil:60 - Deleted Allure result file: 0fcb9b20-5a46-4467-972b-51e991f68155-attachment.txt
+2025-01-06T18:56:21,406 [main] INFO  LogUtil:60 - Deleted Allure result file: 103302e3-03c1-4fd3-9262-92a7b619ec1d-attachment.txt
+2025-01-06T18:56:21,407 [main] INFO  LogUtil:60 - Deleted Allure result file: 122ff713-fa66-4e5c-9c3f-ef3512c62701-attachment.txt
+2025-01-06T18:56:21,408 [main] INFO  LogUtil:60 - Deleted Allure result file: 123a64a1-029b-4517-97aa-da370a685fb5-attachment.txt
+2025-01-06T18:56:21,409 [main] INFO  LogUtil:60 - Deleted Allure result file: 126a896d-fb97-4b78-b35a-7166b1022376-attachment.txt
+2025-01-06T18:56:21,409 [main] INFO  LogUtil:60 - Deleted Allure result file: 137f7837-ef89-428f-84c4-5a1db92999e2-attachment.txt
+2025-01-06T18:56:21,410 [main] INFO  LogUtil:60 - Deleted Allure result file: 1441ef0b-0eef-45d5-9050-819d9fb26a8d-attachment.txt
+2025-01-06T18:56:21,411 [main] INFO  LogUtil:60 - Deleted Allure result file: 14669923-b571-435c-b51a-248e197186bd-attachment.txt
+2025-01-06T18:56:21,412 [main] INFO  LogUtil:60 - Deleted Allure result file: 16a77ad0-9c26-42a3-a012-e08ee1d72f62-attachment.txt
+2025-01-06T18:56:21,413 [main] INFO  LogUtil:60 - Deleted Allure result file: 17347601-9853-469a-bbac-66cbc067d19b-attachment.txt
+2025-01-06T18:56:21,414 [main] INFO  LogUtil:60 - Deleted Allure result file: 17a5e73f-38be-4be9-84bf-70077a3c6efc-attachment.txt
+2025-01-06T18:56:21,414 [main] INFO  LogUtil:60 - Deleted Allure result file: 17e7b876-f05f-4f31-a146-10209f8a3423-attachment.txt
+2025-01-06T18:56:21,415 [main] INFO  LogUtil:60 - Deleted Allure result file: 1860b353-6f3e-4f9c-a185-bb4ed07810eb-attachment.txt
+2025-01-06T18:56:21,416 [main] INFO  LogUtil:60 - Deleted Allure result file: 194019b7-7b1c-4957-b072-ffb360bc83ef-attachment.txt
+2025-01-06T18:56:21,417 [main] INFO  LogUtil:60 - Deleted Allure result file: 1983da47-fba4-4f73-9ae2-192669c9ff1e-attachment.txt
+2025-01-06T18:56:21,418 [main] INFO  LogUtil:60 - Deleted Allure result file: 1a9f7733-5277-4e65-9dd6-7bffd5e37a5e-attachment.txt
+2025-01-06T18:56:21,419 [main] INFO  LogUtil:60 - Deleted Allure result file: 1c05f646-8e93-4376-b524-1c8f5f5274af-attachment.txt
+2025-01-06T18:56:21,419 [main] INFO  LogUtil:60 - Deleted Allure result file: 1c0f925a-db31-4112-a102-8f3cbc2be4d1-attachment.txt
+2025-01-06T18:56:21,420 [main] INFO  LogUtil:60 - Deleted Allure result file: 1c9a62ab-570f-4265-9800-f532fe26feba-attachment.txt
+2025-01-06T18:56:21,421 [main] INFO  LogUtil:60 - Deleted Allure result file: 1ca723ee-5649-42f1-99d2-47892b9e3cea-attachment.txt
+2025-01-06T18:56:21,422 [main] INFO  LogUtil:60 - Deleted Allure result file: 1f693eb1-5c8d-4bcc-9a99-0374d3f29d12-attachment.txt
+2025-01-06T18:56:21,423 [main] INFO  LogUtil:60 - Deleted Allure result file: 1fadaa1a-6d03-4b13-83fc-0284eb0fce73-attachment.txt
+2025-01-06T18:56:21,424 [main] INFO  LogUtil:60 - Deleted Allure result file: 201a7ca4-917b-424c-beb7-de8deba8ca88-result.json
+2025-01-06T18:56:21,425 [main] INFO  LogUtil:60 - Deleted Allure result file: 2076f502-af16-4b89-9951-bafc6ba04398-attachment.txt
+2025-01-06T18:56:21,425 [main] INFO  LogUtil:60 - Deleted Allure result file: 209a4034-416e-4e1d-9988-92e3eb577370-attachment.txt
+2025-01-06T18:56:21,426 [main] INFO  LogUtil:60 - Deleted Allure result file: 20c12fed-75f6-460f-b244-d7915f0ce101-attachment.txt
+2025-01-06T18:56:21,427 [main] INFO  LogUtil:60 - Deleted Allure result file: 2279d65e-8f7a-4870-a0fd-c3fca5c1c500-attachment.txt
+2025-01-06T18:56:21,428 [main] INFO  LogUtil:60 - Deleted Allure result file: 238e900d-33bb-4138-bfb8-7e76ad166775-attachment.txt
+2025-01-06T18:56:21,429 [main] INFO  LogUtil:60 - Deleted Allure result file: 23a1e69b-4be1-449c-97d1-0d7334d81216-attachment.txt
+2025-01-06T18:56:21,430 [main] INFO  LogUtil:60 - Deleted Allure result file: 23e5ada1-a707-4fc0-89ea-317f3ae1b02a-attachment.txt
+2025-01-06T18:56:21,430 [main] INFO  LogUtil:60 - Deleted Allure result file: 251ef801-ce33-40d9-b90e-7d190b583db1-attachment.txt
+2025-01-06T18:56:21,431 [main] INFO  LogUtil:60 - Deleted Allure result file: 258ada13-0b16-4a1e-866c-7fa4aac774f3-attachment.txt
+2025-01-06T18:56:21,432 [main] INFO  LogUtil:60 - Deleted Allure result file: 258ecaf6-e56b-491c-b3b1-54cf0e402fcb-attachment.txt
+2025-01-06T18:56:21,433 [main] INFO  LogUtil:60 - Deleted Allure result file: 26bf6bff-44f8-4c1f-bca1-0d54b92dc173-attachment.txt
+2025-01-06T18:56:21,434 [main] INFO  LogUtil:60 - Deleted Allure result file: 27745515-2dc3-4e1a-a2d2-3a3442cf1fa1-attachment.txt
+2025-01-06T18:56:21,434 [main] INFO  LogUtil:60 - Deleted Allure result file: 27d80374-84a6-4708-9c62-e43468188c8c-attachment.txt
+2025-01-06T18:56:21,435 [main] INFO  LogUtil:60 - Deleted Allure result file: 28476d97-f857-4dd0-94a8-b5e9ac4e0a66-attachment.txt
+2025-01-06T18:56:21,436 [main] INFO  LogUtil:60 - Deleted Allure result file: 2a0670c3-8101-4a47-8116-4375d24bdcb3-attachment.txt
+2025-01-06T18:56:21,437 [main] INFO  LogUtil:60 - Deleted Allure result file: 2a855d0b-7e9e-4a8b-a672-bb412f1b90ba-attachment.txt
+2025-01-06T18:56:21,437 [main] INFO  LogUtil:60 - Deleted Allure result file: 2a909fc4-5945-428a-ace2-69ccd487bbbd-attachment.txt
+2025-01-06T18:56:21,438 [main] INFO  LogUtil:60 - Deleted Allure result file: 2ac41106-d044-4488-af6b-124ee6606fbd-attachment.txt
+2025-01-06T18:56:21,439 [main] INFO  LogUtil:60 - Deleted Allure result file: 2b96ae5d-f7e3-4abd-a1f1-584dcfc27c18-attachment.txt
+2025-01-06T18:56:21,440 [main] INFO  LogUtil:60 - Deleted Allure result file: 2c31a62d-598b-4616-9219-ee7722942744-attachment.txt
+2025-01-06T18:56:21,441 [main] INFO  LogUtil:60 - Deleted Allure result file: 2c804785-4b87-4c3b-a6b7-2f3f79438550-attachment.txt
+2025-01-06T18:56:21,441 [main] INFO  LogUtil:60 - Deleted Allure result file: 2d10239e-4003-4ea2-8463-5cf100425dbb-attachment.txt
+2025-01-06T18:56:21,442 [main] INFO  LogUtil:60 - Deleted Allure result file: 2d1bbfd7-db44-4cbb-b9fd-500b83538d17-attachment.txt
+2025-01-06T18:56:21,443 [main] INFO  LogUtil:60 - Deleted Allure result file: 3041d08a-4f22-4558-822e-5d3679dbcab8-attachment.txt
+2025-01-06T18:56:21,443 [main] INFO  LogUtil:60 - Deleted Allure result file: 31322af6-739c-441d-959c-6f7eed7a857d-attachment.txt
+2025-01-06T18:56:21,444 [main] INFO  LogUtil:60 - Deleted Allure result file: 32704649-b58f-40fd-a589-93b3f3e659ba-attachment.txt
+2025-01-06T18:56:21,445 [main] INFO  LogUtil:60 - Deleted Allure result file: 32a932a6-aaca-4c09-a0f4-b7c54e16653d-container.json
+2025-01-06T18:56:21,446 [main] INFO  LogUtil:60 - Deleted Allure result file: 32af966a-a65a-454e-8ad6-b7e1f89052c3-attachment.txt
+2025-01-06T18:56:21,446 [main] INFO  LogUtil:60 - Deleted Allure result file: 32fa0085-64c1-459b-871e-5079c1562cf0-attachment.txt
+2025-01-06T18:56:21,447 [main] INFO  LogUtil:60 - Deleted Allure result file: 33e32749-e0be-4679-99db-5f2673c0ed5f-attachment.txt
+2025-01-06T18:56:21,448 [main] INFO  LogUtil:60 - Deleted Allure result file: 33e6dd72-f0d7-498d-bf29-b59f9458a594-attachment.txt
+2025-01-06T18:56:21,448 [main] INFO  LogUtil:60 - Deleted Allure result file: 3445703c-2737-4e72-b0af-772db5eca1c9-attachment.txt
+2025-01-06T18:56:21,449 [main] INFO  LogUtil:60 - Deleted Allure result file: 34999f2b-bcc4-4799-8ae2-b19cd9e0431f-attachment.txt
+2025-01-06T18:56:21,450 [main] INFO  LogUtil:60 - Deleted Allure result file: 3565e50a-129c-4413-869d-cf6aab95a162-attachment.txt
+2025-01-06T18:56:21,451 [main] INFO  LogUtil:60 - Deleted Allure result file: 35908f51-e200-4783-a996-b5fbc1aedc1b-result.json
+2025-01-06T18:56:21,452 [main] INFO  LogUtil:60 - Deleted Allure result file: 36ec4cb0-184f-4cc7-a121-0804ea11f66b-attachment.txt
+2025-01-06T18:56:21,452 [main] INFO  LogUtil:60 - Deleted Allure result file: 36ec5d42-fbd5-4315-b70b-73fc7f771cfb-attachment.txt
+2025-01-06T18:56:21,453 [main] INFO  LogUtil:60 - Deleted Allure result file: 378fe7e9-1ab2-4ed2-b882-00d1bddf8cb4-attachment.txt
+2025-01-06T18:56:21,454 [main] INFO  LogUtil:60 - Deleted Allure result file: 3829df3a-8f94-4727-a7f9-8978a613c9a7-attachment.txt
+2025-01-06T18:56:21,455 [main] INFO  LogUtil:60 - Deleted Allure result file: 39042cdd-cff0-4dd6-ab54-8994df4c36bb-attachment.txt
+2025-01-06T18:56:21,456 [main] INFO  LogUtil:60 - Deleted Allure result file: 398ef61d-a277-40e1-9471-5f30d183bd1e-attachment.txt
+2025-01-06T18:56:21,456 [main] INFO  LogUtil:60 - Deleted Allure result file: 3a4de551-a6ea-4513-816b-9f5a67e06a13-attachment.txt
+2025-01-06T18:56:21,457 [main] INFO  LogUtil:60 - Deleted Allure result file: 3b4e4447-8707-42e3-8780-7ab4f5221548-attachment.txt
+2025-01-06T18:56:21,458 [main] INFO  LogUtil:60 - Deleted Allure result file: 3c93e800-aa60-4da6-87ae-d55f4a61d93e-attachment.txt
+2025-01-06T18:56:21,459 [main] INFO  LogUtil:60 - Deleted Allure result file: 3cbafbec-99b3-487a-bfff-965f3fc5d2f0-attachment.txt
+2025-01-06T18:56:21,459 [main] INFO  LogUtil:60 - Deleted Allure result file: 3d11d331-7a56-4785-9a02-372f834c324e-attachment.txt
+2025-01-06T18:56:21,460 [main] INFO  LogUtil:60 - Deleted Allure result file: 3d7e90cb-a3c0-4a3c-97eb-b3eae7e09a67-attachment.txt
+2025-01-06T18:56:21,461 [main] INFO  LogUtil:60 - Deleted Allure result file: 3e2d1bb1-9914-49ad-bb22-1bfc97fe0a45-attachment.txt
+2025-01-06T18:56:21,461 [main] INFO  LogUtil:60 - Deleted Allure result file: 3f306771-40cd-4a53-a56d-a2da71645773-attachment.txt
+2025-01-06T18:56:21,462 [main] INFO  LogUtil:60 - Deleted Allure result file: 40206661-2e89-4864-a07d-f51925de84af-attachment.txt
+2025-01-06T18:56:21,463 [main] INFO  LogUtil:60 - Deleted Allure result file: 4322c430-9c33-4bd9-816a-b8b9a79e61ca-attachment.txt
+2025-01-06T18:56:21,464 [main] INFO  LogUtil:60 - Deleted Allure result file: 43395e65-2904-4d36-bac1-c5a5d8187ebd-attachment.txt
+2025-01-06T18:56:21,464 [main] INFO  LogUtil:60 - Deleted Allure result file: 43819eef-9d84-4b27-8a75-6e356ad34a73-attachment.txt
+2025-01-06T18:56:21,465 [main] INFO  LogUtil:60 - Deleted Allure result file: 43ac625a-b4fa-4f8e-b3fe-991325856c7c-attachment.txt
+2025-01-06T18:56:21,466 [main] INFO  LogUtil:60 - Deleted Allure result file: 43e22500-1605-4df6-93d0-7ef32e4467fd-attachment.txt
+2025-01-06T18:56:21,466 [main] INFO  LogUtil:60 - Deleted Allure result file: 4459d49e-0bab-4c4d-805d-91d4c1ef341c-attachment.txt
+2025-01-06T18:56:21,467 [main] INFO  LogUtil:60 - Deleted Allure result file: 44fea0f1-0c96-48d3-94b9-a59f9be36358-attachment.txt
+2025-01-06T18:56:21,468 [main] INFO  LogUtil:60 - Deleted Allure result file: 4603f185-ba32-4b39-9fdd-b80766713d61-attachment.txt
+2025-01-06T18:56:21,468 [main] INFO  LogUtil:60 - Deleted Allure result file: 46477900-0d2a-442b-b989-c89f1c00b9e7-attachment.txt
+2025-01-06T18:56:21,469 [main] INFO  LogUtil:60 - Deleted Allure result file: 47173c18-4b91-49b6-a9cd-e85934047534-attachment.txt
+2025-01-06T18:56:21,470 [main] INFO  LogUtil:60 - Deleted Allure result file: 4788cbbf-7be5-49b8-a142-438c5f5e7d99-attachment.txt
+2025-01-06T18:56:21,471 [main] INFO  LogUtil:60 - Deleted Allure result file: 48d56be0-0d94-409a-9c61-b23a8cd4574d-attachment.txt
+2025-01-06T18:56:21,471 [main] INFO  LogUtil:60 - Deleted Allure result file: 495e3bda-8265-4eb4-8862-3c17ecee3ada-attachment.txt
+2025-01-06T18:56:21,472 [main] INFO  LogUtil:60 - Deleted Allure result file: 49e48e45-6443-4b7e-b20f-18afcc77a1c1-attachment.txt
+2025-01-06T18:56:21,473 [main] INFO  LogUtil:60 - Deleted Allure result file: 4ad49b74-b4d6-4acf-b08e-5b0c952528f8-attachment.txt
+2025-01-06T18:56:21,473 [main] INFO  LogUtil:60 - Deleted Allure result file: 4c014c5e-3dd0-49c3-94e3-87858a301aeb-attachment.txt
+2025-01-06T18:56:21,474 [main] INFO  LogUtil:60 - Deleted Allure result file: 4c230e59-e853-4716-afca-002143f8bad3-attachment.txt
+2025-01-06T18:56:21,475 [main] INFO  LogUtil:60 - Deleted Allure result file: 4cde7850-0066-4b98-b93b-3bdc2f78884a-result.json
+2025-01-06T18:56:21,475 [main] INFO  LogUtil:60 - Deleted Allure result file: 4f15bc9b-d40f-4b14-b672-b9c7eef6ed5c-attachment.txt
+2025-01-06T18:56:21,476 [main] INFO  LogUtil:60 - Deleted Allure result file: 4f410a10-5790-45d4-869b-90d4961cccb0-attachment.txt
+2025-01-06T18:56:21,477 [main] INFO  LogUtil:60 - Deleted Allure result file: 4f67db95-e038-415a-a713-c5bdf9265de7-attachment.txt
+2025-01-06T18:56:21,478 [main] INFO  LogUtil:60 - Deleted Allure result file: 4fa8815c-06d2-4fe7-a624-18028e99f60d-attachment.txt
+2025-01-06T18:56:21,478 [main] INFO  LogUtil:60 - Deleted Allure result file: 4fc5ac8f-832c-49ae-af63-e0a390e71a6c-attachment.txt
+2025-01-06T18:56:21,479 [main] INFO  LogUtil:60 - Deleted Allure result file: 5081741e-4a32-4a2b-831e-dbdf1b61f67c-attachment.txt
+2025-01-06T18:56:21,480 [main] INFO  LogUtil:60 - Deleted Allure result file: 51efd917-ba7e-426e-bb23-b85d25508021-attachment.txt
+2025-01-06T18:56:21,481 [main] INFO  LogUtil:60 - Deleted Allure result file: 52bbef7a-a99e-4212-a0be-328daf293c1b-attachment.txt
+2025-01-06T18:56:21,481 [main] INFO  LogUtil:60 - Deleted Allure result file: 53a41317-ca01-489b-93bd-65818be47eb7-attachment.txt
+2025-01-06T18:56:21,482 [main] INFO  LogUtil:60 - Deleted Allure result file: 53af164e-0cb6-44fd-b67a-c4f48dd237f3-attachment.txt
+2025-01-06T18:56:21,483 [main] INFO  LogUtil:60 - Deleted Allure result file: 53cd4df0-d409-479e-9ac8-dbdef8f5d26a-attachment.txt
+2025-01-06T18:56:21,484 [main] INFO  LogUtil:60 - Deleted Allure result file: 551549c8-f02e-4723-ad62-7a2d99a0f175-attachment.txt
+2025-01-06T18:56:21,485 [main] INFO  LogUtil:60 - Deleted Allure result file: 55fb7c84-5877-4ba8-8c30-028d7d9d4177-attachment.txt
+2025-01-06T18:56:21,486 [main] INFO  LogUtil:60 - Deleted Allure result file: 56870bce-3487-4b63-8ea3-cbdd1df18916-container.json
+2025-01-06T18:56:21,487 [main] INFO  LogUtil:60 - Deleted Allure result file: 56ca21d6-aa1b-452b-a187-7da0274a2c6d-attachment.txt
+2025-01-06T18:56:21,488 [main] INFO  LogUtil:60 - Deleted Allure result file: 56f9b314-5b2e-4dcd-8bfa-0b7d9e5b1005-attachment.txt
+2025-01-06T18:56:21,489 [main] INFO  LogUtil:60 - Deleted Allure result file: 586f5fc1-6f7a-42e3-a079-473034a0800f-attachment.txt
+2025-01-06T18:56:21,490 [main] INFO  LogUtil:60 - Deleted Allure result file: 590ac9eb-8a82-44ff-88c4-90b3519a4bbc-attachment.txt
+2025-01-06T18:56:21,490 [main] INFO  LogUtil:60 - Deleted Allure result file: 590ea2fc-e780-42f5-9dc4-536a1a725d08-attachment.txt
+2025-01-06T18:56:21,491 [main] INFO  LogUtil:60 - Deleted Allure result file: 595b7d98-4179-432b-b1c3-45a2d9dbec53-container.json
+2025-01-06T18:56:21,492 [main] INFO  LogUtil:60 - Deleted Allure result file: 59f3dbd5-6125-4c5e-b0b4-e2c21452778e-attachment.txt
+2025-01-06T18:56:21,493 [main] INFO  LogUtil:60 - Deleted Allure result file: 5b3a7f6a-2376-4446-9e2f-d8a3db54e684-attachment.txt
+2025-01-06T18:56:21,493 [main] INFO  LogUtil:60 - Deleted Allure result file: 5b4e9559-53d5-436a-bf04-ec4c315af389-attachment.txt
+2025-01-06T18:56:21,494 [main] INFO  LogUtil:60 - Deleted Allure result file: 5d69d1d3-1234-4835-9b5a-d1a790f1107b-attachment.txt
+2025-01-06T18:56:21,495 [main] INFO  LogUtil:60 - Deleted Allure result file: 5dad70df-4b45-479a-8190-2e11f0c4f926-attachment.txt
+2025-01-06T18:56:21,495 [main] INFO  LogUtil:60 - Deleted Allure result file: 5e248d47-8d63-4a2f-8a75-97c2768ea1bc-attachment.txt
+2025-01-06T18:56:21,496 [main] INFO  LogUtil:60 - Deleted Allure result file: 61bd1c0e-9c99-4afe-a575-48b68c63e08e-attachment.txt
+2025-01-06T18:56:21,497 [main] INFO  LogUtil:60 - Deleted Allure result file: 6271bb9d-22cb-4e53-8b46-88ef0f6c85d7-attachment.txt
+2025-01-06T18:56:21,497 [main] INFO  LogUtil:60 - Deleted Allure result file: 636181b6-1cf4-4b34-b575-a37172498df3-attachment.txt
+2025-01-06T18:56:21,498 [main] INFO  LogUtil:60 - Deleted Allure result file: 636f918e-d63f-48c5-8df4-1b05141f973b-attachment.txt
+2025-01-06T18:56:21,499 [main] INFO  LogUtil:60 - Deleted Allure result file: 64b911ff-67ed-4e57-846b-db907e26aebc-attachment.txt
+2025-01-06T18:56:21,500 [main] INFO  LogUtil:60 - Deleted Allure result file: 64ee89ae-0013-4e1e-8f7a-47dc9ae62139-attachment.txt
+2025-01-06T18:56:21,500 [main] INFO  LogUtil:60 - Deleted Allure result file: 6544c28f-7294-4c80-be66-5158add8e958-attachment.txt
+2025-01-06T18:56:21,501 [main] INFO  LogUtil:60 - Deleted Allure result file: 65b3612c-0d4a-44c9-9372-f8667e36b6d1-attachment.txt
+2025-01-06T18:56:21,502 [main] INFO  LogUtil:60 - Deleted Allure result file: 6678a95b-16ba-4b3a-be10-8126197b58d8-attachment.txt
+2025-01-06T18:56:21,502 [main] INFO  LogUtil:60 - Deleted Allure result file: 667c7ac5-b331-4906-9fb3-af4dda8d42a6-attachment.txt
+2025-01-06T18:56:21,503 [main] INFO  LogUtil:60 - Deleted Allure result file: 67372a91-1a4f-4c6a-8538-c8fd7ff0b924-attachment.txt
+2025-01-06T18:56:21,504 [main] INFO  LogUtil:60 - Deleted Allure result file: 67b9ddce-e8ba-4779-9d29-6d06722b6677-attachment.txt
+2025-01-06T18:56:21,505 [main] INFO  LogUtil:60 - Deleted Allure result file: 68b06d46-7772-455f-b1ce-b814d946668a-attachment.txt
+2025-01-06T18:56:21,505 [main] INFO  LogUtil:60 - Deleted Allure result file: 69222bad-7c8b-4168-ba1a-f8f152a99d08-attachment.txt
+2025-01-06T18:56:21,506 [main] INFO  LogUtil:60 - Deleted Allure result file: 695936cc-b14f-43ea-8cfb-b0bb6c177509-attachment.txt
+2025-01-06T18:56:21,507 [main] INFO  LogUtil:60 - Deleted Allure result file: 69601ca8-76fc-444a-be63-c07591e2280d-attachment.txt
+2025-01-06T18:56:21,507 [main] INFO  LogUtil:60 - Deleted Allure result file: 6a78623e-070f-469e-a2d9-69d8c50709f4-attachment.txt
+2025-01-06T18:56:21,508 [main] INFO  LogUtil:60 - Deleted Allure result file: 6af38250-372e-49bd-ae28-4166c89213a3-attachment.txt
+2025-01-06T18:56:21,509 [main] INFO  LogUtil:60 - Deleted Allure result file: 6b819ce8-8f7d-47c2-a2c6-111fe5683def-attachment.txt
+2025-01-06T18:56:21,510 [main] INFO  LogUtil:60 - Deleted Allure result file: 6cfa7529-a96e-4c98-a1e1-04e35736a446-attachment.txt
+2025-01-06T18:56:21,510 [main] INFO  LogUtil:60 - Deleted Allure result file: 6d612cae-f175-4f6d-ad46-b4fd02698b43-attachment.txt
+2025-01-06T18:56:21,511 [main] INFO  LogUtil:60 - Deleted Allure result file: 6d8aa9f3-4780-4e06-931f-d59b25cd182b-attachment.txt
+2025-01-06T18:56:21,512 [main] INFO  LogUtil:60 - Deleted Allure result file: 6db0b634-72d3-4d97-a63b-ac0414a94789-attachment.txt
+2025-01-06T18:56:21,512 [main] INFO  LogUtil:60 - Deleted Allure result file: 6dfd0e54-9ca4-44de-880f-fe59fa6c5f1f-attachment.txt
+2025-01-06T18:56:21,513 [main] INFO  LogUtil:60 - Deleted Allure result file: 6ef360a6-99eb-495c-96ea-8b1377b40a41-attachment.txt
+2025-01-06T18:56:21,514 [main] INFO  LogUtil:60 - Deleted Allure result file: 6f01d65e-acfb-4e61-8f02-c007eab69972-attachment.txt
+2025-01-06T18:56:21,515 [main] INFO  LogUtil:60 - Deleted Allure result file: 6f6c94da-486e-4cc8-b85c-953481f00b7e-attachment.txt
+2025-01-06T18:56:21,515 [main] INFO  LogUtil:60 - Deleted Allure result file: 6fc5292d-18a7-4f1f-b2e8-61896e35f8cc-attachment.txt
+2025-01-06T18:56:21,516 [main] INFO  LogUtil:60 - Deleted Allure result file: 704d1819-ff18-440a-8838-0536b516d991-attachment.txt
+2025-01-06T18:56:21,517 [main] INFO  LogUtil:60 - Deleted Allure result file: 71071ba8-a74c-40f4-987a-f7ca26ec2f86-attachment.txt
+2025-01-06T18:56:21,517 [main] INFO  LogUtil:60 - Deleted Allure result file: 7135044f-02e0-4851-80bf-91223cd8a5c3-attachment.txt
+2025-01-06T18:56:21,518 [main] INFO  LogUtil:60 - Deleted Allure result file: 7349982c-a2d8-48b8-83f7-9c63835956c3-attachment.txt
+2025-01-06T18:56:21,519 [main] INFO  LogUtil:60 - Deleted Allure result file: 745edb4a-f54c-479a-b215-3a5fd52498a1-attachment.txt
+2025-01-06T18:56:21,520 [main] INFO  LogUtil:60 - Deleted Allure result file: 74d7bf95-de5a-4c28-a82f-03fbc15895d6-attachment.txt
+2025-01-06T18:56:21,520 [main] INFO  LogUtil:60 - Deleted Allure result file: 7554ad7b-d92a-41dc-88a1-ab956a2f7ecf-attachment.txt
+2025-01-06T18:56:21,521 [main] INFO  LogUtil:60 - Deleted Allure result file: 759ae2c9-609b-46fd-a8fa-f5bd948c6708-attachment.txt
+2025-01-06T18:56:21,522 [main] INFO  LogUtil:60 - Deleted Allure result file: 76c99474-dbe7-4345-9446-4bfb70d45e64-attachment.txt
+2025-01-06T18:56:21,522 [main] INFO  LogUtil:60 - Deleted Allure result file: 774e77d0-46df-42d9-a5d6-3d26b3f07af5-attachment.txt
+2025-01-06T18:56:21,523 [main] INFO  LogUtil:60 - Deleted Allure result file: 77a0329d-e226-4521-a3dc-96c6cf67708c-attachment.txt
+2025-01-06T18:56:21,524 [main] INFO  LogUtil:60 - Deleted Allure result file: 7871c2e1-146a-4962-b81e-a544cfb474fd-attachment.txt
+2025-01-06T18:56:21,524 [main] INFO  LogUtil:60 - Deleted Allure result file: 78a5d968-0d76-42fc-9e7b-7fcb527332a4-attachment.txt
+2025-01-06T18:56:21,525 [main] INFO  LogUtil:60 - Deleted Allure result file: 78cb89cc-b482-4a60-b623-24268bbdda3c-attachment.txt
+2025-01-06T18:56:21,526 [main] INFO  LogUtil:60 - Deleted Allure result file: 7a01e77b-fad1-48ff-9504-270aae7169dc-attachment.txt
+2025-01-06T18:56:21,526 [main] INFO  LogUtil:60 - Deleted Allure result file: 7ac0bedb-1a0b-4814-a1ba-f939cb1dab75-attachment.txt
+2025-01-06T18:56:21,527 [main] INFO  LogUtil:60 - Deleted Allure result file: 7afd67be-b5e9-4d0e-95fe-d06460c168cc-attachment.txt
+2025-01-06T18:56:21,528 [main] INFO  LogUtil:60 - Deleted Allure result file: 7b6879ee-ef8f-466f-829c-8e54db6106ac-attachment.txt
+2025-01-06T18:56:21,528 [main] INFO  LogUtil:60 - Deleted Allure result file: 7bddba4f-6689-40a3-a518-c7bcd21b9edc-attachment.txt
+2025-01-06T18:56:21,529 [main] INFO  LogUtil:60 - Deleted Allure result file: 7c66863d-646a-474e-95ae-ff5d3f17c3f9-attachment.txt
+2025-01-06T18:56:21,530 [main] INFO  LogUtil:60 - Deleted Allure result file: 7de93076-15d0-4acc-8515-fafeabccce73-container.json
+2025-01-06T18:56:21,531 [main] INFO  LogUtil:60 - Deleted Allure result file: 7f04b944-b4a7-453b-8338-571c733e7945-attachment.txt
+2025-01-06T18:56:21,531 [main] INFO  LogUtil:60 - Deleted Allure result file: 7f7ae961-d6b9-42eb-9236-34184d06e31a-attachment.txt
+2025-01-06T18:56:21,532 [main] INFO  LogUtil:60 - Deleted Allure result file: 8063d1a9-d5fa-4993-98ae-3cbc02261123-attachment.txt
+2025-01-06T18:56:21,533 [main] INFO  LogUtil:60 - Deleted Allure result file: 806eec76-5e81-4966-b080-2bf6bd7b48fb-attachment.txt
+2025-01-06T18:56:21,534 [main] INFO  LogUtil:60 - Deleted Allure result file: 807c5b08-cd13-41fd-8710-e96959743fdd-attachment.txt
+2025-01-06T18:56:21,535 [main] INFO  LogUtil:60 - Deleted Allure result file: 80c2fd64-bf25-4fe4-895f-c83fabbdb326-attachment.txt
+2025-01-06T18:56:21,535 [main] INFO  LogUtil:60 - Deleted Allure result file: 812ddb1c-26b2-4932-bb52-ce9ab05d779d-attachment.txt
+2025-01-06T18:56:21,536 [main] INFO  LogUtil:60 - Deleted Allure result file: 819f11d8-727e-4615-a30f-a93c54730be7-attachment.txt
+2025-01-06T18:56:21,537 [main] INFO  LogUtil:60 - Deleted Allure result file: 81b0a80c-1b63-4d45-b6b9-64a7f53e086c-attachment.txt
+2025-01-06T18:56:21,537 [main] INFO  LogUtil:60 - Deleted Allure result file: 83007bf8-8bb5-4577-9a32-1de359d22047-attachment.txt
+2025-01-06T18:56:21,538 [main] INFO  LogUtil:60 - Deleted Allure result file: 831e091e-8ad9-437a-b98d-ef786eb86900-attachment.txt
+2025-01-06T18:56:21,539 [main] INFO  LogUtil:60 - Deleted Allure result file: 83d74ed7-54a0-4bb1-a80b-11209f54855b-attachment.txt
+2025-01-06T18:56:21,539 [main] INFO  LogUtil:60 - Deleted Allure result file: 84e19d03-710c-4507-b442-34331d7be106-attachment.txt
+2025-01-06T18:56:21,540 [main] INFO  LogUtil:60 - Deleted Allure result file: 854ede32-22c0-4413-a259-8ab465c12abd-attachment.txt
+2025-01-06T18:56:21,541 [main] INFO  LogUtil:60 - Deleted Allure result file: 85a579a8-470c-42d3-a011-bd1d774b5c76-attachment.txt
+2025-01-06T18:56:21,541 [main] INFO  LogUtil:60 - Deleted Allure result file: 85fb60b9-b522-4b34-a45e-cbaec359c9a7-attachment.txt
+2025-01-06T18:56:21,542 [main] INFO  LogUtil:60 - Deleted Allure result file: 86687a3d-272c-4161-8ef8-2d4a3de6d941-attachment.txt
+2025-01-06T18:56:21,543 [main] INFO  LogUtil:60 - Deleted Allure result file: 86b2932e-f89c-4b02-a529-0488dbc8c63e-attachment.txt
+2025-01-06T18:56:21,543 [main] INFO  LogUtil:60 - Deleted Allure result file: 8809383f-f599-438b-8227-48bd1382c5a9-attachment.txt
+2025-01-06T18:56:21,544 [main] INFO  LogUtil:60 - Deleted Allure result file: 8851ceb8-3853-4f55-bb93-24446e0e9389-attachment.txt
+2025-01-06T18:56:21,545 [main] INFO  LogUtil:60 - Deleted Allure result file: 892fbc62-9c10-4bfe-a544-114ebe77c716-attachment.txt
+2025-01-06T18:56:21,545 [main] INFO  LogUtil:60 - Deleted Allure result file: 89558977-a517-4a4e-80c9-36d2698b3546-attachment.txt
+2025-01-06T18:56:21,546 [main] INFO  LogUtil:60 - Deleted Allure result file: 89944f20-4100-455b-8dda-2edab904e726-attachment.txt
+2025-01-06T18:56:21,547 [main] INFO  LogUtil:60 - Deleted Allure result file: 89be21dd-7a6b-42bd-a9f0-56177b3e4fca-attachment.txt
+2025-01-06T18:56:21,548 [main] INFO  LogUtil:60 - Deleted Allure result file: 8a758d0b-9d23-4262-9072-185a2f01a892-attachment.txt
+2025-01-06T18:56:21,548 [main] INFO  LogUtil:60 - Deleted Allure result file: 8a8f9df9-dc37-4b14-936c-bec07365ee49-attachment.txt
+2025-01-06T18:56:21,549 [main] INFO  LogUtil:60 - Deleted Allure result file: 8ad94697-721a-4766-b2dc-f305e254ef80-attachment.txt
+2025-01-06T18:56:21,550 [main] INFO  LogUtil:60 - Deleted Allure result file: 8c59673d-636a-4629-8cb5-b0e1df027040-attachment.txt
+2025-01-06T18:56:21,551 [main] INFO  LogUtil:60 - Deleted Allure result file: 8d9ad586-b0f8-47ab-a5fb-8886ce3e31c2-attachment.txt
+2025-01-06T18:56:21,552 [main] INFO  LogUtil:60 - Deleted Allure result file: 8fa097f3-4977-462f-8c2c-4a46fa5efb29-attachment.txt
+2025-01-06T18:56:21,552 [main] INFO  LogUtil:60 - Deleted Allure result file: 8fecd957-18ab-49a9-9eec-ecb2df561a1e-attachment.txt
+2025-01-06T18:56:21,553 [main] INFO  LogUtil:60 - Deleted Allure result file: 90e9db2e-0fc0-41c5-9e3b-e0fbf470e950-attachment.txt
+2025-01-06T18:56:21,554 [main] INFO  LogUtil:60 - Deleted Allure result file: 91ad6c7b-81a7-4c22-9de1-04c3ef2bcf9c-attachment.txt
+2025-01-06T18:56:21,554 [main] INFO  LogUtil:60 - Deleted Allure result file: 91b2d4ae-0ac7-422f-bd32-8fc2d0d1a68b-attachment.txt
+2025-01-06T18:56:21,555 [main] INFO  LogUtil:60 - Deleted Allure result file: 91b43717-67a2-49fe-bbdc-2693b72107e0-attachment.txt
+2025-01-06T18:56:21,556 [main] INFO  LogUtil:60 - Deleted Allure result file: 92414de6-7133-4ddd-87d2-be4f203a73dd-attachment.txt
+2025-01-06T18:56:21,556 [main] INFO  LogUtil:60 - Deleted Allure result file: 926687e6-d430-49e5-a936-9b680d876450-attachment.txt
+2025-01-06T18:56:21,557 [main] INFO  LogUtil:60 - Deleted Allure result file: 937ffac4-e6d3-4b95-bcf8-e2677aea85bb-attachment.txt
+2025-01-06T18:56:21,558 [main] INFO  LogUtil:60 - Deleted Allure result file: 9396c6e7-67f8-4a63-9f56-72dc86d7213d-attachment.txt
+2025-01-06T18:56:21,558 [main] INFO  LogUtil:60 - Deleted Allure result file: 93bfe98d-edc7-4d4d-9e93-4a4b707ac4b8-container.json
+2025-01-06T18:56:21,559 [main] INFO  LogUtil:60 - Deleted Allure result file: 93d82aef-9dfe-4c6a-b39a-8b04005347fc-attachment.txt
+2025-01-06T18:56:21,560 [main] INFO  LogUtil:60 - Deleted Allure result file: 93df0231-c038-4400-868a-61be7152c149-result.json
+2025-01-06T18:56:21,560 [main] INFO  LogUtil:60 - Deleted Allure result file: 94168d01-8fa2-4894-80c1-3a617f898c45-attachment.txt
+2025-01-06T18:56:21,561 [main] INFO  LogUtil:60 - Deleted Allure result file: 94996f24-24a4-41bf-bb10-2227f56d130f-attachment.txt
+2025-01-06T18:56:21,562 [main] INFO  LogUtil:60 - Deleted Allure result file: 958db0cc-fe94-4b7f-a537-b1b986977f78-attachment.txt
+2025-01-06T18:56:21,562 [main] INFO  LogUtil:60 - Deleted Allure result file: 96f9ee4d-d79b-4c16-b4a8-977efbd9762a-attachment.txt
+2025-01-06T18:56:21,563 [main] INFO  LogUtil:60 - Deleted Allure result file: 9777ea4d-44dc-4f04-9440-74e603a28413-attachment.txt
+2025-01-06T18:56:21,564 [main] INFO  LogUtil:60 - Deleted Allure result file: 9845c687-ebd0-4d34-bbac-37988801cd7a-attachment.txt
+2025-01-06T18:56:21,564 [main] INFO  LogUtil:60 - Deleted Allure result file: 98921350-8762-404e-bc6c-4f472ff659c6-attachment.txt
+2025-01-06T18:56:21,565 [main] INFO  LogUtil:60 - Deleted Allure result file: 9aa53780-7c31-4234-bc3d-29e1bc870e3e-attachment.txt
+2025-01-06T18:56:21,566 [main] INFO  LogUtil:60 - Deleted Allure result file: 9b1212c0-cc4f-4b33-9d49-2b4062abd91f-attachment.txt
+2025-01-06T18:56:21,567 [main] INFO  LogUtil:60 - Deleted Allure result file: 9b9645a6-7210-49f4-9116-80701a5a8ea1-attachment.txt
+2025-01-06T18:56:21,567 [main] INFO  LogUtil:60 - Deleted Allure result file: 9c0fec34-f373-498f-a480-e31950de3b92-attachment.txt
+2025-01-06T18:56:21,568 [main] INFO  LogUtil:60 - Deleted Allure result file: 9c40e7cb-2d92-4894-b812-caefd312aaa6-attachment.txt
+2025-01-06T18:56:21,569 [main] INFO  LogUtil:60 - Deleted Allure result file: 9c55a27c-253f-4908-bbd4-814060b9ca5f-attachment.txt
+2025-01-06T18:56:21,569 [main] INFO  LogUtil:60 - Deleted Allure result file: 9c97b56a-ed6c-4aa9-8c0e-ec417000e6c9-attachment.txt
+2025-01-06T18:56:21,570 [main] INFO  LogUtil:60 - Deleted Allure result file: 9cc9f2a0-0ab6-4e33-8e81-a2a5605e53fe-attachment.txt
+2025-01-06T18:56:21,571 [main] INFO  LogUtil:60 - Deleted Allure result file: 9ce321ac-f073-49b5-b328-80e410f64fe1-attachment.txt
+2025-01-06T18:56:21,572 [main] INFO  LogUtil:60 - Deleted Allure result file: 9daef15e-bcdb-40e5-8101-a0bba0cfd774-attachment.txt
+2025-01-06T18:56:21,572 [main] INFO  LogUtil:60 - Deleted Allure result file: 9e90e780-d55e-4bdf-a801-d28b70f2f680-attachment.txt
+2025-01-06T18:56:21,573 [main] INFO  LogUtil:60 - Deleted Allure result file: 9ed312c5-686a-4272-a2e6-b7122d004f64-attachment.txt
+2025-01-06T18:56:21,574 [main] INFO  LogUtil:60 - Deleted Allure result file: 9fc072e4-fdec-41d8-a509-6cfba51f6ebd-attachment.txt
+2025-01-06T18:56:21,575 [main] INFO  LogUtil:60 - Deleted Allure result file: a099e1e8-2440-496a-b9cb-3b2a3b529838-attachment.txt
+2025-01-06T18:56:21,575 [main] INFO  LogUtil:60 - Deleted Allure result file: a2550def-7aea-4995-97c2-40bc10278103-container.json
+2025-01-06T18:56:21,576 [main] INFO  LogUtil:60 - Deleted Allure result file: a2800f06-8e3a-4695-9a3f-d5b20ee242f7-attachment.txt
+2025-01-06T18:56:21,577 [main] INFO  LogUtil:60 - Deleted Allure result file: a3102495-4d35-4752-b8db-e72f33d91c12-attachment.txt
+2025-01-06T18:56:21,578 [main] INFO  LogUtil:60 - Deleted Allure result file: a31e85ae-807f-48c2-b817-ca5bbd0bd786-attachment.txt
+2025-01-06T18:56:21,580 [main] INFO  LogUtil:60 - Deleted Allure result file: a3b467ac-205b-4cfe-9de8-8292cca97eab-attachment.txt
+2025-01-06T18:56:21,581 [main] INFO  LogUtil:60 - Deleted Allure result file: a48ff62b-432b-4133-907b-dcc1e217fabe-attachment.txt
+2025-01-06T18:56:21,582 [main] INFO  LogUtil:60 - Deleted Allure result file: a4f68142-b9fc-484d-9b6d-0b0951a24318-attachment.txt
+2025-01-06T18:56:21,582 [main] INFO  LogUtil:60 - Deleted Allure result file: a5b61df3-16a6-4dd8-9b8f-cb1991d9e5ae-attachment.txt
+2025-01-06T18:56:21,583 [main] INFO  LogUtil:60 - Deleted Allure result file: a67f96f4-e6c2-4562-bd44-2a088dedb238-attachment.txt
+2025-01-06T18:56:21,584 [main] INFO  LogUtil:60 - Deleted Allure result file: a6af610f-bd92-4f77-b867-ea438a1d4a8d-container.json
+2025-01-06T18:56:21,585 [main] INFO  LogUtil:60 - Deleted Allure result file: a793bfc0-59a4-4dc7-814d-d3620df1c6cd-attachment.txt
+2025-01-06T18:56:21,586 [main] INFO  LogUtil:60 - Deleted Allure result file: a82d5fb1-224a-4d1f-ba18-38931dd7804b-attachment.txt
+2025-01-06T18:56:21,586 [main] INFO  LogUtil:60 - Deleted Allure result file: a8c70830-c781-4417-b63f-73e7e9cdaf5f-attachment.txt
+2025-01-06T18:56:21,587 [main] INFO  LogUtil:60 - Deleted Allure result file: a9005dc0-9564-4a36-a78f-a79baf3f110e-attachment.txt
+2025-01-06T18:56:21,587 [main] INFO  LogUtil:60 - Deleted Allure result file: a9723784-4426-4c75-8020-10a570fffdc9-attachment.txt
+2025-01-06T18:56:21,588 [main] INFO  LogUtil:60 - Deleted Allure result file: aa8ba319-a82e-4d84-8ef0-7bfb43e2c57b-attachment.txt
+2025-01-06T18:56:21,589 [main] INFO  LogUtil:60 - Deleted Allure result file: ac52ab52-6ab3-4aea-af79-773a738858dc-attachment.txt
+2025-01-06T18:56:21,590 [main] INFO  LogUtil:60 - Deleted Allure result file: acf69ab3-3493-4e0f-9f6a-bc02674d7846-attachment.txt
+2025-01-06T18:56:21,590 [main] INFO  LogUtil:60 - Deleted Allure result file: ad26b716-792e-41f5-83ab-fe3da7bb91e0-attachment.txt
+2025-01-06T18:56:21,591 [main] INFO  LogUtil:60 - Deleted Allure result file: ad47ef29-82fa-465f-850b-e66a25f31f80-attachment.txt
+2025-01-06T18:56:21,592 [main] INFO  LogUtil:60 - Deleted Allure result file: ad5f2630-b22e-4fe1-9f3b-b920fa05f882-attachment.txt
+2025-01-06T18:56:21,592 [main] INFO  LogUtil:60 - Deleted Allure result file: adb49c7c-77d6-4a2f-ba7b-e10bd84f9c4e-result.json
+2025-01-06T18:56:21,593 [main] INFO  LogUtil:60 - Deleted Allure result file: ae7c43ff-8c21-4aa4-93fd-f2237a2e8d44-attachment.txt
+2025-01-06T18:56:21,593 [main] INFO  LogUtil:60 - Deleted Allure result file: aff52d9f-8c6d-4e13-aa00-0fde642ec650-attachment.txt
+2025-01-06T18:56:21,594 [main] INFO  LogUtil:60 - Deleted Allure result file: b0ba9c29-ed8b-4205-9dd7-6489bb313bc3-attachment.txt
+2025-01-06T18:56:21,595 [main] INFO  LogUtil:60 - Deleted Allure result file: b1203480-f543-429e-9953-f4c599b3128c-attachment.txt
+2025-01-06T18:56:21,595 [main] INFO  LogUtil:60 - Deleted Allure result file: b14a6354-940a-4d69-9f7b-d891bdc8bc47-attachment.txt
+2025-01-06T18:56:21,596 [main] INFO  LogUtil:60 - Deleted Allure result file: b1a50268-4353-4825-a805-7d3b95df6361-attachment.txt
+2025-01-06T18:56:21,597 [main] INFO  LogUtil:60 - Deleted Allure result file: b232e447-0143-4e6f-8147-45c36dff75a6-attachment.txt
+2025-01-06T18:56:21,597 [main] INFO  LogUtil:60 - Deleted Allure result file: b2b5b932-bbdf-40ea-a74f-7014b9066132-attachment.txt
+2025-01-06T18:56:21,598 [main] INFO  LogUtil:60 - Deleted Allure result file: b695fa40-ff69-40d1-a4b1-fbb170505988-attachment.txt
+2025-01-06T18:56:21,598 [main] INFO  LogUtil:60 - Deleted Allure result file: b6a58ed6-3654-4615-afce-3646f1d78d2f-attachment.txt
+2025-01-06T18:56:21,599 [main] INFO  LogUtil:60 - Deleted Allure result file: b6df0c8f-ed7c-4e75-960a-72ec13499487-attachment.txt
+2025-01-06T18:56:21,600 [main] INFO  LogUtil:60 - Deleted Allure result file: b7798f25-24d5-4365-b0d5-04364ede8360-attachment.txt
+2025-01-06T18:56:21,600 [main] INFO  LogUtil:60 - Deleted Allure result file: b8c60aa5-72ac-49fd-a4de-f9640cb4a709-attachment.txt
+2025-01-06T18:56:21,601 [main] INFO  LogUtil:60 - Deleted Allure result file: ba164014-542c-41a8-a7b8-fda04ce1a429-attachment.txt
+2025-01-06T18:56:21,602 [main] INFO  LogUtil:60 - Deleted Allure result file: bb48a283-2376-4ab2-b247-dc5f0204ec18-attachment.txt
+2025-01-06T18:56:21,602 [main] INFO  LogUtil:60 - Deleted Allure result file: bce81a90-c682-422d-882e-4340dbabf6eb-attachment.txt
+2025-01-06T18:56:21,603 [main] INFO  LogUtil:60 - Deleted Allure result file: bd294ab9-5fcc-40d9-867a-df851eb74c3e-attachment.txt
+2025-01-06T18:56:21,603 [main] INFO  LogUtil:60 - Deleted Allure result file: be6edd2d-4702-4568-ad65-a1626f7c245e-attachment.txt
+2025-01-06T18:56:21,604 [main] INFO  LogUtil:60 - Deleted Allure result file: bf1be340-6cd0-4e4e-ba8e-cced70675470-attachment.txt
+2025-01-06T18:56:21,605 [main] INFO  LogUtil:60 - Deleted Allure result file: bfb6d687-e412-4328-853b-b5e2051af9f2-attachment.txt
+2025-01-06T18:56:21,605 [main] INFO  LogUtil:60 - Deleted Allure result file: c003825d-a897-4d82-87b8-50e33a7f606c-attachment.txt
+2025-01-06T18:56:21,606 [main] INFO  LogUtil:60 - Deleted Allure result file: c1e19c14-aab8-4bc5-98cf-c0f3ef54a050-attachment.txt
+2025-01-06T18:56:21,607 [main] INFO  LogUtil:60 - Deleted Allure result file: c2bcb2bd-4c11-4bc2-9cf6-8f15bd1259ce-attachment.txt
+2025-01-06T18:56:21,607 [main] INFO  LogUtil:60 - Deleted Allure result file: c373038a-4a14-41c8-9b42-c675e8161021-attachment.txt
+2025-01-06T18:56:21,608 [main] INFO  LogUtil:60 - Deleted Allure result file: c458fdfc-33d9-4e99-9501-db7722edd583-attachment.txt
+2025-01-06T18:56:21,609 [main] INFO  LogUtil:60 - Deleted Allure result file: c5ac6db8-45fd-4fdf-aac9-6d3ddae22e07-attachment.txt
+2025-01-06T18:56:21,610 [main] INFO  LogUtil:60 - Deleted Allure result file: c6dd5d64-dcda-4023-aa8a-3966624b5d73-attachment.txt
+2025-01-06T18:56:21,610 [main] INFO  LogUtil:60 - Deleted Allure result file: c8cf3f46-7241-4e1e-b3c8-34dc0abeb0df-attachment.txt
+2025-01-06T18:56:21,611 [main] INFO  LogUtil:60 - Deleted Allure result file: c8f2c1cb-7007-4bb7-96ae-b1aa271a042d-attachment.txt
+2025-01-06T18:56:21,612 [main] INFO  LogUtil:60 - Deleted Allure result file: c9b61bda-eff8-474a-ba33-fabb9de229d7-attachment.txt
+2025-01-06T18:56:21,612 [main] INFO  LogUtil:60 - Deleted Allure result file: ca4bcb95-78d7-477a-a22e-e3ff917c64c9-attachment.txt
+2025-01-06T18:56:21,613 [main] INFO  LogUtil:60 - Deleted Allure result file: ca7e0fec-6b0d-4533-be86-cd4215c72827-attachment.txt
+2025-01-06T18:56:21,613 [main] INFO  LogUtil:60 - Deleted Allure result file: ca81bb8a-f887-4bb7-87cd-98aadd55f236-attachment.txt
+2025-01-06T18:56:21,614 [main] INFO  LogUtil:60 - Deleted Allure result file: cb1b35dd-a01e-4f17-8ee5-b5662229ef14-attachment.txt
+2025-01-06T18:56:21,615 [main] INFO  LogUtil:60 - Deleted Allure result file: cb4f4202-cda2-45d6-a685-3c32dc534d98-attachment.txt
+2025-01-06T18:56:21,615 [main] INFO  LogUtil:60 - Deleted Allure result file: cbcb56ca-b942-4976-a3b6-4d5bd74f3803-attachment.txt
+2025-01-06T18:56:21,616 [main] INFO  LogUtil:60 - Deleted Allure result file: cc2e6662-df9d-49f7-9afd-c7a5729a9b10-attachment.txt
+2025-01-06T18:56:21,617 [main] INFO  LogUtil:60 - Deleted Allure result file: cc8e57e8-1193-49ed-a8c2-5e54194732ff-attachment.txt
+2025-01-06T18:56:21,617 [main] INFO  LogUtil:60 - Deleted Allure result file: cdd9d487-705a-4c9a-a74c-b7c431011dc8-attachment.txt
+2025-01-06T18:56:21,618 [main] INFO  LogUtil:60 - Deleted Allure result file: cef83aca-74dc-49a5-a227-89184dae2af2-attachment.txt
+2025-01-06T18:56:21,619 [main] INFO  LogUtil:60 - Deleted Allure result file: d14278dd-b7ad-4e9d-b172-ad2e6f850327-attachment.txt
+2025-01-06T18:56:21,619 [main] INFO  LogUtil:60 - Deleted Allure result file: d1548ae3-cd99-48a7-bca9-f0d047ac1596-attachment.txt
+2025-01-06T18:56:21,620 [main] INFO  LogUtil:60 - Deleted Allure result file: d21646c3-54ce-4e63-8e80-3083ff096248-container.json
+2025-01-06T18:56:21,620 [main] INFO  LogUtil:60 - Deleted Allure result file: d2e7eace-7b86-45c5-b7b8-79efb8908191-attachment.txt
+2025-01-06T18:56:21,621 [main] INFO  LogUtil:60 - Deleted Allure result file: d2eca1b8-b42d-4c32-b596-c7d38edc0afd-attachment.txt
+2025-01-06T18:56:21,622 [main] INFO  LogUtil:60 - Deleted Allure result file: d410e491-529a-49a0-b393-74c8c1f65cb2-attachment.txt
+2025-01-06T18:56:21,622 [main] INFO  LogUtil:60 - Deleted Allure result file: d4865beb-b0d8-457f-b206-ff1cc40b46ad-attachment.txt
+2025-01-06T18:56:21,623 [main] INFO  LogUtil:60 - Deleted Allure result file: d4bca69e-c066-40a3-8161-a3060c5db28b-attachment.txt
+2025-01-06T18:56:21,624 [main] INFO  LogUtil:60 - Deleted Allure result file: d635fc44-1a02-4d43-b635-9cbe395c392e-attachment.txt
+2025-01-06T18:56:21,624 [main] INFO  LogUtil:60 - Deleted Allure result file: d6b8c2b2-c37b-418f-8f9c-209895ad2346-attachment.txt
+2025-01-06T18:56:21,625 [main] INFO  LogUtil:60 - Deleted Allure result file: d6f28030-f309-47b3-98b2-5a9afe70539b-attachment.txt
+2025-01-06T18:56:21,626 [main] INFO  LogUtil:60 - Deleted Allure result file: d758f98b-a192-4465-9948-c0b35864cd74-attachment.txt
+2025-01-06T18:56:21,626 [main] INFO  LogUtil:60 - Deleted Allure result file: d80c03ae-6cbf-485c-84a5-05c5e9a61a21-attachment.txt
+2025-01-06T18:56:21,627 [main] INFO  LogUtil:60 - Deleted Allure result file: d83dba4e-30e4-4619-91df-47a3d9e92a3e-attachment.txt
+2025-01-06T18:56:21,627 [main] INFO  LogUtil:60 - Deleted Allure result file: d8fd3843-eef2-4c0a-bcf5-9cad53fab747-attachment.txt
+2025-01-06T18:56:21,628 [main] INFO  LogUtil:60 - Deleted Allure result file: d972b89c-d4e5-45f7-95b3-caa678348508-attachment.txt
+2025-01-06T18:56:21,629 [main] INFO  LogUtil:60 - Deleted Allure result file: d9a2c8e8-53e7-45f5-a7ac-5bdd12d010ea-attachment.txt
+2025-01-06T18:56:21,629 [main] INFO  LogUtil:60 - Deleted Allure result file: da140dc1-f3b8-413c-afc2-45e9d40aecdd-attachment.txt
+2025-01-06T18:56:21,630 [main] INFO  LogUtil:60 - Deleted Allure result file: da2b2cc2-808e-4487-967c-67afac2c1602-attachment.txt
+2025-01-06T18:56:21,631 [main] INFO  LogUtil:60 - Deleted Allure result file: da5a5e3d-3917-4c91-a5df-5ee480c66411-attachment.txt
+2025-01-06T18:56:21,631 [main] INFO  LogUtil:60 - Deleted Allure result file: db78f474-f94f-49f0-887d-08f5a92375c5-attachment.txt
+2025-01-06T18:56:21,632 [main] INFO  LogUtil:60 - Deleted Allure result file: dc4cf3a1-35b2-43b3-94da-7ace139c80ea-attachment.txt
+2025-01-06T18:56:21,633 [main] INFO  LogUtil:60 - Deleted Allure result file: dcb8a304-6343-4bf8-a5bf-5f05a7d6b3cd-attachment.txt
+2025-01-06T18:56:21,633 [main] INFO  LogUtil:60 - Deleted Allure result file: dd6031e9-25b9-44a1-92b6-043d424df419-attachment.txt
+2025-01-06T18:56:21,634 [main] INFO  LogUtil:60 - Deleted Allure result file: de28ef87-7f59-477b-9b07-be5511e2e363-attachment.txt
+2025-01-06T18:56:21,634 [main] INFO  LogUtil:60 - Deleted Allure result file: df0ff3de-db92-4119-b2a9-33da62caa123-attachment.txt
+2025-01-06T18:56:21,635 [main] INFO  LogUtil:60 - Deleted Allure result file: df810dee-82c9-44ef-a58a-c40ad5a329c6-attachment.txt
+2025-01-06T18:56:21,636 [main] INFO  LogUtil:60 - Deleted Allure result file: df897d66-d96a-43af-8d96-f7c4c431bb7b-attachment.txt
+2025-01-06T18:56:21,636 [main] INFO  LogUtil:60 - Deleted Allure result file: e08fd48f-32e7-45da-a384-2acbd853aecf-attachment.txt
+2025-01-06T18:56:21,637 [main] INFO  LogUtil:60 - Deleted Allure result file: e0b25f92-19af-4861-a01a-d8c54530ac2c-attachment.txt
+2025-01-06T18:56:21,638 [main] INFO  LogUtil:60 - Deleted Allure result file: e233c205-365d-406b-8e03-fde5bc8c5d7b-attachment.txt
+2025-01-06T18:56:21,638 [main] INFO  LogUtil:60 - Deleted Allure result file: e2bcc9bf-d443-41fd-b6c7-d271b29e8a5b-attachment.txt
+2025-01-06T18:56:21,639 [main] INFO  LogUtil:60 - Deleted Allure result file: e2c1e3fd-6cf2-495e-a755-ae94701d1dd5-attachment.txt
+2025-01-06T18:56:21,639 [main] INFO  LogUtil:60 - Deleted Allure result file: e346118c-dbcc-49a4-a644-92c8b931c23e-attachment.txt
+2025-01-06T18:56:21,640 [main] INFO  LogUtil:60 - Deleted Allure result file: e3843f57-f828-4d19-8f4e-14410433bec7-attachment.txt
+2025-01-06T18:56:21,641 [main] INFO  LogUtil:60 - Deleted Allure result file: e40e14cd-1bd7-4260-9c1e-77963de8bb90-attachment.txt
+2025-01-06T18:56:21,641 [main] INFO  LogUtil:60 - Deleted Allure result file: e4af2f7a-58b5-4e3e-b56e-cfa98ac53105-attachment.txt
+2025-01-06T18:56:21,642 [main] INFO  LogUtil:60 - Deleted Allure result file: e5393bf2-e6b3-45a5-bb9b-0a1f08d1d910-attachment.txt
+2025-01-06T18:56:21,643 [main] INFO  LogUtil:60 - Deleted Allure result file: e587b1a0-a006-4ac9-b965-748fa87b0928-attachment.txt
+2025-01-06T18:56:21,643 [main] INFO  LogUtil:60 - Deleted Allure result file: e6540f95-4a88-4f2d-b15f-de25de7c5766-attachment.txt
+2025-01-06T18:56:21,644 [main] INFO  LogUtil:60 - Deleted Allure result file: e753f9ed-6dbe-4a77-ad8b-3677b865da49-attachment.txt
+2025-01-06T18:56:21,645 [main] INFO  LogUtil:60 - Deleted Allure result file: e78b247c-77e6-40c5-b118-7adab7dda52b-attachment.txt
+2025-01-06T18:56:21,645 [main] INFO  LogUtil:60 - Deleted Allure result file: e9578c28-458d-4e78-9544-7835510db909-attachment.txt
+2025-01-06T18:56:21,646 [main] INFO  LogUtil:60 - Deleted Allure result file: e97b1cfe-c4c8-4fe3-a0f4-684c4a1afabf-attachment.txt
+2025-01-06T18:56:21,646 [main] INFO  LogUtil:60 - Deleted Allure result file: ea147c69-66ff-45b8-a67a-a177191bc2b6-attachment.txt
+2025-01-06T18:56:21,647 [main] INFO  LogUtil:60 - Deleted Allure result file: ea3ff41e-6eb9-44fc-91f7-bb36bfa765ff-container.json
+2025-01-06T18:56:21,648 [main] INFO  LogUtil:60 - Deleted Allure result file: eacfc2ab-1b7a-400c-ab37-f337198a7acb-attachment.txt
+2025-01-06T18:56:21,648 [main] INFO  LogUtil:60 - Deleted Allure result file: eb017f3a-bce2-4836-a4b3-79b27097fdfc-attachment.txt
+2025-01-06T18:56:21,649 [main] INFO  LogUtil:60 - Deleted Allure result file: ed36bc7b-80de-4496-89d6-e0a8c197df90-attachment.txt
+2025-01-06T18:56:21,650 [main] INFO  LogUtil:60 - Deleted Allure result file: ef4625dc-ce6b-487e-ae6a-3825337b66c9-attachment.txt
+2025-01-06T18:56:21,650 [main] INFO  LogUtil:60 - Deleted Allure result file: ef495084-7b49-4eb1-8e30-4904c4811dda-attachment.txt
+2025-01-06T18:56:21,651 [main] INFO  LogUtil:60 - Deleted Allure result file: ef54dffc-f17c-41b5-8a48-99a06e4abf64-attachment.txt
+2025-01-06T18:56:21,651 [main] INFO  LogUtil:60 - Deleted Allure result file: efa69d63-d6d6-4d3f-97f5-7e795e427dd4-attachment.txt
+2025-01-06T18:56:21,652 [main] INFO  LogUtil:60 - Deleted Allure result file: f0c3fb26-691d-4b64-a039-052315d77b4d-attachment.txt
+2025-01-06T18:56:21,653 [main] INFO  LogUtil:60 - Deleted Allure result file: f1371cd2-0da5-4d97-9533-fc14d0fd02ee-attachment.txt
+2025-01-06T18:56:21,653 [main] INFO  LogUtil:60 - Deleted Allure result file: f315f854-792b-4d95-852a-284daf05a1d7-attachment.txt
+2025-01-06T18:56:21,654 [main] INFO  LogUtil:60 - Deleted Allure result file: f364cc60-9aee-4af5-9bd6-9018fb03437e-attachment.txt
+2025-01-06T18:56:21,654 [main] INFO  LogUtil:60 - Deleted Allure result file: f3825c0c-ba7f-4fa9-90da-83a6a57e4506-attachment.txt
+2025-01-06T18:56:21,655 [main] INFO  LogUtil:60 - Deleted Allure result file: f44e60d9-0015-4e22-815f-1fa039b657e9-attachment.txt
+2025-01-06T18:56:21,656 [main] INFO  LogUtil:60 - Deleted Allure result file: f48d5119-29fd-4e6e-a12c-017134f4ad0c-attachment.txt
+2025-01-06T18:56:21,656 [main] INFO  LogUtil:60 - Deleted Allure result file: f5335ebe-7231-4497-bb2d-eaba7cfd1f4d-attachment.txt
+2025-01-06T18:56:21,657 [main] INFO  LogUtil:60 - Deleted Allure result file: f642cfb9-fb4d-4bbd-965f-eed694f7fc82-attachment.txt
+2025-01-06T18:56:21,658 [main] INFO  LogUtil:60 - Deleted Allure result file: f6a99eac-5833-4e33-babb-5d490a0cd604-attachment.txt
+2025-01-06T18:56:21,658 [main] INFO  LogUtil:60 - Deleted Allure result file: f6ca8658-be3a-4740-9db2-916ac9d60aeb-attachment.txt
+2025-01-06T18:56:21,659 [main] INFO  LogUtil:60 - Deleted Allure result file: f717bf2b-6d88-43e4-83d2-7ef1e4ca7da9-attachment.txt
+2025-01-06T18:56:21,659 [main] INFO  LogUtil:60 - Deleted Allure result file: f8213770-1228-4d0b-a709-fc29e23eb73b-attachment.txt
+2025-01-06T18:56:21,660 [main] INFO  LogUtil:60 - Deleted Allure result file: f8adf532-19a7-4709-a854-b675b225540b-attachment.txt
+2025-01-06T18:56:21,661 [main] INFO  LogUtil:60 - Deleted Allure result file: fa4d6e26-ed26-4028-a4da-60889ca8d3de-attachment.txt
+2025-01-06T18:56:21,661 [main] INFO  LogUtil:60 - Deleted Allure result file: fbce2a1c-91c6-466c-a39e-f49da8c8debd-attachment.txt
+2025-01-06T18:56:21,662 [main] INFO  LogUtil:60 - Deleted Allure result file: fc5f2bf0-27cf-4bdb-aabe-973a1f652c54-attachment.txt
+2025-01-06T18:56:21,663 [main] INFO  LogUtil:60 - Deleted Allure result file: fcce8b5e-cbf3-46d9-a88d-7eb3d8b33059-attachment.txt
+2025-01-06T18:56:21,664 [main] INFO  LogUtil:60 - Deleted Allure result file: fd7fb1c6-dffa-4cc0-9088-1ace90e81352-attachment.txt
+2025-01-06T18:56:21,664 [main] INFO  LogUtil:60 - Deleted Allure result file: fded30b1-a5b3-484d-ad2f-73369a23ba7d-attachment.txt
+2025-01-06T18:56:21,666 [main] INFO  LogUtil:60 - Deleted Allure result file: fef5e5df-fd1d-4342-8b7d-dbcf74e4b3a4-attachment.txt
+2025-01-06T18:56:21,666 [main] INFO  LogUtil:60 - Deleted Allure result file: fefc4fa5-da51-4219-8669-74399f966e40-attachment.txt
+2025-01-06T18:56:21,667 [main] INFO  LogUtil:60 - Deleted Allure result file: ff20ccdc-a652-45f1-912f-c1c4a21b9e50-attachment.txt
+2025-01-06T18:56:21,675 [main] INFO  LogUtil:60 - Test Context Started: LoginPageTest
+2025-01-06T18:56:21,675 [main] INFO  LogUtil:60 - Running tests with Browser: chrome and Environment: dev
+2025-01-06T18:56:21,677 [main] INFO  ConfigManager:60 - Loaded configuration file: src/test/resources/config/config-dev.properties
+2025-01-06T18:56:21,677 [main] INFO  LogUtil:60 - Log level set to: INFO
+2025-01-06T18:56:21,677 [main] INFO  LogUtil:60 - Driver Instance : null at TestListener : onStart
+2025-01-06T18:56:22,803 [main] INFO  LogUtil:60 - WebDriver initialized: ChromeDriver: chrome on windows (a307be58913557d97ac9a48a17704c15) at TestListener : onStart
+2025-01-06T18:56:23,156 [main] INFO  LogUtil:60 - Test Started: runScenario
+2025-01-06T18:56:23,229 [main] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (a307be58913557d97ac9a48a17704c15) at WebDriverHooks : setUp
+2025-01-06T18:56:25,684 [main] INFO  LogUtil:60 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-01-06T18:56:27,040 [main] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-06T18:56:27,381 [main] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-06T18:56:27,385 [main] INFO  LogUtil:60 - Leaving the username and password fields empty.
+2025-01-06T18:56:27,421 [main] INFO  LogUtil:60 - Entered username: 
+2025-01-06T18:56:27,469 [main] INFO  LogUtil:60 - Entered password: 
+2025-01-06T18:56:27,529 [main] INFO  LogUtil:60 - Clicked login button
+2025-01-06T18:56:27,529 [main] INFO  LogUtil:60 - Login button clicked.
+2025-01-06T18:56:27,530 [main] INFO  LogUtil:60 - Verifying error messages for blank username and password fields.
+2025-01-06T18:56:27,599 [main] ERROR LogUtil:66 - Test Failed: runScenario
+2025-01-06T18:56:27,860 [main] INFO  ScreenshotUtil:60 - Screenshot saved at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.23\allure-results\screenshots\runScenario_2025-01-06_18-56-27_T1.png
+2025-01-06T18:56:27,861 [main] INFO  ScreenshotUtil:65 - Screenshot attached to Allure report.
+2025-01-06T18:56:28,038 [main] ERROR LogUtil:66 - Error occurred during test execution: Error message for Username field does not match! expected [Require] but found [Required]
+2025-01-06T18:56:28,041 [main] INFO  LogUtil:60 - Test Started: runScenario
+2025-01-06T18:56:28,053 [main] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (a307be58913557d97ac9a48a17704c15) at WebDriverHooks : setUp
+2025-01-06T18:56:28,581 [main] INFO  LogUtil:60 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-01-06T18:56:29,442 [main] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-06T18:56:29,789 [main] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-06T18:56:29,791 [main] INFO  LogUtil:60 - Entering invalid credentials. Username: Admin, Password: admin
+2025-01-06T18:56:29,824 [main] INFO  LogUtil:60 - Entered username: Admin
+2025-01-06T18:56:29,866 [main] INFO  LogUtil:60 - Entered password: admin
+2025-01-06T18:56:29,866 [main] INFO  LogUtil:60 - Parameters - Username: Admin, Password: admin
+2025-01-06T18:56:31,064 [main] INFO  LogUtil:60 - Clicked login button
+2025-01-06T18:56:31,064 [main] INFO  LogUtil:60 - Login button clicked.
+2025-01-06T18:56:31,065 [main] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-06T18:56:31,418 [main] INFO  LogUtil:60 - Test Passed: runScenario
+2025-01-06T18:56:31,418 [main] INFO  LogUtil:60 - Test Started: runScenario
+2025-01-06T18:56:31,424 [main] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (a307be58913557d97ac9a48a17704c15) at WebDriverHooks : setUp
+2025-01-06T18:56:31,981 [main] INFO  LogUtil:60 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-01-06T18:56:32,827 [main] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-06T18:56:33,196 [main] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-06T18:56:33,198 [main] INFO  LogUtil:60 - Entering invalid credentials. Username: Adminn, Password: admin123
+2025-01-06T18:56:33,227 [main] INFO  LogUtil:60 - Entered username: Adminn
+2025-01-06T18:56:33,268 [main] INFO  LogUtil:60 - Entered password: admin123
+2025-01-06T18:56:33,268 [main] INFO  LogUtil:60 - Parameters - Username: Adminn, Password: admin123
+2025-01-06T18:56:33,321 [main] INFO  LogUtil:60 - Clicked login button
+2025-01-06T18:56:33,321 [main] INFO  LogUtil:60 - Login button clicked.
+2025-01-06T18:56:33,322 [main] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-06T18:56:34,568 [main] INFO  LogUtil:60 - Test Passed: runScenario
+2025-01-06T18:56:34,569 [main] INFO  LogUtil:60 - Test Started: runScenario
+2025-01-06T18:56:34,574 [main] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (a307be58913557d97ac9a48a17704c15) at WebDriverHooks : setUp
+2025-01-06T18:56:35,091 [main] INFO  LogUtil:60 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-01-06T18:56:35,930 [main] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-06T18:56:36,290 [main] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-06T18:56:36,291 [main] INFO  LogUtil:60 - Entering invalid credentials. Username: Adminn, Password: admin
+2025-01-06T18:56:36,321 [main] INFO  LogUtil:60 - Entered username: Adminn
+2025-01-06T18:56:36,360 [main] INFO  LogUtil:60 - Entered password: admin
+2025-01-06T18:56:36,360 [main] INFO  LogUtil:60 - Parameters - Username: Adminn, Password: admin
+2025-01-06T18:56:37,253 [main] INFO  LogUtil:60 - Clicked login button
+2025-01-06T18:56:37,253 [main] INFO  LogUtil:60 - Login button clicked.
+2025-01-06T18:56:37,254 [main] INFO  LogUtil:60 - Verifying the error message: Invalid credentials
+2025-01-06T18:56:37,590 [main] INFO  LogUtil:60 - Test Passed: runScenario
+2025-01-06T18:56:37,590 [main] INFO  LogUtil:60 - Test Started: runScenario
+2025-01-06T18:56:37,596 [main] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (a307be58913557d97ac9a48a17704c15) at WebDriverHooks : setUp
+2025-01-06T18:56:38,120 [main] INFO  LogUtil:60 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-01-06T18:56:39,115 [main] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-06T18:56:39,569 [main] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-06T18:56:39,570 [main] INFO  LogUtil:60 - Entering valid credentials. Username: Admin, Password: admin123
+2025-01-06T18:56:39,604 [main] INFO  LogUtil:60 - Entered username: Admin
+2025-01-06T18:56:39,646 [main] INFO  LogUtil:60 - Entered password: admin123
+2025-01-06T18:56:40,890 [main] INFO  LogUtil:60 - Clicked login button
+2025-01-06T18:56:40,891 [main] INFO  LogUtil:60 - Login button clicked.
+2025-01-06T18:56:40,892 [main] INFO  LogUtil:60 - Verifying login success and Dashboard page visibility.
+2025-01-06T18:56:41,279 [main] INFO  LogUtil:60 - Clicking on the logout button.
+2025-01-06T18:56:43,230 [main] INFO  LogUtil:60 - Clicked logout link
+2025-01-06T18:56:43,231 [main] INFO  LogUtil:60 - Verifying successful navigation to the Login page.
+2025-01-06T18:56:43,571 [main] INFO  LogUtil:60 - Test Passed: runScenario
+2025-01-06T18:56:43,571 [main] INFO  LogUtil:60 - Test Started: runScenario
+2025-01-06T18:56:43,578 [main] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (a307be58913557d97ac9a48a17704c15) at WebDriverHooks : setUp
+2025-01-06T18:56:44,102 [main] INFO  LogUtil:60 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-01-06T18:56:44,941 [main] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-06T18:56:45,283 [main] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-06T18:56:45,285 [main] INFO  LogUtil:60 - Clicking on the link: Forgot your password?
+2025-01-06T18:56:45,860 [main] INFO  LogUtil:60 - Clicked forgot password link
+2025-01-06T18:56:45,860 [main] INFO  LogUtil:60 - Verifying that I am redirected to the Reset Password page.
+2025-01-06T18:56:46,211 [main] INFO  LogUtil:60 - Entering a valid username: Admin
+2025-01-06T18:56:46,250 [main] INFO  LogUtil:60 - Entered username: Admin
+2025-01-06T18:56:46,251 [main] INFO  LogUtil:60 - Clicking on the Reset Password button.
+2025-01-06T18:56:47,226 [main] INFO  LogUtil:60 - Clicked login button
+2025-01-06T18:56:47,226 [main] INFO  LogUtil:60 - Verifying the success message and URL after clicking the Reset Password button.
+2025-01-06T18:56:47,563 [main] INFO  LogUtil:60 - Test Passed: runScenario
+2025-01-06T18:56:49,159 [main] INFO  LogUtil:60 - Test Context Finished: LoginPageTest
+2025-01-06T18:56:49,159 [main] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (a307be58913557d97ac9a48a17704c15) before TestListener : onFinish
+2025-01-06T18:56:49,269 [main] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (null) after TestListener : onFinish
+2025-01-06T18:56:49,271 [main] INFO  LogUtil:60 - WebDriver instance quit for thread.

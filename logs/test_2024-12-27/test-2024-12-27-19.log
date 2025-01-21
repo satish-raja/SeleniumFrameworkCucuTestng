@@ -1,0 +1,239 @@
+2024-12-27T19:31:49,710 [main] INFO  main:71 - [Thread-1] Clearing Allure results at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.17\allure-results
+2024-12-27T19:31:49,717 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 04693398-5b47-4b91-bacd-768706150b10-container.json
+2024-12-27T19:31:49,718 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 06191883-da06-43d0-a9d9-96df8f8f846a-container.json
+2024-12-27T19:31:49,719 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 0bd83843-bcb3-4a26-995c-6e7a2c7df9d5-container.json
+2024-12-27T19:31:49,719 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 17b1e637-b6b1-42cb-a252-08bfc149a69b-container.json
+2024-12-27T19:31:49,720 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 17e16f70-7c2e-4032-b89a-58e5a7a8ca41-attachment.txt
+2024-12-27T19:31:49,721 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 18694d91-04f0-4154-9412-5239825dc296-container.json
+2024-12-27T19:31:49,722 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 196e4ff2-bc0d-41f2-9010-877d2eeeb5df-attachment.txt
+2024-12-27T19:31:49,722 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 1aa4535f-f253-47bc-982c-63c7f147f4be-container.json
+2024-12-27T19:31:49,723 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 2035cdde-5db3-4f4b-a267-3ea03dacef8c-attachment.txt
+2024-12-27T19:31:49,723 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 2629e99e-4f54-4a0a-98df-69829afb9951-container.json
+2024-12-27T19:31:49,724 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 27ddccf5-96b1-440c-8bdc-6fdb1450279e-container.json
+2024-12-27T19:31:49,724 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 2ff2e132-65b8-4c95-a71f-d9e30e1e4475-result.json
+2024-12-27T19:31:49,725 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 318b1fcb-5239-4a4f-b322-7041bab8ab93-result.json
+2024-12-27T19:31:49,725 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 32c66aa2-fe18-4c2a-8a03-784ae8cddd09-container.json
+2024-12-27T19:31:49,726 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 34956ea0-f2d7-4b4d-9201-499761618415-container.json
+2024-12-27T19:31:49,726 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 36b15374-be5a-40fa-a337-7c77a1960a1b-result.json
+2024-12-27T19:31:49,727 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 38aea580-41bb-4ba8-8176-acf27e999815-result.json
+2024-12-27T19:31:49,728 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 399b7afd-1b40-4797-9c17-699d4049094f-container.json
+2024-12-27T19:31:49,728 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 3f3df505-7215-402e-8d7c-84548c8444b5-container.json
+2024-12-27T19:31:49,729 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 42aabe28-4f2a-44c4-8406-1adb5d6de2d1-container.json
+2024-12-27T19:31:49,729 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 43ef46c3-e9f9-4442-b86c-0b3b9d5ccce2-container.json
+2024-12-27T19:31:49,730 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 49ffd774-2d43-407a-9bd9-d13967bc0139-attachment.txt
+2024-12-27T19:31:49,730 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 617d1807-d73b-4bfe-a89d-750bd79d023d-result.json
+2024-12-27T19:31:49,731 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 6978ba84-9406-435d-af3d-882ec5ed9f0d-attachment.txt
+2024-12-27T19:31:49,731 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 6bfa66ae-058a-4b25-8233-55daf7f1b936-container.json
+2024-12-27T19:31:49,732 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 6fbf8160-3259-403d-b68b-71ac10f1ca0e-attachment.txt
+2024-12-27T19:31:49,732 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 739c3494-4f71-46aa-9c2e-8dbbe3fa4cd1-container.json
+2024-12-27T19:31:49,733 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 8068a066-6de3-4b44-8217-72e80881680e-container.json
+2024-12-27T19:31:49,733 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 86ca1f72-a168-46ba-8ea4-1691bf56bdc9-container.json
+2024-12-27T19:31:49,734 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 882feea2-dc4a-4ad8-930d-d21e2934f047-container.json
+2024-12-27T19:31:49,734 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 888edadc-1bf0-46e6-a696-054603d4a39f-container.json
+2024-12-27T19:31:49,734 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 94fe87aa-7ca7-4ef8-9af3-4aab9b425d5a-container.json
+2024-12-27T19:31:49,735 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 9ba2c117-6519-473a-ac1e-35b8fcf77810-container.json
+2024-12-27T19:31:49,735 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 9c18c4d0-5e7f-4afb-aa19-f1ca21dda61d-container.json
+2024-12-27T19:31:49,736 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: a03c5d4b-aeee-4b53-9c5b-c7426b3a3f9d-attachment.txt
+2024-12-27T19:31:49,737 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: a4b62472-afbf-421a-a4ab-1011651d267e-container.json
+2024-12-27T19:31:49,737 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: aba06da4-fcf0-4535-bc91-0556f91b7002-container.json
+2024-12-27T19:31:49,737 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: ac76ca4a-39a8-47f0-bc8e-7b9e72acfa6d-container.json
+2024-12-27T19:31:49,738 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: aedf38cf-f71a-47ee-9bab-f1722d46cf73-container.json
+2024-12-27T19:31:49,739 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: b40f8e20-a0bf-4262-8c14-e62447e54a22-attachment.txt
+2024-12-27T19:31:49,739 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: bc255a19-4300-4d89-ae79-bc5a19a6bebb-container.json
+2024-12-27T19:31:49,740 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: c5e43922-c934-4672-b921-2dc389759d20-container.json
+2024-12-27T19:31:49,740 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: cdfb089e-cf45-45bc-8979-2a04d28346ed-container.json
+2024-12-27T19:31:49,741 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: d238e826-aee3-4bbd-a46a-b6cab2b86db8-container.json
+2024-12-27T19:31:49,741 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: d34fd0ff-2142-44c7-a91a-067e2db988be-container.json
+2024-12-27T19:31:49,741 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: dc0df0a1-e455-4d02-94ad-955206e0ecfd-container.json
+2024-12-27T19:31:49,742 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: dc9ecb57-de42-4ffc-a6d5-4a523c351fb6-attachment.txt
+2024-12-27T19:31:49,742 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: dcb0cf88-bfce-400f-bc95-908073945440-attachment.txt
+2024-12-27T19:31:49,743 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: e50b4d2f-4906-43ad-b820-1870335aa2cf-result.json
+2024-12-27T19:31:49,743 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: ecb6c87a-e495-4a3b-baa5-ed7739735aab-attachment.txt
+2024-12-27T19:31:49,744 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: ed33f204-a306-4b46-b4a2-116023de4505-container.json
+2024-12-27T19:31:49,744 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: ee16ead3-c93e-4957-9495-5b9d0bcab8fe-attachment.txt
+2024-12-27T19:31:49,745 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: f0d6b052-07e1-432c-8fb1-76975a6f31a1-container.json
+2024-12-27T19:31:49,745 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: f15c0cf4-6471-4986-b1fe-394e6d2f9b0e-container.json
+2024-12-27T19:31:49,746 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: f47ae6f3-c9e6-4887-ada1-6f424b6a8786-container.json
+2024-12-27T19:31:49,746 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: f55e5b5a-1ac6-49d3-a461-14928ff922b4-container.json
+2024-12-27T19:31:49,746 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: fec422fa-1345-4aa2-b655-d0788a604702-container.json
+2024-12-27T19:31:49,764 [TestNG-tests-2] INFO  TestListener:73 - Test Context Started: FirefoxTests
+2024-12-27T19:31:49,764 [TestNG-tests-1] INFO  TestListener:73 - Test Context Started: ChromeTests
+2024-12-27T19:31:49,764 [TestNG-tests-3] INFO  TestListener:73 - Test Context Started: EdgeTests
+2024-12-27T19:31:49,764 [TestNG-tests-2] INFO  TestListener:78 - Running tests with Browser: firefox and Environment: dev
+2024-12-27T19:31:49,764 [TestNG-tests-3] INFO  TestListener:78 - Running tests with Browser: edge and Environment: dev
+2024-12-27T19:31:49,764 [TestNG-tests-1] INFO  TestListener:78 - Running tests with Browser: chrome and Environment: dev
+2024-12-27T19:31:51,484 [TestNG-tests-1] INFO  TestListener:87 - WebDriver initialized: chrome
+2024-12-27T19:31:51,484 [TestNG-tests-3] INFO  TestListener:87 - WebDriver initialized: edge
+2024-12-27T19:31:51,921 [TestNG-test-ChromeTests-1] INFO  TestNG-test-ChromeTests-1:71 - [Thread-68] Setting up tests. Browser: chrome, Environment: dev
+2024-12-27T19:31:51,921 [TestNG-test-EdgeTests-1] INFO  TestNG-test-EdgeTests-1:71 - [Thread-67] Setting up tests. Browser: edge, Environment: dev
+2024-12-27T19:31:52,586 [TestNG-tests-2] INFO  TestListener:87 - WebDriver initialized: firefox
+2024-12-27T19:31:52,616 [TestNG-test-FirefoxTests-1] INFO  TestNG-test-FirefoxTests-1:71 - [Thread-82] Setting up tests. Browser: firefox, Environment: dev
+2024-12-27T19:31:52,759 [TestNG-test-ChromeTests-1] INFO  LogUtil:24 - Logger initialized with level: DEBUG
+2024-12-27T19:31:52,799 [TestNG-test-ChromeTests-1] INFO  TestListener:25 - Test Started: runScenario
+2024-12-27T19:31:52,897 [TestNG-test-ChromeTests-1] INFO  ConfigManager:60 - Loaded configuration file: src/test/resources/config/config-dev.properties
+2024-12-27T19:31:54,511 [TestNG-test-EdgeTests-1] INFO  LogUtil:24 - Logger initialized with level: DEBUG
+2024-12-27T19:31:54,513 [TestNG-test-EdgeTests-1] INFO  TestListener:25 - Test Started: runScenario
+2024-12-27T19:31:55,452 [TestNG-test-FirefoxTests-1] INFO  LogUtil:24 - Logger initialized with level: DEBUG
+2024-12-27T19:31:55,454 [TestNG-test-FirefoxTests-1] INFO  TestListener:25 - Test Started: runScenario
+2024-12-27T19:31:56,175 [TestNG-test-ChromeTests-1] INFO  WebDriverHooks:48 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-12-27T19:31:57,817 [TestNG-test-EdgeTests-1] INFO  WebDriverHooks:48 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-12-27T19:31:57,945 [TestNG-test-ChromeTests-1] INFO  TestNG-test-ChromeTests-1:31 - [Thread-68] Entered username: 
+2024-12-27T19:31:57,990 [TestNG-test-ChromeTests-1] INFO  TestNG-test-ChromeTests-1:31 - [Thread-68] Entered password: 
+2024-12-27T19:31:58,053 [TestNG-test-ChromeTests-1] INFO  TestNG-test-ChromeTests-1:31 - [Thread-68] Clicked login button
+2024-12-27T19:31:58,646 [TestNG-test-ChromeTests-1] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-27T19:31:58,647 [TestNG-test-ChromeTests-1] INFO  TestNG-test-ChromeTests-1:71 - [Thread-68] WebDriver instance closed.
+2024-12-27T19:31:58,649 [TestNG-test-ChromeTests-1] INFO  TestNG-test-ChromeTests-1:71 - [Thread-68] Setting up tests. Browser: chrome, Environment: dev
+2024-12-27T19:31:58,984 [TestNG-test-FirefoxTests-1] INFO  WebDriverHooks:48 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-12-27T19:31:59,590 [TestNG-test-ChromeTests-1] INFO  LogUtil:24 - Logger initialized with level: DEBUG
+2024-12-27T19:31:59,591 [TestNG-test-ChromeTests-1] INFO  TestListener:25 - Test Started: runScenario
+2024-12-27T19:31:59,830 [TestNG-test-EdgeTests-1] INFO  TestNG-test-EdgeTests-1:31 - [Thread-67] Entered username: 
+2024-12-27T19:31:59,881 [TestNG-test-EdgeTests-1] INFO  TestNG-test-EdgeTests-1:31 - [Thread-67] Entered password: 
+2024-12-27T19:31:59,934 [TestNG-test-EdgeTests-1] INFO  TestNG-test-EdgeTests-1:31 - [Thread-67] Clicked login button
+2024-12-27T19:32:01,567 [TestNG-test-FirefoxTests-1] INFO  TestNG-test-FirefoxTests-1:31 - [Thread-82] Entered username: 
+2024-12-27T19:32:01,581 [TestNG-test-FirefoxTests-1] INFO  TestNG-test-FirefoxTests-1:31 - [Thread-82] Entered password: 
+2024-12-27T19:32:01,583 [TestNG-test-EdgeTests-1] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-27T19:32:01,584 [TestNG-test-EdgeTests-1] INFO  TestNG-test-EdgeTests-1:71 - [Thread-67] WebDriver instance closed.
+2024-12-27T19:32:01,586 [TestNG-test-EdgeTests-1] INFO  TestNG-test-EdgeTests-1:71 - [Thread-67] Setting up tests. Browser: edge, Environment: dev
+2024-12-27T19:32:01,821 [TestNG-test-FirefoxTests-1] INFO  TestNG-test-FirefoxTests-1:31 - [Thread-82] Clicked login button
+2024-12-27T19:32:02,671 [TestNG-test-FirefoxTests-1] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-27T19:32:02,672 [TestNG-test-FirefoxTests-1] INFO  TestNG-test-FirefoxTests-1:71 - [Thread-82] WebDriver instance closed.
+2024-12-27T19:32:02,673 [TestNG-test-FirefoxTests-1] INFO  TestNG-test-FirefoxTests-1:71 - [Thread-82] Setting up tests. Browser: firefox, Environment: dev
+2024-12-27T19:32:02,730 [TestNG-test-ChromeTests-1] INFO  WebDriverHooks:48 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-12-27T19:32:03,881 [TestNG-test-EdgeTests-1] INFO  LogUtil:24 - Logger initialized with level: DEBUG
+2024-12-27T19:32:03,882 [TestNG-test-EdgeTests-1] INFO  TestListener:25 - Test Started: runScenario
+2024-12-27T19:32:04,686 [TestNG-test-ChromeTests-1] INFO  TestNG-test-ChromeTests-1:31 - [Thread-68] Entered username: Admin
+2024-12-27T19:32:04,745 [TestNG-test-ChromeTests-1] INFO  TestNG-test-ChromeTests-1:31 - [Thread-68] Entered password: admin
+2024-12-27T19:32:04,821 [TestNG-test-ChromeTests-1] INFO  TestNG-test-ChromeTests-1:31 - [Thread-68] Clicked login button
+2024-12-27T19:32:04,938 [TestNG-test-FirefoxTests-1] INFO  LogUtil:24 - Logger initialized with level: DEBUG
+2024-12-27T19:32:04,939 [TestNG-test-FirefoxTests-1] INFO  TestListener:25 - Test Started: runScenario
+2024-12-27T19:32:06,869 [TestNG-test-ChromeTests-1] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-27T19:32:06,869 [TestNG-test-ChromeTests-1] INFO  TestNG-test-ChromeTests-1:71 - [Thread-68] WebDriver instance closed.
+2024-12-27T19:32:06,870 [TestNG-test-ChromeTests-1] INFO  TestNG-test-ChromeTests-1:71 - [Thread-68] Setting up tests. Browser: chrome, Environment: dev
+2024-12-27T19:32:07,182 [TestNG-test-EdgeTests-1] INFO  WebDriverHooks:48 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-12-27T19:32:07,478 [TestNG-test-ChromeTests-1] INFO  LogUtil:24 - Logger initialized with level: DEBUG
+2024-12-27T19:32:07,479 [TestNG-test-ChromeTests-1] INFO  TestListener:25 - Test Started: runScenario
+2024-12-27T19:32:08,577 [TestNG-test-FirefoxTests-1] INFO  WebDriverHooks:48 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-12-27T19:32:09,162 [TestNG-test-EdgeTests-1] INFO  TestNG-test-EdgeTests-1:31 - [Thread-67] Entered username: Admin
+2024-12-27T19:32:09,234 [TestNG-test-EdgeTests-1] INFO  TestNG-test-EdgeTests-1:31 - [Thread-67] Entered password: admin
+2024-12-27T19:32:09,282 [TestNG-test-EdgeTests-1] INFO  TestNG-test-EdgeTests-1:31 - [Thread-67] Clicked login button
+2024-12-27T19:32:10,612 [TestNG-test-ChromeTests-1] INFO  WebDriverHooks:48 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-12-27T19:32:11,202 [TestNG-test-FirefoxTests-1] INFO  TestNG-test-FirefoxTests-1:31 - [Thread-82] Entered username: Admin
+2024-12-27T19:32:11,230 [TestNG-test-FirefoxTests-1] INFO  TestNG-test-FirefoxTests-1:31 - [Thread-82] Entered password: admin
+2024-12-27T19:32:12,328 [TestNG-test-EdgeTests-1] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-27T19:32:12,329 [TestNG-test-EdgeTests-1] INFO  TestNG-test-EdgeTests-1:71 - [Thread-67] WebDriver instance closed.
+2024-12-27T19:32:12,330 [TestNG-test-EdgeTests-1] INFO  TestNG-test-EdgeTests-1:71 - [Thread-67] Setting up tests. Browser: edge, Environment: dev
+2024-12-27T19:32:12,512 [TestNG-test-FirefoxTests-1] INFO  TestNG-test-FirefoxTests-1:31 - [Thread-82] Clicked login button
+2024-12-27T19:32:12,533 [TestNG-test-ChromeTests-1] INFO  TestNG-test-ChromeTests-1:31 - [Thread-68] Entered username: Adminn
+2024-12-27T19:32:12,585 [TestNG-test-ChromeTests-1] INFO  TestNG-test-ChromeTests-1:31 - [Thread-68] Entered password: admin123
+2024-12-27T19:32:12,643 [TestNG-test-ChromeTests-1] INFO  TestNG-test-ChromeTests-1:31 - [Thread-68] Clicked login button
+2024-12-27T19:32:13,583 [TestNG-test-FirefoxTests-1] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-27T19:32:13,584 [TestNG-test-FirefoxTests-1] INFO  TestNG-test-FirefoxTests-1:71 - [Thread-82] WebDriver instance closed.
+2024-12-27T19:32:13,585 [TestNG-test-FirefoxTests-1] INFO  TestNG-test-FirefoxTests-1:71 - [Thread-82] Setting up tests. Browser: firefox, Environment: dev
+2024-12-27T19:32:14,305 [TestNG-test-ChromeTests-1] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-27T19:32:14,306 [TestNG-test-ChromeTests-1] INFO  TestNG-test-ChromeTests-1:71 - [Thread-68] WebDriver instance closed.
+2024-12-27T19:32:14,309 [TestNG-test-ChromeTests-1] INFO  TestNG-test-ChromeTests-1:71 - [Thread-68] Setting up tests. Browser: chrome, Environment: dev
+2024-12-27T19:32:14,605 [TestNG-test-EdgeTests-1] INFO  LogUtil:24 - Logger initialized with level: DEBUG
+2024-12-27T19:32:14,606 [TestNG-test-EdgeTests-1] INFO  TestListener:25 - Test Started: runScenario
+2024-12-27T19:32:15,088 [TestNG-test-ChromeTests-1] INFO  LogUtil:24 - Logger initialized with level: DEBUG
+2024-12-27T19:32:15,089 [TestNG-test-ChromeTests-1] INFO  TestListener:25 - Test Started: runScenario
+2024-12-27T19:32:15,836 [TestNG-test-FirefoxTests-1] INFO  LogUtil:24 - Logger initialized with level: DEBUG
+2024-12-27T19:32:15,838 [TestNG-test-FirefoxTests-1] INFO  TestListener:25 - Test Started: runScenario
+2024-12-27T19:32:17,350 [TestNG-test-EdgeTests-1] INFO  WebDriverHooks:48 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-12-27T19:32:18,021 [TestNG-test-ChromeTests-1] INFO  WebDriverHooks:48 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-12-27T19:32:19,172 [TestNG-test-FirefoxTests-1] INFO  WebDriverHooks:48 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-12-27T19:32:19,285 [TestNG-test-EdgeTests-1] INFO  TestNG-test-EdgeTests-1:31 - [Thread-67] Entered username: Adminn
+2024-12-27T19:32:19,344 [TestNG-test-EdgeTests-1] INFO  TestNG-test-EdgeTests-1:31 - [Thread-67] Entered password: admin123
+2024-12-27T19:32:19,399 [TestNG-test-EdgeTests-1] INFO  TestNG-test-EdgeTests-1:31 - [Thread-67] Clicked login button
+2024-12-27T19:32:19,959 [TestNG-test-ChromeTests-1] INFO  TestNG-test-ChromeTests-1:31 - [Thread-68] Entered username: Adminn
+2024-12-27T19:32:20,013 [TestNG-test-ChromeTests-1] INFO  TestNG-test-ChromeTests-1:31 - [Thread-68] Entered password: admin
+2024-12-27T19:32:20,075 [TestNG-test-ChromeTests-1] INFO  TestNG-test-ChromeTests-1:31 - [Thread-68] Clicked login button
+2024-12-27T19:32:21,751 [TestNG-test-FirefoxTests-1] INFO  TestNG-test-FirefoxTests-1:31 - [Thread-82] Entered username: Adminn
+2024-12-27T19:32:21,762 [TestNG-test-ChromeTests-1] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-27T19:32:21,763 [TestNG-test-ChromeTests-1] INFO  TestNG-test-ChromeTests-1:71 - [Thread-68] WebDriver instance closed.
+2024-12-27T19:32:21,764 [TestNG-test-ChromeTests-1] INFO  TestNG-test-ChromeTests-1:71 - [Thread-68] Setting up tests. Browser: chrome, Environment: dev
+2024-12-27T19:32:21,771 [TestNG-test-FirefoxTests-1] INFO  TestNG-test-FirefoxTests-1:31 - [Thread-82] Entered password: admin123
+2024-12-27T19:32:22,162 [TestNG-test-EdgeTests-1] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-27T19:32:22,163 [TestNG-test-EdgeTests-1] INFO  TestNG-test-EdgeTests-1:71 - [Thread-67] WebDriver instance closed.
+2024-12-27T19:32:22,165 [TestNG-test-EdgeTests-1] INFO  TestNG-test-EdgeTests-1:71 - [Thread-67] Setting up tests. Browser: edge, Environment: dev
+2024-12-27T19:32:22,375 [TestNG-test-ChromeTests-1] INFO  LogUtil:24 - Logger initialized with level: DEBUG
+2024-12-27T19:32:22,376 [TestNG-test-ChromeTests-1] INFO  TestListener:25 - Test Started: runScenario
+2024-12-27T19:32:22,767 [TestNG-test-FirefoxTests-1] INFO  TestNG-test-FirefoxTests-1:31 - [Thread-82] Clicked login button
+2024-12-27T19:32:23,862 [TestNG-test-FirefoxTests-1] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-27T19:32:23,863 [TestNG-test-FirefoxTests-1] INFO  TestNG-test-FirefoxTests-1:71 - [Thread-82] WebDriver instance closed.
+2024-12-27T19:32:23,865 [TestNG-test-FirefoxTests-1] INFO  TestNG-test-FirefoxTests-1:71 - [Thread-82] Setting up tests. Browser: firefox, Environment: dev
+2024-12-27T19:32:24,477 [TestNG-test-EdgeTests-1] INFO  LogUtil:24 - Logger initialized with level: DEBUG
+2024-12-27T19:32:24,478 [TestNG-test-EdgeTests-1] INFO  TestListener:25 - Test Started: runScenario
+2024-12-27T19:32:25,025 [TestNG-test-ChromeTests-1] INFO  WebDriverHooks:48 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-12-27T19:32:26,206 [TestNG-test-FirefoxTests-1] INFO  LogUtil:24 - Logger initialized with level: DEBUG
+2024-12-27T19:32:26,207 [TestNG-test-FirefoxTests-1] INFO  TestListener:25 - Test Started: runScenario
+2024-12-27T19:32:27,236 [TestNG-test-EdgeTests-1] INFO  WebDriverHooks:48 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-12-27T19:32:27,561 [TestNG-test-ChromeTests-1] INFO  TestNG-test-ChromeTests-1:31 - [Thread-68] Clicked forgot password link
+2024-12-27T19:32:28,126 [TestNG-test-ChromeTests-1] INFO  TestNG-test-ChromeTests-1:31 - [Thread-68] Entered username: Admin
+2024-12-27T19:32:28,186 [TestNG-test-ChromeTests-1] INFO  TestNG-test-ChromeTests-1:31 - [Thread-68] Clicked login button
+2024-12-27T19:32:29,227 [TestNG-test-EdgeTests-1] INFO  TestNG-test-EdgeTests-1:31 - [Thread-67] Entered username: Adminn
+2024-12-27T19:32:29,280 [TestNG-test-EdgeTests-1] INFO  TestNG-test-EdgeTests-1:31 - [Thread-67] Entered password: admin
+2024-12-27T19:32:29,330 [TestNG-test-EdgeTests-1] INFO  TestNG-test-EdgeTests-1:31 - [Thread-67] Clicked login button
+2024-12-27T19:32:29,738 [TestNG-test-FirefoxTests-1] INFO  WebDriverHooks:48 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-12-27T19:32:29,953 [TestNG-test-ChromeTests-1] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-27T19:32:29,954 [TestNG-test-ChromeTests-1] INFO  TestNG-test-ChromeTests-1:71 - [Thread-68] WebDriver instance closed.
+2024-12-27T19:32:29,955 [TestNG-test-ChromeTests-1] INFO  TestNG-test-ChromeTests-1:71 - [Thread-68] Setting up tests. Browser: chrome, Environment: dev
+2024-12-27T19:32:30,630 [TestNG-test-ChromeTests-1] INFO  LogUtil:24 - Logger initialized with level: DEBUG
+2024-12-27T19:32:30,631 [TestNG-test-ChromeTests-1] INFO  TestListener:25 - Test Started: runScenario
+2024-12-27T19:32:32,088 [TestNG-test-EdgeTests-1] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-27T19:32:32,089 [TestNG-test-EdgeTests-1] INFO  TestNG-test-EdgeTests-1:71 - [Thread-67] WebDriver instance closed.
+2024-12-27T19:32:32,090 [TestNG-test-EdgeTests-1] INFO  TestNG-test-EdgeTests-1:71 - [Thread-67] Setting up tests. Browser: edge, Environment: dev
+2024-12-27T19:32:32,251 [TestNG-test-FirefoxTests-1] INFO  TestNG-test-FirefoxTests-1:31 - [Thread-82] Entered username: Adminn
+2024-12-27T19:32:32,266 [TestNG-test-FirefoxTests-1] INFO  TestNG-test-FirefoxTests-1:31 - [Thread-82] Entered password: admin
+2024-12-27T19:32:33,209 [TestNG-test-FirefoxTests-1] INFO  TestNG-test-FirefoxTests-1:31 - [Thread-82] Clicked login button
+2024-12-27T19:32:33,811 [TestNG-test-ChromeTests-1] INFO  WebDriverHooks:48 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-12-27T19:32:34,336 [TestNG-test-EdgeTests-1] INFO  LogUtil:24 - Logger initialized with level: DEBUG
+2024-12-27T19:32:34,337 [TestNG-test-EdgeTests-1] INFO  TestListener:25 - Test Started: runScenario
+2024-12-27T19:32:34,416 [TestNG-test-FirefoxTests-1] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-27T19:32:34,417 [TestNG-test-FirefoxTests-1] INFO  TestNG-test-FirefoxTests-1:71 - [Thread-82] WebDriver instance closed.
+2024-12-27T19:32:34,419 [TestNG-test-FirefoxTests-1] INFO  TestNG-test-FirefoxTests-1:71 - [Thread-82] Setting up tests. Browser: firefox, Environment: dev
+2024-12-27T19:32:35,795 [TestNG-test-ChromeTests-1] INFO  TestNG-test-ChromeTests-1:31 - [Thread-68] Entered username: Admin
+2024-12-27T19:32:35,856 [TestNG-test-ChromeTests-1] INFO  TestNG-test-ChromeTests-1:31 - [Thread-68] Entered password: admin123
+2024-12-27T19:32:36,110 [TestNG-test-ChromeTests-1] INFO  TestNG-test-ChromeTests-1:31 - [Thread-68] Clicked login button
+2024-12-27T19:32:36,588 [TestNG-test-FirefoxTests-1] INFO  LogUtil:24 - Logger initialized with level: DEBUG
+2024-12-27T19:32:36,589 [TestNG-test-FirefoxTests-1] INFO  TestListener:25 - Test Started: runScenario
+2024-12-27T19:32:37,530 [TestNG-test-EdgeTests-1] INFO  WebDriverHooks:48 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-12-27T19:32:39,620 [TestNG-test-ChromeTests-1] INFO  TestNG-test-ChromeTests-1:31 - [Thread-68] Clicked logout link
+2024-12-27T19:32:39,914 [TestNG-test-FirefoxTests-1] INFO  WebDriverHooks:48 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-12-27T19:32:40,096 [TestNG-test-EdgeTests-1] INFO  TestNG-test-EdgeTests-1:31 - [Thread-67] Clicked forgot password link
+2024-12-27T19:32:40,457 [TestNG-test-ChromeTests-1] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-27T19:32:40,457 [TestNG-test-ChromeTests-1] INFO  TestNG-test-ChromeTests-1:71 - [Thread-68] WebDriver instance closed.
+2024-12-27T19:32:40,679 [TestNG-test-EdgeTests-1] INFO  TestNG-test-EdgeTests-1:31 - [Thread-67] Entered username: Admin
+2024-12-27T19:32:41,597 [TestNG-test-EdgeTests-1] INFO  TestNG-test-EdgeTests-1:31 - [Thread-67] Clicked login button
+2024-12-27T19:32:41,832 [TestNG-tests-1] INFO  TestListener:94 - Test Context Finished: ChromeTests
+2024-12-27T19:32:42,008 [TestNG-tests-1] INFO  TestListener:98 - WebDriver instance quit for thread.
+2024-12-27T19:32:43,061 [TestNG-test-FirefoxTests-1] INFO  TestNG-test-FirefoxTests-1:31 - [Thread-82] Clicked forgot password link
+2024-12-27T19:32:43,475 [TestNG-test-FirefoxTests-1] INFO  TestNG-test-FirefoxTests-1:31 - [Thread-82] Entered username: Admin
+2024-12-27T19:32:43,488 [TestNG-test-EdgeTests-1] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-27T19:32:43,489 [TestNG-test-EdgeTests-1] INFO  TestNG-test-EdgeTests-1:71 - [Thread-67] WebDriver instance closed.
+2024-12-27T19:32:43,490 [TestNG-test-EdgeTests-1] INFO  TestNG-test-EdgeTests-1:71 - [Thread-67] Setting up tests. Browser: edge, Environment: dev
+2024-12-27T19:32:44,470 [TestNG-test-FirefoxTests-1] INFO  TestNG-test-FirefoxTests-1:31 - [Thread-82] Clicked login button
+2024-12-27T19:32:45,517 [TestNG-test-FirefoxTests-1] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-27T19:32:45,518 [TestNG-test-FirefoxTests-1] INFO  TestNG-test-FirefoxTests-1:71 - [Thread-82] WebDriver instance closed.
+2024-12-27T19:32:45,522 [TestNG-test-FirefoxTests-1] INFO  TestNG-test-FirefoxTests-1:71 - [Thread-82] Setting up tests. Browser: firefox, Environment: dev
+2024-12-27T19:32:45,731 [TestNG-test-EdgeTests-1] INFO  LogUtil:24 - Logger initialized with level: DEBUG
+2024-12-27T19:32:45,733 [TestNG-test-EdgeTests-1] INFO  TestListener:25 - Test Started: runScenario
+2024-12-27T19:32:47,542 [TestNG-test-FirefoxTests-1] INFO  LogUtil:24 - Logger initialized with level: DEBUG
+2024-12-27T19:32:47,543 [TestNG-test-FirefoxTests-1] INFO  TestListener:25 - Test Started: runScenario
+2024-12-27T19:32:49,013 [TestNG-test-EdgeTests-1] INFO  WebDriverHooks:48 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-12-27T19:32:50,889 [TestNG-test-FirefoxTests-1] INFO  WebDriverHooks:48 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-12-27T19:32:50,991 [TestNG-test-EdgeTests-1] INFO  TestNG-test-EdgeTests-1:31 - [Thread-67] Entered username: Admin
+2024-12-27T19:32:51,050 [TestNG-test-EdgeTests-1] INFO  TestNG-test-EdgeTests-1:31 - [Thread-67] Entered password: admin123
+2024-12-27T19:32:51,308 [TestNG-test-EdgeTests-1] INFO  TestNG-test-EdgeTests-1:31 - [Thread-67] Clicked login button
+2024-12-27T19:32:53,484 [TestNG-test-FirefoxTests-1] INFO  TestNG-test-FirefoxTests-1:31 - [Thread-82] Entered username: Admin
+2024-12-27T19:32:53,501 [TestNG-test-FirefoxTests-1] INFO  TestNG-test-FirefoxTests-1:31 - [Thread-82] Entered password: admin123
+2024-12-27T19:32:54,798 [TestNG-test-EdgeTests-1] INFO  TestNG-test-EdgeTests-1:31 - [Thread-67] Clicked logout link
+2024-12-27T19:32:54,867 [TestNG-test-FirefoxTests-1] INFO  TestNG-test-FirefoxTests-1:31 - [Thread-82] Clicked login button
+2024-12-27T19:32:56,682 [TestNG-test-EdgeTests-1] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-27T19:32:56,682 [TestNG-test-EdgeTests-1] INFO  TestNG-test-EdgeTests-1:71 - [Thread-67] WebDriver instance closed.
+2024-12-27T19:32:56,953 [TestNG-test-FirefoxTests-1] INFO  TestNG-test-FirefoxTests-1:31 - [Thread-82] Clicked logout link
+2024-12-27T19:32:57,941 [TestNG-tests-3] INFO  TestListener:94 - Test Context Finished: EdgeTests
+2024-12-27T19:32:58,043 [TestNG-test-FirefoxTests-1] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-27T19:32:58,044 [TestNG-test-FirefoxTests-1] INFO  TestNG-test-FirefoxTests-1:71 - [Thread-82] WebDriver instance closed.
+2024-12-27T19:32:58,775 [TestNG-tests-2] INFO  TestListener:94 - Test Context Finished: FirefoxTests
+2024-12-27T19:32:59,163 [TestNG-tests-3] INFO  TestListener:98 - WebDriver instance quit for thread.
+2024-12-27T19:32:59,275 [TestNG-tests-2] INFO  TestListener:98 - WebDriver instance quit for thread.

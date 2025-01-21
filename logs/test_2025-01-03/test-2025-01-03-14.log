@@ -1,0 +1,90 @@
+2025-01-03T14:33:15,721 [main] INFO  main:71 - [Thread-1] Clearing Allure results at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.18\allure-results
+2025-01-03T14:33:15,733 [main] INFO  TestListener:73 - Test Context Started: Login Page Tests
+2025-01-03T14:33:15,734 [main] INFO  TestListener:78 - Running tests with Browser: chrome and Environment: dev
+2025-01-03T14:33:17,393 [main] INFO  TestListener:87 - WebDriver initialized: chrome
+2025-01-03T14:33:17,753 [main] INFO  main:71 - [Thread-1] Setting up tests. Browser: chrome, Environment: dev
+2025-01-03T14:33:18,383 [main] INFO  LogUtil:24 - Logger initialized with level: INFO
+2025-01-03T14:33:18,419 [main] INFO  TestListener:25 - Test Started: runScenario
+2025-01-03T14:33:18,515 [main] INFO  ConfigManager:60 - Loaded configuration file: src/test/resources/config/config-dev.properties
+2025-01-03T14:33:21,656 [main] INFO  WebDriverHooks:48 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-01-03T14:33:23,591 [main] INFO  main:31 - [Thread-1] Entered username: 
+2025-01-03T14:33:23,634 [main] INFO  main:31 - [Thread-1] Entered password: 
+2025-01-03T14:33:23,695 [main] INFO  main:31 - [Thread-1] Clicked login button
+2025-01-03T14:33:24,224 [main] INFO  TestListener:31 - Test Passed: runScenario
+2025-01-03T14:33:24,225 [main] INFO  main:71 - [Thread-1] WebDriver instance closed.
+2025-01-03T14:33:25,672 [main] INFO  TestListener:94 - Test Context Finished: Login Page Tests
+2025-01-03T14:33:25,672 [main] INFO  TestListener:98 - WebDriver instance quit for thread.
+2025-01-03T14:33:47,354 [main] INFO  main:71 - [Thread-1] Clearing Allure results at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.18\allure-results
+2025-01-03T14:33:47,356 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 1a307db7-8ed9-4cf2-b233-813c4c14451f-container.json
+2025-01-03T14:33:47,357 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 629d64dc-896a-4449-a9e1-63bd53097330-container.json
+2025-01-03T14:33:47,358 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 6ea88be1-aa63-4dc6-a610-f84d456c9608-container.json
+2025-01-03T14:33:47,358 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 6f4756cd-51d3-49a4-80b7-9636bbb9ed26-container.json
+2025-01-03T14:33:47,359 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 7a4ab2aa-6d86-4d06-8c29-b0577c7bd62d-container.json
+2025-01-03T14:33:47,359 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 9181087f-c412-40d5-b6fb-47bcda506d47-container.json
+2025-01-03T14:33:47,360 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: a25f8fb6-20ea-4c11-b58a-c8301f595d55-container.json
+2025-01-03T14:33:47,360 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: a87d1ae3-5507-45ea-ab68-f90662c03065-container.json
+2025-01-03T14:33:47,361 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: ab66b295-5b47-4f6c-9c8e-8e72b99ee38c-result.json
+2025-01-03T14:33:47,361 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: d46667a9-ac3d-4bed-954d-96a3350b6d03-container.json
+2025-01-03T14:33:47,362 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: f5b56683-76a8-4bff-beec-92f970ada039-attachment.txt
+2025-01-03T14:33:47,363 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: faa990cb-294f-453a-b5c7-e5fef1340a19-attachment.txt
+2025-01-03T14:33:47,372 [main] INFO  TestListener:73 - Test Context Started: Login Page Tests
+2025-01-03T14:33:47,373 [main] INFO  TestListener:78 - Running tests with Browser: chrome and Environment: dev
+2025-01-03T14:33:48,483 [main] INFO  TestListener:87 - WebDriver initialized: chrome
+2025-01-03T14:33:48,826 [main] INFO  main:71 - [Thread-1] Setting up tests. Browser: chrome, Environment: dev
+2025-01-03T14:33:49,414 [main] INFO  LogUtil:24 - Logger initialized with level: INFO
+2025-01-03T14:33:49,454 [main] INFO  TestListener:25 - Test Started: runScenario
+2025-01-03T14:33:49,577 [main] INFO  ConfigManager:60 - Loaded configuration file: src/test/resources/config/config-dev.properties
+2025-01-03T14:33:52,724 [main] INFO  WebDriverHooks:48 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-01-03T14:33:54,678 [main] INFO  main:31 - [Thread-1] Entered username: Admin
+2025-01-03T14:33:54,730 [main] INFO  main:31 - [Thread-1] Entered password: admin123
+2025-01-03T14:33:54,989 [main] INFO  main:31 - [Thread-1] Clicked login button
+2025-01-03T14:33:58,447 [main] INFO  main:31 - [Thread-1] Clicked logout link
+2025-01-03T14:33:59,287 [main] INFO  TestListener:31 - Test Passed: runScenario
+2025-01-03T14:33:59,288 [main] INFO  main:71 - [Thread-1] WebDriver instance closed.
+2025-01-03T14:33:59,291 [main] INFO  main:71 - [Thread-1] Setting up tests. Browser: chrome, Environment: dev
+2025-01-03T14:33:59,912 [main] INFO  LogUtil:24 - Logger initialized with level: INFO
+2025-01-03T14:33:59,913 [main] INFO  TestListener:25 - Test Started: runScenario
+2025-01-03T14:34:02,595 [main] INFO  WebDriverHooks:48 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-01-03T14:34:04,510 [main] INFO  main:31 - [Thread-1] Entered username: Admin
+2025-01-03T14:34:04,566 [main] INFO  main:31 - [Thread-1] Entered password: admin
+2025-01-03T14:34:04,623 [main] INFO  main:31 - [Thread-1] Clicked login button
+2025-01-03T14:34:06,571 [main] INFO  TestListener:31 - Test Passed: runScenario
+2025-01-03T14:34:06,572 [main] INFO  main:71 - [Thread-1] WebDriver instance closed.
+2025-01-03T14:34:06,573 [main] INFO  main:71 - [Thread-1] Setting up tests. Browser: chrome, Environment: dev
+2025-01-03T14:34:07,203 [main] INFO  LogUtil:24 - Logger initialized with level: INFO
+2025-01-03T14:34:07,204 [main] INFO  TestListener:25 - Test Started: runScenario
+2025-01-03T14:34:09,887 [main] INFO  WebDriverHooks:48 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-01-03T14:34:11,806 [main] INFO  main:31 - [Thread-1] Entered username: Adminn
+2025-01-03T14:34:11,853 [main] INFO  main:31 - [Thread-1] Entered password: admin123
+2025-01-03T14:34:11,909 [main] INFO  main:31 - [Thread-1] Clicked login button
+2025-01-03T14:34:13,571 [main] INFO  TestListener:31 - Test Passed: runScenario
+2025-01-03T14:34:13,572 [main] INFO  main:71 - [Thread-1] WebDriver instance closed.
+2025-01-03T14:34:13,573 [main] INFO  main:71 - [Thread-1] Setting up tests. Browser: chrome, Environment: dev
+2025-01-03T14:34:14,186 [main] INFO  LogUtil:24 - Logger initialized with level: INFO
+2025-01-03T14:34:14,187 [main] INFO  TestListener:25 - Test Started: runScenario
+2025-01-03T14:34:17,380 [main] INFO  WebDriverHooks:48 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-01-03T14:34:19,297 [main] INFO  main:31 - [Thread-1] Entered username: Adminn
+2025-01-03T14:34:19,343 [main] INFO  main:31 - [Thread-1] Entered password: admin
+2025-01-03T14:34:19,400 [main] INFO  main:31 - [Thread-1] Clicked login button
+2025-01-03T14:34:21,023 [main] INFO  TestListener:31 - Test Passed: runScenario
+2025-01-03T14:34:21,024 [main] INFO  main:71 - [Thread-1] WebDriver instance closed.
+2025-01-03T14:34:21,026 [main] INFO  main:71 - [Thread-1] Setting up tests. Browser: chrome, Environment: dev
+2025-01-03T14:34:21,635 [main] INFO  LogUtil:24 - Logger initialized with level: INFO
+2025-01-03T14:34:21,636 [main] INFO  TestListener:25 - Test Started: runScenario
+2025-01-03T14:34:24,689 [main] INFO  WebDriverHooks:48 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-01-03T14:34:26,596 [main] INFO  main:31 - [Thread-1] Entered username: 
+2025-01-03T14:34:26,637 [main] INFO  main:31 - [Thread-1] Entered password: 
+2025-01-03T14:34:26,694 [main] INFO  main:31 - [Thread-1] Clicked login button
+2025-01-03T14:34:27,229 [main] INFO  TestListener:31 - Test Passed: runScenario
+2025-01-03T14:34:27,229 [main] INFO  main:71 - [Thread-1] WebDriver instance closed.
+2025-01-03T14:34:27,230 [main] INFO  main:71 - [Thread-1] Setting up tests. Browser: chrome, Environment: dev
+2025-01-03T14:34:27,840 [main] INFO  LogUtil:24 - Logger initialized with level: INFO
+2025-01-03T14:34:27,841 [main] INFO  TestListener:25 - Test Started: runScenario
+2025-01-03T14:34:30,393 [main] INFO  WebDriverHooks:48 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-01-03T14:34:32,864 [main] INFO  main:31 - [Thread-1] Clicked forgot password link
+2025-01-03T14:34:33,455 [main] INFO  main:31 - [Thread-1] Entered username: Admin
+2025-01-03T14:34:34,484 [main] INFO  main:31 - [Thread-1] Clicked login button
+2025-01-03T14:34:35,273 [main] INFO  TestListener:31 - Test Passed: runScenario
+2025-01-03T14:34:35,274 [main] INFO  main:71 - [Thread-1] WebDriver instance closed.
+2025-01-03T14:34:36,891 [main] INFO  TestListener:94 - Test Context Finished: Login Page Tests
+2025-01-03T14:34:36,891 [main] INFO  TestListener:98 - WebDriver instance quit for thread.

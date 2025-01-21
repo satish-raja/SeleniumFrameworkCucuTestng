@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="3" parallel="classes" name="Failed suite [ParallelSuite]" guice-stage="DEVELOPMENT">
+  <test thread-count="3" parallel="classes" name="ChromeTests(failed)">
+    <parameter name="logLevel" value="DEBUG"/>
+    <parameter name="browser" value="chrome"/>
+    <parameter name="env" value="dev"/>
+    <classes>
+      <class name="org.orangehrm.selenium.cucumber.runner.TestRunner">
+        <methods>
+          <include name="setUpClass"/>
+          <include name="tearDown"/>
+          <include name="tearDownClass"/>
+          <include name="runScenario"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- org.orangehrm.selenium.cucumber.runner.TestRunner -->
+    </classes>
+  </test> <!-- ChromeTests(failed) -->
+  <test thread-count="3" parallel="classes" name="FirefoxTests(failed)">
+    <parameter name="logLevel" value="DEBUG"/>
+    <parameter name="browser" value="firefox"/>
+    <parameter name="env" value="dev"/>
+    <classes>
+      <class name="org.orangehrm.selenium.cucumber.runner.TestRunner">
+        <methods>
+          <include name="setUpClass"/>
+          <include name="tearDown"/>
+          <include name="runScenario" invocation-numbers="0 1 2 3 4"/>
+          <include name="tearDownClass"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- org.orangehrm.selenium.cucumber.runner.TestRunner -->
+    </classes>
+  </test> <!-- FirefoxTests(failed) -->
+  <test thread-count="3" parallel="classes" name="EdgeTests(failed)">
+    <parameter name="logLevel" value="DEBUG"/>
+    <parameter name="browser" value="edge"/>
+    <parameter name="env" value="dev"/>
+    <classes>
+      <class name="org.orangehrm.selenium.cucumber.runner.TestRunner">
+        <methods>
+          <include name="setUpClass"/>
+          <include name="tearDown"/>
+          <include name="runScenario" invocation-numbers="0 1 2 3 4"/>
+          <include name="tearDownClass"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- org.orangehrm.selenium.cucumber.runner.TestRunner -->
+    </classes>
+  </test> <!-- EdgeTests(failed) -->
+</suite> <!-- Failed suite [ParallelSuite] -->

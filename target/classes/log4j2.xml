@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+    <!-- Define the appenders for logging -->
+    <Appenders>
+        <!-- Rolling File Appender with date-based log rotation -->
+        <RollingFile name="RollingFile" fileName="logs/test_${date:yyyy-MM-dd}/test.log"
+                     filePattern="logs/test_${date:yyyy-MM-dd}/test-%d{yyyy-MM-dd-HH}.log">
+            <!-- Layout to format log messages -->
+            <PatternLayout>
+                <Pattern>%d{ISO8601} [%t] %-5p %c{1}:%L - %m%n</Pattern>
+            </PatternLayout>
+            <!-- Define log rollover policies -->
+            <Policies>
+                <!-- Time-based policy: rollover every day -->
+                <TimeBasedTriggeringPolicy interval="1" modulate="true"/>
+            </Policies>
+        </RollingFile>
+
+        <!-- Console Appender for output in the console -->
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout>
+                <Pattern>%d{ISO8601} [%t] %-5p %c{1}:%L - %m%n</Pattern>
+            </PatternLayout>
+        </Console>
+    </Appenders>
+
+    <!-- Define the root logger configuration -->
+    <Loggers>
+        <!-- Root Logger: All loggers inherit from here -->
+        <Root level="info">
+            <AppenderRef ref="RollingFile"/>
+            <AppenderRef ref="Console"/>
+        </Root>
+
+        <!-- Specific Logger for the TestListener class -->
+        <Logger name="com.orangehrm.selenium.cucumber.listeners.TestListener" level="debug" additivity="false">
+            <AppenderRef ref="RollingFile"/>
+            <AppenderRef ref="Console"/>
+        </Logger>
+
+        <!-- Optional: You can define other specific loggers as needed -->
+        <!-- Example for another package -->
+        <Logger name="com.orangehrm.selenium" level="info" additivity="false">
+            <AppenderRef ref="RollingFile"/>
+            <AppenderRef ref="Console"/>
+        </Logger>
+    </Loggers>
+</Configuration>

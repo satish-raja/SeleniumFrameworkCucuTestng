@@ -1,0 +1,1087 @@
+2024-12-13 08:25:48 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Started: FirefoxTests
+2024-12-13 08:25:48 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Started: EdgeTests
+2024-12-13 08:25:48 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Started: ChromeTests
+2024-12-13 08:25:48 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Running tests with Browser: chrome and Environment: dev
+2024-12-13 08:25:48 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Running tests with Browser: firefox and Environment: dev
+2024-12-13 08:25:48 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Running tests with Browser: edge and Environment: dev
+2024-12-13 08:25:49 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 08:25:49 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 08:25:51 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 08:25:53 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Admin
+2024-12-13 08:25:53 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered password: admin123
+2024-12-13 08:25:53 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 08:25:53 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Admin
+2024-12-13 08:25:53 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered password: admin123
+2024-12-13 08:25:55 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 08:25:55 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Admin
+2024-12-13 08:25:55 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered password: admin123
+2024-12-13 08:25:56 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked logout link
+2024-12-13 08:25:57 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked logout link
+2024-12-13 08:25:57 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 08:25:57 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 08:25:58 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 08:25:58 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 08:25:59 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked logout link
+2024-12-13 08:25:59 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 08:26:00 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 08:26:01 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Admin
+2024-12-13 08:26:01 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered password: admin
+2024-12-13 08:26:01 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 08:26:02 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 08:26:02 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Admin
+2024-12-13 08:26:02 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered password: admin
+2024-12-13 08:26:03 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 08:26:04 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 08:26:04 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 08:26:05 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 08:26:06 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Admin
+2024-12-13 08:26:06 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered password: admin
+2024-12-13 08:26:06 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 08:26:07 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Adminn
+2024-12-13 08:26:07 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered password: admin123
+2024-12-13 08:26:07 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 08:26:07 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 08:26:08 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 08:26:09 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 08:26:09 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Adminn
+2024-12-13 08:26:09 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 08:26:09 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered password: admin123
+2024-12-13 08:26:10 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 08:26:11 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 08:26:12 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 08:26:12 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Adminn
+2024-12-13 08:26:12 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered password: admin
+2024-12-13 08:26:13 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 08:26:13 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 08:26:14 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 08:26:14 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Adminn
+2024-12-13 08:26:14 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered password: admin123
+2024-12-13 08:26:15 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 08:26:16 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 08:26:16 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Adminn
+2024-12-13 08:26:16 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered password: admin
+2024-12-13 08:26:17 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 08:26:17 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 08:26:19 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 08:26:19 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked forgot password link
+2024-12-13 08:26:19 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 08:26:19 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 08:26:20 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Admin
+2024-12-13 08:26:20 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 08:26:21 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 08:26:23 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Finished: ChromeTests
+2024-12-13 08:26:23 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Adminn
+2024-12-13 08:26:23 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered password: admin
+2024-12-13 08:26:23 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked forgot password link
+2024-12-13 08:26:24 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Admin
+2024-12-13 08:26:24 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 08:26:24 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 08:26:25 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 08:26:27 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 08:26:27 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Finished: EdgeTests
+2024-12-13 08:26:27 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 08:26:32 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked forgot password link
+2024-12-13 08:26:32 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Admin
+2024-12-13 08:26:33 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 08:26:35 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 08:26:36 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Finished: FirefoxTests
+2024-12-13 08:28:18 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Started: FirefoxTests
+2024-12-13 08:28:18 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Started: ChromeTests
+2024-12-13 08:28:18 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Started: EdgeTests
+2024-12-13 08:28:18 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Running tests with Browser: edge and Environment: dev
+2024-12-13 08:28:18 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Running tests with Browser: chrome and Environment: dev
+2024-12-13 08:28:18 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Running tests with Browser: firefox and Environment: dev
+2024-12-13 08:28:20 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 08:28:20 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 08:28:22 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 08:28:28 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 08:28:29 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 08:28:29 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 08:28:30 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 08:28:30 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 08:28:32 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 08:28:34 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 08:28:34 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 08:28:36 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 08:28:37 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 08:28:39 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 08:28:40 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 08:28:40 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 08:28:41 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 08:28:43 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 08:28:44 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 08:28:46 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 08:28:46 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 08:28:47 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 08:28:49 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 08:28:52 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 08:28:53 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 08:28:54 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 08:28:56 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Finished: ChromeTests
+2024-12-13 08:28:56 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 08:28:58 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 08:29:01 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 08:29:02 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Finished: EdgeTests
+2024-12-13 08:29:06 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 08:29:06 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Finished: FirefoxTests
+2024-12-13 08:41:14 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Started: EdgeTests
+2024-12-13 08:41:14 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Started: FirefoxTests
+2024-12-13 08:41:14 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Started: ChromeTests
+2024-12-13 08:41:14 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Running tests with Browser: firefox and Environment: dev
+2024-12-13 08:41:14 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Running tests with Browser: chrome and Environment: dev
+2024-12-13 08:41:14 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Running tests with Browser: edge and Environment: dev
+2024-12-13 08:41:15 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 08:41:15 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 08:41:17 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 08:41:19 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Admin
+2024-12-13 08:41:19 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered password: admin123
+2024-12-13 08:41:19 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Admin
+2024-12-13 08:41:19 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 08:41:19 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered password: admin123
+2024-12-13 08:41:20 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 08:41:21 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Admin
+2024-12-13 08:41:21 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered password: admin123
+2024-12-13 08:41:22 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 08:41:22 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked logout link
+2024-12-13 08:41:23 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked logout link
+2024-12-13 08:41:24 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 08:41:24 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked logout link
+2024-12-13 08:41:25 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 08:41:25 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 08:41:25 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 08:41:26 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 08:41:28 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 08:41:29 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Admin
+2024-12-13 08:41:29 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered password: admin
+2024-12-13 08:41:29 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 08:41:29 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Admin
+2024-12-13 08:41:29 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered password: admin
+2024-12-13 08:41:29 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 08:41:31 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 08:41:31 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 08:41:32 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Admin
+2024-12-13 08:41:32 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered password: admin
+2024-12-13 08:41:32 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 08:41:32 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 08:41:33 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 08:41:34 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 08:41:35 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Adminn
+2024-12-13 08:41:35 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered password: admin123
+2024-12-13 08:41:35 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 08:41:35 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Adminn
+2024-12-13 08:41:35 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered password: admin123
+2024-12-13 08:41:36 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 08:41:37 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 08:41:37 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 08:41:37 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 08:41:38 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 08:41:39 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 08:41:40 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Adminn
+2024-12-13 08:41:40 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered password: admin123
+2024-12-13 08:41:41 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Adminn
+2024-12-13 08:41:41 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered password: admin
+2024-12-13 08:41:41 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 08:41:42 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 08:41:42 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Adminn
+2024-12-13 08:41:42 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 08:41:42 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered password: admin
+2024-12-13 08:41:43 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 08:41:43 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 08:41:43 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 08:41:45 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 08:41:45 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 08:41:46 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 08:41:47 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked forgot password link
+2024-12-13 08:41:48 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Admin
+2024-12-13 08:41:48 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 08:41:49 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Adminn
+2024-12-13 08:41:49 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered password: admin
+2024-12-13 08:41:49 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 08:41:50 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked forgot password link
+2024-12-13 08:41:50 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 08:41:51 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Admin
+2024-12-13 08:41:51 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 08:41:51 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Finished: ChromeTests
+2024-12-13 08:41:51 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 08:41:53 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 08:41:53 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 08:41:54 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Finished: EdgeTests
+2024-12-13 08:41:59 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked forgot password link
+2024-12-13 08:41:59 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Admin
+2024-12-13 08:41:59 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 08:42:01 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 08:42:02 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Finished: FirefoxTests
+2024-12-13 08:53:39 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Started: FirefoxTests
+2024-12-13 08:53:39 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Started: ChromeTests
+2024-12-13 08:53:39 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Started: EdgeTests
+2024-12-13 08:53:39 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Running tests with Browser: firefox and Environment: dev
+2024-12-13 08:53:39 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Running tests with Browser: edge and Environment: dev
+2024-12-13 08:53:39 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Running tests with Browser: chrome and Environment: dev
+2024-12-13 08:53:41 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 08:53:41 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 08:53:43 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 08:53:49 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 08:53:50 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 08:53:50 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 08:53:51 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 08:53:51 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 08:53:53 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Admin
+2024-12-13 08:53:53 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 08:53:55 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 08:53:55 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 08:53:56 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 08:53:57 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 08:53:58 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 08:54:00 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 08:54:01 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 08:54:01 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Adminn
+2024-12-13 08:54:01 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered password: admin123
+2024-12-13 08:54:01 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 08:54:02 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 08:54:04 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 08:54:04 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Adminn
+2024-12-13 08:54:04 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered password: admin
+2024-12-13 08:54:04 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 08:54:06 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 08:54:07 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 08:54:08 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 08:54:09 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 08:54:10 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 08:54:10 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 08:54:11 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 08:54:13 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 08:54:14 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Finished: ChromeTests
+2024-12-13 08:54:14 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Adminn
+2024-12-13 08:54:14 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered password: admin
+2024-12-13 08:54:15 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked forgot password link
+2024-12-13 08:54:16 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Admin
+2024-12-13 08:54:16 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 08:54:16 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 08:54:17 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 08:54:18 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 08:54:19 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Finished: EdgeTests
+2024-12-13 08:54:19 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 08:54:26 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 08:54:27 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Finished: FirefoxTests
+2024-12-13 09:17:01 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Started: EdgeTests
+2024-12-13 09:17:01 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Started: FirefoxTests
+2024-12-13 09:17:01 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Started: ChromeTests
+2024-12-13 09:17:01 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Running tests with Browser: chrome and Environment: dev
+2024-12-13 09:17:01 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Running tests with Browser: edge and Environment: dev
+2024-12-13 09:17:01 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Running tests with Browser: firefox and Environment: dev
+2024-12-13 09:17:04 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 09:17:04 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 09:17:05 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 09:17:12 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 09:17:12 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 09:17:13 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 09:17:13 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 09:17:14 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 09:17:17 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 09:17:17 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 09:17:18 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 09:17:20 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 09:17:20 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 09:17:23 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 09:17:23 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 09:17:24 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 09:17:26 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 09:17:26 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 09:17:27 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 09:17:29 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 09:17:29 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 09:17:32 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 09:17:33 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 09:17:34 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 09:17:34 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 09:17:36 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 09:17:37 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Finished: ChromeTests
+2024-12-13 09:17:41 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 09:17:41 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 09:17:42 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Finished: EdgeTests
+2024-12-13 09:17:43 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 09:17:50 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 09:17:51 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Finished: FirefoxTests
+2024-12-13 09:22:29 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Started: EdgeTests
+2024-12-13 09:22:29 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Started: FirefoxTests
+2024-12-13 09:22:29 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Started: ChromeTests
+2024-12-13 09:22:29 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Running tests with Browser: edge and Environment: dev
+2024-12-13 09:22:29 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Running tests with Browser: firefox and Environment: dev
+2024-12-13 09:22:29 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Running tests with Browser: chrome and Environment: dev
+2024-12-13 09:22:31 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 09:22:31 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 09:22:32 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 09:22:38 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 09:22:38 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 09:22:39 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 09:22:39 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 09:22:40 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked logout link
+2024-12-13 09:22:41 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 09:22:41 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 09:22:42 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Admin
+2024-12-13 09:22:42 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered password: admin
+2024-12-13 09:22:42 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 09:22:43 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Admin
+2024-12-13 09:22:43 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered password: admin
+2024-12-13 09:22:43 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 09:22:44 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 09:22:44 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 09:22:45 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 09:22:45 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 09:22:45 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Admin
+2024-12-13 09:22:45 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered password: admin
+2024-12-13 09:22:45 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 09:22:47 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 09:22:47 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 09:22:48 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Adminn
+2024-12-13 09:22:48 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered password: admin123
+2024-12-13 09:22:48 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 09:22:49 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Adminn
+2024-12-13 09:22:49 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered password: admin123
+2024-12-13 09:22:49 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 09:22:50 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 09:22:50 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 09:22:51 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Adminn
+2024-12-13 09:22:51 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 09:22:51 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 09:22:51 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered password: admin123
+2024-12-13 09:22:51 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 09:22:53 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 09:22:53 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 09:22:53 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Adminn
+2024-12-13 09:22:53 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered password: admin
+2024-12-13 09:22:54 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 09:22:55 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Adminn
+2024-12-13 09:22:55 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 09:22:55 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 09:22:55 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered password: admin
+2024-12-13 09:22:55 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 09:22:57 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Adminn
+2024-12-13 09:22:57 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 09:22:57 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered password: admin
+2024-12-13 09:22:57 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 09:22:57 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 09:22:58 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 09:22:58 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 09:22:59 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked forgot password link
+2024-12-13 09:23:00 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Admin
+2024-12-13 09:23:00 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 09:23:02 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked forgot password link
+2024-12-13 09:23:02 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 09:23:02 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Admin
+2024-12-13 09:23:02 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 09:23:03 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Finished: ChromeTests
+2024-12-13 09:23:03 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked forgot password link
+2024-12-13 09:23:04 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 09:23:04 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Admin
+2024-12-13 09:23:04 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 09:23:04 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Finished: EdgeTests
+2024-12-13 09:23:05 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 09:23:06 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Finished: FirefoxTests
+2024-12-13 12:18:16 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Started: ChromeTests
+2024-12-13 12:18:16 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Started: FirefoxTests
+2024-12-13 12:18:16 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Started: EdgeTests
+2024-12-13 12:18:16 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Running tests with Browser: chrome and Environment: dev
+2024-12-13 12:18:16 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Running tests with Browser: firefox and Environment: dev
+2024-12-13 12:18:16 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Running tests with Browser: edge and Environment: dev
+2024-12-13 12:18:18 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 12:18:18 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 12:18:20 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 12:18:30 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 12:18:30 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked logout link
+2024-12-13 12:18:31 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 12:18:31 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 12:18:31 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 12:18:32 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 12:18:33 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 12:18:40 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 12:18:41 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 12:18:41 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 12:18:41 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 12:18:42 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 12:18:43 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 12:18:45 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 12:18:50 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 12:18:50 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 12:18:51 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 12:18:51 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 12:18:54 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 12:18:55 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Adminn
+2024-12-13 12:18:55 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered password: admin
+2024-12-13 12:18:55 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 12:18:55 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Adminn
+2024-12-13 12:18:55 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered password: admin
+2024-12-13 12:18:55 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 12:18:56 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 12:18:59 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 12:18:59 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 12:18:59 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 12:19:00 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 12:19:06 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 12:19:06 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 12:19:07 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked forgot password link
+2024-12-13 12:19:08 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 12:19:10 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 12:19:11 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Finished: ChromeTests
+2024-12-13 12:19:13 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 12:19:13 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Finished: EdgeTests
+2024-12-13 12:19:15 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked forgot password link
+2024-12-13 12:19:16 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Admin
+2024-12-13 12:19:18 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 12:19:20 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 12:19:21 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Finished: FirefoxTests
+2024-12-13 12:24:54 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Started: FirefoxTests
+2024-12-13 12:24:54 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Started: ChromeTests
+2024-12-13 12:24:54 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Started: EdgeTests
+2024-12-13 12:24:54 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Running tests with Browser: firefox and Environment: dev
+2024-12-13 12:24:54 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Running tests with Browser: chrome and Environment: dev
+2024-12-13 12:24:54 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Running tests with Browser: edge and Environment: dev
+2024-12-13 12:24:56 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 12:24:56 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 12:24:57 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 12:25:13 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 12:25:13 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 12:25:13 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked logout link
+2024-12-13 12:25:14 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 12:25:14 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 12:25:16 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 12:25:16 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 12:25:19 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Admin
+2024-12-13 12:25:20 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered password: admin
+2024-12-13 12:25:20 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Admin
+2024-12-13 12:25:20 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered password: admin
+2024-12-13 12:25:20 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 12:25:21 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Admin
+2024-12-13 12:25:21 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered password: admin
+2024-12-13 12:25:24 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 12:25:26 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 12:25:26 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 12:25:26 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 12:25:26 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 12:25:26 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 12:25:27 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 12:25:27 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 12:25:32 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Adminn
+2024-12-13 12:25:32 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered password: admin123
+2024-12-13 12:25:33 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Adminn
+2024-12-13 12:25:33 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered password: admin123
+2024-12-13 12:25:33 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 12:25:33 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Adminn
+2024-12-13 12:25:33 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered password: admin123
+2024-12-13 12:25:34 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 12:25:35 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 12:25:35 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 12:25:36 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 12:25:37 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 12:25:37 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 12:25:37 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 12:25:37 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 12:25:41 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Adminn
+2024-12-13 12:25:41 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered password: admin
+2024-12-13 12:25:43 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Adminn
+2024-12-13 12:25:43 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered password: admin
+2024-12-13 12:25:43 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Adminn
+2024-12-13 12:25:43 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered password: admin
+2024-12-13 12:25:43 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 12:25:43 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 12:25:44 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 12:25:45 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 12:25:45 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 12:25:45 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 12:25:45 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 12:25:46 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 12:25:46 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 12:25:52 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked forgot password link
+2024-12-13 12:25:52 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked forgot password link
+2024-12-13 12:25:53 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Admin
+2024-12-13 12:25:53 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 12:25:53 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked forgot password link
+2024-12-13 12:25:53 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Admin
+2024-12-13 12:25:53 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 12:25:53 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Admin
+2024-12-13 12:25:53 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 12:25:57 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 12:25:57 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 12:25:57 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 12:25:58 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Finished: EdgeTests
+2024-12-13 12:25:58 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Finished: FirefoxTests
+2024-12-13 12:25:58 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Finished: ChromeTests
+2024-12-13 12:29:34 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Started: EdgeTests
+2024-12-13 12:29:34 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Started: ChromeTests
+2024-12-13 12:29:34 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Started: FirefoxTests
+2024-12-13 12:29:34 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Running tests with Browser: chrome and Environment: dev
+2024-12-13 12:29:34 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Running tests with Browser: firefox and Environment: dev
+2024-12-13 12:29:34 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Running tests with Browser: edge and Environment: dev
+2024-12-13 12:29:36 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 12:29:36 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 12:29:37 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 12:30:06 [TestNG-tests-1] ERROR com.orangehrm.selenium.cucumber.listeners.TestListener - Test Failed: runScenario
+2024-12-13 12:30:07 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.ScreenshotUtil - Created screenshots directory: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.6\allure-results\screenshots
+2024-12-13 12:30:07 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.ScreenshotUtil - Screenshot saved at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.6\allure-results\screenshots\runScenario_2024-12-13_12-30-07.png
+2024-12-13 12:30:07 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.ScreenshotUtil - Screenshot attached to Allure report.
+2024-12-13 12:30:07 [TestNG-tests-1] ERROR com.orangehrm.selenium.cucumber.listeners.TestListener - Error occurred during test execution: 
+java.lang.AssertionError: Login Failed! Dashboard not displayed. expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:111) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.Assert.failNotEquals(Assert.java:1578) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.Assert.assertTrue(Assert.java:57) ~[testng-7.10.2.jar:7.10.2]
+	at org.orangehrm.selenium.cucumber.stepdefs.LoginStepDef.i_should_be_logged_in_successfully_and_I_should_see_the_Dashboard_page(LoginStepDef.java:72) ~[test-classes/:?]
+	at ?.I should be logged in successfully and I should see the Dashboard page(file:///D:/WorkSpace_Selenium/orangehrm.selenium.cucumber.6/src/test/resources/org.orangehrm.selenium.cucumber.features/loginpage.feature:13) ~[?:?]
+2024-12-13 12:30:07 [TestNG-tests-3] ERROR com.orangehrm.selenium.cucumber.listeners.TestListener - Test Failed: runScenario
+2024-12-13 12:30:08 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 12:30:08 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.ScreenshotUtil - Screenshot saved at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.6\allure-results\screenshots\runScenario_2024-12-13_12-30-08.png
+2024-12-13 12:30:08 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.ScreenshotUtil - Screenshot attached to Allure report.
+2024-12-13 12:30:08 [TestNG-tests-3] ERROR com.orangehrm.selenium.cucumber.listeners.TestListener - Error occurred during test execution: 
+java.lang.AssertionError: Login Failed! Dashboard not displayed. expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:111) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.Assert.failNotEquals(Assert.java:1578) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.Assert.assertTrue(Assert.java:57) ~[testng-7.10.2.jar:7.10.2]
+	at org.orangehrm.selenium.cucumber.stepdefs.LoginStepDef.i_should_be_logged_in_successfully_and_I_should_see_the_Dashboard_page(LoginStepDef.java:72) ~[test-classes/:?]
+	at ?.I should be logged in successfully and I should see the Dashboard page(file:///D:/WorkSpace_Selenium/orangehrm.selenium.cucumber.6/src/test/resources/org.orangehrm.selenium.cucumber.features/loginpage.feature:13) ~[?:?]
+2024-12-13 12:30:08 [TestNG-tests-2] ERROR com.orangehrm.selenium.cucumber.listeners.TestListener - Test Failed: runScenario
+2024-12-13 12:30:09 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 12:30:09 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.ScreenshotUtil - Screenshot saved at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.6\allure-results\screenshots\runScenario_2024-12-13_12-30-09.png
+2024-12-13 12:30:09 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.ScreenshotUtil - Screenshot attached to Allure report.
+2024-12-13 12:30:09 [TestNG-tests-2] ERROR com.orangehrm.selenium.cucumber.listeners.TestListener - Error occurred during test execution: 
+java.lang.AssertionError: Login Failed! Dashboard not displayed. expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:111) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.Assert.failNotEquals(Assert.java:1578) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.Assert.assertTrue(Assert.java:57) ~[testng-7.10.2.jar:7.10.2]
+	at org.orangehrm.selenium.cucumber.stepdefs.LoginStepDef.i_should_be_logged_in_successfully_and_I_should_see_the_Dashboard_page(LoginStepDef.java:72) ~[test-classes/:?]
+	at ?.I should be logged in successfully and I should see the Dashboard page(file:///D:/WorkSpace_Selenium/orangehrm.selenium.cucumber.6/src/test/resources/org.orangehrm.selenium.cucumber.features/loginpage.feature:13) ~[?:?]
+2024-12-13 12:30:12 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 12:30:28 [TestNG-tests-1] ERROR com.orangehrm.selenium.cucumber.listeners.TestListener - Test Failed: runScenario
+2024-12-13 12:30:29 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.ScreenshotUtil - Screenshot saved at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.6\allure-results\screenshots\runScenario_2024-12-13_12-30-29.png
+2024-12-13 12:30:29 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.ScreenshotUtil - Screenshot attached to Allure report.
+2024-12-13 12:30:29 [TestNG-tests-1] ERROR com.orangehrm.selenium.cucumber.listeners.TestListener - Error occurred during test execution: 
+java.lang.AssertionError: Login Error Message not displayed! expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:111) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.Assert.failNotEquals(Assert.java:1578) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.Assert.assertTrue(Assert.java:57) ~[testng-7.10.2.jar:7.10.2]
+	at org.orangehrm.selenium.cucumber.stepdefs.LoginStepDef.i_should_see_an_error_message_on_the_login_page(LoginStepDef.java:93) ~[test-classes/:?]
+	at ?.I should see an error message "Invalid credentials" on the Login page(file:///D:/WorkSpace_Selenium/orangehrm.selenium.cucumber.6/src/test/resources/org.orangehrm.selenium.cucumber.features/loginpage.feature:24) ~[?:?]
+2024-12-13 12:30:30 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 12:30:35 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 12:30:36 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 12:30:36 [TestNG-tests-2] ERROR com.orangehrm.selenium.cucumber.listeners.TestListener - Test Failed: runScenario
+2024-12-13 12:30:37 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.ScreenshotUtil - Screenshot saved at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.6\allure-results\screenshots\runScenario_2024-12-13_12-30-37.png
+2024-12-13 12:30:37 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.ScreenshotUtil - Screenshot attached to Allure report.
+2024-12-13 12:30:37 [TestNG-tests-2] ERROR com.orangehrm.selenium.cucumber.listeners.TestListener - Error occurred during test execution: 
+java.lang.AssertionError: Login Error Message not displayed! expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:111) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.Assert.failNotEquals(Assert.java:1578) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.Assert.assertTrue(Assert.java:57) ~[testng-7.10.2.jar:7.10.2]
+	at org.orangehrm.selenium.cucumber.stepdefs.LoginStepDef.i_should_see_an_error_message_on_the_login_page(LoginStepDef.java:93) ~[test-classes/:?]
+	at ?.I should see an error message "Invalid credentials" on the Login page(file:///D:/WorkSpace_Selenium/orangehrm.selenium.cucumber.6/src/test/resources/org.orangehrm.selenium.cucumber.features/loginpage.feature:24) ~[?:?]
+2024-12-13 12:30:39 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 12:30:47 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 12:30:47 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Adminn
+2024-12-13 12:30:47 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered password: admin123
+2024-12-13 12:30:47 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 12:30:52 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 12:30:53 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 12:30:55 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 12:30:57 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 12:31:02 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 12:31:03 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Adminn
+2024-12-13 12:31:03 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered password: admin
+2024-12-13 12:31:03 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 12:31:11 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 12:31:12 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 12:31:13 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 12:31:14 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Admin
+2024-12-13 12:31:14 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 12:31:15 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 12:31:20 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 12:31:21 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked forgot password link
+2024-12-13 12:31:21 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Finished: ChromeTests
+2024-12-13 12:31:23 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Admin
+2024-12-13 12:31:23 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 12:31:24 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked forgot password link
+2024-12-13 12:31:26 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Admin
+2024-12-13 12:31:28 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 12:31:29 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 12:31:30 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Finished: EdgeTests
+2024-12-13 12:31:31 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 12:31:32 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Finished: FirefoxTests
+2024-12-13 12:31:48 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Started: EdgeTests
+2024-12-13 12:31:48 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Started: ChromeTests
+2024-12-13 12:31:48 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Started: FirefoxTests
+2024-12-13 12:31:48 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Running tests with Browser: chrome and Environment: dev
+2024-12-13 12:31:48 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Running tests with Browser: edge and Environment: dev
+2024-12-13 12:31:48 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Running tests with Browser: firefox and Environment: dev
+2024-12-13 12:31:50 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 12:31:50 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 12:31:51 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 12:32:10 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 12:32:10 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 12:32:11 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 12:32:11 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 12:32:12 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 12:32:13 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 12:32:23 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 12:32:23 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 12:32:23 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 12:32:26 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 12:32:27 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 12:32:27 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 12:32:29 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Adminn
+2024-12-13 12:32:29 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered password: admin123
+2024-12-13 12:32:29 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 12:32:29 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 12:32:33 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 12:32:34 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 12:32:37 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 12:32:38 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 12:32:38 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 12:32:39 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Adminn
+2024-12-13 12:32:39 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered password: admin
+2024-12-13 12:32:40 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 12:32:43 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 12:32:44 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 12:32:47 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 12:32:48 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 12:32:51 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 12:32:52 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Admin
+2024-12-13 12:32:52 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 12:32:53 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 12:32:55 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 12:32:56 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Admin
+2024-12-13 12:32:56 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 12:32:56 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Finished: ChromeTests
+2024-12-13 12:33:00 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked forgot password link
+2024-12-13 12:33:00 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 12:33:01 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Finished: EdgeTests
+2024-12-13 12:33:01 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Admin
+2024-12-13 12:33:04 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 12:33:06 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 12:33:06 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Finished: FirefoxTests
+2024-12-13 13:01:46 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Started: FirefoxTests
+2024-12-13 13:01:46 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Started: EdgeTests
+2024-12-13 13:01:46 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Started: ChromeTests
+2024-12-13 13:01:46 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Running tests with Browser: edge and Environment: dev
+2024-12-13 13:01:46 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Running tests with Browser: firefox and Environment: dev
+2024-12-13 13:01:46 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Running tests with Browser: chrome and Environment: dev
+2024-12-13 13:01:47 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:01:47 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:01:49 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:02:08 [TestNG-tests-3] ERROR com.orangehrm.selenium.cucumber.listeners.TestListener - Test Failed: runScenario
+2024-12-13 13:02:09 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.ScreenshotUtil - Screenshot saved at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.7\allure-results\screenshots\runScenario_2024-12-13_13-02-09.png
+2024-12-13 13:02:09 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.ScreenshotUtil - Screenshot attached to Allure report.
+2024-12-13 13:02:09 [TestNG-tests-3] ERROR com.orangehrm.selenium.cucumber.listeners.TestListener - Error occurred during test execution: 
+java.lang.AssertionError: Login Failed! Dashboard not displayed. expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:111) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.Assert.failNotEquals(Assert.java:1578) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.Assert.assertTrue(Assert.java:57) ~[testng-7.10.2.jar:7.10.2]
+	at org.orangehrm.selenium.cucumber.stepdefs.LoginStepDef.i_should_be_logged_in_successfully_and_I_should_see_the_Dashboard_page(LoginStepDef.java:72) ~[test-classes/:?]
+	at ?.I should be logged in successfully and I should see the Dashboard page(file:///D:/WorkSpace_Selenium/orangehrm.selenium.cucumber.7/src/test/resources/org.orangehrm.selenium.cucumber.features/loginpage.feature:13) ~[?:?]
+2024-12-13 13:02:10 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:02:17 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:02:17 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Admin
+2024-12-13 13:02:17 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered password: admin
+2024-12-13 13:02:18 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked logout link
+2024-12-13 13:02:19 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:02:19 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:02:20 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:02:28 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:02:29 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:02:37 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:02:37 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:02:38 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:02:40 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:02:44 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:02:44 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:02:53 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:02:54 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:02:56 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:02:58 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:03:01 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:03:02 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:03:11 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:03:12 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:03:17 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:03:17 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Admin
+2024-12-13 13:03:17 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 13:03:19 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:03:26 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:03:27 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Admin
+2024-12-13 13:03:27 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 13:03:27 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Finished: EdgeTests
+2024-12-13 13:03:30 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked forgot password link
+2024-12-13 13:03:33 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Admin
+2024-12-13 13:03:34 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:03:35 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Finished: ChromeTests
+2024-12-13 13:03:38 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 13:03:39 [TestNG-tests-2] ERROR com.orangehrm.selenium.cucumber.listeners.TestListener - Test Failed: runScenario
+2024-12-13 13:03:39 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.ScreenshotUtil - Screenshot saved at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.7\allure-results\screenshots\runScenario_2024-12-13_13-03-39.png
+2024-12-13 13:03:39 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.ScreenshotUtil - Screenshot attached to Allure report.
+2024-12-13 13:03:39 [TestNG-tests-2] ERROR com.orangehrm.selenium.cucumber.listeners.TestListener - Error occurred during test execution: 
+java.lang.AssertionError: Navigated to wrong page expected [https://opensource-demo.orangehrmlive.com/web/index.php/auth/sendPasswordReset] but found [https://opensource-demo.orangehrmlive.com/web/index.php/auth/requestPasswordResetCode]
+	at org.testng.Assert.fail(Assert.java:111) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.Assert.failNotEquals(Assert.java:1578) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.Assert.assertEqualsImpl(Assert.java:150) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.Assert.assertEquals(Assert.java:132) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.Assert.assertEquals(Assert.java:656) ~[testng-7.10.2.jar:7.10.2]
+	at org.orangehrm.selenium.cucumber.stepdefs.LoginStepDef.i_should_see_a_message(LoginStepDef.java:133) ~[test-classes/:?]
+	at ?.I should see a message "Reset Password link sent successfully"(file:///D:/WorkSpace_Selenium/orangehrm.selenium.cucumber.7/src/test/resources/org.orangehrm.selenium.cucumber.features/loginpage.feature:37) ~[?:?]
+2024-12-13 13:03:40 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Finished: FirefoxTests
+2024-12-13 13:03:53 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Started: EdgeTests
+2024-12-13 13:03:53 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Started: ChromeTests
+2024-12-13 13:03:53 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Started: FirefoxTests
+2024-12-13 13:03:53 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Running tests with Browser: chrome and Environment: dev
+2024-12-13 13:03:53 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Running tests with Browser: firefox and Environment: dev
+2024-12-13 13:03:53 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Running tests with Browser: edge and Environment: dev
+2024-12-13 13:03:55 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:03:55 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:03:56 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:04:20 [TestNG-tests-3] ERROR com.orangehrm.selenium.cucumber.listeners.TestListener - Test Failed: runScenario
+2024-12-13 13:04:21 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.ScreenshotUtil - Screenshot saved at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.7\allure-results\screenshots\runScenario_2024-12-13_13-04-21.png
+2024-12-13 13:04:21 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.ScreenshotUtil - Screenshot attached to Allure report.
+2024-12-13 13:04:21 [TestNG-tests-3] ERROR com.orangehrm.selenium.cucumber.listeners.TestListener - Error occurred during test execution: 
+java.lang.AssertionError: Login Failed! Dashboard not displayed. expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:111) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.Assert.failNotEquals(Assert.java:1578) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.Assert.assertTrue(Assert.java:57) ~[testng-7.10.2.jar:7.10.2]
+	at org.orangehrm.selenium.cucumber.stepdefs.LoginStepDef.i_should_be_logged_in_successfully_and_I_should_see_the_Dashboard_page(LoginStepDef.java:72) ~[test-classes/:?]
+	at ?.I should be logged in successfully and I should see the Dashboard page(file:///D:/WorkSpace_Selenium/orangehrm.selenium.cucumber.7/src/test/resources/org.orangehrm.selenium.cucumber.features/loginpage.feature:13) ~[?:?]
+2024-12-13 13:04:21 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:04:32 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:04:33 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked logout link
+2024-12-13 13:04:34 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:04:37 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:04:37 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:04:52 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:04:52 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:05:03 [TestNG-tests-2] ERROR com.orangehrm.selenium.cucumber.listeners.TestListener - Test Failed: runScenario
+2024-12-13 13:05:03 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.ScreenshotUtil - Screenshot saved at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.7\allure-results\screenshots\runScenario_2024-12-13_13-05-03.png
+2024-12-13 13:05:03 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.ScreenshotUtil - Screenshot attached to Allure report.
+2024-12-13 13:05:03 [TestNG-tests-2] ERROR com.orangehrm.selenium.cucumber.listeners.TestListener - Error occurred during test execution: 
+java.lang.AssertionError: Login Error Message not displayed! expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:111) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.Assert.failNotEquals(Assert.java:1578) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.Assert.assertTrue(Assert.java:57) ~[testng-7.10.2.jar:7.10.2]
+	at org.orangehrm.selenium.cucumber.stepdefs.LoginStepDef.i_should_see_an_error_message_on_the_login_page(LoginStepDef.java:93) ~[test-classes/:?]
+	at ?.I should see an error message "Invalid credentials" on the Login page(file:///D:/WorkSpace_Selenium/orangehrm.selenium.cucumber.7/src/test/resources/org.orangehrm.selenium.cucumber.features/loginpage.feature:24) ~[?:?]
+2024-12-13 13:05:05 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Adminn
+2024-12-13 13:05:05 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered password: admin123
+2024-12-13 13:05:05 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 13:05:05 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:05:06 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:05:07 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:05:15 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:05:16 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:05:28 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:05:28 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Adminn
+2024-12-13 13:05:28 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered password: admin
+2024-12-13 13:05:29 [TestNG-tests-1] ERROR com.orangehrm.selenium.cucumber.listeners.TestListener - Test Failed: runScenario
+2024-12-13 13:05:29 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.ScreenshotUtil - Screenshot saved at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.7\allure-results\screenshots\runScenario_2024-12-13_13-05-29.png
+2024-12-13 13:05:29 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.ScreenshotUtil - Screenshot attached to Allure report.
+2024-12-13 13:05:29 [TestNG-tests-1] ERROR com.orangehrm.selenium.cucumber.listeners.TestListener - Error occurred during test execution: 
+java.lang.AssertionError: Login Error Message not displayed! expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:111) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.Assert.failNotEquals(Assert.java:1578) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.Assert.assertTrue(Assert.java:57) ~[testng-7.10.2.jar:7.10.2]
+	at org.orangehrm.selenium.cucumber.stepdefs.LoginStepDef.i_should_see_an_error_message_on_the_login_page(LoginStepDef.java:93) ~[test-classes/:?]
+	at ?.I should see an error message "Invalid credentials" on the Login page(file:///D:/WorkSpace_Selenium/orangehrm.selenium.cucumber.7/src/test/resources/org.orangehrm.selenium.cucumber.features/loginpage.feature:24) ~[?:?]
+2024-12-13 13:05:30 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:05:30 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:05:38 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:05:38 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:05:48 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:05:50 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:05:51 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:05:51 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:06:08 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:06:10 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Admin
+2024-12-13 13:06:10 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Finished: EdgeTests
+2024-12-13 13:06:10 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 13:06:10 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Admin
+2024-12-13 13:06:15 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 13:06:16 [TestNG-tests-2] ERROR com.orangehrm.selenium.cucumber.listeners.TestListener - Test Failed: runScenario
+2024-12-13 13:06:16 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.ScreenshotUtil - Screenshot saved at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.7\allure-results\screenshots\runScenario_2024-12-13_13-06-16.png
+2024-12-13 13:06:16 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.ScreenshotUtil - Screenshot attached to Allure report.
+2024-12-13 13:06:16 [TestNG-tests-2] ERROR com.orangehrm.selenium.cucumber.listeners.TestListener - Error occurred during test execution: 
+java.lang.AssertionError: Navigated to wrong page expected [https://opensource-demo.orangehrmlive.com/web/index.php/auth/sendPasswordReset] but found [https://opensource-demo.orangehrmlive.com/web/index.php/auth/requestPasswordResetCode]
+	at org.testng.Assert.fail(Assert.java:111) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.Assert.failNotEquals(Assert.java:1578) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.Assert.assertEqualsImpl(Assert.java:150) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.Assert.assertEquals(Assert.java:132) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.Assert.assertEquals(Assert.java:656) ~[testng-7.10.2.jar:7.10.2]
+	at org.orangehrm.selenium.cucumber.stepdefs.LoginStepDef.i_should_see_a_message(LoginStepDef.java:133) ~[test-classes/:?]
+	at ?.I should see a message "Reset Password link sent successfully"(file:///D:/WorkSpace_Selenium/orangehrm.selenium.cucumber.7/src/test/resources/org.orangehrm.selenium.cucumber.features/loginpage.feature:37) ~[?:?]
+2024-12-13 13:06:18 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Finished: FirefoxTests
+2024-12-13 13:06:20 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:06:20 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Finished: ChromeTests
+2024-12-13 13:06:45 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Started: EdgeTests
+2024-12-13 13:06:45 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Started: FirefoxTests
+2024-12-13 13:06:45 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Started: ChromeTests
+2024-12-13 13:06:45 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Running tests with Browser: edge and Environment: dev
+2024-12-13 13:06:45 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Running tests with Browser: firefox and Environment: dev
+2024-12-13 13:06:45 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Running tests with Browser: chrome and Environment: dev
+2024-12-13 13:06:47 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:06:47 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:06:48 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:07:01 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:07:01 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked logout link
+2024-12-13 13:07:02 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:07:02 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:07:03 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:07:03 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:07:04 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:07:08 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:07:08 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:07:10 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:07:10 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:07:11 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:07:12 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:07:13 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:07:14 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:07:17 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:07:17 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 13:07:18 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Adminn
+2024-12-13 13:07:18 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered password: admin
+2024-12-13 13:07:18 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 13:07:18 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:07:19 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:07:19 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:07:20 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:07:21 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:07:24 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:07:25 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Adminn
+2024-12-13 13:07:25 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered password: admin
+2024-12-13 13:07:25 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Admin
+2024-12-13 13:07:25 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 13:07:25 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:07:27 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:07:27 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:07:28 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Finished: ChromeTests
+2024-12-13 13:07:29 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:07:33 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:07:34 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Finished: EdgeTests
+2024-12-13 13:07:34 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked forgot password link
+2024-12-13 13:07:34 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Admin
+2024-12-13 13:07:35 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 13:07:37 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:07:37 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Finished: FirefoxTests
+2024-12-13 13:32:04 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Started: EdgeTests
+2024-12-13 13:32:04 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Started: FirefoxTests
+2024-12-13 13:32:04 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Started: ChromeTests
+2024-12-13 13:32:04 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Running tests with Browser: edge and Environment: dev
+2024-12-13 13:32:04 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Running tests with Browser: chrome and Environment: dev
+2024-12-13 13:32:04 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Running tests with Browser: firefox and Environment: dev
+2024-12-13 13:32:07 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:32:07 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:32:08 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:32:16 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:32:16 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked logout link
+2024-12-13 13:32:17 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:32:17 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:32:17 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:32:18 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:32:19 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:32:24 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:32:24 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:32:24 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:32:24 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:32:26 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:32:28 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Adminn
+2024-12-13 13:32:28 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered password: admin123
+2024-12-13 13:32:28 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:32:30 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:32:30 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:32:31 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:32:31 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:32:34 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:32:35 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Adminn
+2024-12-13 13:32:35 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered password: admin
+2024-12-13 13:32:35 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:32:36 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:32:37 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:32:38 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:32:38 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:32:43 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:32:43 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Admin
+2024-12-13 13:32:43 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:32:43 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 13:32:44 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Finished: ChromeTests
+2024-12-13 13:32:45 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:32:46 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:32:46 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Finished: EdgeTests
+2024-12-13 13:32:50 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked forgot password link
+2024-12-13 13:32:50 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Entered username: Admin
+2024-12-13 13:32:51 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.utils.LogUtil - Clicked login button
+2024-12-13 13:32:52 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:32:54 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Finished: FirefoxTests
+2024-12-13 13:46:08 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Started: ChromeTests
+2024-12-13 13:46:08 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Started: EdgeTests
+2024-12-13 13:46:08 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Started: FirefoxTests
+2024-12-13 13:46:08 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Running tests with Browser: firefox and Environment: dev
+2024-12-13 13:46:08 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Running tests with Browser: edge and Environment: dev
+2024-12-13 13:46:08 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Running tests with Browser: chrome and Environment: dev
+2024-12-13 13:46:10 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:46:10 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:46:11 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:46:13 [TestNG-tests-3] INFO  TestNG-tests-3 - Entered username: Admin
+2024-12-13 13:46:13 [TestNG-tests-3] INFO  TestNG-tests-3 - Entered password: admin123
+2024-12-13 13:46:13 [TestNG-tests-1] INFO  TestNG-tests-1 - Entered username: Admin
+2024-12-13 13:46:13 [TestNG-tests-1] INFO  TestNG-tests-1 - Entered password: admin123
+2024-12-13 13:46:15 [TestNG-tests-3] INFO  TestNG-tests-3 - Clicked login button
+2024-12-13 13:46:15 [TestNG-tests-1] INFO  TestNG-tests-1 - Clicked login button
+2024-12-13 13:46:15 [TestNG-tests-2] INFO  TestNG-tests-2 - Entered username: Admin
+2024-12-13 13:46:15 [TestNG-tests-2] INFO  TestNG-tests-2 - Entered password: admin123
+2024-12-13 13:46:17 [TestNG-tests-3] INFO  TestNG-tests-3 - Clicked logout link
+2024-12-13 13:46:17 [TestNG-tests-2] INFO  TestNG-tests-2 - Clicked login button
+2024-12-13 13:46:17 [TestNG-tests-1] INFO  TestNG-tests-1 - Clicked logout link
+2024-12-13 13:46:18 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:46:18 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:46:18 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:46:19 [TestNG-tests-2] INFO  TestNG-tests-2 - Clicked logout link
+2024-12-13 13:46:19 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:46:20 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:46:22 [TestNG-tests-1] INFO  TestNG-tests-1 - Entered username: Admin
+2024-12-13 13:46:22 [TestNG-tests-1] INFO  TestNG-tests-1 - Entered password: admin
+2024-12-13 13:46:22 [TestNG-tests-1] INFO  TestNG-tests-1 - Clicked login button
+2024-12-13 13:46:22 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:46:22 [TestNG-tests-3] INFO  TestNG-tests-3 - Entered username: Admin
+2024-12-13 13:46:22 [TestNG-tests-3] INFO  TestNG-tests-3 - Entered password: admin
+2024-12-13 13:46:24 [TestNG-tests-3] INFO  TestNG-tests-3 - Clicked login button
+2024-12-13 13:46:24 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:46:24 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:46:25 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:46:26 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:46:26 [TestNG-tests-2] INFO  TestNG-tests-2 - Entered username: Admin
+2024-12-13 13:46:26 [TestNG-tests-2] INFO  TestNG-tests-2 - Entered password: admin
+2024-12-13 13:46:28 [TestNG-tests-2] INFO  TestNG-tests-2 - Clicked login button
+2024-12-13 13:46:28 [TestNG-tests-1] INFO  TestNG-tests-1 - Entered username: Adminn
+2024-12-13 13:46:28 [TestNG-tests-1] INFO  TestNG-tests-1 - Entered password: admin123
+2024-12-13 13:46:29 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:46:29 [TestNG-tests-1] INFO  TestNG-tests-1 - Clicked login button
+2024-12-13 13:46:29 [TestNG-tests-3] INFO  TestNG-tests-3 - Entered username: Adminn
+2024-12-13 13:46:29 [TestNG-tests-3] INFO  TestNG-tests-3 - Entered password: admin123
+2024-12-13 13:46:30 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:46:30 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:46:30 [TestNG-tests-3] INFO  TestNG-tests-3 - Clicked login button
+2024-12-13 13:46:31 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:46:32 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:46:33 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:46:34 [TestNG-tests-1] INFO  TestNG-tests-1 - Entered username: Adminn
+2024-12-13 13:46:34 [TestNG-tests-1] INFO  TestNG-tests-1 - Entered password: admin
+2024-12-13 13:46:35 [TestNG-tests-2] INFO  TestNG-tests-2 - Entered username: Adminn
+2024-12-13 13:46:35 [TestNG-tests-2] INFO  TestNG-tests-2 - Entered password: admin123
+2024-12-13 13:46:35 [TestNG-tests-1] INFO  TestNG-tests-1 - Clicked login button
+2024-12-13 13:46:36 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:46:36 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:46:36 [TestNG-tests-3] INFO  TestNG-tests-3 - Entered username: Adminn
+2024-12-13 13:46:36 [TestNG-tests-2] INFO  TestNG-tests-2 - Clicked login button
+2024-12-13 13:46:36 [TestNG-tests-3] INFO  TestNG-tests-3 - Entered password: admin
+2024-12-13 13:46:37 [TestNG-tests-3] INFO  TestNG-tests-3 - Clicked login button
+2024-12-13 13:46:38 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:46:39 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:46:40 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:46:40 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:46:40 [TestNG-tests-1] INFO  TestNG-tests-1 - Clicked forgot password link
+2024-12-13 13:46:41 [TestNG-tests-1] INFO  TestNG-tests-1 - Entered username: Admin
+2024-12-13 13:46:41 [TestNG-tests-1] INFO  TestNG-tests-1 - Clicked login button
+2024-12-13 13:46:43 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:46:43 [TestNG-tests-2] INFO  TestNG-tests-2 - Entered username: Adminn
+2024-12-13 13:46:43 [TestNG-tests-2] INFO  TestNG-tests-2 - Entered password: admin
+2024-12-13 13:46:44 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Finished: ChromeTests
+2024-12-13 13:46:44 [TestNG-tests-3] INFO  TestNG-tests-3 - Clicked forgot password link
+2024-12-13 13:46:45 [TestNG-tests-2] INFO  TestNG-tests-2 - Clicked login button
+2024-12-13 13:46:45 [TestNG-tests-3] INFO  TestNG-tests-3 - Entered username: Admin
+2024-12-13 13:46:45 [TestNG-tests-3] INFO  TestNG-tests-3 - Clicked login button
+2024-12-13 13:46:46 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:46:48 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:46:48 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 13:46:48 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Finished: EdgeTests
+2024-12-13 13:46:53 [TestNG-tests-2] INFO  TestNG-tests-2 - Clicked forgot password link
+2024-12-13 13:46:53 [TestNG-tests-2] INFO  TestNG-tests-2 - Entered username: Admin
+2024-12-13 13:46:54 [TestNG-tests-2] INFO  TestNG-tests-2 - Clicked login button
+2024-12-13 13:46:55 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 13:46:56 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Finished: FirefoxTests
+2024-12-13 19:26:44 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Started: ChromeTests
+2024-12-13 19:26:44 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Started: EdgeTests
+2024-12-13 19:26:44 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Started: FirefoxTests
+2024-12-13 19:26:44 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Running tests with Browser: edge and Environment: dev
+2024-12-13 19:26:44 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Running tests with Browser: chrome and Environment: dev
+2024-12-13 19:26:44 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Running tests with Browser: firefox and Environment: dev
+2024-12-13 19:26:46 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 19:26:46 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 19:26:47 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 19:26:50 [TestNG-tests-1] INFO  TestNG-tests-1 - Entered username: Admin
+2024-12-13 19:26:50 [TestNG-tests-1] INFO  TestNG-tests-1 - Entered password: admin123
+2024-12-13 19:26:50 [TestNG-tests-1] INFO  TestNG-tests-1 - Clicked login button
+2024-12-13 19:26:50 [TestNG-tests-3] INFO  TestNG-tests-3 - Entered username: Admin
+2024-12-13 19:26:50 [TestNG-tests-3] INFO  TestNG-tests-3 - Entered password: admin123
+2024-12-13 19:26:51 [TestNG-tests-2] INFO  TestNG-tests-2 - Entered username: Admin
+2024-12-13 19:26:51 [TestNG-tests-2] INFO  TestNG-tests-2 - Entered password: admin123
+2024-12-13 19:26:51 [TestNG-tests-3] INFO  TestNG-tests-3 - Clicked login button
+2024-12-13 19:26:53 [TestNG-tests-2] INFO  TestNG-tests-2 - Clicked login button
+2024-12-13 19:26:53 [TestNG-tests-1] INFO  TestNG-tests-1 - Clicked logout link
+2024-12-13 19:26:53 [TestNG-tests-3] INFO  TestNG-tests-3 - Clicked logout link
+2024-12-13 19:26:54 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 19:26:55 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 19:26:55 [TestNG-tests-2] INFO  TestNG-tests-2 - Clicked logout link
+2024-12-13 19:26:55 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 19:26:56 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 19:26:56 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 19:26:58 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 19:26:58 [TestNG-tests-1] INFO  TestNG-tests-1 - Entered username: Admin
+2024-12-13 19:26:58 [TestNG-tests-1] INFO  TestNG-tests-1 - Entered password: admin
+2024-12-13 19:26:58 [TestNG-tests-1] INFO  TestNG-tests-1 - Clicked login button
+2024-12-13 19:26:59 [TestNG-tests-3] INFO  TestNG-tests-3 - Entered username: Admin
+2024-12-13 19:26:59 [TestNG-tests-3] INFO  TestNG-tests-3 - Entered password: admin
+2024-12-13 19:27:00 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 19:27:01 [TestNG-tests-3] INFO  TestNG-tests-3 - Clicked login button
+2024-12-13 19:27:01 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 19:27:02 [TestNG-tests-2] INFO  TestNG-tests-2 - Entered username: Admin
+2024-12-13 19:27:02 [TestNG-tests-2] INFO  TestNG-tests-2 - Entered password: admin
+2024-12-13 19:27:02 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 19:27:03 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 19:27:04 [TestNG-tests-2] INFO  TestNG-tests-2 - Clicked login button
+2024-12-13 19:27:04 [TestNG-tests-1] INFO  TestNG-tests-1 - Entered username: Adminn
+2024-12-13 19:27:04 [TestNG-tests-1] INFO  TestNG-tests-1 - Entered password: admin123
+2024-12-13 19:27:04 [TestNG-tests-1] INFO  TestNG-tests-1 - Clicked login button
+2024-12-13 19:27:05 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 19:27:06 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 19:27:06 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 19:27:07 [TestNG-tests-3] INFO  TestNG-tests-3 - Entered username: Adminn
+2024-12-13 19:27:07 [TestNG-tests-3] INFO  TestNG-tests-3 - Entered password: admin123
+2024-12-13 19:27:07 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 19:27:08 [TestNG-tests-3] INFO  TestNG-tests-3 - Clicked login button
+2024-12-13 19:27:09 [TestNG-tests-1] INFO  TestNG-tests-1 - Entered username: Adminn
+2024-12-13 19:27:10 [TestNG-tests-1] INFO  TestNG-tests-1 - Entered password: admin
+2024-12-13 19:27:10 [TestNG-tests-1] INFO  TestNG-tests-1 - Clicked login button
+2024-12-13 19:27:10 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 19:27:10 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 19:27:11 [TestNG-tests-2] INFO  TestNG-tests-2 - Entered username: Adminn
+2024-12-13 19:27:11 [TestNG-tests-2] INFO  TestNG-tests-2 - Entered password: admin123
+2024-12-13 19:27:11 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 19:27:12 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 19:27:12 [TestNG-tests-2] INFO  TestNG-tests-2 - Clicked login button
+2024-12-13 19:27:13 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 19:27:14 [TestNG-tests-3] INFO  TestNG-tests-3 - Entered username: Adminn
+2024-12-13 19:27:14 [TestNG-tests-3] INFO  TestNG-tests-3 - Entered password: admin
+2024-12-13 19:27:15 [TestNG-tests-3] INFO  TestNG-tests-3 - Clicked login button
+2024-12-13 19:27:15 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 19:27:16 [TestNG-tests-1] INFO  TestNG-tests-1 - Clicked forgot password link
+2024-12-13 19:27:17 [TestNG-tests-1] INFO  TestNG-tests-1 - Entered username: Admin
+2024-12-13 19:27:17 [TestNG-tests-1] INFO  TestNG-tests-1 - Clicked login button
+2024-12-13 19:27:17 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 19:27:17 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 19:27:18 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 19:27:19 [TestNG-tests-2] INFO  TestNG-tests-2 - Entered username: Adminn
+2024-12-13 19:27:19 [TestNG-tests-2] INFO  TestNG-tests-2 - Entered password: admin
+2024-12-13 19:27:19 [TestNG-tests-1] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Finished: ChromeTests
+2024-12-13 19:27:20 [TestNG-tests-2] INFO  TestNG-tests-2 - Clicked login button
+2024-12-13 19:27:21 [TestNG-tests-3] INFO  TestNG-tests-3 - Clicked forgot password link
+2024-12-13 19:27:22 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 19:27:22 [TestNG-tests-3] INFO  TestNG-tests-3 - Entered username: Admin
+2024-12-13 19:27:22 [TestNG-tests-3] INFO  TestNG-tests-3 - Clicked login button
+2024-12-13 19:27:24 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Started: runScenario
+2024-12-13 19:27:25 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 19:27:26 [TestNG-tests-3] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Finished: EdgeTests
+2024-12-13 19:27:29 [TestNG-tests-2] INFO  TestNG-tests-2 - Clicked forgot password link
+2024-12-13 19:27:29 [TestNG-tests-2] INFO  TestNG-tests-2 - Entered username: Admin
+2024-12-13 19:27:30 [TestNG-tests-2] INFO  TestNG-tests-2 - Clicked login button
+2024-12-13 19:27:31 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Passed: runScenario
+2024-12-13 19:27:32 [TestNG-tests-2] INFO  com.orangehrm.selenium.cucumber.listeners.TestListener - Test Context Finished: FirefoxTests

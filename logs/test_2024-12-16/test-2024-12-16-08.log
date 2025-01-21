@@ -1,0 +1,218 @@
+2024-12-16T08:25:58,061 [main] INFO  main:71 - [Thread-1] Clearing Allure results at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.14\allure-results
+2024-12-16T08:25:58,067 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 306aa698-0f47-4a8f-aef0-5baefdc0b4d6-result.json
+2024-12-16T08:25:58,068 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 973388ec-964b-44e9-a84d-af423e7914a8-container.json
+2024-12-16T08:25:58,068 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: b7d210d3-f263-4a59-8963-91798d5ee5ad-container.json
+2024-12-16T08:25:58,069 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: bb7bbd4d-97fa-4644-a114-c390ab793ce7-container.json
+2024-12-16T08:25:58,069 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: bfff1f0d-f226-4521-ada3-a52997232e03-container.json
+2024-12-16T08:25:58,077 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: c650f619-b67f-4400-afe1-8b743423dda4-container.json
+2024-12-16T08:25:58,077 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: c92ae7a9-14c8-43c5-ada2-b8d1d10c6e79-container.json
+2024-12-16T08:25:58,095 [TestNG-tests-1] INFO  TestListener:73 - Test Context Started: ChromeTests
+2024-12-16T08:25:58,095 [TestNG-tests-3] INFO  TestListener:73 - Test Context Started: EdgeTests
+2024-12-16T08:25:58,095 [TestNG-tests-2] INFO  TestListener:73 - Test Context Started: FirefoxTests
+2024-12-16T08:25:58,096 [TestNG-tests-1] INFO  TestListener:78 - Running tests with Browser: chrome and Environment: dev
+2024-12-16T08:25:58,096 [TestNG-tests-2] INFO  TestListener:78 - Running tests with Browser: firefox and Environment: dev
+2024-12-16T08:25:58,096 [TestNG-tests-3] INFO  TestListener:78 - Running tests with Browser: edge and Environment: dev
+2024-12-16T08:25:59,393 [TestNG-tests-1] INFO  TestListener:87 - WebDriver initialized: chrome
+2024-12-16T08:25:59,756 [TestNG-tests-1] INFO  TestNG-tests-1:71 - [Thread-29] Setting up tests. Browser: chrome, Environment: dev
+2024-12-16T08:26:00,479 [TestNG-tests-2] INFO  TestListener:87 - WebDriver initialized: firefox
+2024-12-16T08:26:00,492 [TestNG-tests-1] INFO  LogUtil:24 - Logger initialized with level: INFO
+2024-12-16T08:26:00,501 [TestNG-tests-2] INFO  TestNG-tests-2:71 - [Thread-30] Setting up tests. Browser: firefox, Environment: dev
+2024-12-16T08:26:00,542 [TestNG-tests-1] INFO  TestListener:25 - Test Started: runScenario
+2024-12-16T08:26:00,641 [TestNG-tests-3] INFO  TestListener:87 - WebDriver initialized: edge
+2024-12-16T08:26:00,658 [TestNG-tests-3] INFO  TestNG-tests-3:71 - [Thread-31] Setting up tests. Browser: edge, Environment: dev
+2024-12-16T08:26:00,975 [TestNG-tests-1] ERROR TestListener:37 - Test Failed: runScenario
+2024-12-16T08:26:00,979 [TestNG-tests-1] ERROR TestListener:37 - Test Failed: runScenario
+2024-12-16T08:26:02,100 [TestNG-tests-1] INFO  TestListener:94 - Test Context Finished: ChromeTests
+2024-12-16T08:26:02,100 [TestNG-tests-1] INFO  TestListener:98 - WebDriver instance quit for thread.
+2024-12-16T08:26:02,939 [TestNG-tests-2] INFO  LogUtil:24 - Logger initialized with level: INFO
+2024-12-16T08:26:02,941 [TestNG-tests-2] INFO  TestListener:25 - Test Started: runScenario
+2024-12-16T08:26:02,995 [TestNG-tests-3] INFO  LogUtil:24 - Logger initialized with level: INFO
+2024-12-16T08:26:02,997 [TestNG-tests-3] INFO  TestListener:25 - Test Started: runScenario
+2024-12-16T08:26:04,013 [TestNG-tests-2] ERROR TestListener:37 - Test Failed: runScenario
+2024-12-16T08:26:04,014 [TestNG-tests-2] ERROR TestListener:37 - Test Failed: runScenario
+2024-12-16T08:26:04,517 [TestNG-tests-3] ERROR TestListener:37 - Test Failed: runScenario
+2024-12-16T08:26:04,518 [TestNG-tests-3] ERROR TestListener:37 - Test Failed: runScenario
+2024-12-16T08:26:04,675 [TestNG-tests-2] INFO  TestListener:94 - Test Context Finished: FirefoxTests
+2024-12-16T08:26:04,675 [TestNG-tests-2] INFO  TestListener:98 - WebDriver instance quit for thread.
+2024-12-16T08:26:05,112 [TestNG-tests-3] INFO  TestListener:94 - Test Context Finished: EdgeTests
+2024-12-16T08:26:05,112 [TestNG-tests-3] INFO  TestListener:98 - WebDriver instance quit for thread.
+2024-12-16T08:28:45,683 [main] INFO  main:71 - [Thread-1] Clearing Allure results at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.14\allure-results
+2024-12-16T08:28:45,687 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 16e92a28-9664-4eb4-bf4a-e5f576972203-result.json
+2024-12-16T08:28:45,687 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 4dd34500-6e86-4f00-8010-71cfa1c38ac5-container.json
+2024-12-16T08:28:45,688 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 633eb4e9-8bd5-4161-bafd-e6fa14c313ad-container.json
+2024-12-16T08:28:45,688 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 688aa2df-77d3-416a-b505-742ea767e4dd-container.json
+2024-12-16T08:28:45,689 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 70518fba-57a1-479c-b8ed-512104b4aec4-container.json
+2024-12-16T08:28:45,689 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 80ac4b59-d799-4933-a748-b3e17fd9f4c0-container.json
+2024-12-16T08:28:45,690 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 8163c287-b07c-45b2-ad70-e1ea33df9a53-container.json
+2024-12-16T08:28:45,690 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 8ca154fe-a145-4adc-9afc-d715facb58fb-container.json
+2024-12-16T08:28:45,691 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 92881590-9dc0-4afb-9931-fa2be0080355-container.json
+2024-12-16T08:28:45,691 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 97cc3749-1bce-4f2e-b139-37d25da8b600-container.json
+2024-12-16T08:28:45,692 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 98d084d4-3288-48aa-baa9-a9fe8f36d1da-container.json
+2024-12-16T08:28:45,693 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: bb6e32d3-b855-48b0-a866-1507424c988f-container.json
+2024-12-16T08:28:45,694 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: c1def8ff-5efc-4037-ad85-0679b0a7a89b-container.json
+2024-12-16T08:28:45,694 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: d7324c79-6b19-4275-bf43-683c4c570510-container.json
+2024-12-16T08:28:45,695 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: de1039b9-e8f7-406d-b423-cbdc651c03ee-container.json
+2024-12-16T08:28:45,695 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: dfdf6ef8-27e9-4019-84d6-041d3053ee93-result.json
+2024-12-16T08:28:45,696 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: eaf0e312-2109-4976-81f0-38ed2b1eb67c-result.json
+2024-12-16T08:28:45,696 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: f65acd3c-7093-45d2-8918-bbb1f91679ba-container.json
+2024-12-16T08:28:45,697 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: ff77af51-541c-43d6-9f17-0c00e79276df-container.json
+2024-12-16T08:28:45,720 [TestNG-tests-1] INFO  TestListener:73 - Test Context Started: ChromeTests
+2024-12-16T08:28:45,720 [TestNG-tests-3] INFO  TestListener:73 - Test Context Started: EdgeTests
+2024-12-16T08:28:45,720 [TestNG-tests-2] INFO  TestListener:73 - Test Context Started: FirefoxTests
+2024-12-16T08:28:45,721 [TestNG-tests-1] INFO  TestListener:78 - Running tests with Browser: chrome and Environment: dev
+2024-12-16T08:28:45,721 [TestNG-tests-3] INFO  TestListener:78 - Running tests with Browser: edge and Environment: dev
+2024-12-16T08:28:45,721 [TestNG-tests-2] INFO  TestListener:78 - Running tests with Browser: firefox and Environment: dev
+2024-12-16T08:28:46,990 [TestNG-tests-1] INFO  TestListener:87 - WebDriver initialized: chrome
+2024-12-16T08:28:47,380 [TestNG-tests-1] INFO  TestNG-tests-1:71 - [Thread-29] Setting up tests. Browser: chrome, Environment: dev
+2024-12-16T08:28:47,825 [TestNG-tests-2] INFO  TestListener:87 - WebDriver initialized: firefox
+2024-12-16T08:28:47,847 [TestNG-tests-2] INFO  TestNG-tests-2:71 - [Thread-30] Setting up tests. Browser: firefox, Environment: dev
+2024-12-16T08:28:48,047 [TestNG-tests-1] INFO  LogUtil:24 - Logger initialized with level: INFO
+2024-12-16T08:28:48,089 [TestNG-tests-1] INFO  TestListener:25 - Test Started: runScenario
+2024-12-16T08:28:48,545 [TestNG-tests-3] INFO  TestListener:87 - WebDriver initialized: edge
+2024-12-16T08:28:48,562 [TestNG-tests-3] INFO  TestNG-tests-3:71 - [Thread-31] Setting up tests. Browser: edge, Environment: dev
+2024-12-16T08:28:50,149 [TestNG-tests-2] INFO  LogUtil:24 - Logger initialized with level: INFO
+2024-12-16T08:28:50,150 [TestNG-tests-2] INFO  TestListener:25 - Test Started: runScenario
+2024-12-16T08:28:50,871 [TestNG-tests-3] INFO  LogUtil:24 - Logger initialized with level: INFO
+2024-12-16T08:28:50,873 [TestNG-tests-3] INFO  TestListener:25 - Test Started: runScenario
+2024-12-16T08:28:52,057 [TestNG-tests-1] INFO  TestNG-tests-1:31 - [Thread-29] Entered username: 
+2024-12-16T08:28:52,109 [TestNG-tests-1] INFO  TestNG-tests-1:31 - [Thread-29] Entered password: 
+2024-12-16T08:28:52,185 [TestNG-tests-1] INFO  TestNG-tests-1:31 - [Thread-29] Clicked login button
+2024-12-16T08:28:52,580 [TestNG-tests-1] ERROR TestListener:37 - Test Failed: runScenario
+2024-12-16T08:28:52,583 [TestNG-tests-1] ERROR TestListener:37 - Test Failed: runScenario
+2024-12-16T08:28:53,931 [TestNG-tests-1] INFO  TestListener:94 - Test Context Finished: ChromeTests
+2024-12-16T08:28:53,931 [TestNG-tests-1] INFO  TestListener:98 - WebDriver instance quit for thread.
+2024-12-16T08:28:54,628 [TestNG-tests-2] INFO  TestNG-tests-2:31 - [Thread-30] Entered username: 
+2024-12-16T08:28:54,655 [TestNG-tests-2] INFO  TestNG-tests-2:31 - [Thread-30] Entered password: 
+2024-12-16T08:28:54,879 [TestNG-tests-3] INFO  TestNG-tests-3:31 - [Thread-31] Entered username: 
+2024-12-16T08:28:54,918 [TestNG-tests-2] INFO  TestNG-tests-2:31 - [Thread-30] Clicked login button
+2024-12-16T08:28:54,931 [TestNG-tests-3] INFO  TestNG-tests-3:31 - [Thread-31] Entered password: 
+2024-12-16T08:28:54,985 [TestNG-tests-3] INFO  TestNG-tests-3:31 - [Thread-31] Clicked login button
+2024-12-16T08:28:55,621 [TestNG-tests-2] ERROR TestListener:37 - Test Failed: runScenario
+2024-12-16T08:28:55,621 [TestNG-tests-2] ERROR TestListener:37 - Test Failed: runScenario
+2024-12-16T08:28:56,302 [TestNG-tests-2] INFO  TestListener:94 - Test Context Finished: FirefoxTests
+2024-12-16T08:28:56,302 [TestNG-tests-2] INFO  TestListener:98 - WebDriver instance quit for thread.
+2024-12-16T08:28:56,496 [TestNG-tests-3] ERROR TestListener:37 - Test Failed: runScenario
+2024-12-16T08:28:56,497 [TestNG-tests-3] ERROR TestListener:37 - Test Failed: runScenario
+2024-12-16T08:28:57,173 [TestNG-tests-3] INFO  TestListener:94 - Test Context Finished: EdgeTests
+2024-12-16T08:28:57,173 [TestNG-tests-3] INFO  TestListener:98 - WebDriver instance quit for thread.
+2024-12-16T08:37:55,259 [main] INFO  main:71 - [Thread-1] Clearing Allure results at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.14\allure-results
+2024-12-16T08:37:55,261 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 007a995c-73f9-49e3-969a-ba23c9816d00-container.json
+2024-12-16T08:37:55,262 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 15071dbb-f3e6-4e68-b7dd-b687fe8ead7e-result.json
+2024-12-16T08:37:55,262 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 42e44432-49dc-42b8-9aa4-1a42dbff7d1b-container.json
+2024-12-16T08:37:55,263 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 434de802-4175-4ac7-b7e8-a76d47e715bb-container.json
+2024-12-16T08:37:55,263 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 4f4d466a-edf9-43cd-9991-2d28de0d4c23-container.json
+2024-12-16T08:37:55,264 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 52b1b6b0-21ff-4c61-a343-1dc6fc284caf-result.json
+2024-12-16T08:37:55,265 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 5434bccb-9e9a-436a-af00-488220495d90-container.json
+2024-12-16T08:37:55,265 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 80a41498-3092-46f9-b6ff-7b8e68d75dc4-result.json
+2024-12-16T08:37:55,266 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 873b835d-3365-4863-be1f-aca6a4452c9d-container.json
+2024-12-16T08:37:55,266 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 8db10860-e6dc-4f45-9af6-65ad29ceadfb-container.json
+2024-12-16T08:37:55,267 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 8f320961-2254-4ba2-9ac8-e5d263885f40-container.json
+2024-12-16T08:37:55,268 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 97573b24-ae60-4438-ab46-0ab48343a585-container.json
+2024-12-16T08:37:55,268 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: bb84958e-2d4a-4197-84fd-927e6e9d8163-container.json
+2024-12-16T08:37:55,269 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: bfda8a0a-0ea0-426b-ba08-ea6f103e52af-container.json
+2024-12-16T08:37:55,270 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: c8fa62fa-3266-409e-9fac-c5f5913413cc-container.json
+2024-12-16T08:37:55,270 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: c9d88f04-8495-46af-b49c-9770bd565e75-container.json
+2024-12-16T08:37:55,271 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: cd29dc6d-885c-44aa-8eda-8ca07990f864-container.json
+2024-12-16T08:37:55,271 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: f41b959f-a1ea-434f-864c-5b51a8d29a57-container.json
+2024-12-16T08:37:55,272 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: f5556ebc-3096-435d-a74a-dfa90f6e25c7-container.json
+2024-12-16T08:37:55,291 [TestNG-tests-1] INFO  TestListener:73 - Test Context Started: ChromeTests
+2024-12-16T08:37:55,291 [TestNG-tests-2] INFO  TestListener:73 - Test Context Started: FirefoxTests
+2024-12-16T08:37:55,291 [TestNG-tests-3] INFO  TestListener:73 - Test Context Started: EdgeTests
+2024-12-16T08:37:55,291 [TestNG-tests-1] INFO  TestListener:78 - Running tests with Browser: chrome and Environment: dev
+2024-12-16T08:37:55,291 [TestNG-tests-2] INFO  TestListener:78 - Running tests with Browser: firefox and Environment: dev
+2024-12-16T08:37:55,292 [TestNG-tests-3] INFO  TestListener:78 - Running tests with Browser: edge and Environment: dev
+2024-12-16T08:37:56,558 [TestNG-tests-1] INFO  TestListener:87 - WebDriver initialized: chrome
+2024-12-16T08:37:56,957 [TestNG-tests-1] INFO  TestNG-tests-1:71 - [Thread-29] Setting up tests. Browser: chrome, Environment: dev
+2024-12-16T08:37:57,408 [TestNG-tests-2] INFO  TestListener:87 - WebDriver initialized: firefox
+2024-12-16T08:37:57,431 [TestNG-tests-2] INFO  TestNG-tests-2:71 - [Thread-30] Setting up tests. Browser: firefox, Environment: dev
+2024-12-16T08:37:57,627 [TestNG-tests-1] INFO  LogUtil:24 - Logger initialized with level: INFO
+2024-12-16T08:37:57,675 [TestNG-tests-1] INFO  TestListener:25 - Test Started: runScenario
+2024-12-16T08:37:58,165 [TestNG-tests-3] INFO  TestListener:87 - WebDriver initialized: edge
+2024-12-16T08:37:58,184 [TestNG-tests-3] INFO  TestNG-tests-3:71 - [Thread-31] Setting up tests. Browser: edge, Environment: dev
+2024-12-16T08:37:59,704 [TestNG-tests-2] INFO  LogUtil:24 - Logger initialized with level: INFO
+2024-12-16T08:37:59,705 [TestNG-tests-2] INFO  TestListener:25 - Test Started: runScenario
+2024-12-16T08:38:00,485 [TestNG-tests-3] INFO  LogUtil:24 - Logger initialized with level: INFO
+2024-12-16T08:38:00,486 [TestNG-tests-3] INFO  TestListener:25 - Test Started: runScenario
+2024-12-16T08:38:01,953 [TestNG-tests-1] INFO  TestNG-tests-1:31 - [Thread-29] Entered username: 
+2024-12-16T08:38:02,016 [TestNG-tests-1] INFO  TestNG-tests-1:31 - [Thread-29] Entered password: 
+2024-12-16T08:38:02,098 [TestNG-tests-1] INFO  TestNG-tests-1:31 - [Thread-29] Clicked login button
+2024-12-16T08:38:02,651 [TestNG-tests-1] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-16T08:38:02,652 [TestNG-tests-1] INFO  TestNG-tests-1:71 - [Thread-29] WebDriver instance closed.
+2024-12-16T08:38:03,656 [TestNG-tests-2] INFO  TestNG-tests-2:31 - [Thread-30] Entered username: 
+2024-12-16T08:38:03,694 [TestNG-tests-2] INFO  TestNG-tests-2:31 - [Thread-30] Entered password: 
+2024-12-16T08:38:03,946 [TestNG-tests-2] INFO  TestNG-tests-2:31 - [Thread-30] Clicked login button
+2024-12-16T08:38:03,973 [TestNG-tests-1] INFO  TestListener:94 - Test Context Finished: ChromeTests
+2024-12-16T08:38:03,974 [TestNG-tests-1] INFO  TestListener:98 - WebDriver instance quit for thread.
+2024-12-16T08:38:04,288 [TestNG-tests-3] INFO  TestNG-tests-3:31 - [Thread-31] Entered username: 
+2024-12-16T08:38:04,340 [TestNG-tests-3] INFO  TestNG-tests-3:31 - [Thread-31] Entered password: 
+2024-12-16T08:38:04,389 [TestNG-tests-3] INFO  TestNG-tests-3:31 - [Thread-31] Clicked login button
+2024-12-16T08:38:04,722 [TestNG-tests-2] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-16T08:38:04,723 [TestNG-tests-2] INFO  TestNG-tests-2:71 - [Thread-30] WebDriver instance closed.
+2024-12-16T08:38:05,438 [TestNG-tests-2] INFO  TestListener:94 - Test Context Finished: FirefoxTests
+2024-12-16T08:38:05,439 [TestNG-tests-2] INFO  TestListener:98 - WebDriver instance quit for thread.
+2024-12-16T08:38:06,056 [TestNG-tests-3] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-16T08:38:06,056 [TestNG-tests-3] INFO  TestNG-tests-3:71 - [Thread-31] WebDriver instance closed.
+2024-12-16T08:38:06,773 [TestNG-tests-3] INFO  TestListener:94 - Test Context Finished: EdgeTests
+2024-12-16T08:38:06,773 [TestNG-tests-3] INFO  TestListener:98 - WebDriver instance quit for thread.
+2024-12-16T08:59:09,429 [main] INFO  main:71 - [Thread-1] Clearing Allure results at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.14\allure-results
+2024-12-16T08:59:09,432 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 0378df1e-e7dc-4599-b6a3-9580aae450f8-container.json
+2024-12-16T08:59:09,433 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 09fbe3f6-bd8e-4aad-add3-9c62fa109cba-container.json
+2024-12-16T08:59:09,433 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 1f0a7978-4153-47d1-b854-54dfdfddc49b-container.json
+2024-12-16T08:59:09,434 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 1f75e9ab-f8f9-4d1b-9f98-33f9e984aed1-result.json
+2024-12-16T08:59:09,434 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 3bcac284-4420-4a90-a4d8-123d5f8b3cb1-container.json
+2024-12-16T08:59:09,435 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 5414ac54-f6c2-4ef4-ae62-cdcf2d162a7b-container.json
+2024-12-16T08:59:09,435 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 6a3c96fb-6ace-404f-91e1-961f56c86be6-container.json
+2024-12-16T08:59:09,436 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 6ed212e6-bc46-4f04-92a5-5c81dacea652-container.json
+2024-12-16T08:59:09,436 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 7edf24d8-51fb-463b-99fb-bb3a0afec1a6-container.json
+2024-12-16T08:59:09,437 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 94dd2e80-06e6-488b-8ed5-df8eb4c09b34-container.json
+2024-12-16T08:59:09,437 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 978d7b1a-f517-4163-9256-75cb934a7663-container.json
+2024-12-16T08:59:09,438 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: b1dbb147-d759-489b-863d-8fcb74f229c8-container.json
+2024-12-16T08:59:09,439 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: b324d616-7fa2-4579-983a-8f5fe1dd3433-result.json
+2024-12-16T08:59:09,440 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: b3c718d9-728f-4464-aa88-027f4e05d23f-container.json
+2024-12-16T08:59:09,440 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: b82b6ea3-13ea-48ce-9b03-56c3a36863df-container.json
+2024-12-16T08:59:09,441 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: bf29dde9-f179-45ab-8767-033b1d94be85-container.json
+2024-12-16T08:59:09,441 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: bf57d4ce-af55-4db9-aeb2-47df38c7f214-container.json
+2024-12-16T08:59:09,441 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: c064b21c-9677-4047-b8ed-302dbf17beb9-result.json
+2024-12-16T08:59:09,442 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: c170dba6-dd82-4824-b6cb-216a1ba2991a-container.json
+2024-12-16T08:59:09,443 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: c2505696-68d9-412b-b958-b06549cb3dd6-container.json
+2024-12-16T08:59:09,443 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: c71dcf1b-d9e3-4d6f-9fcb-0910dce6ca86-container.json
+2024-12-16T08:59:09,443 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: f719668f-d643-491c-a484-f0028a32ba12-container.json
+2024-12-16T08:59:09,464 [TestNG-tests-1] INFO  TestListener:73 - Test Context Started: ChromeTests
+2024-12-16T08:59:09,464 [TestNG-tests-3] INFO  TestListener:73 - Test Context Started: EdgeTests
+2024-12-16T08:59:09,464 [TestNG-tests-2] INFO  TestListener:73 - Test Context Started: FirefoxTests
+2024-12-16T08:59:09,465 [TestNG-tests-1] INFO  TestListener:78 - Running tests with Browser: chrome and Environment: dev
+2024-12-16T08:59:09,465 [TestNG-tests-3] INFO  TestListener:78 - Running tests with Browser: edge and Environment: dev
+2024-12-16T08:59:09,465 [TestNG-tests-2] INFO  TestListener:78 - Running tests with Browser: firefox and Environment: dev
+2024-12-16T08:59:10,987 [TestNG-tests-1] INFO  TestListener:87 - WebDriver initialized: chrome
+2024-12-16T08:59:11,384 [TestNG-tests-1] INFO  TestNG-tests-1:71 - [Thread-29] Setting up tests. Browser: chrome, Environment: dev
+2024-12-16T08:59:11,572 [TestNG-tests-2] INFO  TestListener:87 - WebDriver initialized: firefox
+2024-12-16T08:59:11,593 [TestNG-tests-2] INFO  TestNG-tests-2:71 - [Thread-30] Setting up tests. Browser: firefox, Environment: dev
+2024-12-16T08:59:12,059 [TestNG-tests-1] INFO  LogUtil:24 - Logger initialized with level: INFO
+2024-12-16T08:59:12,119 [TestNG-tests-1] INFO  TestListener:25 - Test Started: runScenario
+2024-12-16T08:59:12,363 [TestNG-tests-3] INFO  TestListener:87 - WebDriver initialized: edge
+2024-12-16T08:59:12,379 [TestNG-tests-3] INFO  TestNG-tests-3:71 - [Thread-31] Setting up tests. Browser: edge, Environment: dev
+2024-12-16T08:59:13,910 [TestNG-tests-2] INFO  LogUtil:24 - Logger initialized with level: INFO
+2024-12-16T08:59:13,912 [TestNG-tests-2] INFO  TestListener:25 - Test Started: runScenario
+2024-12-16T08:59:14,633 [TestNG-tests-3] INFO  LogUtil:24 - Logger initialized with level: INFO
+2024-12-16T08:59:14,634 [TestNG-tests-3] INFO  TestListener:25 - Test Started: runScenario
+2024-12-16T08:59:16,403 [TestNG-tests-1] INFO  TestNG-tests-1:31 - [Thread-29] Entered username: 
+2024-12-16T08:59:16,458 [TestNG-tests-1] INFO  TestNG-tests-1:31 - [Thread-29] Entered password: 
+2024-12-16T08:59:16,532 [TestNG-tests-1] INFO  TestNG-tests-1:31 - [Thread-29] Clicked login button
+2024-12-16T08:59:17,133 [TestNG-tests-1] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-16T08:59:17,133 [TestNG-tests-1] INFO  TestNG-tests-1:71 - [Thread-29] WebDriver instance closed.
+2024-12-16T08:59:17,895 [TestNG-tests-2] INFO  TestNG-tests-2:31 - [Thread-30] Entered username: 
+2024-12-16T08:59:17,917 [TestNG-tests-2] INFO  TestNG-tests-2:31 - [Thread-30] Entered password: 
+2024-12-16T08:59:18,179 [TestNG-tests-2] INFO  TestNG-tests-2:31 - [Thread-30] Clicked login button
+2024-12-16T08:59:18,530 [TestNG-tests-1] INFO  TestListener:94 - Test Context Finished: ChromeTests
+2024-12-16T08:59:18,531 [TestNG-tests-1] INFO  TestListener:98 - WebDriver instance quit for thread.
+2024-12-16T08:59:18,601 [TestNG-tests-3] INFO  TestNG-tests-3:31 - [Thread-31] Entered username: 
+2024-12-16T08:59:18,653 [TestNG-tests-3] INFO  TestNG-tests-3:31 - [Thread-31] Entered password: 
+2024-12-16T08:59:18,722 [TestNG-tests-3] INFO  TestNG-tests-3:31 - [Thread-31] Clicked login button
+2024-12-16T08:59:19,047 [TestNG-tests-2] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-16T08:59:19,047 [TestNG-tests-2] INFO  TestNG-tests-2:71 - [Thread-30] WebDriver instance closed.
+2024-12-16T08:59:19,775 [TestNG-tests-2] INFO  TestListener:94 - Test Context Finished: FirefoxTests
+2024-12-16T08:59:19,776 [TestNG-tests-2] INFO  TestListener:98 - WebDriver instance quit for thread.
+2024-12-16T08:59:20,402 [TestNG-tests-3] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-16T08:59:20,403 [TestNG-tests-3] INFO  TestNG-tests-3:71 - [Thread-31] WebDriver instance closed.
+2024-12-16T08:59:21,110 [TestNG-tests-3] INFO  TestListener:94 - Test Context Finished: EdgeTests
+2024-12-16T08:59:21,111 [TestNG-tests-3] INFO  TestListener:98 - WebDriver instance quit for thread.

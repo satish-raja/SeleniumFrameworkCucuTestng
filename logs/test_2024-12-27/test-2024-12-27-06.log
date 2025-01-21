@@ -1,0 +1,232 @@
+2024-12-27T06:31:13,508 [main] INFO  main:71 - [Thread-1] Clearing Allure results at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.17\allure-results
+2024-12-27T06:31:13,528 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 0f932f42-44b3-47fe-9085-a936fe180855-attachment.txt
+2024-12-27T06:31:13,529 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 0ff00b89-694d-4100-83d9-436ef1da8916-attachment.txt
+2024-12-27T06:31:13,530 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 166d89bb-d2a8-48be-a517-e6a2afcae0f0-container.json
+2024-12-27T06:31:13,531 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 1a248fca-5779-48d4-86ec-bc4adb02b6bf-attachment.txt
+2024-12-27T06:31:13,531 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 1b3b1df7-21e3-4f61-8793-5d433c991c18-container.json
+2024-12-27T06:31:13,532 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 1bcb4566-6adc-4f69-907a-e87c6ec6bb29-container.json
+2024-12-27T06:31:13,532 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 22d72db7-2bc9-4ea9-8a54-344c5e3ee253-container.json
+2024-12-27T06:31:13,533 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 241503b5-0d2f-4a2e-a128-b484748de160-container.json
+2024-12-27T06:31:13,533 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 4576e6c8-56e7-47df-af25-03c7aff24ea1-container.json
+2024-12-27T06:31:13,534 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 45f6fba5-bc13-4cc2-b91e-6006cb68c44c-container.json
+2024-12-27T06:31:13,535 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 4b034a5b-de8f-4a2f-a47b-4d3608b04202-attachment.txt
+2024-12-27T06:31:13,535 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 4e4d4db0-2d4d-4d22-b207-9aa2b91e9e33-container.json
+2024-12-27T06:31:13,536 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 6b6ffeed-313b-4e3d-a660-7c2665fe5fda-container.json
+2024-12-27T06:31:13,537 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 6d2dda7f-958d-48f5-a064-777dddb8bed0-container.json
+2024-12-27T06:31:13,537 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 720e9ab2-5660-4b8a-bf34-a06a5027fa06-result.json
+2024-12-27T06:31:13,538 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 7a2fb734-5b1b-4228-ae3f-e9efce7df511-container.json
+2024-12-27T06:31:13,538 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 86a02e2b-f7d4-4274-8a8b-b2eeea9778ff-attachment.txt
+2024-12-27T06:31:13,539 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 8b250c28-f1ab-4c82-94cd-8fe3671044a2-attachment.txt
+2024-12-27T06:31:13,539 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 8cbf6483-b9e5-49f9-a6b5-0cdc6850a116-container.json
+2024-12-27T06:31:13,540 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 9855fc74-2c17-41f5-ad63-213fb658d5dc-result.json
+2024-12-27T06:31:13,540 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: aef16334-222e-43e0-81c4-2dc33aa95d0d-container.json
+2024-12-27T06:31:13,541 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: cc9235be-d9e7-4bdb-9714-cc74fc27a46a-result.json
+2024-12-27T06:31:13,541 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: e69f783f-1f1a-4285-944c-3ec86ef14976-container.json
+2024-12-27T06:31:13,542 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: ed9e6260-75e7-4f47-9704-3c71cba923e2-container.json
+2024-12-27T06:31:13,550 [main] INFO  TestListener:73 - Test Context Started: Login Page Tests
+2024-12-27T06:31:13,551 [main] INFO  TestListener:78 - Running tests with Browser: chrome and Environment: dev
+2024-12-27T06:31:15,199 [main] INFO  TestListener:87 - WebDriver initialized: chrome
+2024-12-27T06:31:15,562 [main] INFO  main:71 - [Thread-1] Setting up tests. Browser: chrome, Environment: dev
+2024-12-27T06:31:16,197 [main] INFO  LogUtil:24 - Logger initialized with level: INFO
+2024-12-27T06:31:16,234 [main] INFO  TestListener:25 - Test Started: runScenario
+2024-12-27T06:31:16,326 [main] INFO  ConfigManager:60 - Loaded configuration file: src/test/resources/config/config-dev.properties
+2024-12-27T06:31:16,329 [main] INFO  WebDriverHooks:54 - Using existing WebDriver instance.
+2024-12-27T06:31:19,740 [main] INFO  WebDriverHooks:67 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-12-27T06:31:21,687 [main] INFO  main:31 - [Thread-1] Entered username: 
+2024-12-27T06:31:21,732 [main] INFO  main:31 - [Thread-1] Entered password: 
+2024-12-27T06:31:21,794 [main] INFO  main:31 - [Thread-1] Clicked login button
+2024-12-27T06:31:22,188 [main] INFO  WebDriverHooks:82 - Browser closed and WebDriver instance cleaned.
+2024-12-27T06:31:22,205 [main] ERROR TestListener:37 - Test Failed: runScenario
+2024-12-27T06:31:22,207 [main] ERROR TestListener:37 - Test Failed: runScenario
+2024-12-27T06:31:23,433 [main] INFO  TestListener:94 - Test Context Finished: Login Page Tests
+2024-12-27T06:31:23,434 [main] INFO  TestListener:98 - WebDriver instance quit for thread.
+2024-12-27T06:32:31,466 [main] INFO  main:71 - [Thread-1] Clearing Allure results at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.17\allure-results
+2024-12-27T06:32:31,468 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 03a1bbff-7baa-4776-8177-ee87227677b4-container.json
+2024-12-27T06:32:31,469 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 1cefc6dd-61b8-4748-9b60-9fdb7aef7eeb-container.json
+2024-12-27T06:32:31,469 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 1d38a0d0-ce76-4ca7-a889-821303ac84ee-container.json
+2024-12-27T06:32:31,470 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 21bc98e5-5f66-4ffb-aab7-d2e8b28f4344-attachment.txt
+2024-12-27T06:32:31,471 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 2752fa55-619f-4b97-8423-6cd0a9139f4e-attachment.txt
+2024-12-27T06:32:31,471 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 693b3578-3845-4a71-80a5-da47e7ae4dcb-container.json
+2024-12-27T06:32:31,472 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 6da13171-1632-4776-8a5e-69fa4869ddac-result.json
+2024-12-27T06:32:31,473 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 95d471b0-76bd-451c-af41-c5c99785a3f2-container.json
+2024-12-27T06:32:31,473 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: b9f98007-6dd0-4d71-bd96-ab19e1a1c7b0-container.json
+2024-12-27T06:32:31,474 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: c9fba81d-2e57-42e0-9fae-97c285e36f33-container.json
+2024-12-27T06:32:31,474 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: facae298-2f23-41de-95ca-a90efd5dae9b-container.json
+2024-12-27T06:32:31,483 [main] INFO  TestListener:73 - Test Context Started: Login Page Tests
+2024-12-27T06:32:31,483 [main] INFO  TestListener:78 - Running tests with Browser: chrome and Environment: dev
+2024-12-27T06:32:32,612 [main] INFO  TestListener:87 - WebDriver initialized: chrome
+2024-12-27T06:32:32,952 [main] INFO  main:71 - [Thread-1] Setting up tests. Browser: chrome, Environment: dev
+2024-12-27T06:32:33,577 [main] INFO  LogUtil:24 - Logger initialized with level: INFO
+2024-12-27T06:32:33,621 [main] INFO  TestListener:25 - Test Started: runScenario
+2024-12-27T06:32:37,158 [main] INFO  main:31 - [Thread-1] Entered username: 
+2024-12-27T06:32:37,205 [main] INFO  main:31 - [Thread-1] Entered password: 
+2024-12-27T06:32:37,268 [main] INFO  main:31 - [Thread-1] Clicked login button
+2024-12-27T06:32:37,826 [main] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-27T06:32:37,828 [main] INFO  main:71 - [Thread-1] WebDriver instance closed.
+2024-12-27T06:32:37,830 [main] INFO  main:71 - [Thread-1] Setting up tests. Browser: chrome, Environment: dev
+2024-12-27T06:32:38,456 [main] INFO  LogUtil:24 - Logger initialized with level: INFO
+2024-12-27T06:32:38,457 [main] INFO  TestListener:25 - Test Started: runScenario
+2024-12-27T06:32:42,256 [main] INFO  main:31 - [Thread-1] Entered username: Admin
+2024-12-27T06:32:42,313 [main] INFO  main:31 - [Thread-1] Entered password: admin
+2024-12-27T06:32:43,539 [main] INFO  main:31 - [Thread-1] Clicked login button
+2024-12-27T06:32:44,533 [main] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-27T06:32:44,534 [main] INFO  main:71 - [Thread-1] WebDriver instance closed.
+2024-12-27T06:32:44,536 [main] INFO  main:71 - [Thread-1] Setting up tests. Browser: chrome, Environment: dev
+2024-12-27T06:32:45,168 [main] INFO  LogUtil:24 - Logger initialized with level: INFO
+2024-12-27T06:32:45,169 [main] INFO  TestListener:25 - Test Started: runScenario
+2024-12-27T06:32:48,632 [main] INFO  main:31 - [Thread-1] Entered username: Adminn
+2024-12-27T06:32:48,689 [main] INFO  main:31 - [Thread-1] Entered password: admin123
+2024-12-27T06:32:48,748 [main] INFO  main:31 - [Thread-1] Clicked login button
+2024-12-27T06:32:50,567 [main] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-27T06:32:50,568 [main] INFO  main:71 - [Thread-1] WebDriver instance closed.
+2024-12-27T06:32:50,569 [main] INFO  main:71 - [Thread-1] Setting up tests. Browser: chrome, Environment: dev
+2024-12-27T06:32:51,161 [main] INFO  LogUtil:24 - Logger initialized with level: INFO
+2024-12-27T06:32:51,162 [main] INFO  TestListener:25 - Test Started: runScenario
+2024-12-27T06:32:54,747 [main] INFO  main:31 - [Thread-1] Entered username: Adminn
+2024-12-27T06:32:54,799 [main] INFO  main:31 - [Thread-1] Entered password: admin
+2024-12-27T06:32:54,861 [main] INFO  main:31 - [Thread-1] Clicked login button
+2024-12-27T06:32:56,760 [main] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-27T06:32:56,761 [main] INFO  main:71 - [Thread-1] WebDriver instance closed.
+2024-12-27T06:32:56,765 [main] INFO  main:71 - [Thread-1] Setting up tests. Browser: chrome, Environment: dev
+2024-12-27T06:32:57,403 [main] INFO  LogUtil:24 - Logger initialized with level: INFO
+2024-12-27T06:32:57,404 [main] INFO  TestListener:25 - Test Started: runScenario
+2024-12-27T06:33:01,490 [main] INFO  main:31 - [Thread-1] Clicked forgot password link
+2024-12-27T06:33:02,265 [main] INFO  main:31 - [Thread-1] Entered username: Admin
+2024-12-27T06:33:02,325 [main] INFO  main:31 - [Thread-1] Clicked login button
+2024-12-27T06:33:04,227 [main] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-27T06:33:04,228 [main] INFO  main:71 - [Thread-1] WebDriver instance closed.
+2024-12-27T06:33:04,230 [main] INFO  main:71 - [Thread-1] Setting up tests. Browser: chrome, Environment: dev
+2024-12-27T06:33:04,844 [main] INFO  LogUtil:24 - Logger initialized with level: INFO
+2024-12-27T06:33:04,845 [main] INFO  TestListener:25 - Test Started: runScenario
+2024-12-27T06:33:08,409 [main] INFO  main:31 - [Thread-1] Entered username: Admin
+2024-12-27T06:33:08,462 [main] INFO  main:31 - [Thread-1] Entered password: admin123
+2024-12-27T06:33:09,902 [main] INFO  main:31 - [Thread-1] Clicked login button
+2024-12-27T06:33:12,280 [main] INFO  main:31 - [Thread-1] Clicked logout link
+2024-12-27T06:33:13,261 [main] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-27T06:33:13,262 [main] INFO  main:71 - [Thread-1] WebDriver instance closed.
+2024-12-27T06:33:14,698 [main] INFO  TestListener:94 - Test Context Finished: Login Page Tests
+2024-12-27T06:33:14,698 [main] INFO  TestListener:98 - WebDriver instance quit for thread.
+2024-12-27T06:39:30,968 [main] INFO  main:71 - [Thread-1] Clearing Allure results at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.17\allure-results
+2024-12-27T06:39:30,970 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 0c936973-e901-4c75-8fa8-fa85a4e9a2e1-container.json
+2024-12-27T06:39:30,971 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 0eb58b03-bf1d-4072-9739-b95d3e5566f8-container.json
+2024-12-27T06:39:30,971 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 2034d60c-f6a6-43ea-a9cd-e717151d880c-container.json
+2024-12-27T06:39:30,972 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 2c3e6b40-f80a-492f-8046-cd6413222b47-result.json
+2024-12-27T06:39:30,972 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 38b7f303-6d20-46ca-93c2-4ba5bbf79207-container.json
+2024-12-27T06:39:30,973 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 418379a2-17a6-4fd5-a115-1389798dce3e-container.json
+2024-12-27T06:39:30,973 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 429a2256-b518-4f8d-b87e-6ec12b3d2961-container.json
+2024-12-27T06:39:30,974 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 47d6dc47-53ec-412d-917c-da8d6a56fb78-container.json
+2024-12-27T06:39:30,974 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 540e983b-4343-4a24-80de-8ec5ef3014ab-container.json
+2024-12-27T06:39:30,975 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 548a26b0-7661-458c-b38b-2f20ecda92b4-container.json
+2024-12-27T06:39:30,975 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 57f35772-0b6f-49f4-8496-798b0a195625-container.json
+2024-12-27T06:39:30,976 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 6d1f93a6-569a-4758-a404-d31043054729-container.json
+2024-12-27T06:39:30,976 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 860d227a-2421-481c-8bb5-37a993f047bc-container.json
+2024-12-27T06:39:30,977 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 975e7739-d468-4c73-9aa3-222b3085e3db-container.json
+2024-12-27T06:39:30,977 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 97afcfd4-0f58-495b-a8fc-a524fdb183fb-result.json
+2024-12-27T06:39:30,978 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 9c6f81af-9bfd-46a2-9871-51372f8dbcca-container.json
+2024-12-27T06:39:30,978 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: add40363-3fa8-4705-9b87-5288dd68a09a-container.json
+2024-12-27T06:39:30,979 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: af8bf702-cee7-4de4-958d-9fc1c2c42e3f-container.json
+2024-12-27T06:39:30,979 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: afffb99f-1179-4f13-b7fd-5cc4df6c9193-container.json
+2024-12-27T06:39:30,980 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: b00321b3-dc98-409f-913d-f33e8068d0f7-container.json
+2024-12-27T06:39:30,980 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: b81a9c6d-ef6c-4b29-a9a7-0b3af25b011c-container.json
+2024-12-27T06:39:30,981 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: b8d630a6-d0fe-4513-8a35-9da2efd33c8d-container.json
+2024-12-27T06:39:30,982 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: c0295c44-967a-4cc4-aee5-ccbc880ffaa7-container.json
+2024-12-27T06:39:30,982 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: c75a0475-55b3-4228-8b2b-057bc5b338d8-container.json
+2024-12-27T06:39:30,982 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: cc252bbe-bfe6-4750-a9b0-90acecbde7b1-result.json
+2024-12-27T06:39:30,983 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: d782ad2c-e2b3-41dc-b4b6-e03d6853af25-result.json
+2024-12-27T06:39:30,983 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: d7b0e351-8abc-4d6e-a745-5df18092bc39-result.json
+2024-12-27T06:39:30,984 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: decf4c56-e826-4135-ac6a-b9e0fbe62cd1-container.json
+2024-12-27T06:39:30,984 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: e02c318f-6e9c-454c-af81-c19a7b40cd2d-result.json
+2024-12-27T06:39:30,985 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: e3a79db6-fde4-47ed-bad0-8298933e5849-container.json
+2024-12-27T06:39:30,985 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: f08ba559-1f7c-466e-bdf9-0c13d5718944-container.json
+2024-12-27T06:39:30,986 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: f3d23163-b144-4001-ba4a-5f1966fc4fcc-container.json
+2024-12-27T06:39:30,986 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: f8192575-601f-4493-bf3d-4d3e120fad75-container.json
+2024-12-27T06:39:30,995 [main] INFO  TestListener:73 - Test Context Started: Login Page Tests
+2024-12-27T06:39:30,995 [main] INFO  TestListener:78 - Running tests with Browser: chrome and Environment: dev
+2024-12-27T06:39:32,127 [main] INFO  TestListener:87 - WebDriver initialized: chrome
+2024-12-27T06:39:32,474 [main] INFO  main:71 - [Thread-1] Setting up tests. Browser: chrome, Environment: dev
+2024-12-27T06:39:33,112 [main] INFO  LogUtil:24 - Logger initialized with level: INFO
+2024-12-27T06:39:33,157 [main] INFO  TestListener:25 - Test Started: runScenario
+2024-12-27T06:39:33,255 [main] INFO  ConfigManager:60 - Loaded configuration file: src/test/resources/config/config-dev.properties
+2024-12-27T06:39:33,257 [main] INFO  WebDriverHooks:54 - Using existing WebDriver instance.
+2024-12-27T06:39:35,983 [main] INFO  WebDriverHooks:67 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-12-27T06:39:37,889 [main] INFO  main:31 - [Thread-1] Entered username: 
+2024-12-27T06:39:37,935 [main] INFO  main:31 - [Thread-1] Entered password: 
+2024-12-27T06:39:37,994 [main] INFO  main:31 - [Thread-1] Clicked login button
+2024-12-27T06:39:38,383 [main] INFO  WebDriverHooks:82 - Browser closed and WebDriver instance cleaned.
+2024-12-27T06:39:38,400 [main] ERROR TestListener:37 - Test Failed: runScenario
+2024-12-27T06:39:38,402 [main] ERROR TestListener:37 - Test Failed: runScenario
+2024-12-27T06:39:39,662 [main] INFO  TestListener:94 - Test Context Finished: Login Page Tests
+2024-12-27T06:39:39,663 [main] INFO  TestListener:98 - WebDriver instance quit for thread.
+2024-12-27T06:50:36,364 [main] INFO  main:71 - [Thread-1] Clearing Allure results at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.17\allure-results
+2024-12-27T06:50:36,367 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 28bbe0b1-8df6-46d7-a112-ae80548541bf-container.json
+2024-12-27T06:50:36,368 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 3717d153-8b48-4729-8591-39916351af99-container.json
+2024-12-27T06:50:36,368 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 3928056e-dc9f-4aae-bbe8-c784a0f7bc37-container.json
+2024-12-27T06:50:36,369 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 44795f69-bc6c-4333-b423-ffa4f766d772-container.json
+2024-12-27T06:50:36,369 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: 9dd84162-144d-465b-afcb-8b73636e7890-container.json
+2024-12-27T06:50:36,370 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: b5f8ad9e-2587-438c-a070-da8e5c9760c2-result.json
+2024-12-27T06:50:36,370 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: b7d14b21-3fd0-48de-ae41-33819defdb1b-container.json
+2024-12-27T06:50:36,371 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: d53435ac-06a8-4183-82e6-80d047f35d15-container.json
+2024-12-27T06:50:36,371 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: f6a42208-f094-4872-a86d-4b8cb4da2ee8-attachment.txt
+2024-12-27T06:50:36,372 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: f7397d8f-9e98-4c09-9230-16cef0089902-container.json
+2024-12-27T06:50:36,372 [main] INFO  main:71 - [Thread-1] Deleted Allure result file: f7fd9596-4d43-4961-806e-f60ed064c7bc-attachment.txt
+2024-12-27T06:50:36,381 [main] INFO  TestListener:73 - Test Context Started: Login Page Tests
+2024-12-27T06:50:36,381 [main] INFO  TestListener:78 - Running tests with Browser: chrome and Environment: dev
+2024-12-27T06:50:37,558 [main] INFO  TestListener:87 - WebDriver initialized: chrome
+2024-12-27T06:50:37,911 [main] INFO  main:71 - [Thread-1] Setting up tests. Browser: chrome, Environment: dev
+2024-12-27T06:50:38,539 [main] INFO  LogUtil:24 - Logger initialized with level: INFO
+2024-12-27T06:50:38,584 [main] INFO  TestListener:25 - Test Started: runScenario
+2024-12-27T06:50:38,686 [main] INFO  ConfigManager:60 - Loaded configuration file: src/test/resources/config/config-dev.properties
+2024-12-27T06:50:41,733 [main] INFO  WebDriverHooks:48 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-12-27T06:50:43,643 [main] INFO  main:31 - [Thread-1] Entered username: 
+2024-12-27T06:50:43,690 [main] INFO  main:31 - [Thread-1] Entered password: 
+2024-12-27T06:50:43,749 [main] INFO  main:31 - [Thread-1] Clicked login button
+2024-12-27T06:50:44,310 [main] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-27T06:50:44,311 [main] INFO  main:71 - [Thread-1] WebDriver instance closed.
+2024-12-27T06:50:44,313 [main] INFO  main:71 - [Thread-1] Setting up tests. Browser: chrome, Environment: dev
+2024-12-27T06:50:44,948 [main] INFO  LogUtil:24 - Logger initialized with level: INFO
+2024-12-27T06:50:44,950 [main] INFO  TestListener:25 - Test Started: runScenario
+2024-12-27T06:50:47,461 [main] INFO  WebDriverHooks:48 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-12-27T06:50:49,373 [main] INFO  main:31 - [Thread-1] Entered username: Admin
+2024-12-27T06:50:49,423 [main] INFO  main:31 - [Thread-1] Entered password: admin
+2024-12-27T06:50:49,480 [main] INFO  main:31 - [Thread-1] Clicked login button
+2024-12-27T06:50:51,402 [main] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-27T06:50:51,403 [main] INFO  main:71 - [Thread-1] WebDriver instance closed.
+2024-12-27T06:50:51,405 [main] INFO  main:71 - [Thread-1] Setting up tests. Browser: chrome, Environment: dev
+2024-12-27T06:50:52,026 [main] INFO  LogUtil:24 - Logger initialized with level: INFO
+2024-12-27T06:50:52,028 [main] INFO  TestListener:25 - Test Started: runScenario
+2024-12-27T06:50:54,732 [main] INFO  WebDriverHooks:48 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-12-27T06:50:56,650 [main] INFO  main:31 - [Thread-1] Entered username: Adminn
+2024-12-27T06:50:56,699 [main] INFO  main:31 - [Thread-1] Entered password: admin123
+2024-12-27T06:50:56,759 [main] INFO  main:31 - [Thread-1] Clicked login button
+2024-12-27T06:50:58,414 [main] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-27T06:50:58,415 [main] INFO  main:71 - [Thread-1] WebDriver instance closed.
+2024-12-27T06:50:58,417 [main] INFO  main:71 - [Thread-1] Setting up tests. Browser: chrome, Environment: dev
+2024-12-27T06:50:59,029 [main] INFO  LogUtil:24 - Logger initialized with level: INFO
+2024-12-27T06:50:59,030 [main] INFO  TestListener:25 - Test Started: runScenario
+2024-12-27T06:51:01,725 [main] INFO  WebDriverHooks:48 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-12-27T06:51:03,643 [main] INFO  main:31 - [Thread-1] Entered username: Adminn
+2024-12-27T06:51:03,695 [main] INFO  main:31 - [Thread-1] Entered password: admin
+2024-12-27T06:51:03,752 [main] INFO  main:31 - [Thread-1] Clicked login button
+2024-12-27T06:51:05,399 [main] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-27T06:51:05,400 [main] INFO  main:71 - [Thread-1] WebDriver instance closed.
+2024-12-27T06:51:05,402 [main] INFO  main:71 - [Thread-1] Setting up tests. Browser: chrome, Environment: dev
+2024-12-27T06:51:06,028 [main] INFO  LogUtil:24 - Logger initialized with level: INFO
+2024-12-27T06:51:06,029 [main] INFO  TestListener:25 - Test Started: runScenario
+2024-12-27T06:51:09,202 [main] INFO  WebDriverHooks:48 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-12-27T06:51:11,620 [main] INFO  main:31 - [Thread-1] Clicked forgot password link
+2024-12-27T06:51:12,214 [main] INFO  main:31 - [Thread-1] Entered username: Admin
+2024-12-27T06:51:13,155 [main] INFO  main:31 - [Thread-1] Clicked login button
+2024-12-27T06:51:13,940 [main] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-27T06:51:13,941 [main] INFO  main:71 - [Thread-1] WebDriver instance closed.
+2024-12-27T06:51:13,941 [main] INFO  main:71 - [Thread-1] Setting up tests. Browser: chrome, Environment: dev
+2024-12-27T06:51:14,551 [main] INFO  LogUtil:24 - Logger initialized with level: INFO
+2024-12-27T06:51:14,552 [main] INFO  TestListener:25 - Test Started: runScenario
+2024-12-27T06:51:17,274 [main] INFO  WebDriverHooks:48 - Navigating to Login URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-12-27T06:51:19,172 [main] INFO  main:31 - [Thread-1] Entered username: Admin
+2024-12-27T06:51:19,223 [main] INFO  main:31 - [Thread-1] Entered password: admin123
+2024-12-27T06:51:19,453 [main] INFO  main:31 - [Thread-1] Clicked login button
+2024-12-27T06:51:22,911 [main] INFO  main:31 - [Thread-1] Clicked logout link
+2024-12-27T06:51:23,725 [main] INFO  TestListener:31 - Test Passed: runScenario
+2024-12-27T06:51:23,725 [main] INFO  main:71 - [Thread-1] WebDriver instance closed.
+2024-12-27T06:51:25,340 [main] INFO  TestListener:94 - Test Context Finished: Login Page Tests
+2024-12-27T06:51:25,341 [main] INFO  TestListener:98 - WebDriver instance quit for thread.

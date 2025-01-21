@@ -1,0 +1,147 @@
+2025-01-08T08:00:22,752 [main] INFO  LogUtil:60 - Clearing Allure results at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.24\allure-results
+2025-01-08T08:00:22,760 [main] INFO  LogUtil:60 - Deleted Allure result file: 164c8b84-83e8-45ac-95bc-48917be2eb08-attachment.txt
+2025-01-08T08:00:24,380 [TestNG-tests-1] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (857d77c933ffb588787ea4049c2dcbbf) at WebDriverHooks : setUp
+2025-01-08T08:00:27,463 [TestNG-tests-1] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-08T08:00:28,011 [TestNG-tests-1] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-08T08:00:28,015 [TestNG-tests-1] INFO  LogUtil:60 - Leaving the username and password fields empty.
+2025-01-08T08:00:28,063 [TestNG-tests-1] INFO  LogUtil:60 - Entered username: 
+2025-01-08T08:00:28,116 [TestNG-tests-1] INFO  LogUtil:60 - Entered password: 
+2025-01-08T08:00:28,183 [TestNG-tests-1] INFO  LogUtil:60 - Clicked login button
+2025-01-08T08:00:28,184 [TestNG-tests-1] INFO  LogUtil:60 - Login button clicked.
+2025-01-08T08:00:28,185 [TestNG-tests-1] INFO  LogUtil:60 - Verifying error messages for blank username and password fields.
+2025-01-08T08:00:28,496 [TestNG-tests-1] ERROR LogUtil:66 - Test Failed: Login with Empty Credentials Should Display Error Messages
+2025-01-08T08:00:28,626 [TestNG-tests-1] ERROR LogUtil:66 - Test Failed: runScenario
+2025-01-08T08:01:58,698 [main] INFO  LogUtil:60 - Clearing Allure results at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.24\allure-results
+2025-01-08T08:01:58,703 [main] INFO  LogUtil:60 - Deleted Allure result file: 25e80a07-9843-41f9-b596-ec60699cbc76-attachment.txt
+2025-01-08T08:02:00,591 [TestNG-tests-1] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (b8c074ac012ca0b48f38ddad325a4e9e) at WebDriverHooks : setUp
+2025-01-08T08:02:03,124 [TestNG-tests-1] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-08T08:02:03,683 [TestNG-tests-1] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-08T08:02:03,687 [TestNG-tests-1] INFO  LogUtil:60 - Leaving the username and password fields empty.
+2025-01-08T08:02:03,733 [TestNG-tests-1] INFO  LogUtil:60 - Entered username: 
+2025-01-08T08:02:03,792 [TestNG-tests-1] INFO  LogUtil:60 - Entered password: 
+2025-01-08T08:02:03,865 [TestNG-tests-1] INFO  LogUtil:60 - Clicked login button
+2025-01-08T08:02:03,865 [TestNG-tests-1] INFO  LogUtil:60 - Login button clicked.
+2025-01-08T08:02:03,867 [TestNG-tests-1] INFO  LogUtil:60 - Verifying error messages for blank username and password fields.
+2025-01-08T08:02:04,179 [TestNG-tests-1] ERROR LogUtil:66 - Test Failed: Login with Empty Credentials Should Display Error Messages
+2025-01-08T08:02:04,288 [TestNG-tests-1] ERROR LogUtil:66 - Test Failed: runScenario
+2025-01-08T08:04:05,031 [main] INFO  LogUtil:60 - Clearing Allure results at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.24\allure-results
+2025-01-08T08:04:05,037 [main] INFO  LogUtil:60 - Deleted Allure result file: c786439c-9b37-49fb-b249-71b5c0d1b108-attachment.txt
+2025-01-08T08:04:06,691 [TestNG-tests-1] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (8ac7bd80230cd49c9d19965a242f704b) at WebDriverHooks : setUp
+2025-01-08T08:04:09,218 [TestNG-tests-1] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-08T08:04:09,766 [TestNG-tests-1] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-08T08:04:09,770 [TestNG-tests-1] INFO  LogUtil:60 - Leaving the username and password fields empty.
+2025-01-08T08:04:09,814 [TestNG-tests-1] INFO  LogUtil:60 - Entered username: 
+2025-01-08T08:04:09,875 [TestNG-tests-1] INFO  LogUtil:60 - Entered password: 
+2025-01-08T08:04:09,945 [TestNG-tests-1] INFO  LogUtil:60 - Clicked login button
+2025-01-08T08:04:09,945 [TestNG-tests-1] INFO  LogUtil:60 - Login button clicked.
+2025-01-08T08:04:09,947 [TestNG-tests-1] INFO  LogUtil:60 - Verifying error messages for blank username and password fields.
+2025-01-08T08:04:10,274 [TestNG-tests-1] ERROR LogUtil:66 - Test Failed: Login with Empty Credentials Should Display Error Messages
+2025-01-08T08:04:10,394 [TestNG-tests-1] ERROR LogUtil:66 - Test Failed: runScenario
+2025-01-08T08:05:37,647 [main] INFO  LogUtil:60 - Clearing Allure results at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.24\allure-results
+2025-01-08T08:05:37,652 [main] INFO  LogUtil:60 - Deleted Allure result file: c18b5c91-67ec-4b7f-b7b4-f902ba250195-attachment.txt
+2025-01-08T08:05:39,317 [TestNG-tests-1] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (d230e2985342f4e389161cb346692ae1) at WebDriverHooks : setUp
+2025-01-08T08:05:42,430 [TestNG-tests-1] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-08T08:05:42,973 [TestNG-tests-1] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-08T08:05:42,978 [TestNG-tests-1] INFO  LogUtil:60 - Leaving the username and password fields empty.
+2025-01-08T08:05:43,017 [TestNG-tests-1] INFO  LogUtil:60 - Entered username: 
+2025-01-08T08:05:43,077 [TestNG-tests-1] INFO  LogUtil:60 - Entered password: 
+2025-01-08T08:05:43,147 [TestNG-tests-1] INFO  LogUtil:60 - Clicked login button
+2025-01-08T08:05:43,147 [TestNG-tests-1] INFO  LogUtil:60 - Login button clicked.
+2025-01-08T08:05:43,148 [TestNG-tests-1] INFO  LogUtil:60 - Verifying error messages for blank username and password fields.
+2025-01-08T08:05:43,455 [TestNG-tests-1] ERROR LogUtil:66 - Test Failed: Login with Empty Credentials Should Display Error Messages
+2025-01-08T08:05:43,561 [TestNG-tests-1] ERROR LogUtil:66 - Test Failed: runScenario
+2025-01-08T08:13:09,268 [main] INFO  LogUtil:60 - Clearing Allure results at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.24\allure-results
+2025-01-08T08:13:09,273 [main] INFO  LogUtil:60 - Deleted Allure result file: 64f6cf5f-e5f6-4ec1-9489-88b13745501d-attachment.txt
+2025-01-08T08:13:10,926 [TestNG-tests-1] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (1f6d46e51eb72145c044503115dcf51e) at WebDriverHooks : setUp
+2025-01-08T08:13:13,861 [TestNG-tests-1] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-08T08:13:14,416 [TestNG-tests-1] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-08T08:13:14,421 [TestNG-tests-1] INFO  LogUtil:60 - Leaving the username and password fields empty.
+2025-01-08T08:13:14,465 [TestNG-tests-1] INFO  LogUtil:60 - Entered username: 
+2025-01-08T08:13:14,515 [TestNG-tests-1] INFO  LogUtil:60 - Entered password: 
+2025-01-08T08:13:14,578 [TestNG-tests-1] INFO  LogUtil:60 - Clicked login button
+2025-01-08T08:13:14,578 [TestNG-tests-1] INFO  LogUtil:60 - Login button clicked.
+2025-01-08T08:13:14,580 [TestNG-tests-1] INFO  LogUtil:60 - Verifying error messages for blank username and password fields.
+2025-01-08T08:13:15,099 [TestNG-tests-1] ERROR LogUtil:66 - Test Failed: Login with Empty Credentials Should Display Error Messages
+2025-01-08T08:13:15,208 [TestNG-tests-1] ERROR LogUtil:66 - Test Failed: runScenario
+2025-01-08T08:17:13,250 [main] INFO  LogUtil:60 - Clearing Allure results at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.24\allure-results
+2025-01-08T08:17:13,256 [main] INFO  LogUtil:60 - Deleted Allure result file: 66e4a651-7bea-4f3c-92d9-efa49fdcf097-attachment.txt
+2025-01-08T08:17:14,879 [TestNG-tests-1] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (8fee9065638ecddfc8acc8ff0cbdf5e4) at WebDriverHooks : setUp
+2025-01-08T08:17:17,503 [TestNG-tests-1] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-08T08:17:18,049 [TestNG-tests-1] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-08T08:17:18,053 [TestNG-tests-1] INFO  LogUtil:60 - Leaving the username and password fields empty.
+2025-01-08T08:17:18,100 [TestNG-tests-1] INFO  LogUtil:60 - Entered username: 
+2025-01-08T08:17:18,159 [TestNG-tests-1] INFO  LogUtil:60 - Entered password: 
+2025-01-08T08:17:18,226 [TestNG-tests-1] INFO  LogUtil:60 - Clicked login button
+2025-01-08T08:17:18,226 [TestNG-tests-1] INFO  LogUtil:60 - Login button clicked.
+2025-01-08T08:17:18,227 [TestNG-tests-1] INFO  LogUtil:60 - Verifying error messages for blank username and password fields.
+2025-01-08T08:17:18,535 [TestNG-tests-1] ERROR LogUtil:66 - Test Failed: Login with Empty Credentials Should Display Error Messages
+2025-01-08T08:17:18,650 [TestNG-tests-1] ERROR LogUtil:66 - Test Failed: runScenario
+2025-01-08T08:37:44,476 [main] INFO  LogUtil:60 - Clearing Allure results at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.25\allure-results
+2025-01-08T08:37:44,482 [main] INFO  LogUtil:60 - Deleted Allure result file: 038a83f5-9ed8-47d0-88f4-ede0f4700e80-container.json
+2025-01-08T08:37:44,483 [main] INFO  LogUtil:60 - Deleted Allure result file: 0bb4159a-f7f5-4022-af6d-01682375f6ec-attachment.txt
+2025-01-08T08:37:44,484 [main] INFO  LogUtil:60 - Deleted Allure result file: 17802647-c3df-4ffc-b1c7-256a9e0b68c9-attachment
+2025-01-08T08:37:44,485 [main] INFO  LogUtil:60 - Deleted Allure result file: 2c66297f-58ad-4e34-919b-62c993352d2d-container.json
+2025-01-08T08:37:44,485 [main] INFO  LogUtil:60 - Deleted Allure result file: 47047f48-dec2-4342-914d-ae9baa4e6058-attachment.txt
+2025-01-08T08:37:44,487 [main] INFO  LogUtil:60 - Deleted Allure result file: 4978081e-5901-48ff-beca-44a12c646760-attachment.txt
+2025-01-08T08:37:44,488 [main] INFO  LogUtil:60 - Deleted Allure result file: 4b165983-223e-42ca-87d2-8df4f561ad12-container.json
+2025-01-08T08:37:44,488 [main] INFO  LogUtil:60 - Deleted Allure result file: 55fc5990-9d69-4295-aef8-155d5a383020-result.json
+2025-01-08T08:37:44,489 [main] INFO  LogUtil:60 - Deleted Allure result file: 653eb02d-0406-45d4-a277-70ec7b029849-attachment.txt
+2025-01-08T08:37:44,490 [main] INFO  LogUtil:60 - Deleted Allure result file: 796df7d9-c0f7-4c3b-ac57-532977266ae5-attachment.txt
+2025-01-08T08:37:44,491 [main] INFO  LogUtil:60 - Deleted Allure result file: 94abc441-1512-4d15-9277-21553c39c951-attachment.txt
+2025-01-08T08:37:44,492 [main] INFO  LogUtil:60 - Deleted Allure result file: b36086d8-c188-4a9d-939e-9499206df1b1-container.json
+2025-01-08T08:37:44,493 [main] INFO  LogUtil:60 - Deleted Allure result file: cb7fe6e6-05f1-4967-9185-4a9459bcc933-container.json
+2025-01-08T08:37:44,494 [main] INFO  LogUtil:60 - Deleted Allure result file: cc76252e-4b6d-4f03-a047-08a9ed111008-attachment.txt
+2025-01-08T08:37:44,495 [main] INFO  LogUtil:60 - Deleted Allure result file: e45cab30-51a8-4115-9c89-55ddef1c309a-attachment.txt
+2025-01-08T08:37:44,496 [main] INFO  LogUtil:60 - Deleted Allure result file: e828dcb5-7a3b-4d5e-93bf-f0bf6f9169bd-attachment.txt
+2025-01-08T08:37:46,068 [TestNG-tests-1] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (650500044cf7845f8252015fd8f7ca44) at WebDriverHooks : setUp
+2025-01-08T08:37:49,044 [TestNG-tests-1] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-08T08:37:49,595 [TestNG-tests-1] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-08T08:37:49,600 [TestNG-tests-1] INFO  LogUtil:60 - Leaving the username and password fields empty.
+2025-01-08T08:37:49,641 [TestNG-tests-1] INFO  LogUtil:60 - Entered username: 
+2025-01-08T08:37:49,703 [TestNG-tests-1] INFO  LogUtil:60 - Entered password: 
+2025-01-08T08:37:49,770 [TestNG-tests-1] INFO  LogUtil:60 - Clicked login button
+2025-01-08T08:37:49,770 [TestNG-tests-1] INFO  LogUtil:60 - Login button clicked.
+2025-01-08T08:37:49,772 [TestNG-tests-1] INFO  LogUtil:60 - Verifying error messages for blank username and password fields.
+2025-01-08T08:37:49,996 [TestNG-tests-1] ERROR LogUtil:66 - Test Failed: Login with Empty Credentials Should Display Error Messages
+2025-01-08T08:37:50,117 [TestNG-tests-1] ERROR LogUtil:66 - Test Failed: runScenario
+2025-01-08T08:46:58,454 [main] INFO  LogUtil:60 - Clearing Allure results at: D:\WorkSpace_Selenium\orangehrm.selenium.cucumber.25\allure-results
+2025-01-08T08:46:58,459 [main] INFO  LogUtil:60 - Deleted Allure result file: 023b2ab8-54df-4f4c-930b-dc7a0d6e5e08-attachment.txt
+2025-01-08T08:46:58,460 [main] INFO  LogUtil:60 - Deleted Allure result file: 06cfb375-f617-496a-b0fe-f0cdeb04e004-result.json
+2025-01-08T08:46:58,461 [main] INFO  LogUtil:60 - Deleted Allure result file: 0a02c1c0-3f40-454f-ac9a-3ab4d116c059-attachment.txt
+2025-01-08T08:46:58,462 [main] INFO  LogUtil:60 - Deleted Allure result file: 13700880-a291-4012-bdc1-3c2fd0b38817-container.json
+2025-01-08T08:46:58,463 [main] INFO  LogUtil:60 - Deleted Allure result file: 18104aae-efe6-42fe-af92-eadeaf3f9a70-attachment.txt
+2025-01-08T08:46:58,464 [main] INFO  LogUtil:60 - Deleted Allure result file: 1c452a27-6a0a-44a1-be1f-2e352aef9fc4-attachment.txt
+2025-01-08T08:46:58,465 [main] INFO  LogUtil:60 - Deleted Allure result file: 28eebc32-bd1f-4a47-9262-61db3b7dd7ad-attachment.txt
+2025-01-08T08:46:58,466 [main] INFO  LogUtil:60 - Deleted Allure result file: 39051309-3e4c-4c47-b4a2-ddd0b2bbb230-attachment.txt
+2025-01-08T08:46:58,467 [main] INFO  LogUtil:60 - Deleted Allure result file: 3aaad4c5-9e31-40f3-afb1-b4e248298ec2-attachment.txt
+2025-01-08T08:46:58,468 [main] INFO  LogUtil:60 - Deleted Allure result file: 3ed07a7d-a222-4190-b7e9-18e49f8c70b6-container.json
+2025-01-08T08:46:58,468 [main] INFO  LogUtil:60 - Deleted Allure result file: 3ee4394e-9939-4725-a918-45a34d1af2c4-attachment.txt
+2025-01-08T08:46:58,469 [main] INFO  LogUtil:60 - Deleted Allure result file: 47955a69-786f-4a18-a787-95a44654fcb6-attachment.txt
+2025-01-08T08:46:58,470 [main] INFO  LogUtil:60 - Deleted Allure result file: 5513c6d7-c55d-4ca5-878a-db2eea95a0dd-attachment.txt
+2025-01-08T08:46:58,471 [main] INFO  LogUtil:60 - Deleted Allure result file: 5c700891-3b0c-4b10-967f-81a67ba7f89b-attachment.txt
+2025-01-08T08:46:58,472 [main] INFO  LogUtil:60 - Deleted Allure result file: 5f52690f-4505-4a5c-b8df-3c6fabff6c96-attachment.txt
+2025-01-08T08:46:58,474 [main] INFO  LogUtil:60 - Deleted Allure result file: 5fca836f-4361-4ff4-8dd8-285b164cfd4f-attachment.txt
+2025-01-08T08:46:58,475 [main] INFO  LogUtil:60 - Deleted Allure result file: 7122a446-a1ac-439d-9ed9-8ef93217db9d-attachment.txt
+2025-01-08T08:46:58,475 [main] INFO  LogUtil:60 - Deleted Allure result file: 899e6767-e0f2-4177-ae9a-5836afd44cf1-attachment.txt
+2025-01-08T08:46:58,476 [main] INFO  LogUtil:60 - Deleted Allure result file: a22870ba-e9c7-47c2-b449-5dabbb687c8f-attachment.txt
+2025-01-08T08:46:58,477 [main] INFO  LogUtil:60 - Deleted Allure result file: b114dec5-c0a4-4e86-97c3-c1316af891f8-attachment.txt
+2025-01-08T08:46:58,478 [main] INFO  LogUtil:60 - Deleted Allure result file: b888b660-43eb-4353-8d72-4a9bbd6dbe75-attachment
+2025-01-08T08:46:58,479 [main] INFO  LogUtil:60 - Deleted Allure result file: c1271dd1-e653-4b30-9d74-3bd4d1792196-container.json
+2025-01-08T08:46:58,480 [main] INFO  LogUtil:60 - Deleted Allure result file: c3c2001a-c88d-4554-85ec-135315256272-attachment.txt
+2025-01-08T08:46:58,480 [main] INFO  LogUtil:60 - Deleted Allure result file: ccb256cf-ff72-4c57-933e-a3d3f4ca926a-attachment.txt
+2025-01-08T08:46:58,481 [main] INFO  LogUtil:60 - Deleted Allure result file: cda230a1-895b-4add-882b-0874387d9f65-container.json
+2025-01-08T08:46:58,482 [main] INFO  LogUtil:60 - Deleted Allure result file: d576c908-f4db-452e-a7aa-5f0de8e68a0c-attachment.txt
+2025-01-08T08:46:58,483 [main] INFO  LogUtil:60 - Deleted Allure result file: de8e4708-6c99-4ec0-abad-969847aaf6f9-container.json
+2025-01-08T08:46:58,484 [main] INFO  LogUtil:60 - Deleted Allure result file: f4f80f99-c40a-4d60-9c2d-68fa31cf2391-attachment.txt
+2025-01-08T08:46:58,485 [main] INFO  LogUtil:60 - Deleted Allure result file: f8d0ec83-b135-4247-be86-c5204deb8e35-attachment.txt
+2025-01-08T08:47:00,016 [TestNG-tests-1] INFO  LogUtil:60 - Driver Instance : ChromeDriver: chrome on windows (78dfb6cbe087a455ed5beef58a47a2a6) at WebDriverHooks : setUp
+2025-01-08T08:47:03,009 [TestNG-tests-1] INFO  LogUtil:60 - Navigating to the OrangeHRM login page.
+2025-01-08T08:47:03,556 [TestNG-tests-1] INFO  LogUtil:60 - Login page loaded successfully.
+2025-01-08T08:47:03,560 [TestNG-tests-1] INFO  LogUtil:60 - Leaving the username and password fields empty.
+2025-01-08T08:47:03,601 [TestNG-tests-1] INFO  LogUtil:60 - Entered username: 
+2025-01-08T08:47:03,657 [TestNG-tests-1] INFO  LogUtil:60 - Entered password: 
+2025-01-08T08:47:03,718 [TestNG-tests-1] INFO  LogUtil:60 - Clicked login button
+2025-01-08T08:47:03,718 [TestNG-tests-1] INFO  LogUtil:60 - Login button clicked.
+2025-01-08T08:47:03,719 [TestNG-tests-1] INFO  LogUtil:60 - Verifying error messages for blank username and password fields.
+2025-01-08T08:47:03,952 [TestNG-tests-1] ERROR LogUtil:66 - Test Failed: Login with Empty Credentials Should Display Error Messages
+2025-01-08T08:47:04,069 [TestNG-tests-1] ERROR LogUtil:66 - Test Failed: runScenario
