@@ -17,5 +17,5 @@ Feature: Login with Invalid Credentials
     Examples:
       | username | password  |
       | Admin    | admin     |
-      | Admin   | admin123  |
+      | Adminn   | admin123  |
       | Adminn   | admin     |
